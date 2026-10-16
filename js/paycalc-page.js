@@ -14,12 +14,15 @@
   var q = new URLSearchParams(location.search).get("p");
   if (q && opts.some(function (o) { return o[0].indexOf(q + "|") === 0; })) e.p.value = opts.filter(function (o) { return o[0].indexOf(q + "|") === 0; })[0][0];
 
+  // El año de cada patrón no depende de la tarifa: se calcula una vez y se guarda
+  var memo = {}, hol = {};
   function run(key, o) {
-    var k = key.split("|")[0], v = P[k].variants[key.split("|")[1]], y = +e.y.value;
-    var days = E.year(v.cycle, y + "-01-01", y, 0), hours = P[k].hours;
-    var pay = PAY.estimate(days, hours, o, E.holidays(y, "us")), st = E.stats(days, hours);
-    return { pay: pay, st: st };
+    var k = key.split("|")[0], v = P[k].variants[key.split("|")[1]], y = +e.y.value, id = key + "|" + y, hours = P[k].hours;
+    if (!memo[id]) { var days = E.year(v.cycle, y + "-01-01", y, 0); memo[id] = { days: days, st: E.stats(days, hours) }; }
+    if (!hol[y]) hol[y] = E.holidays(y, "us");
+    return { pay: PAY.estimate(memo[id].days, hours, o, hol[y]), st: memo[id].st };
   }
+  var job = 0;
   function opts_() {
     return { rate: +e.r.value || 0, night: +e.n.value || 0, holidayX: +e.hx.value || 1, ot: e.ot.value };
   }
@@ -29,10 +32,16 @@
       ". About " + usd(t / 12) + " a month, " + usd(t / 26) + " every two weeks. Base " + usd(r.pay.base) +
       (r.pay.night ? ", night differential " + usd(r.pay.night) : "") + (r.pay.holiday ? ", holiday premium " + usd(r.pay.holiday) : "") +
       (r.pay.overtime ? ", overtime premium " + usd(r.pay.overtime) : "") + ".";
-    tbody.innerHTML = opts.map(function (op) {
-      var x = run(op[0], o);
-      return "<tr" + (op[0] === e.p.value ? ' class="sel"' : "") + "><td>" + op[1] + "</td><td>" + num(x.st.hours) + "</td><td>" + usd(x.pay.overtime) + "</td><td>" + usd(x.pay.total) + "</td></tr>";
-    }).join("");
+    // Tabla comparativa en tandas de 5 filas: sin tareas largas que bloqueen la página en móviles lentos
+    var my = ++job, rows = [], i = 0;
+    (function chunk() {
+      if (my !== job) return;
+      for (var n = 0; n < 5 && i < opts.length; n++, i++) {
+        var op = opts[i], x = run(op[0], o);
+        rows.push("<tr" + (op[0] === e.p.value ? ' class="sel"' : "") + "><td>" + op[1] + "</td><td>" + num(x.st.hours) + "</td><td>" + usd(x.pay.overtime) + "</td><td>" + usd(x.pay.total) + "</td></tr>");
+      }
+      if (i < opts.length) setTimeout(chunk, 0); else tbody.innerHTML = rows.join("");
+    })();
   }
   f.addEventListener("input", calc); f.addEventListener("change", calc); calc();
 
