@@ -212,3 +212,4 @@ form.gen legend small{font:400 .9rem var(--body);color:var(--soft)}#paybox .pair
 .grid span.kelly small{color:#c0392b;font-weight:700}
 /* Equipos con nombre de color */
 .k-Red{background:#c0392b!important;color:#fff!important}.k-Gold{background:#d4a017!important;color:#14202b!important}.k-Black{background:#14202b!important;color:#fff!important}.k-Blue{background:#1f6fb2!important;color:#fff!important}
+figure{margin:0}figure img{display:block;max-width:100%;height:auto;border-radius:8px}figcaption{font-size:.9rem;margin-top:8px}
