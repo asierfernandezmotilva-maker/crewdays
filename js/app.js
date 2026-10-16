@@ -76,6 +76,7 @@
     peek.innerHTML = h;
   }
 
+  var renderJob = 0;
   function render(animate) {
     var st = state();
     if (!ISO.test(st.s)) { msg.textContent = "Pick the first day of a block of shifts."; return; }
@@ -86,10 +87,12 @@
     var holWorked = d.filter(function (x) { return H[x.date] && x.state !== "O"; }).length;
     var pc = st.q && !team ? (P[st.q].variants[st.w] || P[st.q].variants[Object.keys(P[st.q].variants)[0]]).cycle : null, together = 0;
     var payday = function (iso) { return isPay(st, iso); };
-    var html = "", i = 0;
-    for (var m = 0; m < 12; m++) {
+    if (pc) d.forEach(function (x) { if (x.state === "O" && E.stateOn(pc, st.r, x.date, 0) === "O") together++; });
+    // HTML de un mes; se genera por tandas (ver más abajo) para no hacer todo el año en una sola tarea
+    function month(m) {
       var first = (new Date(Date.UTC(st.y, m, 1)).getUTCDay() - WS + 7) % 7, n = new Date(Date.UTC(st.y, m + 1, 0)).getUTCDate();
-      html += '<div class="month" role="group" aria-label="' + MONTHS[m] + " " + st.y + '"><h3>' + MONTHS[m] + '</h3><div class="grid">' +
+      var i = Math.round((Date.UTC(st.y, m, 1) - Date.UTC(st.y, 0, 1)) / 864e5);
+      var html = '<div class="month" role="group" aria-label="' + MONTHS[m] + " " + st.y + '"><h3>' + MONTHS[m] + '</h3><div class="grid">' +
         (WS ? "MTWTFSS" : "SMTWTFS").split("").map(function (w) { return '<b class="wd" aria-hidden="true">' + w + "</b>"; }).join("") +
         '<span class="pad" aria-hidden="true"></span>'.repeat(first);
       for (var day = 1; day <= n; day++, i++) {
@@ -101,14 +104,13 @@
             '"><u>' + day + "</u>" + on.map(function (o) { return '<em aria-hidden="true" class="' + (o[0] === "X" ? (st.cn === "color" ? "k-" + o[2] : "c-" + o[1]) : "s-" + o[0]) + '">' + o[3] + "</em>"; }).join("") + "</span>";
         } else {
           var ps = pc ? E.stateOn(pc, st.r, x.date, 0) : "", both = pc && ps === "O" && x.state === "O", pay = payday(x.date);
-          if (both) together++;
           var label = tip + ": " + (x.kelly ? "Kelly day off" : x.state === "O" ? "day off" : E.NAMES[x.state] + " shift") + (pc ? "; partner: " + (ps === "O" ? "off" : E.NAMES[ps]) : "") + (pay ? "; payday" : "") + dayPay(x, p, H);
           html += '<span role="button" tabindex="' + (day === 1 ? 0 : -1) + '" aria-label="' + label + '" class="s-' + x.state + (x.kelly ? " kelly" : "") + cls + (both ? " both" : "") + (pay ? " pay" : "") + '" style="--i:' + (i % 120) + '"' +
             (x.state !== "O" ? ' data-l="' + LETTER[x.state] + '"' : x.kelly ? ' data-l="K"' : "") + ' title="' + label + '">' + day + // letra por CSS (::after): el texto visible es solo el día, que está en el aria-label
              (pc && ps !== "O" ? '<i class="pt s-' + ps + '"></i>' : "") + "</span>";
         }
       }
-      html += "</div></div>";
+      return html + "</div></div>";
     }
     var used = ORDER.filter(function (k) { return v.cycle.indexOf(k) >= 0; });
     var legend = team && used.length === 1 && used[0] === "X"
@@ -120,20 +122,26 @@
     if (st.kd && !team) legend += '<li><span class="sw kelly"></span>Kelly day</li>';
     board.innerHTML = '<div class="bhead"><h2>' + esc(st.n || p.name) + " <span>" + st.y + "</span></h2>" + nextShift(st) +
       '<ul class="legend">' + legend + "</ul>" + (team ? '<p class="sub">Your crew is ' + crews[0].n + ': the date you picked is day 1 of its cycle.' + (st.kd ? " Kelly days show in \"My shifts\" only." : "") + "</p>" : "") + "</div>" +
-      '<dl class="stats"><div><dt>Shifts</dt><dd>' + s.worked + "</dd></div><div><dt>Hours</dt><dd>" + s.hours.toLocaleString("en-US") +
+      '<dl class="stats"><div><dt>Shifts</dt><dd>' + s.worked + "</dd></div><div><dt>Hours</dt><dd>" + grp(s.hours) +
       "</dd></div><div><dt>Hours a week</dt><dd>" + (s.hours / (d.length / 7)).toFixed(1) + "</dd></div><div><dt>Weekends off</dt><dd>" +
       s.weekendsOff + "</dd></div><div><dt>" + (st.hol === "us" ? "Holidays worked" : "Bank holidays worked") + "</dt><dd>" + holWorked + "</dd></div>" + (pc ? "<div><dt>Days off together</dt><dd>" + together + "</dd></div>" : "") + "</dl>" +
       (UKP && s.hours / (d.length / 7) > 48 ? '<p class="warn">Over 48 hours a week on average: under the Working Time Regulations that needs a written opt-out.</p>' : "") +
       payPanel(st, d, p, H) +
       '<div class="mnav" hidden><button type="button" data-m="-1" aria-label="Previous month">&lsaquo;</button><button type="button" data-today>Today</button><button type="button" data-m="1" aria-label="Next month">&rsaquo;</button></div>' +
       '<p class="daynote" id="daynote" aria-live="polite">Tap a day to see its shift.</p>' +
-      '<div class="months' + (team ? " team" : "") + '">' + html + "</div>";
+      '<div class="months' + (team ? " team" : "") + '">' + month(0) + month(1) + month(2) + "</div>";
     board.classList.toggle("fill", !!animate);
     // Móvil: un mes por pantalla; se abre en el mes actual
     var box = board.querySelector(".months"), cur = st.y === now.getFullYear() ? now.getMonth() : 0;
     var narrow = matchMedia("(max-width: 640px)").matches; // mismo corte que el carrusel de styles.css; sin medir, para no forzar un reflujo
     board.querySelector(".mnav").hidden = !narrow;
-    if (narrow) box.scrollLeft = cur * innerWidth; // en móvil cada mes ocupa todo el ancho de la pantalla
+    // Los 9 meses restantes en tandas de 3: ninguna tarea larga bloquea la página en móviles lentos
+    var next = 3, my = ++renderJob;
+    (function more() {
+      if (my !== renderJob) return;
+      if (next < 12) { box.insertAdjacentHTML("beforeend", month(next) + month(next + 1) + month(next + 2)); next += 3; return setTimeout(more, 0); }
+      if (narrow) box.scrollLeft = cur * innerWidth; // en móvil cada mes ocupa todo el ancho de la pantalla
+    })();
     el.link.value = link(st);
     history.replaceState(null, "", "?" + el.link.value.split("?")[1]);
     try { localStorage.setItem("cd:last:v1", el.link.value.split("?")[1]); } catch (e) {}
@@ -141,7 +149,12 @@
   }
 
   // Sueldo estimado (opcional). No va en el enlace; se guarda solo en este navegador.
-  var usd = function (n) { return n.toLocaleString(LOC, { style: "currency", currency: CUR, maximumFractionDigits: 0 }); };
+  // Formatos sin Intl en el arranque (crear un formateador Intl cuesta ~50 ms en un móvil lento); el de moneda se crea una vez
+  var moneyFmt = null;
+  var usd = function (n) { return (moneyFmt || (moneyFmt = new Intl.NumberFormat(LOC, { style: "currency", currency: CUR, maximumFractionDigits: 0 }))).format(n); };
+  var grp = function (n) { return String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, ","); };
+  var LONGWD = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], SHORTMO = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", UKP ? "Sept" : "Sep", "Oct", "Nov", "Dec"];
+  function longDay(iso) { var t = new Date(iso + "T12:00:00Z"), w = LONGWD[t.getUTCDay()], m = SHORTMO[t.getUTCMonth()], dd = t.getUTCDate(); return UKP ? w + " " + dd + " " + m : w + ", " + m + " " + dd; }
   function payPanel(st, d, p, H) {
     var rate = +el.hr.value;
     try { localStorage.setItem("cd:pay:v1", JSON.stringify({ hr: el.hr.value, nd: el.nd.value, hx: el.hx.value, ot: el.ot.value })); } catch (e) {}
@@ -166,14 +179,14 @@
   function nextShift(st) {
     var t = stateAt(st, todayISO), d = todayISO, n = 0;
     do { d = E.addDays(d, 1); n++; } while (/[OK]/.test(stateAt(st, d)) && n < 60);
-    var nice = new Date(d + "T12:00:00Z").toLocaleDateString(LOC, { weekday: "long", month: "short", day: "numeric", timeZone: "UTC" });
+    var nice = longDay(d);
     return '<p class="next"><b>Today: ' + (t === "K" ? "Kelly day off" : t === "O" ? "day off" : E.NAMES[t] + " shift") + "</b>" +
       (/[OK]/.test(t) ? "Back to work " + nice + " (" + E.NAMES[stateAt(st, d)] + "), in " + n + (n === 1 ? " day" : " days") : "Next shift " + nice) +
       (st.pd ? "<span>" + nextPay(st) + "</span>" : "") + "</p>";
   }
   function nextPay(st) {
     var d = todayISO, n = 0; while (!isPay(st, d) && n < 400) { d = E.addDays(d, 1); n++; }
-    return n === 0 ? "Payday today" : "Next payday " + new Date(d + "T12:00:00Z").toLocaleDateString(LOC, { weekday: "long", month: "short", day: "numeric", timeZone: "UTC" }) + ", in " + n + (n === 1 ? " day" : " days");
+    return n === 0 ? "Payday today" : "Next payday " + longDay(d) + ", in " + n + (n === 1 ? " day" : " days");
   }
 
   function download() {
@@ -291,9 +304,9 @@
   var jump = document.createElement("a");
   jump.href = "#cal"; jump.className = "jump"; jump.textContent = "See my calendar";
   (document.querySelector("main") || document.body).appendChild(jump); // dentro de <main>: todo el contenido en una región
-  var cal = document.getElementById("cal"), tick = false;
-  function place() { tick = false; jump.classList.toggle("on", cal.getBoundingClientRect().top > innerHeight && !f.contains(document.activeElement)); }
+  // IntersectionObserver en vez de medir con getBoundingClientRect: no fuerza una maquetación de toda la página al arrancar
+  var below = false;
+  function place() { jump.classList.toggle("on", below && !f.contains(document.activeElement)); }
+  if ("IntersectionObserver" in window) new IntersectionObserver(function (es) { below = !es[0].isIntersecting && es[0].boundingClientRect.top > 0; place(); }).observe(document.getElementById("cal"));
   f.addEventListener("focusin", place); f.addEventListener("focusout", function () { setTimeout(place, 0); });
-  addEventListener("scroll", function () { if (!tick) { tick = true; requestAnimationFrame(place); } }, { passive: true });
-  place();
 })();

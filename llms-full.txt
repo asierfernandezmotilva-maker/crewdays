@@ -126,7 +126,7 @@ An example year with Crew A starting its cycle on Monday, January 4, 2027; the o
 | | Crew | Shifts in 2027 | Hours | Full weekends off
 | A | 182 | 2,184 | 26
 | B | 183 | 2,196 | 26
-Day shifts yellow, nights blue, 24-hour shifts red, US federal holidays with an orange corner.
+For all 12 months with your own start date, your crew and your holidays, use the calendar at the top of the page: you can print the year, download it to Excel or add it to your phone.
 Who uses the Pitman schedule?
 Police departments, manufacturing plants, 911 dispatch and security teams.
 Pitman vs DuPont: which is better?
@@ -216,7 +216,7 @@ An example year with Crew A starting its cycle on Monday, January 4, 2027; the o
 | B | 183 | 2,196 | 26
 | C | 182 | 2,184 | 26
 | D | 183 | 2,196 | 26
-Day shifts yellow, nights blue, 24-hour shifts red, US federal holidays with an orange corner.
+For all 12 months with your own start date, your crew and your holidays, use the calendar at the top of the page: you can print the year, download it to Excel or add it to your phone.
 Who uses the Panama schedule?
 Manufacturing, utilities, healthcare support and law enforcement.
 Similar patterns
@@ -305,7 +305,7 @@ An example year with Crew A starting its cycle on Monday, January 4, 2027; the o
 | B | 182 | 2,184 | 26
 | C | 183 | 2,196 | 26
 | D | 183 | 2,196 | 26
-Day shifts yellow, nights blue, 24-hour shifts red, US federal holidays with an orange corner.
+For all 12 months with your own start date, your crew and your holidays, use the calendar at the top of the page: you can print the year, download it to Excel or add it to your phone.
 Who uses the DuPont schedule?
 Chemical plants, refineries, power stations and other continuous operations.
 Pitman vs DuPont: which is better?
@@ -397,7 +397,7 @@ An example year with Crew A starting its cycle on Monday, January 4, 2027; the o
 | | Crew | Shifts in 2027 | Hours | Full weekends off
 | A | 182 | 2,184 | 21
 | B | 183 | 2,196 | 18
-Day shifts yellow, nights blue, 24-hour shifts red, US federal holidays with an orange corner.
+For all 12 months with your own start date, your crew and your holidays, use the calendar at the top of the page: you can print the year, download it to Excel or add it to your phone.
 Who uses the 4 on 4 off schedule?
 Manufacturing, warehouses, security and some police and ambulance services, especially in the UK and Canada.
 Similar patterns
@@ -488,7 +488,7 @@ An example year with Crew A starting its cycle on Monday, January 4, 2027; the o
 | | Crew | Shifts in 2027 | Hours | Full weekends off
 | A | 182 | 2,184 | 52
 | B | 182 | 2,184 | 52
-Day shifts yellow, nights blue, 24-hour shifts red, US federal holidays with an orange corner.
+For all 12 months with your own start date, your crew and your holidays, use the calendar at the top of the page: you can print the year, download it to Excel or add it to your phone.
 Who uses the 4-3-3-4 schedule?
 Manufacturing and some police forces.
 Similar patterns
@@ -579,7 +579,7 @@ An example year with Crew A starting its cycle on Monday, January 4, 2027; the o
 | | Crew | Shifts in 2027 | Hours | Full weekends off
 | A | 182 | 2,184 | 17
 | B | 183 | 2,196 | 18
-Day shifts yellow, nights blue, 24-hour shifts red, US federal holidays with an orange corner.
+For all 12 months with your own start date, your crew and your holidays, use the calendar at the top of the page: you can print the year, download it to Excel or add it to your phone.
 Who uses the 3 on 3 off schedule?
 Hospitals, care homes and continuous production.
 Similar patterns
@@ -670,7 +670,7 @@ An example year with Crew A starting its cycle on Monday, January 4, 2027; the o
 | | Crew | Shifts in 2027 | Hours | Full weekends off
 | A | 183 | 2,196 | 13
 | B | 182 | 2,184 | 13
-Day shifts yellow, nights blue, 24-hour shifts red, US federal holidays with an orange corner.
+For all 12 months with your own start date, your crew and your holidays, use the calendar at the top of the page: you can print the year, download it to Excel or add it to your phone.
 Who uses the 2 on 2 off schedule?
 Healthcare, security and smaller plants.
 Similar patterns
@@ -749,7 +749,7 @@ An example year with Crew A starting its cycle on Monday, January 4, 2027; the o
 | A | 122 | 2,928 | 18
 | B | 121 | 2,904 | 17
 | C | 122 | 2,928 | 17
-Day shifts yellow, nights blue, 24-hour shifts red, US federal holidays with an orange corner.
+For all 12 months with your own start date, your crew and your holidays, use the calendar at the top of the page: you can print the year, download it to Excel or add it to your phone.
 Who uses the 24/48 schedule?
 Fire departments and EMS.
 48/96 vs 24/48: which is better?
@@ -828,7 +828,7 @@ An example year with Crew A starting its cycle on Monday, January 4, 2027; the o
 | A | 122 | 2,928 | 25
 | B | 122 | 2,928 | 26
 | C | 121 | 2,904 | 27
-Day shifts yellow, nights blue, 24-hour shifts red, US federal holidays with an orange corner.
+For all 12 months with your own start date, your crew and your holidays, use the calendar at the top of the page: you can print the year, download it to Excel or add it to your phone.
 Who uses the 48/96 schedule?
 Fire departments, mostly in the western United States.
 48/96 vs 24/48: which is better?
@@ -907,7 +907,7 @@ An example year with Crew A starting its cycle on Monday, January 4, 2027; the o
 | A | 121 | 2,904 | 18
 | B | 123 | 2,952 | 17
 | C | 121 | 2,904 | 17
-Day shifts yellow, nights blue, 24-hour shifts red, US federal holidays with an orange corner.
+For all 12 months with your own start date, your crew and your holidays, use the calendar at the top of the page: you can print the year, download it to Excel or add it to your phone.
 Who uses the Kelly schedule?
 Fire departments in the US and Australia.
 Similar patterns
@@ -987,7 +987,7 @@ An example year with Crew A starting its cycle on Monday, January 4, 2027; the o
 | B | 91 | 2,184 | 26
 | C | 91 | 2,184 | 26
 | D | 92 | 2,208 | 26
-Day shifts yellow, nights blue, 24-hour shifts red, US federal holidays with an orange corner.
+For all 12 months with your own start date, your crew and your holidays, use the calendar at the top of the page: you can print the year, download it to Excel or add it to your phone.
 Who uses the 24/72 schedule?
 Fire departments that run four platoons (A, B, C and D).
 Similar patterns
@@ -1094,7 +1094,7 @@ An example year with Crew A starting its cycle on Monday, January 4, 2027; the o
 | | Crew | Shifts in 2027 | Hours | Full weekends off
 | A | 182 | 2,184 | 26
 | B | 183 | 2,196 | 26
-Day shifts yellow, nights blue, 24-hour shifts red, US federal holidays with an orange corner.
+For all 12 months with your own start date, your crew and your holidays, use the calendar at the top of the page: you can print the year, download it to Excel or add it to your phone.
 Who uses the Hitch Rotation schedule?
 Mining, oil and gas, and construction camps in Australia, Canada and offshore.
 Similar patterns
