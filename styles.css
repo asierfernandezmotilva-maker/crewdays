@@ -215,5 +215,5 @@ figure{margin:0}figure img{display:block;max-width:100%;height:auto;border-radiu
 .checked{font-size:.9rem;color:var(--soft);margin:24px 0 0}
 .toc{margin:28px 0 0;padding:14px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}.toc p{margin:0 0 6px;font-weight:600;color:var(--soft);font-size:.9rem}.toc ul{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:2px 20px}.toc a{display:inline-block;padding:5px 0;font-weight:600}
 @media print{.toc{display:none}}
-main>section:not(.hero),footer{content-visibility:auto;contain-intrinsic-size:auto 700px}.months .month{content-visibility:auto;contain-intrinsic-size:auto 250px}
-@media print{main>section,footer,.months .month{content-visibility:visible}}
+main>.hero~section{content-visibility:auto;contain-intrinsic-size:auto 700px}.months .month{content-visibility:auto;contain-intrinsic-size:auto 250px}
+@media print{main>section,.months .month{content-visibility:visible}}
