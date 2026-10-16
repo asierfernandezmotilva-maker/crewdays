@@ -1508,6 +1508,19 @@ URL: https://crewdays.app/pay-period-calendar-2027/
 Home / Pay period calendar 2027
 Pay period calendar 2027
 Enter any payday you know. You get every payday of the year, the months with three biweekly paychecks (or five weekly ones) and whether it is a 27-paycheck year.
+| | Month | Count | Dates
+| January | 2 | Fri, Jan 8, Fri, Jan 22
+| February | 2 | Fri, Feb 5, Fri, Feb 19
+| March | 2 | Fri, Mar 5, Fri, Mar 19
+| April | 3 | Fri, Apr 2, Fri, Apr 16, Fri, Apr 30
+| May | 2 | Fri, May 14, Fri, May 28
+| June | 2 | Fri, Jun 11, Fri, Jun 25
+| July | 2 | Fri, Jul 9, Fri, Jul 23
+| August | 2 | Fri, Aug 6, Fri, Aug 20
+| September | 2 | Fri, Sep 3, Fri, Sep 17
+| October | 3 | Fri, Oct 1, Fri, Oct 15, Fri, Oct 29
+| November | 2 | Fri, Nov 12, Fri, Nov 26
+| December | 2 | Fri, Dec 10, Fri, Dec 24
 Is 2027 a 27-paycheck year?
 A year has 52 weeks and one day (two in a leap year), so the paydays slowly move earlier. Every 11 years or so a biweekly payroll fits 27 paydays into one year instead of 26, and a weekly payroll fits 53 instead of 52. 2027 starts on a Friday and is not a leap year, so it has 53 Fridays.
 Paid every Friday: 53 paydays in 2027.
@@ -1577,6 +1590,19 @@ URL: https://crewdays.app/9-80-schedule/
 Home / 9/80 schedule
 9/80 schedule calendar
 On a 9/80 schedule you work 80 hours in nine days: eight 9-hour days and one 8-hour day, with every other Friday off. Enter your first Friday off and get all of them for the year.
+| | Month | Count | Dates
+| January | 2 | Fri, Jan 8, Fri, Jan 22
+| February | 2 | Fri, Feb 5, Fri, Feb 19
+| March | 2 | Fri, Mar 5, Fri, Mar 19
+| April | 3 | Fri, Apr 2, Fri, Apr 16, Fri, Apr 30
+| May | 2 | Fri, May 14, Fri, May 28
+| June | 2 | Fri, Jun 11, Fri, Jun 25
+| July | 2 | Fri, Jul 9, Fri, Jul 23
+| August | 2 | Fri, Aug 6, Fri, Aug 20
+| September | 2 | Fri, Sep 3, Fri, Sep 17
+| October | 3 | Fri, Oct 1, Fri, Oct 15, Fri, Oct 29
+| November | 2 | Fri, Nov 12, Fri, Nov 26
+| December | 2 | Fri, Dec 10, Fri, Dec 24
 How a 9/80 schedule works
 | | | Mon | Tue | Wed | Thu | Fri | Total
 | Week 1 | 9 | 9 | 9 | 9 | 8 | 44
