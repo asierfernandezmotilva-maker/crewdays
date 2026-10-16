@@ -130,8 +130,9 @@
     board.classList.toggle("fill", !!animate);
     // Móvil: un mes por pantalla; se abre en el mes actual
     var box = board.querySelector(".months"), cur = st.y === now.getFullYear() ? now.getMonth() : 0;
-    if (box.scrollWidth > box.clientWidth) box.scrollLeft = cur * box.clientWidth;
-    board.querySelector(".mnav").hidden = box.scrollWidth <= box.clientWidth;
+    var narrow = matchMedia("(max-width: 640px)").matches; // mismo corte que el carrusel de styles.css; sin medir, para no forzar un reflujo
+    board.querySelector(".mnav").hidden = !narrow;
+    if (narrow) box.scrollLeft = cur * innerWidth; // en móvil cada mes ocupa todo el ancho de la pantalla
     el.link.value = link(st);
     history.replaceState(null, "", "?" + el.link.value.split("?")[1]);
     try { localStorage.setItem("cd:last:v1", el.link.value.split("?")[1]); } catch (e) {}
@@ -288,7 +289,7 @@
   // Móvil: botón fijo para bajar al calendario mientras no se ve
   var jump = document.createElement("a");
   jump.href = "#cal"; jump.className = "jump"; jump.textContent = "See my calendar";
-  document.body.appendChild(jump);
+  (document.querySelector("main") || document.body).appendChild(jump); // dentro de <main>: todo el contenido en una región
   var cal = document.getElementById("cal"), tick = false;
   function place() { tick = false; jump.classList.toggle("on", cal.getBoundingClientRect().top > innerHeight && !f.contains(document.activeElement)); }
   f.addEventListener("focusin", place); f.addEventListener("focusout", function () { setTimeout(place, 0); });
