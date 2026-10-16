@@ -216,3 +216,5 @@ figure{margin:0}figure img{display:block;max-width:100%;height:auto;border-radiu
 @media print{.toc{display:none}}
 main>.hero~section{content-visibility:auto;contain-intrinsic-size:auto 700px}.months .month{content-visibility:auto;contain-intrinsic-size:auto 250px}
 @media print{main>section,.months .month{content-visibility:visible}}
+#paybox{content-visibility:auto;contain-intrinsic-size:auto 490px}main:has(.hero)~footer{content-visibility:auto;contain-intrinsic-size:auto 590px}
+@media print{#paybox,footer{content-visibility:visible}}

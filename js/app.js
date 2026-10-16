@@ -129,17 +129,17 @@
       payPanel(st, d, p, H) +
       '<div class="mnav" hidden><button type="button" data-m="-1" aria-label="Previous month">&lsaquo;</button><button type="button" data-today>Today</button><button type="button" data-m="1" aria-label="Next month">&rsaquo;</button></div>' +
       '<p class="daynote" id="daynote" aria-live="polite">Tap a day to see its shift.</p>' +
-      '<div class="months' + (team ? " team" : "") + '">' + month(0) + month(1) + month(2) + "</div>";
+      '<div class="months' + (team ? " team" : "") + '"></div>';
     board.classList.toggle("fill", !!animate);
     // Móvil: un mes por pantalla; se abre en el mes actual
     var box = board.querySelector(".months"), cur = st.y === now.getFullYear() ? now.getMonth() : 0;
     var narrow = matchMedia("(max-width: 640px)").matches; // mismo corte que el carrusel de styles.css; sin medir, para no forzar un reflujo
     board.querySelector(".mnav").hidden = !narrow;
-    // Los 9 meses restantes en tandas de 3: ninguna tarea larga bloquea la página en móviles lentos
-    var next = 3, my = ++renderJob;
+    // Los 12 meses en tandas de 2: ninguna tarea larga bloquea la página en móviles lentos
+    var next = 0, my = ++renderJob;
     (function more() {
       if (my !== renderJob) return;
-      if (next < 12) { box.insertAdjacentHTML("beforeend", month(next) + month(next + 1) + month(next + 2)); next += 3; return setTimeout(more, 0); }
+      if (next < 12) { box.insertAdjacentHTML("beforeend", month(next) + month(next + 1)); next += 2; return setTimeout(more, 0); }
       if (narrow) box.scrollLeft = cur * innerWidth; // en móvil cada mes ocupa todo el ancho de la pantalla
     })();
     el.link.value = link(st);
@@ -295,7 +295,8 @@
   document.getElementById("embed").addEventListener("click", embed);
   document.getElementById("copy").addEventListener("click", copy);
   document.getElementById("print").addEventListener("click", function () { window.print(); });
-  render(false);
+  // El calendario se pinta justo después del primer pintado: el formulario y las próximas 2 semanas ya vienen en el HTML
+  requestAnimationFrame(function () { setTimeout(function () { render(false); }, 0); });
 
   // Instalable y sin conexión (solo en https o localhost)
   if ("serviceWorker" in navigator && /^(https:|http:\/\/localhost)/.test(location.href)) navigator.serviceWorker.register("/sw.js").catch(function () {});
