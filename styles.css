@@ -1,7 +1,7 @@
 /* Fuentes propias (SIL Open Font License), solo latín */
-@font-face{font-family:"Barlow Condensed";font-weight:600;font-display:swap;src:url(/fonts/barlow-condensed-600.woff2) format("woff2")}
-@font-face{font-family:"Barlow Condensed";font-weight:700;font-display:swap;src:url(/fonts/barlow-condensed-700.woff2) format("woff2")}
-@font-face{font-family:"Source Sans 3";font-weight:400 600;font-display:swap;src:url(/fonts/source-sans-3.woff2) format("woff2")}
+@font-face{font-family:"Barlow Condensed";font-weight:600;font-display:optional;src:url(/fonts/barlow-condensed-600.woff2) format("woff2")}
+@font-face{font-family:"Barlow Condensed";font-weight:700;font-display:optional;src:url(/fonts/barlow-condensed-700.woff2) format("woff2")}
+@font-face{font-family:"Source Sans 3";font-weight:400 600;font-display:optional;src:url(/fonts/source-sans-3.woff2) format("woff2")}
 :root{--bg:#f3f5f6;--paper:#fff;--ink:#14202b;--soft:#5a6772;--line:#d5dbe0;--acc:#c2410c;--acc-ink:#b8440a;
 --D:#ffd166;--N:#274c77;--S:#3a6f2a;--X:#c0392b;--O:#fff;
 --head:"Barlow Condensed",system-ui,sans-serif;--body:"Source Sans 3",system-ui,sans-serif}
