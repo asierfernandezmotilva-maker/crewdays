@@ -42,4 +42,5 @@ Facts on each pattern page are computed from the cycle: hours a year = hours in 
 - [Working time rules for shift workers](https://crewdays.app/uk/working-time-rules-shift-workers/)
 
 ## About
+- [Full text of every page](https://crewdays.app/llms-full.txt)
 - [About](https://crewdays.app/about/) · Contact: asierfernandezmotilva@gmail.com
