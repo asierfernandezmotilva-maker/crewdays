@@ -1,6 +1,6 @@
 # Crewdays: full text
 
-> Every page of crewdays.app as plain text. Figures are calculated from each shift cycle; rules are cited to official sources. Updated 2026-10-16.
+> Every page of crewdays.app as plain text. Figures are calculated from each shift cycle; rules are cited to official sources. Updated 2026-10-17.
 
 ## Shift Schedule Calendar 2027: Pitman, DuPont, 24/48, Kelly (Free)
 URL: https://crewdays.app/
@@ -43,7 +43,7 @@ Pay period calendar 2027: 26 or 27 paydays?
 9/80 schedule calendar
 24/7 shift schedules compared
 12-hour shift schedule examples
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 Do I need an account?
 No. Everything runs in your browser and nothing you type is sent anywhere.
@@ -137,7 +137,7 @@ DuPont Schedule28-day cycle, 42 h a week
 3 on 3 off Schedule6-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How many hours a week is a Pitman schedule?
 On average 42 hours a week: 7 shifts of 12 hours every 14 days. Over a year that is about 2,190 scheduled hours, before overtime, leave or Kelly days.
@@ -226,7 +226,7 @@ DuPont Schedule28-day cycle, 42 h a week
 3 on 3 off Schedule6-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How many hours a week is a Panama schedule?
 On average 42 hours a week: 14 shifts of 12 hours every 28 days. Over a year that is about 2,190 scheduled hours, before overtime, leave or Kelly days.
@@ -316,7 +316,7 @@ Panama Schedule28-day cycle, 42 h a week
 3 on 3 off Schedule6-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How many hours a week is a DuPont schedule?
 On average 42 hours a week: 14 shifts of 12 hours every 28 days. Over a year that is about 2,190 scheduled hours, before overtime, leave or Kelly days.
@@ -366,6 +366,8 @@ Working a 4 on 4 off schedule
 Two crews cover the day shifts and, in 24/7 plants, two more cover nights. Because the cycle is 8 days, one more than a week, your working days move one day later each week, so every crew gets weekends off in turn.
 A popular rotating version adds nights: 4 days, 4 off, 4 nights, 4 off, a 16-day cycle. The four days off after the nights are partly lost to sleep, so the real break feels shorter than on paper.
 With four shifts of leave you get 12 days off in a row (4 off, 4 shifts of leave, 4 off). The weeks alternate between 4 shifts (48 hours) and 3 shifts (36 hours) in runs, so federal overtime comes in some weeks and not others.
+Over any eight weeks Saturday and Sunday pass through every point of the cycle: three weekends are completely free, three are worked on both days and two are split. That is roughly 19 full weekends off a year.
+Pay periods do not line up with the cycle either. Any 14 days hold 6, 7 or 8 shifts, so if you are paid by the hour on a biweekly payroll, a check can carry anything from 72 to 96 hours of base pay while the yearly total stays the same.
 Overtime on a 4 on 4 off schedule: it depends on the workweek
 Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same shifts, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
 | | Workweek starts | Hours in each week | Overtime hours a year
@@ -407,7 +409,7 @@ DuPont Schedule28-day cycle, 42 h a week
 3 on 3 off Schedule6-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How many hours a week is a 4 on 4 off schedule?
 On average 42 hours a week: 4 shifts of 12 hours every 8 days. Over a year that is about 2,190 scheduled hours, before overtime, leave or Kelly days.
@@ -498,7 +500,7 @@ DuPont Schedule28-day cycle, 42 h a week
 4 on 4 off Schedule8-day cycle, 42 h a week
 3 on 3 off Schedule6-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How many hours a week is a 4-3-3-4 schedule?
 On average 42 hours a week: 7 shifts of 12 hours every 14 days. Over a year that is about 2,190 scheduled hours, before overtime, leave or Kelly days.
@@ -548,6 +550,8 @@ Working a 3 on 3 off schedule
 It is common in hospitals and care homes. Because the cycle is 6 days, one less than a week, your working days move one day earlier each week and you get every day of the week off in turn.
 Do not confuse it with "three 12s a week", the usual hospital contract of 36 hours. 3 on 3 off averages 42 hours a week, because you work half of all days: about 182 shifts a year instead of about 156.
 Weeks alternate in runs between 3 shifts (36 hours) and 4 shifts (48 hours), so overtime comes in some weeks and not others. In the rotating version, three days and three nights are separated by three days off, which gives time to change your sleep.
+Weekends come back in a six-week rhythm: two completely free, two worked from Saturday to Sunday and two where only one of the days is a shift. In other words, one full weekend off in three, about 17 or 18 a year.
+A short leave allowance stretches well here. Book the three shifts that sit between two breaks and you are away for nine days in a row: three off, three on leave, three off.
 Overtime on a 3 on 3 off schedule: it depends on the workweek
 Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same shifts, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
 | | Workweek starts | Hours in each week | Overtime hours a year
@@ -589,7 +593,7 @@ DuPont Schedule28-day cycle, 42 h a week
 4 on 4 off Schedule8-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How many hours a week is a 3 on 3 off schedule?
 On average 42 hours a week: 3 shifts of 12 hours every 6 days. Over a year that is about 2,190 scheduled hours, before overtime, leave or Kelly days.
@@ -639,6 +643,8 @@ Working a 2 on 2 off schedule
 The 2 on 2 off schedule is the simplest 12-hour pattern: two shifts, two days off, a 4-day cycle. You never work more than two long shifts in a row, which many people find easier on the body than blocks of three or four.
 The days off are short, though. Two days rarely feel like a real break, especially after nights, and the pattern gives fewer full weekends than the Pitman or Panama, which group the off days into a three-day weekend.
 Many employers turn the 2-2 into a 2-2-3 by adding a three-day block every week; that is the Pitman. If your rota looks like 2 on 2 off with an occasional 3, check the Pitman calendar too.
+Saturdays and Sundays follow a four-week rhythm: one weekend in four is completely free, one is two working days and in the other two you work one of them. That adds up to about 13 full weekends off a year, fewer than on longer patterns with the same hours.
+Leave goes further than it looks: the two shifts between two breaks cost two days of leave and give six days off in a row. Over a year you work about 183 shifts, close to 2,200 hours.
 Overtime on a 2 on 2 off schedule: it depends on the workweek
 Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same shifts, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
 | | Workweek starts | Hours in each week | Overtime hours a year
@@ -680,7 +686,7 @@ DuPont Schedule28-day cycle, 42 h a week
 4 on 4 off Schedule8-day cycle, 42 h a week
 3 on 3 off Schedule6-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How many hours a week is a 2 on 2 off schedule?
 On average 42 hours a week: 2 shifts of 12 hours every 4 days. Over a year that is about 2,190 scheduled hours, before overtime, leave or Kelly days.
@@ -726,6 +732,8 @@ Working a 24/48 schedule
 The 24/48 is the most common schedule in US fire departments. You work 24 hours, usually 7 a.m. to 7 a.m. or 8 a.m. to 8 a.m., and then have 48 hours off. Three platoons, A, B and C, take turns, so the station is staffed every day of the year.
 Firefighters are usually paid under section 7(k) of the FLSA, with overtime after 212 hours in a 28-day work period instead of 40 a week. A 24/48 puts 9 or 10 shifts (216 or 240 hours) into any 28 days, so most work periods include some overtime; departments add Kelly days to bring that down.
 Sleep at the station counts as working time on a shift of exactly 24 hours; it can only be excluded on shifts of more than 24 hours, by agreement (29 CFR 553.222). Ask your department how it counts calls during the night.
+You never work a whole weekend: with a 3-day cycle only one of Saturday or Sunday can fall on your shift. Across any three weekends you work one Saturday, one Sunday and have one weekend completely free, and one shift of leave buys five days off in a row.
+Trading shifts with another firefighter is allowed under the FLSA. If both of you agree freely and the department approves the trade before it happens, the hours you work as a substitute do not count toward overtime, and each of you is credited as if you had worked your normal schedule (29 CFR 553.31).
 Overtime on a 24/48 schedule under 7(k)
 Fire departments usually pay overtime under section 7(k) of the FLSA: after 212 hours in a 28-day work period (29 CFR 553.230). In any 28 days this cycle puts 9 or 10 shifts of 24 hours, so 216 or 240 hours, which is up to 28 hours over the threshold before Kelly days, swaps or callbacks.
 Try your own work period in the 7(k) overtime calculator.
@@ -757,7 +765,7 @@ Similar patterns
 48/96 Schedule6-day cycle, 56 h a week
 Kelly Schedule9-day cycle, 56 h a week
 24/72 Schedule4-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How many hours a week is a 24/48 schedule?
 On average 56 hours a week: 1 shifts of 24 hours every 3 days. Over a year that is about 2,920 scheduled hours, before overtime, leave or Kelly days.
@@ -805,6 +813,8 @@ Working a 48/96 schedule
 The hours are the same as a 24/48, about 56 a week, but there are half as many commutes. That is why departments where many firefighters live far away, often in the western US, moved to it.
 The concern is fatigue in the second 24 hours, especially at busy stations. If your department is considering it, ask how busy stations will be handled and what will be measured during a trial.
 Under 7(k) a 48/96 puts 9 or 10 shifts into any 28-day work period, the same as a 24/48, so overtime is similar. Shift swaps are harder because the other person has to cover 48 hours.
+A 48-hour tour is longer than 24 hours, which changes the sleep rule. Sleep time can then be left out of paid hours, but only with an express or implied agreement, never more than 8 hours in each 24, and calls that interrupt it count as work; if you cannot get at least 5 hours of sleep, the whole period counts (29 CFR 553.222(c)). Ask whether your department has such an agreement.
+Weekends work out well: half of them are completely free and only one in six is spent on duty from Saturday to Sunday. Taking one 48-hour tour as leave gives ten days off in a row (four off, two on leave, four off).
 Overtime on a 48/96 schedule under 7(k)
 Fire departments usually pay overtime under section 7(k) of the FLSA: after 212 hours in a 28-day work period (29 CFR 553.230). In any 28 days this cycle puts 8 or 10 shifts of 24 hours, so 192 or 240 hours, which is up to 28 hours over the threshold before Kelly days, swaps or callbacks.
 Try your own work period in the 7(k) overtime calculator.
@@ -836,7 +846,7 @@ Similar patterns
 24/48 Schedule3-day cycle, 56 h a week
 Kelly Schedule9-day cycle, 56 h a week
 24/72 Schedule4-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How many hours a week is a 48/96 schedule?
 On average 56 hours a week: 2 shifts of 24 hours every 6 days. Over a year that is about 2,920 scheduled hours, before overtime, leave or Kelly days.
@@ -914,7 +924,7 @@ Similar patterns
 24/48 Schedule3-day cycle, 56 h a week
 48/96 Schedule6-day cycle, 56 h a week
 24/72 Schedule4-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How many hours a week is a Kelly schedule?
 On average 56 hours a week: 3 shifts of 24 hours every 9 days. Over a year that is about 2,920 scheduled hours, before overtime, leave or Kelly days.
@@ -963,6 +973,8 @@ Working a 24/72 schedule
 Because it needs a fourth platoon, A to D, a 24/72 takes about a third more firefighters than a 24/48 to staff each shift the same way, but it brings each person's average week down to 42 hours, close to a normal job.
 Departments move to 24/72 mainly to cut fatigue and overtime: in any 28-day period it gives exactly 7 shifts, 168 hours, below the 212-hour 7(k) threshold. The cost for the department is a fourth platoon, so it is less common than the 24/48.
 Because the cycle is 4 days, your shift day moves through the week; you get each weekday off in turn and about one weekend shift in every two weekends.
+You never work both days of a weekend: half of all weekends are completely free and in the rest you are on either the Saturday or the Sunday. One shift of leave gives seven days off in a row, three off on each side of it.
+If you move from a 24/48, expect about 92 shifts a year instead of about 122, around 2,200 scheduled hours instead of 2,920. Budget for it if callbacks and overtime made up part of your pay.
 Overtime on a 24/72 schedule under 7(k)
 Fire departments usually pay overtime under section 7(k) of the FLSA: after 212 hours in a 28-day work period (29 CFR 553.230). In any 28 days this cycle puts 7 shifts of 24 hours, so 168 hours, which is 44 hours under the threshold, with no 7(k) overtime before Kelly days, swaps or callbacks.
 Try your own work period in the 7(k) overtime calculator.
@@ -994,7 +1006,7 @@ Similar patterns
 24/48 Schedule3-day cycle, 56 h a week
 48/96 Schedule6-day cycle, 56 h a week
 Kelly Schedule9-day cycle, 56 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How many hours a week is a 24/72 schedule?
 On average 42 hours a week: 1 shifts of 24 hours every 4 days. Over a year that is about 2,190 scheduled hours, before overtime, leave or Kelly days.
@@ -1101,7 +1113,7 @@ Similar patterns
 Pitman Schedule14-day cycle, 42 h a week
 DuPont Schedule28-day cycle, 42 h a week
 24/48 Schedule3-day cycle, 56 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How many hours a week is a Hitch Rotation schedule?
 On average 42 hours a week: 14 shifts of 12 hours every 28 days. Over a year that is about 2,190 scheduled hours, before overtime, leave or Kelly days.
@@ -1145,7 +1157,7 @@ Share the link with your family so they see your days off without asking.
 In California, choose the California overtime rule in "Your pay": a 12-hour shift has 4 hours of overtime. Hospitals can adopt 12-hour alternative workweeks (IWC Wage Order 5): then pick that rule instead.
 In Alaska, hospital employees who provide medical services are exempt from daily overtime (AS 23.10.060(d)(12)).
 See your yearly hours and pay on the shift pay calculator.
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 Which shift schedules do nurses work?
 Hospital nurses mostly work 12-hour shifts, either three a week on a self-scheduled rota or on a fixed rotation such as 3 on 3 off or 2 on 2 off. Units that need the same nurses on every day of the week often use a Pitman or Panama rotation.
@@ -1178,7 +1190,7 @@ Press "Excel" with "All crews" selected to download the A, B and C shift year fo
 Press "Embed" to put "who is on duty today" and the next 14 days on your department or union website. It is free and updates itself every day.
 The calendar file adds each 24-hour shift as an all-day event, so it does not move at daylight saving time.
 Work out 7(k) overtime for your work period.
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 Which shift schedules do firefighters work?
 Most US fire departments run 24-hour shifts with three platoons, usually called A, B and C shift, on a 24/48, 48/96 or Kelly rotation. Departments moving to four platoons use the 24/72.
@@ -1215,7 +1227,7 @@ Bank holidays 2027
 England and Wales 8, Scotland 9, Northern Ireland 10. All dates and what they mean for shift workers.
 Working time rules
 48 hours a week on average, 11 hours between shifts, 5.6 weeks of holiday. The rules for shift workers and a holiday calculator.
-Figures are worked out from each cycle; rules checked against official sources on 16 October 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on 17 October 2026. How we calculate
 Questions
 Does it show UK bank holidays?
 Yes: England and Wales, Scotland or Northern Ireland. Choose under "Holidays shown". Substitute days are included when a bank holiday falls on a weekend.
@@ -1338,7 +1350,7 @@ Northern Ireland
 Working on a bank holiday
 There is no legal right to have bank holidays off or to be paid more for working them. Employers can count them towards the 5.6 weeks of paid holiday (Working Time Regulations, regs. 13 and 13A). Many contracts pay time and a half or double time, or give a day off in lieu: check yours.
 Dates are worked out from the rules for each holiday and the substitute-day rule. The government can add a one-off bank holiday by proclamation, so check gov.uk before you plan around a date.
-Figures are worked out from each cycle; rules checked against official sources on 16 October 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on 17 October 2026. How we calculate
 Questions
 What happens when a bank holiday falls on a weekend?
 A substitute day is given, usually the next Monday. When Christmas Day and Boxing Day both fall on a weekend, the substitute days are the following Monday and Tuesday.
@@ -1379,7 +1391,7 @@ Workers under 18
 Young workers above school leaving age get a 30-minute break when they work more than 4.5 hours, 12 hours of daily rest and 48 hours of weekly rest (GOV.UK). Their working time is limited to 8 hours a day and 40 hours a week (reg. 5A), so most 12-hour rotas are not open to them.
 Check your own rota
 The UK rota calendar checks seven common rotas against the 48-hour average, the 11-hour rest and the weekly rest, and shows every bank holiday you work. The bank holiday list covers England and Wales, Scotland and Northern Ireland for 2026 to 2028.
-Figures are worked out from each cycle; rules checked against official sources on 16 October 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on 17 October 2026. How we calculate
 Questions
 Is it legal to work more than 48 hours a week on shifts?
 Only if you have signed an opt-out. Without it, your hours must average 48 a week or less over the reference period, usually 17 weeks.
@@ -1406,7 +1418,7 @@ Firefighters and police (section 7(k)), sleep time and 911 dispatchers: 29 CFR P
 State daily overtime: California Labor Code 510 and 511, Alaska Statutes 23.10.060 and the Colorado Overtime and Minimum Pay Standards Order (COMPS Order #40, 7 CCR 1103-1).
 US federal holidays: 5 U.S.C. 6103. Clock changes: 15 U.S.C. 260a.
 United Kingdom: the Working Time Regulations 1998, GOV.UK guidance and the official bank holiday list.
-Rules were last checked on October 16, 2026. Union contracts, state laws and employer policies often give more than these minimums, so the site always says which rule it applied.
+Rules were last checked on October 17, 2026. Union contracts, state laws and employer policies often give more than these minimums, so the site always says which rule it applied.
 Corrections
 If a date, a number or a rule is wrong, email us with the page and what you expected. Confirmed mistakes are fixed and the page date is updated.
 Independence and funding
@@ -1423,7 +1435,7 @@ Home / Pitman vs DuPont
 Pitman vs DuPont schedule
 Both average 42 hours a week on 12-hour shifts with four crews. The Pitman spreads the time off evenly (never more than 3 days on or off), while the DuPont saves it up into a 7-day break every four weeks, paid for with blocks of 4 shifts and quick swaps between nights and days.
 Side by side
-| | | Pitman | DuPont
+| | Point | Pitman | DuPont
 | Shift length | 12 h | 12 h
 | Cycle | 14 days | 28 days
 | Crews for 24/7 | 4 | 4
@@ -1450,7 +1462,7 @@ Choose the Pitman for short blocks and regular weekends: never more than three s
 Choose the DuPont if a full week off every four weeks matters more: with 4 shifts of leave it becomes 14 days off in a row. Expect blocks of four shifts, a quick change from days to nights in the middle of the cycle and more weekly overtime, because some weeks have 72 hours and others none.
 How to choose
 Put both patterns side by side in the calendar with your own start date: weekends off, holidays worked and pay depend on where your crew sits in the cycle, not only on the pattern. Then compare yearly pay at your hourly rate in the shift pay calculator, which applies federal and state overtime.
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 Is the Pitman or the DuPont schedule better?
 Both average 42 hours a week on 12-hour shifts with four crews. The Pitman spreads the time off evenly (never more than 3 days on or off), while the DuPont saves it up into a 7-day break every four weeks, paid for with blocks of 4 shifts and quick swaps between nights and days.
@@ -1466,7 +1478,7 @@ Home / 48/96 vs 24/48
 48/96 vs 24/48 schedule
 Same hours (about 56 a week, 2,920 a year) and the same three platoons. The 48/96 joins two shifts into a 48-hour stretch and gives four days off in a row, so there are half as many commutes. The 24/48 keeps each stretch at 24 hours, which many find easier to recover from.
 Side by side
-| | | 48/96 | 24/48
+| | Point | 48/96 | 24/48
 | Shift length | 24 h | 24 h
 | Cycle | 6 days | 3 days
 | Crews for 24/7 | 3 | 3
@@ -1493,7 +1505,7 @@ The 48/96 halves the trips to the station: about 61 commutes a year instead of a
 The 24/48 keeps each stretch at 24 hours, so a bad night is followed by two days off rather than another 24 hours on duty. Swaps are easier too, because a colleague covers one shift, not two.
 How to choose
 Put both patterns side by side in the calendar with your own start date: weekends off, holidays worked and pay depend on where your crew sits in the cycle, not only on the pattern. Then compare yearly pay at your hourly rate in the shift pay calculator, which applies federal and state overtime.
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 Is the 48/96 or the 24/48 schedule better?
 Same hours (about 56 a week, 2,920 a year) and the same three platoons. The 48/96 joins two shifts into a 48-hour stretch and gives four days off in a row, so there are half as many commutes. The 24/48 keeps each stretch at 24 hours, which many find easier to recover from.
@@ -1569,7 +1581,7 @@ Payday comes a few days after each period ends and depends on your payroll provi
 What a 27th paycheck means
 If you are paid by the hour, a 27th payday is simply one more paycheck for two more weeks of work. If you are on a yearly salary, check how your employer divides it: some divide the salary by 27 that year, so each paycheck is a little smaller; others keep 26 equal paychecks and pay the extra one on top. Deductions taken per paycheck, such as health premiums or retirement contributions, may also come out 27 times.
 Shift workers paid every two weeks can see their paydays next to their shifts: enter “A payday” under “Your pay” in the shift calendar. The shift pay calculator works out yearly pay by pattern.
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How many pay periods are in 2027?
 26 for most biweekly payrolls and 52 for weekly ones. You get 27 biweekly paydays only if the first is Friday, January 1, 2027, and 53 weekly paydays if you are paid on Fridays.
@@ -1604,7 +1616,7 @@ On a 9/80 schedule you work 80 hours in nine days: eight 9-hour days and one 8-h
 | November | 2 | Fri, Nov 12, Fri, Nov 26
 | December | 2 | Fri, Dec 10, Fri, Dec 24
 How a 9/80 schedule works
-| | | Mon | Tue | Wed | Thu | Fri | Total
+| | Week | Mon | Tue | Wed | Thu | Fri | Total
 | Week 1 | 9 | 9 | 9 | 9 | 8 | 44
 | Week 2 | 9 | 9 | 9 | 9 | off | 36
 That is 80 hours every two weeks, the same as five 8-hour days, with 26 extra days off a year (27 in a year with 53 Fridays, such as 2027, depending on where your cycle falls).
@@ -1616,7 +1628,7 @@ Holidays on a 9/80
 A holiday on a 9-hour day is a 9-hour day off, but many employers pay 8 hours of holiday pay, so you use one hour of leave or make it up. When a holiday falls on your Friday off, some employers give another day off and some do not. The calculator lists the federal holidays (on their actual date) that fall on your Fridays off; check your own policy.
 Similar schedules
 The 4/10 (four 10-hour days a week) and the 5/4/9 (a 9/80 by another name) are also compressed workweeks. For rotating shifts that cover nights and weekends, see the shift calendar.
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How many Fridays off do you get on a 9/80 in 2027?
 26 or 27. 2027 has 53 Fridays, so if your first Friday off is January 1 you get 27, otherwise 26.
@@ -1653,7 +1665,7 @@ How many crews does a 12-hour schedule need?
 Four for 24/7 coverage: 168 hours a week divided by 4 crews is 42 hours each. Two crews can cover only day shifts (or only nights). With three crews each person would work 56 hours a week. For 8- and 24-hour options, see 24/7 shift schedule examples.
 12-hour or 8-hour shifts?
 12-hour shifts mean about 182 working days a year instead of about 260 with five 8-hour days, so fewer commutes and more days off, and only two handovers a day. The price is long days: fatigue in the last hours, little time for anything else on work days and, on rotating schedules, frequent changes between days and nights. Overtime also depends on the state: in California hours over 8 in a day are overtime unless an alternative workweek has been adopted (California Labor Code 510 and 511).
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 What is the best 12-hour shift schedule?
 It depends on what you value. The Pitman and Panama give every other weekend off and never more than three shifts in a row; the DuPont gives a full week off every four weeks; 2 on 2 off keeps runs to two shifts. All average 42 hours a week with four crews.
@@ -1701,7 +1713,7 @@ Then decide on nights. Fixed crews (a Pitman with day and night crews) let peopl
 Finally look at the weeks, not just the average. A DuPont and a Pitman both average 42 hours, but the DuPont has weeks of 72 hours and weeks of none, which costs more in weekly overtime unless the workweek is set carefully. Put the candidates in the shift calendar with “All crews” to see coverage day by day, and compare pay in the shift pay calculator.
 Headcount
 Four crews cover one position, but leave and sickness still have to be covered. Each person on a 42-hour rota is entitled to the leave in their contract (in the UK at least 5.6 weeks a year under the Working Time Regulations), so plan relief or overtime for those weeks. In the UK, check each rota against the 48-hour average week and the 11-hour daily rest on the UK rota page, read the working time rules for shift workers and plan cover for the bank holidays.
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How many employees do I need for 24/7 coverage?
 8,760 hours a year per position. With four crews each person works about 2,190 scheduled hours (42 a week), so you need four people per position before leave and sickness. With three crews on 24-hour shifts each works 2,920 hours.
@@ -1740,7 +1752,7 @@ Firefighters and police on 24-hour shifts
 Under section 7(k) the extra hour in the fall counts towards the hours of the work period, so on a 28-day period it brings firefighters one hour closer to the 212-hour overtime threshold (29 CFR 553.230). Check it in the 7(k) overtime calculator. Police have the same rule with a 171-hour threshold.
 Getting through the night
 In the fall the last hour of a night shift is the hardest: you are an hour further from your last sleep. Plan breaks for the end of the shift and arrange a lift home if you can. In the spring you lose an hour of sleep before a day shift on Sunday, so go to bed earlier on Saturday. Phones and computers change time on their own, but the clocks of time-clock terminals and older equipment may not.
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 When do the clocks change?
 Second Sunday of March and first Sunday of November at 2:00 a.m. local time: November 1, 2026, March 14, 2027 and November 7, 2027.
@@ -1776,7 +1788,7 @@ Is sleep time paid on a 24-hour shift?
 Calls that interrupt sleep are always paid. If they leave you less than 5 hours of sleep, the whole sleep period counts as hours worked (553.222(c) and 785.22(b)).
 911 dispatchers and civilian staff
 The 7(k) work period is for firefighters and sworn law enforcement. Civilian employees of a police department, such as dispatchers and radio operators, are not covered by it (29 CFR 553.211(g)), so they get overtime after 40 hours in the workweek like other workers. Use the shift pay calculator with the federal rule.
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 What is the 7(k) exemption?
 Section 7(k) of the FLSA lets public employers pay fire and police employees overtime over a work period of 7 to 28 days, with a higher hour threshold, instead of after 40 hours every week.
@@ -1849,7 +1861,7 @@ Night and evening differentials are part of the regular rate, so they raise your
 Working the premium out on the base rate alone ($12.50 × 8 = $100) would pay $9 too little that week. Enter your night differential above and the calculator does this for every week of the year.
 How the overtime is worked out
 Federal law pays time and a half after 40 hours in the workweek (29 CFR 778.105), on the regular rate, which includes night differentials (29 CFR 778.109). California also pays after 8 hours in a day and double after 12 (Labor Code 510); health care employers can adopt 12-hour alternative workweeks (IWC Wage Order 5). Alaska pays after 8 hours a day (AS 23.10.060) and Colorado after 12 hours in a workday or 12 hours in a row (COMPS Order #40). Fire and police departments often use a 7(k) work period instead: see the 7(k) calculator.
-Figures are worked out from each cycle; rules checked against official sources on October 16, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
 How much does a 12-hour Pitman schedule pay a year?
 A Pitman schedule works about 2,190 hours a year, or 42 hours a week on average. At $25 an hour that is about $54,750 before overtime; with federal overtime on the weeks over 40 hours, a little more.
