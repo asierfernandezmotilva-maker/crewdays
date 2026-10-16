@@ -1,0 +1,43 @@
+# Crewdays
+
+> Free rotating shift calendar for 2026–2028. Pick a shift pattern and a day you start work; get every day of the year, hours, US holidays worked, a share link, a .ics file for Google/Apple Calendar and a printable year. Runs in the browser, no account.
+
+Facts on each pattern page are computed from the cycle: hours a year = hours in one cycle × 365 ÷ cycle length. Employers vary patterns, so users should check against their official rota.
+
+## Shift patterns
+- [Pitman Schedule](https://crewdays.app/pitman-schedule/): 14-day cycle, 42 hours a week, 2,190 hours a year. The Pitman schedule is a 12-hour shift pattern that repeats every 14 days: 2 days on, 2 off, 3 on, 2 off, 2 on, 3 off.
+- [Panama Schedule](https://crewdays.app/panama-schedule/): 28-day cycle, 42 hours a week, 2,190 hours a year. The Panama schedule uses the same 2-2-3 rhythm as the Pitman, but each crew rotates: 14 days on day shifts, then 14 days on night shifts, for a 28-day cycle.
+- [DuPont Schedule](https://crewdays.app/dupont-schedule/): 28-day cycle, 42 hours a week, 2,190 hours a year. The DuPont schedule is a 28-day rotating pattern with 12-hour shifts and four crews: 4 nights, 3 off, 3 days, 1 off, 3 nights, 3 off, 4 days, then 7 days off.
+- [4 on 4 off Schedule](https://crewdays.app/4-on-4-off-schedule/): 8-day cycle, 42 hours a week, 2,190 hours a year. On a 4 on 4 off schedule you work four 12-hour shifts and then get four days off, an 8-day cycle.
+- [4-3-3-4 Schedule](https://crewdays.app/4-on-3-off-schedule/): 14-day cycle, 42 hours a week, 2,190 hours a year. The 4-3-3-4 schedule (4 on, 3 off, 3 on, 4 off) is a 14-day pattern of 12-hour shifts.
+- [3 on 3 off Schedule](https://crewdays.app/3-on-3-off-schedule/): 6-day cycle, 42 hours a week, 2,190 hours a year. A 3 on 3 off schedule is three 12-hour shifts followed by three days off, a 6-day cycle.
+- [2 on 2 off Schedule](https://crewdays.app/2-on-2-off-schedule/): 4-day cycle, 42 hours a week, 2,190 hours a year. A 2 on 2 off schedule is two 12-hour shifts followed by two days off, a 4-day cycle.
+- [24/48 Schedule](https://crewdays.app/24-48-schedule/): 3-day cycle, 56 hours a week, 2,920 hours a year. On a 24/48 schedule you work one 24-hour shift and then have 48 hours off, a 3-day cycle.
+- [48/96 Schedule](https://crewdays.app/48-96-schedule/): 6-day cycle, 56 hours a week, 2,920 hours a year. On a 48/96 schedule you work two 24-hour shifts back to back (48 hours) and then have 96 hours off, a 6-day cycle.
+- [Kelly Schedule](https://crewdays.app/kelly-schedule/): 9-day cycle, 56 hours a week, 2,920 hours a year. The Kelly schedule is a 9-day firefighter pattern: 24 on, 24 off, 24 on, 24 off, 24 on, then 4 days off.
+- [24/72 Schedule](https://crewdays.app/24-72-schedule/): 4-day cycle, 42 hours a week, 2,190 hours a year. On a 24/72 schedule you work one 24-hour shift and then have 72 hours off, a 4-day cycle.
+- [Hitch Rotation Schedule](https://crewdays.app/fifo-schedule/): 28-day cycle, 42 hours a week, 2,190 hours a year. A hitch rotation (FIFO roster in Australia, fly in, fly out) is a block of 12-hour shifts on site followed by a block at home.
+
+## Comparisons
+- [Pitman Schedule vs DuPont Schedule](https://crewdays.app/pitman-vs-dupont/): Both average 42 hours a week on 12-hour shifts with four crews.
+- [48/96 Schedule vs 24/48 Schedule](https://crewdays.app/48-96-vs-24-48/): Same hours (about 56 a week, 2,920 a year) and the same three platoons.
+
+## By job
+- [Nurse Shift Schedule Calendar](https://crewdays.app/for/nurses/)
+- [Firefighter Shift Calendar (A, B, C Shift)](https://crewdays.app/for/firefighters/)
+
+## Tools
+- Pay estimate on every calendar page: hourly rate, night differential, holiday multiplier and overtime by rule (federal weekly over 40; California Labor Code 510: over 8 a day 1.5x, over 12 2x, 7th consecutive day; Alaska over 8 a day, hospital medical staff exempt; Colorado over 12 a day or 12 consecutive hours, COMPS Order #40). Stays in the browser.
+- [Shift pay calculator](https://crewdays.app/shift-pay-calculator/): yearly hours, overtime and gross pay for every pattern at your hourly rate.
+- [FLSA 7(k) overtime calculator](https://crewdays.app/flsa-7k-overtime-calculator/): firefighters get overtime after 212 hours and police after 171 hours in a 28-day work period (29 CFR 553.230), proportionally for 7–27 days.
+- [Night shift when the clocks change](https://crewdays.app/daylight-saving-night-shift/): a 12-hour night shift lasts 13 hours when clocks go back (first Sunday of November) and 11 when they go forward (second Sunday of March).
+- [Pay period calendar 2027](https://crewdays.app/pay-period-calendar-2027/): every weekly or biweekly payday of 2026–2028 from one known payday; 2027 has 53 Fridays, so biweekly payrolls starting Friday, January 1, 2027 get 27 paydays.
+- [9/80 schedule calendar](https://crewdays.app/9-80-schedule/): every other Friday off for 2026–2028, federal holidays, and the split Friday that keeps each FLSA workweek at 40 hours (29 CFR 778.105).
+
+## United Kingdom
+- [UK shift rota calendar](https://crewdays.app/uk/): 4 on 4 off Rota, Continental Shift Pattern, 2-2-3 Rota (Pitman), 3 on 3 off Rota, 2 on 2 off Rota, DuPont Rota, Earlies, Lates and Nights Rota, with UK bank holidays and a Working Time Regulations 1998 check for each rota (48 h average, 11 h rest, 5.6 weeks holiday).
+- [UK bank holidays for shift workers](https://crewdays.app/uk/bank-holidays-shift-workers/): England and Wales, Scotland and Northern Ireland, 2026–2028, with substitute days.
+- [Working time rules for shift workers](https://crewdays.app/uk/working-time-rules-shift-workers/)
+
+## About
+- [About](https://crewdays.app/about/) · Contact: asierfernandezmotilva@gmail.com
