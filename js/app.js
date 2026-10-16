@@ -98,13 +98,14 @@
           var on = ORDER.reduce(function (a, k) { return a.concat(crews.filter(function (c) { return c.d[i].state === k; }).map(function (c) { return [k, c.l, c.n, c.sn]; })); }, []);
           var tl = tip + ": " + (on.map(function (o) { return o[2] + " " + E.NAMES[o[0]]; }).join(", ") || "nobody");
           html += '<span role="button" tabindex="' + (day === 1 ? 0 : -1) + '" aria-label="' + tl + '" class="tm' + cls + '" style="--i:' + (i % 120) + '" title="' + tl +
-            '"><u>' + day + "</u>" + on.map(function (o) { return '<em class="' + (o[0] === "X" ? (st.cn === "color" ? "k-" + o[2] : "c-" + o[1]) : "s-" + o[0]) + '">' + o[3] + "</em>"; }).join("") + "</span>";
+            '"><u>' + day + "</u>" + on.map(function (o) { return '<em aria-hidden="true" class="' + (o[0] === "X" ? (st.cn === "color" ? "k-" + o[2] : "c-" + o[1]) : "s-" + o[0]) + '">' + o[3] + "</em>"; }).join("") + "</span>";
         } else {
           var ps = pc ? E.stateOn(pc, st.r, x.date, 0) : "", both = pc && ps === "O" && x.state === "O", pay = payday(x.date);
           if (both) together++;
           var label = tip + ": " + (x.kelly ? "Kelly day off" : x.state === "O" ? "day off" : E.NAMES[x.state] + " shift") + (pc ? "; partner: " + (ps === "O" ? "off" : E.NAMES[ps]) : "") + (pay ? "; payday" : "") + dayPay(x, p, H);
-          html += '<span role="button" tabindex="' + (day === 1 ? 0 : -1) + '" aria-label="' + label + '" class="s-' + x.state + (x.kelly ? " kelly" : "") + cls + (both ? " both" : "") + (pay ? " pay" : "") + '" style="--i:' + (i % 120) + '" title="' + label + '">' + day +
-            (x.state !== "O" ? "<small>" + LETTER[x.state] + "</small>" : x.kelly ? "<small>K</small>" : "") + (pc && ps !== "O" ? '<i class="pt s-' + ps + '"></i>' : "") + "</span>";
+          html += '<span role="button" tabindex="' + (day === 1 ? 0 : -1) + '" aria-label="' + label + '" class="s-' + x.state + (x.kelly ? " kelly" : "") + cls + (both ? " both" : "") + (pay ? " pay" : "") + '" style="--i:' + (i % 120) + '"' +
+            (x.state !== "O" ? ' data-l="' + LETTER[x.state] + '"' : x.kelly ? ' data-l="K"' : "") + ' title="' + label + '">' + day + // letra por CSS (::after): el texto visible es solo el día, que está en el aria-label
+             (pc && ps !== "O" ? '<i class="pt s-' + ps + '"></i>' : "") + "</span>";
         }
       }
       html += "</div></div>";

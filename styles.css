@@ -197,17 +197,17 @@ main>section>h2:first-child::before{content:"";display:block;width:56px;height:5
 @media print{.paypanel{display:none}}
 form.gen legend small{font:400 .9rem var(--body);color:var(--soft)}#paybox .pair label{flex:1 1 9em}#paybox label{display:flex;flex-direction:column;gap:4px;font-weight:600}#paybox label.check{flex-direction:row;align-items:center;font-weight:400;gap:8px;margin-top:10px}#paybox .check input{width:22px;min-height:22px}#paybox .pair{gap:10px 14px}
 /* Letra del turno (además del color) y foco en los días */
-.grid span small{display:none;font-size:.62em;font-weight:700;line-height:1;opacity:.85}
+.grid span[data-l]::after{content:attr(data-l);display:none;font-size:.62em;font-weight:700;line-height:1}
 .grid span:focus-visible{outline:3px solid var(--acc);outline-offset:1px;z-index:1}
-@media(max-width:640px){.grid span[title]:not(.tm){flex-direction:column;display:flex;align-items:center;justify-content:center;gap:1px}.grid span small{display:block}}
-@media print{.grid span small{display:block;font-size:5pt}}
+@media(max-width:640px){.grid span[title]:not(.tm){flex-direction:column;display:flex;align-items:center;justify-content:center;gap:1px}.grid span[data-l]::after{display:block}}
+@media print{.grid span[data-l]::after{display:block;font-size:5pt}}
 .cols3{display:grid;grid-template-columns:repeat(auto-fit,minmax(15em,1fr));gap:18px}.cols3 table.t{font-size:.92rem}
 .holsel{display:flex;flex-direction:column;gap:4px;font-weight:600;max-width:22em}
 .warn{margin:0;padding:10px 16px;background:#fff4ec;color:var(--acc-ink);border-bottom:1px solid var(--line);font-size:.93rem}
 @media(max-width:640px){.cols3 table.t{display:table;width:100%}}
 /* Kelly day: libre por el Kelly, borde rojo discontinuo */
 .grid span.kelly,.sw.kelly,.peek .kelly{outline:2px dashed var(--X,#c0392b);outline-offset:-3px}
-.grid span.kelly small{color:#c0392b;font-weight:700}
+.grid span.kelly::after{color:#c0392b;font-weight:700}
 /* Equipos con nombre de color */
 .k-Red{background:#c0392b!important;color:#fff!important}.k-Gold{background:#d4a017!important;color:#14202b!important}.k-Black{background:#14202b!important;color:#fff!important}.k-Blue{background:#1f6fb2!important;color:#fff!important}
 figure{margin:0}figure img{display:block;max-width:100%;height:auto;border-radius:8px}figcaption{font-size:.9rem;margin-top:8px}
