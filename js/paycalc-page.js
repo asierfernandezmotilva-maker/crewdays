@@ -57,7 +57,10 @@
       if (i < opts.length) setTimeout(chunk, 0); else { var h = rows.join(""); if (tbody.innerHTML !== h) tbody.innerHTML = h; }
     })();
   }
-  f.addEventListener("input", calc); f.addEventListener("change", calc); calc();
+  // El HTML ya trae el resultado de los valores por defecto: solo se recalcula al cargar si la dirección pide otro
+  // patrón o el navegador ha restaurado otros valores (evita ~25 años de cálculo mientras la página se pinta)
+  var cambiado = q || [].some.call(e, function (x) { return x.options ? !(x.options[x.selectedIndex] || {}).defaultSelected : x.value !== x.defaultValue; });
+  f.addEventListener("input", calc); f.addEventListener("change", calc); if (cambiado) calc();
 
   // Sueldo anual → precio por hora
   var s = document.getElementById("sal"), so = document.getElementById("salout");
