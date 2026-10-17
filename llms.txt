@@ -12,6 +12,7 @@ Facts on each pattern page are computed from the cycle: hours a year = hours in 
 - [4-3-3-4 Schedule](https://crewdays.app/4-on-3-off-schedule/): 14-day cycle, 42 hours a week, 2,190 hours a year. The 4-3-3-4 schedule (4 on, 3 off, 3 on, 4 off) is a 14-day pattern of 12-hour shifts.
 - [3 on 3 off Schedule](https://crewdays.app/3-on-3-off-schedule/): 6-day cycle, 42 hours a week, 2,190 hours a year. A 3 on 3 off schedule is three 12-hour shifts followed by three days off, a 6-day cycle.
 - [2 on 2 off Schedule](https://crewdays.app/2-on-2-off-schedule/): 4-day cycle, 42 hours a week, 2,190 hours a year. A 2 on 2 off schedule is two 12-hour shifts followed by two days off, a 4-day cycle.
+- [7 on 7 off Schedule](https://crewdays.app/7-on-7-off-schedule/): 14-day cycle, 42 hours a week, 2,190 hours a year. A 7 on 7 off schedule is seven shifts in a row followed by seven days off, a 14-day cycle.
 - [24/48 Schedule](https://crewdays.app/24-48-schedule/): 3-day cycle, 56 hours a week, 2,920 hours a year. On a 24/48 schedule you work one 24-hour shift and then have 48 hours off, a 3-day cycle.
 - [48/96 Schedule](https://crewdays.app/48-96-schedule/): 6-day cycle, 56 hours a week, 2,920 hours a year. On a 48/96 schedule you work two 24-hour shifts back to back (48 hours) and then have 96 hours off, a 6-day cycle.
 - [Kelly Schedule](https://crewdays.app/kelly-schedule/): 9-day cycle, 56 hours a week, 2,920 hours a year. The Kelly schedule is a 9-day firefighter pattern: 24 on, 24 off, 24 on, 24 off, 24 on, then 4 days off.
@@ -25,6 +26,9 @@ Facts on each pattern page are computed from the cycle: hours a year = hours in 
 ## By job
 - [Nurse Shift Schedule Calendar](https://crewdays.app/for/nurses/)
 - [Firefighter Shift Calendar (A, B, C Shift)](https://crewdays.app/for/firefighters/)
+- [Police Shift Schedule Calendar](https://crewdays.app/for/police/)
+- [911 Dispatcher Shift Schedule Calendar](https://crewdays.app/for/dispatchers/)
+- [EMS Shift Schedule Calendar](https://crewdays.app/for/ems/)
 
 ## Tools
 - Pay estimate on every calendar page: hourly rate, night differential, holiday multiplier and overtime by rule (federal weekly over 40; California Labor Code 510: over 8 a day 1.5x, over 12 2x, 7th consecutive day; Alaska over 8 a day, hospital medical staff exempt; Colorado over 12 a day or 12 consecutive hours, COMPS Order #40). Stays in the browser.
