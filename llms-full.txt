@@ -67,7 +67,7 @@ Usually, but it depends on the employer. Federal law has no single definition of
 Can it work out California overtime on 12-hour shifts?
 Yes. In "Your pay" choose the California rule: over 8 hours a day at time and a half, over 12 at double time, plus weekly overtime over 40 hours and the seventh day in a row (California Labor Code 510). Alaska (over 8 a day, AS 23.10.060; hospital employees who provide medical services are exempt) and Colorado (over 12 hours in a workday or 12 consecutive hours, COMPS Order #40, Rule 4) are there too.
 Which holidays are marked?
-The 11 US federal holidays on their actual date. Your employer may give the day off on a different date when a holiday falls on a weekend.
+The 11 US federal holidays on their actual date. If your employer gives the day off on a weekday when a holiday falls on a weekend, choose "US federal holidays, observed weekday" under Holidays shown: a Saturday holiday moves to the Friday before (5 U.S.C. 6103(b)) and a Sunday holiday to the Monday after (Executive Order 11582), as for federal employees. In 2027 that puts Juneteenth on Friday, June 18, Independence Day on Monday, July 5, Christmas on Friday, December 24, and New Year's Day 2028 on Friday, December 31.
 Can I see every crew at once?
 Yes. Under "Show" choose "All crews" to see which crew is on each shift every day, as on a station or plant calendar.
 Does it work for night shifts that cross midnight?

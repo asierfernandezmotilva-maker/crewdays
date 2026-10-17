@@ -116,7 +116,7 @@
     var legend = team && used.length === 1 && used[0] === "X"
       ? crews.map(function (c) { return '<li><span class="sw ' + (st.cn === "color" ? "k-" + c.n : "c-" + c.l) + '"></span>' + c.n + "</li>"; }).join("")
       : used.concat(team ? [] : ["O"]).map(function (k) { return '<li><span class="sw s-' + k + '"></span>' + E.NAMES[k] + (k === "O" ? "" : " shift") + "</li>"; }).join("");
-    legend += '<li><span class="sw hol"></span>' + (st.hol === "us" ? "US holiday" : "Bank holiday") + "</li>";
+    legend += '<li><span class="sw hol"></span>' + (st.hol.slice(0, 2) === "us" ? "US holiday" : "Bank holiday") + "</li>";
     if (pc) legend += '<li><span class="sw both"></span>Both off</li><li><span class="sw"><i class="pt s-' + pc.replace(/O/g, "")[0] + '"></i></span>Partner works</li>';
     if (st.pd) legend += '<li><span class="sw pay"></span>Payday</li>';
     if (st.kd && !team) legend += '<li><span class="sw kelly"></span>Kelly day</li>';
@@ -124,7 +124,7 @@
       '<ul class="legend">' + legend + "</ul>" + (team ? '<p class="sub">Your crew is ' + crews[0].n + ': the date you picked is day 1 of its cycle.' + (st.kd ? " Kelly days show in \"My shifts\" only." : "") + "</p>" : "") + "</div>" +
       '<dl class="stats"><div><dt>Shifts</dt><dd>' + s.worked + "</dd></div><div><dt>Hours</dt><dd>" + grp(s.hours) +
       "</dd></div><div><dt>Hours a week</dt><dd>" + (s.hours / (d.length / 7)).toFixed(1) + "</dd></div><div><dt>Weekends off</dt><dd>" +
-      s.weekendsOff + "</dd></div><div><dt>" + (st.hol === "us" ? "Holidays worked" : "Bank holidays worked") + "</dt><dd>" + holWorked + "</dd></div>" + (pc ? "<div><dt>Days off together</dt><dd>" + together + "</dd></div>" : "") + "</dl>" +
+      s.weekendsOff + "</dd></div><div><dt>" + (st.hol.slice(0, 2) === "us" ? "Holidays worked" : "Bank holidays worked") + "</dt><dd>" + holWorked + "</dd></div>" + (pc ? "<div><dt>Days off together</dt><dd>" + together + "</dd></div>" : "") + "</dl>" +
       (UKP && s.hours / (d.length / 7) > 48 ? '<p class="warn">Over 48 hours a week on average: under the Working Time Regulations that needs a written opt-out.</p>' : "") +
       payPanel(st, d, p, H) +
       '<div class="mnav" hidden><button type="button" data-m="-1" aria-label="Previous month">&lsaquo;</button><button type="button" data-today>Today</button><button type="button" data-m="1" aria-label="Next month">&rsaquo;</button></div>' +
@@ -242,7 +242,7 @@
   if (/^(5|6|7|8|9|10|12)$/.test(q.get("kd") || "")) el.kd.value = q.get("kd");
   if (q.get("t") === "team") el.t.value = "team";
   if (CREW[q.get("cn")]) el.cn.value = q.get("cn");
-  if (/^(us|ew|sc|ni)$/.test(q.get("hol") || "")) el.hol.value = q.get("hol");
+  if (/^(us|us-obs|ew|sc|ni)$/.test(q.get("hol") || "")) el.hol.value = q.get("hol");
   function syncPartner(w) {
     var pp = P[el.q.value]; el.w.innerHTML = pp ? Object.keys(pp.variants).map(function (k) { return '<option value="' + k + '">' + esc(pp.variants[k].name) + "</option>"; }).join("") : "";
     if (w && pp && pp.variants[w]) el.w.value = w;

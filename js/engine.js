@@ -115,6 +115,19 @@
   }
   function holidays(y, region) {
     if (region === "ew" || region === "sc" || region === "ni") return ukHolidays(y, region);
+    // Día libre de los empleados federales: sábado → viernes anterior (5 U.S.C. 6103(b)); domingo → lunes siguiente
+    // (Executive Order 11582, sec. 3(a)). Año Nuevo en sábado se libra el 31 de diciembre del año anterior.
+    if (region === "us-obs") {
+      var o = {};
+      [y, y + 1].forEach(function (yy) {
+        var hh = holidays(yy, "us");
+        Object.keys(hh).forEach(function (k) {
+          var wd = new Date(k + "T12:00:00Z").getUTCDay(), d = wd === 6 ? addDays(k, -1) : wd === 0 ? addDays(k, 1) : k;
+          if (d.slice(0, 4) === String(y)) o[d] = hh[k] + (d !== k ? ", observed" : "");
+        });
+      });
+      return o;
+    }
     var h = {}, p = function (m, d) { return y + "-" + String(m).padStart(2, "0") + "-" + String(d).padStart(2, "0"); };
     h[p(1, 1)] = "New Year's Day"; h[nth(y, 0, 1, 3)] = "Martin Luther King Jr. Day"; h[nth(y, 1, 1, 3)] = "Presidents' Day";
     h[nth(y, 4, 1, -1)] = "Memorial Day"; h[p(6, 19)] = "Juneteenth"; h[p(7, 4)] = "Independence Day"; h[nth(y, 8, 1, 1)] = "Labor Day";
