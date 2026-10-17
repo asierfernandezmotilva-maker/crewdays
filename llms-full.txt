@@ -1215,6 +1215,15 @@ Shift patterns for nurses
 4 on 4 off Schedule8-day cycle, 42 h a week
 Pitman Schedule14-day cycle, 42 h a week
 Panama Schedule28-day cycle, 42 h a week
+Nurses schedules compared
+| | Pattern | Shift | Hours a week | Most shifts in a row | Longest break | Full weekends off in 2027
+| 3 on 3 off | 12 h | 42 | 3 | 3 days | 16–18
+| 2 on 2 off | 12 h | 42 | 2 | 2 days | 13
+| 4 on 4 off | 12 h | 42 | 4 | 4 days | 18–21
+| Pitman | 12 h | 42 | 3 | 3 days | 0–26
+| Panama | 12 h | 42 | 3 | 3 days | 0–26
+Of these, the 4 on 4 off gives the longest break (4 days off in a row), and the 2 on 2 off has the shortest run of shifts (2 in a row).
+Worked out from one crew's cycle. A full weekend is Saturday and Sunday both off; where there is a range, it depends on the weekday the cycle starts.
 Three 12s or a rotation?
 Many hospital nurses are hired for 36 hours a week: three 12-hour shifts, often on days they choose through self-scheduling. Others work a fixed rotation such as 3 on 3 off or 2 on 2 off, which averages 42 hours a week. Before you compare two jobs, check which one each post means: 3 on 3 off adds about 26 shifts a year.
 The 8/80 overtime rule
@@ -1232,8 +1241,8 @@ Figures are worked out from each cycle; rules checked against official sources o
 Questions
 Which shift schedules do nurses work?
 Hospital nurses mostly work 12-hour shifts, either three a week on a self-scheduled rota or on a fixed rotation such as 3 on 3 off or 2 on 2 off. Units that need the same nurses on every day of the week often use a Pitman or Panama rotation.
-Can I share my schedule with my family?
-Yes. Copy the link: it opens the same calendar on any phone, without an account.
+Which schedule gives nurses the longest break?
+Of these, the 4 on 4 off gives the longest break (4 days off in a row), and the 2 on 2 off has the shortest run of shifts (2 in a row).
 
 ---
 
@@ -1248,6 +1257,14 @@ Shift patterns for firefighters
 48/96 Schedule6-day cycle, 56 h a week
 Kelly Schedule9-day cycle, 56 h a week
 24/72 Schedule4-day cycle, 42 h a week
+Firefighters schedules compared
+| | Pattern | Shift | Hours a week | Most shifts in a row | Longest break | Full weekends off in 2027
+| 24/48 | 24 h | 56 | 1 | 2 days | 17–18
+| 48/96 | 24 h | 56 | 2 | 4 days | 25–27
+| Kelly | 24 h | 56 | 1 | 4 days | 16–18
+| 24/72 | 24 h | 42 | 1 | 3 days | 26
+Of these, the 48/96 and Kelly give the longest break (4 days off in a row), and the 24/48, Kelly and 24/72 have the shortest run of shifts (1 in a row).
+Worked out from one crew's cycle. A full weekend is Saturday and Sunday both off; where there is a range, it depends on the weekday the cycle starts.
 Who is covered by 7(k)
 The 7(k) overtime rules cover fire department employees who are trained in fire suppression, have the legal authority and responsibility to fight fires, and respond to fires and emergencies. That includes paramedics, EMTs and rescue workers employed by the fire department who meet those conditions (29 CFR 553.210). Civilian dispatchers, mechanics and clerks are not covered and get overtime after 40 hours a week.
 Trading shifts
@@ -1265,8 +1282,8 @@ Figures are worked out from each cycle; rules checked against official sources o
 Questions
 Which shift schedules do firefighters work?
 Most US fire departments run 24-hour shifts with three platoons, usually called A, B and C shift, on a 24/48, 48/96 or Kelly rotation. Departments moving to four platoons use the 24/72.
-Can I share my schedule with my family?
-Yes. Copy the link: it opens the same calendar on any phone, without an account.
+Which schedule gives firefighters the longest break?
+Of these, the 48/96 and Kelly give the longest break (4 days off in a row), and the 24/48, Kelly and 24/72 have the shortest run of shifts (1 in a row).
 
 ---
 
@@ -1282,6 +1299,15 @@ Panama Schedule28-day cycle, 42 h a week
 4 on 4 off Schedule8-day cycle, 42 h a week
 DuPont Schedule28-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
+Police officers schedules compared
+| | Pattern | Shift | Hours a week | Most shifts in a row | Longest break | Full weekends off in 2027
+| Pitman | 12 h | 42 | 3 | 3 days | 0–26
+| Panama | 12 h | 42 | 3 | 3 days | 0–26
+| 4 on 4 off | 12 h | 42 | 4 | 4 days | 18–21
+| DuPont | 12 h | 42 | 4 | 7 days | 0–26
+| 4-3-3-4 | 12 h | 42 | 4 | 4 days | 0–52
+Of these, the DuPont gives the longest break (7 days off in a row), and the Pitman and Panama have the shortest run of shifts (3 in a row).
+Worked out from one crew's cycle. A full weekend is Saturday and Sunday both off; where there is a range, it depends on the weekday the cycle starts.
 Overtime for police under 7(k)
 A public agency can pay law enforcement officers overtime on a work period of 7 to 28 days instead of the 40-hour week: overtime is due after 171 hours in 28 days, 86 in 14 days or 43 in 7 days (29 CFR 553.230). The rule covers officers empowered by law to enforce laws and keep the peace, with the power to arrest and the training that goes with it, whatever their rank (29 CFR 553.211). Typical examples are city police, sheriffs' deputies, state troopers and highway patrol officers.
 12-hour patrol and the work period
@@ -1300,8 +1326,8 @@ Figures are worked out from each cycle; rules checked against official sources o
 Questions
 Which shift schedules do police officers work?
 Police departments that patrol around the clock work 8-, 10- or 12-hour shifts. With 12-hour shifts, four squads can cover every day on a Pitman (2-2-3), Panama or 4 on 4 off rotation; the DuPont adds a full week off every four weeks.
-Can I share my schedule with my family?
-Yes. Copy the link: it opens the same calendar on any phone, without an account.
+Which schedule gives police officers the longest break?
+Of these, the DuPont gives the longest break (7 days off in a row), and the Pitman and Panama have the shortest run of shifts (3 in a row).
 
 ---
 
@@ -1317,6 +1343,15 @@ Panama Schedule28-day cycle, 42 h a week
 4 on 4 off Schedule8-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
 DuPont Schedule28-day cycle, 42 h a week
+911 dispatchers schedules compared
+| | Pattern | Shift | Hours a week | Most shifts in a row | Longest break | Full weekends off in 2027
+| Pitman | 12 h | 42 | 3 | 3 days | 0–26
+| Panama | 12 h | 42 | 3 | 3 days | 0–26
+| 4 on 4 off | 12 h | 42 | 4 | 4 days | 18–21
+| 2 on 2 off | 12 h | 42 | 2 | 2 days | 13
+| DuPont | 12 h | 42 | 4 | 7 days | 0–26
+Of these, the DuPont gives the longest break (7 days off in a row), and the 2 on 2 off has the shortest run of shifts (2 in a row).
+Worked out from one crew's cycle. A full weekend is Saturday and Sunday both off; where there is a range, it depends on the weekday the cycle starts.
 Do dispatchers get 7(k) overtime?
 Usually not. Civilian dispatchers and radio operators of police and fire departments are expressly left out of the 7(k) rules (29 CFR 553.210(b) and 553.211(g)). They are paid overtime under the standard rule: time and a half for hours over 40 in a workweek.
 Why weekly hours change on a 12-hour rotation
@@ -1331,8 +1366,8 @@ Figures are worked out from each cycle; rules checked against official sources o
 Questions
 Which shift schedules do 911 dispatchers work?
 Emergency communication centers answer calls 24 hours a day, so 911 dispatchers and telecommunicators usually work 12-hour rotations such as the Pitman (2-2-3), Panama, 4 on 4 off or 2 on 2 off, or 8- and 10-hour shifts on fixed days.
-Can I share my schedule with my family?
-Yes. Copy the link: it opens the same calendar on any phone, without an account.
+Which schedule gives 911 dispatchers the longest break?
+Of these, the DuPont gives the longest break (7 days off in a row), and the 2 on 2 off has the shortest run of shifts (2 in a row).
 
 ---
 
@@ -1349,6 +1384,16 @@ Shift patterns for paramedics and EMTs
 4 on 4 off Schedule8-day cycle, 42 h a week
 Pitman Schedule14-day cycle, 42 h a week
 Kelly Schedule9-day cycle, 56 h a week
+Paramedics and EMTs schedules compared
+| | Pattern | Shift | Hours a week | Most shifts in a row | Longest break | Full weekends off in 2027
+| 24/48 | 24 h | 56 | 1 | 2 days | 17–18
+| 24/72 | 24 h | 42 | 1 | 3 days | 26
+| 48/96 | 24 h | 56 | 2 | 4 days | 25–27
+| 4 on 4 off | 12 h | 42 | 4 | 4 days | 18–21
+| Pitman | 12 h | 42 | 3 | 3 days | 0–26
+| Kelly | 24 h | 56 | 1 | 4 days | 16–18
+Of these, the 48/96, 4 on 4 off and Kelly give the longest break (4 days off in a row), and the 24/48, 24/72 and Kelly have the shortest run of shifts (1 in a row).
+Worked out from one crew's cycle. A full weekend is Saturday and Sunday both off; where there is a range, it depends on the weekday the cycle starts.
 Which overtime rule applies to EMS
 Paramedics, EMTs and ambulance personnel employed by a municipal, county or state fire department who are trained in fire suppression and have the authority to fight fires fall under the fire protection rules: overtime after 212 hours in 28 days (29 CFR 553.210(a) and 553.230). Ambulance staff who are an integral part of a public agency's law enforcement activities use the law enforcement standard of 171 hours (29 CFR 553.211(b)). The 7(k) exemption is only for public agencies (29 CFR 553.201), so EMTs and paramedics at private ambulance companies are paid overtime after 40 hours in a workweek.
 24-hour shifts and sleep time
@@ -1362,8 +1407,8 @@ Figures are worked out from each cycle; rules checked against official sources o
 Questions
 Which shift schedules do paramedics and EMTs work?
 EMS crews work either 24-hour shifts, often on a 24/48 or 24/72 rotation when the service is part of a fire department, or 12-hour shifts on rotations such as 4 on 4 off or the Pitman (2-2-3), common in hospital-based and private ambulance services.
-Can I share my schedule with my family?
-Yes. Copy the link: it opens the same calendar on any phone, without an account.
+Which schedule gives paramedics and EMTs the longest break?
+Of these, the 48/96, 4 on 4 off and Kelly give the longest break (4 days off in a row), and the 24/48, 24/72 and Kelly have the shortest run of shifts (1 in a row).
 
 ---
 
