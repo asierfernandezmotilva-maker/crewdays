@@ -38,6 +38,8 @@ Firefighters
 Police officers
 911 dispatchers
 Paramedics and EMTs
+Use it as a free shift calendar app
+Crewdays installs on your phone like an app, with no app store and no account. On iPhone, open crewdays.app in Safari, tap Share and then Add to Home Screen. On Android, open it in Chrome and choose Install app or Add to home screen in the menu. It opens full screen, works offline once it has loaded, and keeps your calendar on your phone. To see your shifts in Google Calendar or Apple Calendar, press Add to calendar on any calendar page.
 Compare patterns
 Pitman vs DuPont
 48/96 vs 24/48
@@ -52,6 +54,8 @@ Figures are worked out from each cycle; rules checked against official sources o
 Questions
 Do I need an account?
 No. Everything runs in your browser and nothing you type is sent anywhere.
+Is there a Crewdays app for iPhone or Android?
+Yes, without the app store. On iPhone, open crewdays.app in Safari, tap Share and then Add to Home Screen. On Android, open it in Chrome and choose Install app or Add to home screen in the menu. It opens full screen, works offline once it has loaded, and is free.
 My pattern is not listed. What can I do?
 Choose "Build your own" and type your cycle, one letter per day: D for day, N for night, E for evening, X for 24 hours and O for off.
 What is the best rotating shift schedule?
@@ -95,7 +99,7 @@ Crew A: Night, Night, Off, Off, Night, Night, Night, Off, Off, Night, Night, Off
 Crew B: Off, Off, Night, Night, Off, Off, Off, Night, Night, Off, Off, Night, Night, Night
 Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
 Printable Pitman schedule template
-One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year.
+One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a Pitman schedule
 A Pitman schedule needs four crews to cover 24/7: two work days and two work nights, each on the same 14-day cycle. Shifts usually run 6 to 6 or 7 to 7. Read the cycle as two on, two off, three on, then the same again starting with two off.
 If your crew's cycle starts on a Monday, you work Monday, Tuesday and Friday to Sunday in the first week, and Wednesday and Thursday in the second. So you work one weekend from Friday to Sunday and have the next one off, every other week.
@@ -185,7 +189,7 @@ Crew C: Night, Night, Off, Off, Night, Night, Night, Off, Off, Night, Night, Off
 Crew D: Off, Off, Night, Night, Off, Off, Off, Day, Day, Off, Off, Day, Day, Day, Off, Off, Day, Day, Off, Off, Off, Night, Night, Off, Off, Night, Night, Night
 Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
 Printable Panama schedule template
-One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year.
+One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a Panama schedule
 The Panama schedule uses the 2-2-3 rhythm of the Pitman but moves every crew between days and nights: 14 days on day shifts, then 14 days on nights, a 28-day cycle with four crews. Everyone works the same number of nights, which is the main reason employers choose it over a fixed Pitman.
 The hard part is the change itself. Every two weeks you have to move your sleep from nights to days or back. The change comes after a three-day break, which helps, but plan the first day of that break as a recovery day.
@@ -275,7 +279,7 @@ Crew C: Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off, Ni
 Crew D: Off, Off, Off, Off, Off, Off, Off, Night, Night, Night, Night, Off, Off, Off, Day, Day, Day, Off, Night, Night, Night, Off, Off, Off, Day, Day, Day, Day
 Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
 Printable DuPont schedule template
-One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year.
+One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a DuPont schedule
 The name comes from the DuPont company, and the pattern is still common in chemical plants, refineries, power stations and manufacturing: places that never stop, where four crews share days and nights equally.
 The 7-day break is the reason people like it. It can be stretched with very little leave: the 4 day shifts before the break sit between 3 days off and the 7 off, so taking those 4 shifts as leave gives 14 days off in a row.
@@ -369,7 +373,7 @@ Crew C: Night, Night, Night, Night, Off, Off, Off, Off, Day, Day, Day, Day, Off,
 Crew D: Off, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Off, Night, Night, Night, Night
 Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
 Printable 4 on 4 off schedule template
-One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year.
+One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 4 on 4 off schedule
 Two crews cover the day shifts and, in 24/7 plants, two more cover nights. Because the cycle is 8 days, one more than a week, your working days move one day later each week, so every crew gets weekends off in turn.
 A popular rotating version adds nights: 4 days, 4 off, 4 nights, 4 off, a 16-day cycle. The four days off after the nights are partly lost to sleep, so the real break feels shorter than on paper.
@@ -463,7 +467,7 @@ Crew C: Night, Night, Night, Night, Off, Off, Off, Night, Night, Night, Off, Off
 Crew D: Night, Night, Night, Off, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Day, Day, Day, Off, Off, Off, Off, Night, Night, Night, Night, Off, Off, Off
 Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
 Printable 4-3-3-4 schedule template
-One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year.
+One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 4-3-3-4 schedule
 The 4 on 3 off schedule, also called 4-3-3-4, alternates a week of four 12-hour shifts with a week of three: 4 on, 3 off, 3 on, 4 off, a 14-day cycle. Every week has three or four days off in a row, and you work 84 hours every two weeks.
 With two crews it does not cover every day of the week on its own; employers stagger the crews or add relief, so check who covers the days your crew is off. A rotating version adds a fortnight of nights after the fortnight of days.
@@ -555,7 +559,7 @@ Crew C: Night, Night, Night, Off, Off, Off, Day, Day, Day, Off, Off, Off
 Crew D: Off, Off, Off, Day, Day, Day, Off, Off, Off, Night, Night, Night
 Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
 Printable 3 on 3 off schedule template
-One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year.
+One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 3 on 3 off schedule
 It is common in hospitals and care homes. Because the cycle is 6 days, one less than a week, your working days move one day earlier each week and you get every day of the week off in turn.
 Do not confuse it with "three 12s a week", the usual hospital contract of 36 hours. 3 on 3 off averages 42 hours a week, because you work half of all days: about 182 shifts a year instead of about 156.
@@ -649,7 +653,7 @@ Crew C: Night, Night, Off, Off, Day, Day, Off, Off
 Crew D: Off, Off, Day, Day, Off, Off, Night, Night
 Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
 Printable 2 on 2 off schedule template
-One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year.
+One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 2 on 2 off schedule
 The 2 on 2 off schedule is the simplest 12-hour pattern: two shifts, two days off, a 4-day cycle. You never work more than two long shifts in a row, which many people find easier on the body than blocks of three or four.
 The days off are short, though. Two days rarely feel like a real break, especially after nights, and the pattern gives fewer full weekends than the Pitman or Panama, which group the off days into a three-day weekend.
@@ -743,7 +747,7 @@ Crew C: Night, Night, Night, Night, Night, Night, Night, Off, Off, Off, Off, Off
 Crew D: Off, Off, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off, Night, Night, Night, Night, Night, Night, Night
 Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
 Printable 7 on 7 off schedule template
-One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year.
+One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 7 on 7 off schedule
 Under the standard rule, overtime is paid for hours over 40 in a workweek. If all seven 12-hour shifts fall in one workweek, 44 of the 84 hours are overtime; if your employer's workweek splits the block into four shifts and three, only the 48-hour week has overtime, 8 hours. Ask payroll which day the workweek starts, then turn on "Your pay" to see it for your dates.
 Hospitals can agree with their staff to use a 14-day period instead of the workweek (the 8/80 system). Overtime is then due for hours over 8 in a workday and over 80 in the 14 days, so each 12-hour shift has 4 hours of overtime (29 CFR 778.601).
@@ -831,7 +835,7 @@ Crew B: Off, Off, 24h
 Crew C: Off, 24h, Off
 Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
 Printable 24/48 schedule template
-One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year.
+One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 24/48 schedule
 The 24/48 is the most common schedule in US fire departments. You work 24 hours, usually 7 a.m. to 7 a.m. or 8 a.m. to 8 a.m., and then have 48 hours off. Three platoons, A, B and C, take turns, so the station is staffed every day of the year.
 Firefighters are usually paid under section 7(k) of the FLSA, with overtime after 212 hours in a 28-day work period instead of 40 a week. A 24/48 puts 9 or 10 shifts (216 or 240 hours) into any 28 days, so most work periods include some overtime; departments add Kelly days to bring that down.
@@ -912,7 +916,7 @@ Crew B: Off, Off, Off, Off, 24h, 24h
 Crew C: Off, Off, 24h, 24h, Off, Off
 Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
 Printable 48/96 schedule template
-One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year.
+One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 48/96 schedule
 The hours are the same as a 24/48, about 56 a week, but there are half as many commutes. That is why departments where many firefighters live far away, often in the western US, moved to it.
 The concern is fatigue in the second 24 hours, especially at busy stations. If your department is considering it, ask how busy stations will be handled and what will be measured during a trial.
@@ -993,7 +997,7 @@ Crew B: Off, 24h, Off, Off, Off, Off, 24h, Off, 24h
 Crew C: Off, Off, Off, 24h, Off, 24h, Off, 24h, Off
 Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
 Printable Kelly schedule template
-One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year.
+One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a Kelly schedule
 Compared with a 24/48, the Kelly groups the same work into three shifts in five days followed by a four-day break, instead of spacing every shift two days apart. Many firefighters like the long break; others find three 24-hour shifts in five days harder to recover from.
 The word Kelly is also used for a Kelly day: an extra shift off, every so often, that departments give to bring average hours down. On this site you can add Kelly days to any 24-hour pattern in the calendar.
@@ -1072,7 +1076,7 @@ Crew C: Off, Off, 24h, Off
 Crew D: Off, 24h, Off, Off
 Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
 Printable 24/72 schedule template
-One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year.
+One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 24/72 schedule
 Because it needs a fourth platoon, A to D, a 24/72 takes about a third more firefighters than a 24/48 to staff each shift the same way, but it brings each person's average week down to 42 hours, close to a normal job.
 Departments move to 24/72 mainly to cut fatigue and overtime: in any 28-day period it gives exactly 7 shifts, 168 hours, below the 212-hour 7(k) threshold. The cost for the department is a fourth platoon, so it is less common than the 24/48.
@@ -1170,7 +1174,7 @@ Crew A: Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Da
 Crew B: Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day
 Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
 Printable Hitch Rotation schedule template
-One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year.
+One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a Hitch Rotation schedule
 On a hitch rotation the crew change date is what matters: count from it and every later hitch follows. Put your first day on site as the start date in the calendar and choose your rotation; the calendar then shows each hitch and each day at home for the whole year.
 Travel days are handled differently by each employer: some count them as working days, some as days off and some pay them separately. If your travel day is part of the hitch, include it when you set the start date.
@@ -2054,7 +2058,7 @@ How many hours a year does each shift pattern work?
 | Continental Shift Pattern | 42 | 2,190 | 182.5
 | 7 on 7 off Schedule | 42 | 2,190 | 182.5
 | Hitch Rotation Schedule | 56 | 2,920 | 243.3
-Hours a year = hours in one cycle × 365 ÷ days in the cycle. The exact number in a given year changes by a few shifts depending on where your crew starts.
+Hours a year = hours in one cycle × 365 ÷ days in the cycle. The exact number in a given year changes by a few shifts depending on where your crew starts. For comparison, a regular 40-hour week is 2,080 hours a year (40 × 52 weeks), and three 12-hour shifts a week (36 hours) are 1,872.
 Annual salary to hourly rate
 Hourly rate = annual salary ÷ (hours a week × 52). Departments on a 56-hour week often divide by 2,912 hours (56 × 52). Your contract may use a different divisor, for example to leave out overtime built into the schedule.
 Shift differential and overtime: a worked week
