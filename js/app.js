@@ -295,6 +295,8 @@
   document.getElementById("embed").addEventListener("click", embed);
   document.getElementById("copy").addEventListener("click", copy);
   document.getElementById("print").addEventListener("click", function () { window.print(); });
+  // Analytics: qué botón se usa y con qué patrón; nunca fechas, nombres ni sueldo
+  ["ics", "csv", "embed", "copy", "print"].forEach(function (id) { document.getElementById(id).addEventListener("click", function () { if (window.gtag) window.gtag("event", "tool_" + id, { pattern: state().p }); }); });
   // El calendario se pinta justo después del primer pintado: el formulario y las próximas 2 semanas ya vienen en el HTML
   requestAnimationFrame(function () { setTimeout(function () { render(false); }, 0); });
 
