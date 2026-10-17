@@ -97,7 +97,7 @@ Crew B: Off, Off, Day, Day, Off, Off, Off, Day, Day, Off, Off, Day, Day, Day
 Night shift (14 days)
 Crew A: Night, Night, Off, Off, Night, Night, Night, Off, Off, Night, Night, Off, Off, Off
 Crew B: Off, Off, Night, Night, Off, Off, Off, Night, Night, Off, Off, Night, Night, Night
-Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
+Employers often shift the start or swap the order of blocks. If your Pitman schedule rota differs, change the start date until the calendar matches a week you already know: the 14-day cycle then lines up for the whole year.
 Printable Pitman schedule template
 One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a Pitman schedule
@@ -105,7 +105,7 @@ A Pitman schedule needs four crews to cover 24/7: two work days and two work nig
 If your crew's cycle starts on a Monday, you work Monday, Tuesday and Friday to Sunday in the first week, and Wednesday and Thursday in the second. So you work one weekend from Friday to Sunday and have the next one off, every other week.
 Police departments often keep crews on fixed days or fixed nights. Plants more often rotate crews between days and nights every few weeks; with a switch every 14 days it becomes the Panama rotation. Before you start, ask which crew you are on, the date your crew's cycle began and which day your employer's workweek starts, because that decides how much overtime you get (see the table below).
 Overtime on a Pitman schedule: it depends on the workweek
-Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same shifts, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
+Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same 7 shifts every 14 days, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
 | | Workweek starts | Hours in each week | Overtime hours a year
 | Monday | 60, 24 | 520
 | Tuesday | 48, 36 | 208
@@ -157,12 +157,12 @@ How many hours a year is a Pitman schedule?
 About 2,190 scheduled hours a year: about 183 shifts of 12 hours. Overtime, leave and shift swaps change your own total; the pay calculator works it out at your hourly rate.
 How long is the Pitman schedule cycle?
 14 days. After that the same days repeat, so the calendar for any year follows from one start date.
-How do I add my shifts to Google Calendar or my iPhone?
-Pick your pattern and a day you start a block, press "Add to calendar" and open the file. Google Calendar, Apple Calendar and Outlook import it as all-day events, so daylight saving time does not move them.
+How do I add my Pitman schedule shifts to Google Calendar or my iPhone?
+Pick a day you start a block, press "Add to calendar" and open the file. It adds your Pitman schedule shifts, about 183 a year, as all-day events that Google Calendar, Apple Calendar and Outlook import, so daylight saving time does not move them.
 Can my family see my schedule?
-Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your pattern and start date, so it opens the same calendar on any phone. Nobody needs an account.
+Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your Pitman schedule crew and start date, so it opens the same calendar on any phone. Nobody needs an account.
 Can I download it to Excel?
-Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column per crew, ready to print or post for the whole team.
+Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column for each of the 2 crews (A, B), ready to print or post for the whole team.
 
 ---
 
@@ -187,7 +187,7 @@ Crew A: Day, Day, Off, Off, Day, Day, Day, Off, Off, Day, Day, Off, Off, Off, Ni
 Crew B: Off, Off, Day, Day, Off, Off, Off, Night, Night, Off, Off, Night, Night, Night, Off, Off, Night, Night, Off, Off, Off, Day, Day, Off, Off, Day, Day, Day
 Crew C: Night, Night, Off, Off, Night, Night, Night, Off, Off, Night, Night, Off, Off, Off, Day, Day, Off, Off, Day, Day, Day, Off, Off, Day, Day, Off, Off, Off
 Crew D: Off, Off, Night, Night, Off, Off, Off, Day, Day, Off, Off, Day, Day, Day, Off, Off, Day, Day, Off, Off, Off, Night, Night, Off, Off, Night, Night, Night
-Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
+Employers often shift the start or swap the order of blocks. If your Panama schedule rota differs, change the start date until the calendar matches a week you already know: the 28-day cycle then lines up for the whole year.
 Printable Panama schedule template
 One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a Panama schedule
@@ -195,7 +195,7 @@ The Panama schedule uses the 2-2-3 rhythm of the Pitman but moves every crew bet
 The hard part is the change itself. Every two weeks you have to move your sleep from nights to days or back. The change comes after a three-day break, which helps, but plan the first day of that break as a recovery day.
 Over a year each crew works about 91 day shifts and 91 night shifts. If your employer pays a night differential, it is spread evenly across all crews, so pay is the same for everyone with the same hourly rate.
 Overtime on a Panama schedule: it depends on the workweek
-Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same shifts, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
+Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same 14 shifts every 28 days, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
 | | Workweek starts | Hours in each week | Overtime hours a year
 | Monday | 60, 24 | 520
 | Tuesday | 48, 36 | 208
@@ -247,12 +247,12 @@ How many hours a year is a Panama schedule?
 About 2,190 scheduled hours a year: about 183 shifts of 12 hours. Overtime, leave and shift swaps change your own total; the pay calculator works it out at your hourly rate.
 How long is the Panama schedule cycle?
 28 days. After that the same days repeat, so the calendar for any year follows from one start date.
-How do I add my shifts to Google Calendar or my iPhone?
-Pick your pattern and a day you start a block, press "Add to calendar" and open the file. Google Calendar, Apple Calendar and Outlook import it as all-day events, so daylight saving time does not move them.
+How do I add my Panama schedule shifts to Google Calendar or my iPhone?
+Pick a day you start a block, press "Add to calendar" and open the file. It adds your Panama schedule shifts, about 183 a year, as all-day events that Google Calendar, Apple Calendar and Outlook import, so daylight saving time does not move them.
 Can my family see my schedule?
-Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your pattern and start date, so it opens the same calendar on any phone. Nobody needs an account.
+Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your Panama schedule crew and start date, so it opens the same calendar on any phone. Nobody needs an account.
 Can I download it to Excel?
-Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column per crew, ready to print or post for the whole team.
+Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column for each of the 4 crews (A, B, C, D), ready to print or post for the whole team.
 
 ---
 
@@ -277,7 +277,7 @@ Crew A: Night, Night, Night, Night, Off, Off, Off, Day, Day, Day, Off, Night, Ni
 Crew B: Day, Day, Day, Off, Night, Night, Night, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off, Night, Night, Night, Night, Off, Off, Off
 Crew C: Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off, Night, Night, Night, Night, Off, Off, Off, Day, Day, Day, Off, Night, Night, Night
 Crew D: Off, Off, Off, Off, Off, Off, Off, Night, Night, Night, Night, Off, Off, Off, Day, Day, Day, Off, Night, Night, Night, Off, Off, Off, Day, Day, Day, Day
-Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
+Employers often shift the start or swap the order of blocks. If your DuPont schedule rota differs, change the start date until the calendar matches a week you already know: the 28-day cycle then lines up for the whole year.
 Printable DuPont schedule template
 One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a DuPont schedule
@@ -285,7 +285,7 @@ The name comes from the DuPont company, and the pattern is still common in chemi
 The 7-day break is the reason people like it. It can be stretched with very little leave: the 4 day shifts before the break sit between 3 days off and the 7 off, so taking those 4 shifts as leave gives 14 days off in a row.
 The price is the middle of the cycle. Three day shifts, one day off and then three nights is one of the hardest changes in common 12-hour patterns, and the weeks are very uneven: depending on where your workweek starts, you can work 72 hours in one week and none in another. That makes the DuPont one of the most expensive patterns in weekly overtime, as the table below shows.
 Overtime on a DuPont schedule: it depends on the workweek
-Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same shifts, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
+Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same 14 shifts every 28 days, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
 | | Workweek starts | Hours in each week | Overtime hours a year
 | Monday | 48, 72, 48, 0 | 624
 | Tuesday | 48, 60, 48, 12 | 468
@@ -338,12 +338,12 @@ How many hours a year is a DuPont schedule?
 About 2,190 scheduled hours a year: about 183 shifts of 12 hours. Overtime, leave and shift swaps change your own total; the pay calculator works it out at your hourly rate.
 How long is the DuPont schedule cycle?
 28 days. After that the same days repeat, so the calendar for any year follows from one start date.
-How do I add my shifts to Google Calendar or my iPhone?
-Pick your pattern and a day you start a block, press "Add to calendar" and open the file. Google Calendar, Apple Calendar and Outlook import it as all-day events, so daylight saving time does not move them.
+How do I add my DuPont schedule shifts to Google Calendar or my iPhone?
+Pick a day you start a block, press "Add to calendar" and open the file. It adds your DuPont schedule shifts, about 183 a year, as all-day events that Google Calendar, Apple Calendar and Outlook import, so daylight saving time does not move them.
 Can my family see my schedule?
-Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your pattern and start date, so it opens the same calendar on any phone. Nobody needs an account.
+Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your DuPont schedule crew and start date, so it opens the same calendar on any phone. Nobody needs an account.
 Can I download it to Excel?
-Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column per crew, ready to print or post for the whole team.
+Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column for each of the 4 crews (A, B, C, D), ready to print or post for the whole team.
 
 ---
 
@@ -371,7 +371,7 @@ Crew A: Day, Day, Day, Day, Off, Off, Off, Off, Night, Night, Night, Night, Off,
 Crew B: Off, Off, Off, Off, Night, Night, Night, Night, Off, Off, Off, Off, Day, Day, Day, Day
 Crew C: Night, Night, Night, Night, Off, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Off
 Crew D: Off, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Off, Night, Night, Night, Night
-Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
+Employers often shift the start or swap the order of blocks. If your 4 on 4 off schedule rota differs, change the start date until the calendar matches a week you already know: the 8-day cycle then lines up for the whole year.
 Printable 4 on 4 off schedule template
 One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 4 on 4 off schedule
@@ -381,7 +381,7 @@ With four shifts of leave you get 12 days off in a row (4 off, 4 shifts of leave
 Over any eight weeks Saturday and Sunday pass through every point of the cycle: three weekends are completely free, three are worked on both days and two are split. That is roughly 19 full weekends off a year.
 Pay periods do not line up with the cycle either. Any 14 days hold 6, 7 or 8 shifts, so if you are paid by the hour on a biweekly payroll, a check can carry anything from 72 to 96 hours of base pay while the yearly total stays the same.
 Overtime on a 4 on 4 off schedule: it depends on the workweek
-Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same shifts, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
+Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same 4 shifts every 8 days, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
 | | Workweek starts | Hours in each week | Overtime hours a year
 | Monday | 48, 48, 48, 48, 36, 36, 36, 36 | 208
 | Tuesday | 36, 48, 48, 48, 48, 36, 36, 36 | 208
@@ -432,12 +432,12 @@ How many hours a year is a 4 on 4 off schedule?
 About 2,190 scheduled hours a year: about 183 shifts of 12 hours. Overtime, leave and shift swaps change your own total; the pay calculator works it out at your hourly rate.
 How long is the 4 on 4 off schedule cycle?
 8 days. After that the same days repeat, so the calendar for any year follows from one start date.
-How do I add my shifts to Google Calendar or my iPhone?
-Pick your pattern and a day you start a block, press "Add to calendar" and open the file. Google Calendar, Apple Calendar and Outlook import it as all-day events, so daylight saving time does not move them.
+How do I add my 4 on 4 off schedule shifts to Google Calendar or my iPhone?
+Pick a day you start a block, press "Add to calendar" and open the file. It adds your 4 on 4 off schedule shifts, about 183 a year, as all-day events that Google Calendar, Apple Calendar and Outlook import, so daylight saving time does not move them.
 Can my family see my schedule?
-Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your pattern and start date, so it opens the same calendar on any phone. Nobody needs an account.
+Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your 4 on 4 off schedule crew and start date, so it opens the same calendar on any phone. Nobody needs an account.
 Can I download it to Excel?
-Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column per crew, ready to print or post for the whole team.
+Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column for each of the 2 crews (A, B), ready to print or post for the whole team.
 
 ---
 
@@ -465,7 +465,7 @@ Crew A: Day, Day, Day, Day, Off, Off, Off, Day, Day, Day, Off, Off, Off, Off, Ni
 Crew B: Day, Day, Day, Off, Off, Off, Off, Night, Night, Night, Night, Off, Off, Off, Night, Night, Night, Off, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off
 Crew C: Night, Night, Night, Night, Off, Off, Off, Night, Night, Night, Off, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Day, Day, Day, Off, Off, Off, Off
 Crew D: Night, Night, Night, Off, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Day, Day, Day, Off, Off, Off, Off, Night, Night, Night, Night, Off, Off, Off
-Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
+Employers often shift the start or swap the order of blocks. If your 4-3-3-4 schedule rota differs, change the start date until the calendar matches a week you already know: the 14-day cycle then lines up for the whole year.
 Printable 4-3-3-4 schedule template
 One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 4-3-3-4 schedule
@@ -473,7 +473,7 @@ The 4 on 3 off schedule, also called 4-3-3-4, alternates a week of four 12-hour 
 With two crews it does not cover every day of the week on its own; employers stagger the crews or add relief, so check who covers the days your crew is off. A rotating version adds a fortnight of nights after the fortnight of days.
 The fixed rhythm makes it easy to plan childcare and classes: the same days repeat every two weeks. The weeks alternate between 48 and 36 hours, so with a normal Monday workweek there are 8 hours of federal overtime every other week.
 Overtime on a 4-3-3-4 schedule: it depends on the workweek
-Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same shifts, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
+Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same 7 shifts every 14 days, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
 | | Workweek starts | Hours in each week | Overtime hours a year
 | Monday | 48, 36 | 208
 | Tuesday | 48, 36 | 208
@@ -524,12 +524,12 @@ How many hours a year is a 4-3-3-4 schedule?
 About 2,190 scheduled hours a year: about 183 shifts of 12 hours. Overtime, leave and shift swaps change your own total; the pay calculator works it out at your hourly rate.
 How long is the 4-3-3-4 schedule cycle?
 14 days. After that the same days repeat, so the calendar for any year follows from one start date.
-How do I add my shifts to Google Calendar or my iPhone?
-Pick your pattern and a day you start a block, press "Add to calendar" and open the file. Google Calendar, Apple Calendar and Outlook import it as all-day events, so daylight saving time does not move them.
+How do I add my 4-3-3-4 schedule shifts to Google Calendar or my iPhone?
+Pick a day you start a block, press "Add to calendar" and open the file. It adds your 4-3-3-4 schedule shifts, about 183 a year, as all-day events that Google Calendar, Apple Calendar and Outlook import, so daylight saving time does not move them.
 Can my family see my schedule?
-Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your pattern and start date, so it opens the same calendar on any phone. Nobody needs an account.
+Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your 4-3-3-4 schedule crew and start date, so it opens the same calendar on any phone. Nobody needs an account.
 Can I download it to Excel?
-Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column per crew, ready to print or post for the whole team.
+Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column for each of the 2 crews (A, B), ready to print or post for the whole team.
 
 ---
 
@@ -557,7 +557,7 @@ Crew A: Day, Day, Day, Off, Off, Off, Night, Night, Night, Off, Off, Off
 Crew B: Off, Off, Off, Night, Night, Night, Off, Off, Off, Day, Day, Day
 Crew C: Night, Night, Night, Off, Off, Off, Day, Day, Day, Off, Off, Off
 Crew D: Off, Off, Off, Day, Day, Day, Off, Off, Off, Night, Night, Night
-Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
+Employers often shift the start or swap the order of blocks. If your 3 on 3 off schedule rota differs, change the start date until the calendar matches a week you already know: the 6-day cycle then lines up for the whole year.
 Printable 3 on 3 off schedule template
 One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 3 on 3 off schedule
@@ -567,7 +567,7 @@ Weeks alternate in runs between 3 shifts (36 hours) and 4 shifts (48 hours), so 
 Weekends come back in a six-week rhythm: two completely free, two worked from Saturday to Sunday and two where only one of the days is a shift. In other words, one full weekend off in three, about 17 or 18 a year.
 A short leave allowance stretches well here. Book the three shifts that sit between two breaks and you are away for nine days in a row: three off, three on leave, three off.
 Overtime on a 3 on 3 off schedule: it depends on the workweek
-Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same shifts, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
+Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same 3 shifts every 6 days, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
 | | Workweek starts | Hours in each week | Overtime hours a year
 | Monday | 48, 48, 48, 36, 36, 36 | 208
 | Tuesday | 48, 48, 36, 36, 36, 48 | 208
@@ -618,12 +618,12 @@ How many hours a year is a 3 on 3 off schedule?
 About 2,190 scheduled hours a year: about 183 shifts of 12 hours. Overtime, leave and shift swaps change your own total; the pay calculator works it out at your hourly rate.
 How long is the 3 on 3 off schedule cycle?
 6 days. After that the same days repeat, so the calendar for any year follows from one start date.
-How do I add my shifts to Google Calendar or my iPhone?
-Pick your pattern and a day you start a block, press "Add to calendar" and open the file. Google Calendar, Apple Calendar and Outlook import it as all-day events, so daylight saving time does not move them.
+How do I add my 3 on 3 off schedule shifts to Google Calendar or my iPhone?
+Pick a day you start a block, press "Add to calendar" and open the file. It adds your 3 on 3 off schedule shifts, about 183 a year, as all-day events that Google Calendar, Apple Calendar and Outlook import, so daylight saving time does not move them.
 Can my family see my schedule?
-Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your pattern and start date, so it opens the same calendar on any phone. Nobody needs an account.
+Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your 3 on 3 off schedule crew and start date, so it opens the same calendar on any phone. Nobody needs an account.
 Can I download it to Excel?
-Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column per crew, ready to print or post for the whole team.
+Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column for each of the 2 crews (A, B), ready to print or post for the whole team.
 
 ---
 
@@ -651,7 +651,7 @@ Crew A: Day, Day, Off, Off, Night, Night, Off, Off
 Crew B: Off, Off, Night, Night, Off, Off, Day, Day
 Crew C: Night, Night, Off, Off, Day, Day, Off, Off
 Crew D: Off, Off, Day, Day, Off, Off, Night, Night
-Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
+Employers often shift the start or swap the order of blocks. If your 2 on 2 off schedule rota differs, change the start date until the calendar matches a week you already know: the 4-day cycle then lines up for the whole year.
 Printable 2 on 2 off schedule template
 One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 2 on 2 off schedule
@@ -661,7 +661,7 @@ Many employers turn the 2-2 into a 2-2-3 by adding a three-day block every week;
 Saturdays and Sundays follow a four-week rhythm: one weekend in four is completely free, one is two working days and in the other two you work one of them. That adds up to about 13 full weekends off a year, fewer than on longer patterns with the same hours.
 Leave goes further than it looks: the two shifts between two breaks cost two days of leave and give six days off in a row. Over a year you work about 183 shifts, close to 2,200 hours.
 Overtime on a 2 on 2 off schedule: it depends on the workweek
-Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same shifts, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
+Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same 2 shifts every 4 days, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
 | | Workweek starts | Hours in each week | Overtime hours a year
 | Monday | 48, 48, 36, 36 | 208
 | Tuesday | 36, 48, 48, 36 | 208
@@ -712,12 +712,12 @@ How many hours a year is a 2 on 2 off schedule?
 About 2,190 scheduled hours a year: about 183 shifts of 12 hours. Overtime, leave and shift swaps change your own total; the pay calculator works it out at your hourly rate.
 How long is the 2 on 2 off schedule cycle?
 4 days. After that the same days repeat, so the calendar for any year follows from one start date.
-How do I add my shifts to Google Calendar or my iPhone?
-Pick your pattern and a day you start a block, press "Add to calendar" and open the file. Google Calendar, Apple Calendar and Outlook import it as all-day events, so daylight saving time does not move them.
+How do I add my 2 on 2 off schedule shifts to Google Calendar or my iPhone?
+Pick a day you start a block, press "Add to calendar" and open the file. It adds your 2 on 2 off schedule shifts, about 183 a year, as all-day events that Google Calendar, Apple Calendar and Outlook import, so daylight saving time does not move them.
 Can my family see my schedule?
-Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your pattern and start date, so it opens the same calendar on any phone. Nobody needs an account.
+Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your 2 on 2 off schedule crew and start date, so it opens the same calendar on any phone. Nobody needs an account.
 Can I download it to Excel?
-Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column per crew, ready to print or post for the whole team.
+Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column for each of the 2 crews (A, B), ready to print or post for the whole team.
 
 ---
 
@@ -745,7 +745,7 @@ Crew A: Day, Day, Day, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off, Ni
 Crew B: Off, Off, Off, Off, Off, Off, Off, Night, Night, Night, Night, Night, Night, Night, Off, Off, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day, Day, Day
 Crew C: Night, Night, Night, Night, Night, Night, Night, Off, Off, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off
 Crew D: Off, Off, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off, Night, Night, Night, Night, Night, Night, Night
-Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
+Employers often shift the start or swap the order of blocks. If your 7 on 7 off schedule rota differs, change the start date until the calendar matches a week you already know: the 14-day cycle then lines up for the whole year.
 Printable 7 on 7 off schedule template
 One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 7 on 7 off schedule
@@ -753,7 +753,7 @@ Under the standard rule, overtime is paid for hours over 40 in a workweek. If al
 Hospitals can agree with their staff to use a 14-day period instead of the workweek (the 8/80 system). Overtime is then due for hours over 8 in a workday and over 80 in the 14 days, so each 12-hour shift has 4 hours of overtime (29 CFR 778.601).
 Two crews cover one position on days; four crews cover days and nights. If you prefer longer blocks with the same half year at home, the 14 on 14 off hitch rotation used on oil rigs and mines is the same even-time idea: see the hitch rotation calendar.
 Overtime on a 7 on 7 off schedule: it depends on the workweek
-Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same shifts, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
+Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same 7 shifts every 14 days, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
 | | Workweek starts | Hours in each week | Overtime hours a year
 | Monday | 84, 0 | 1,144
 | Tuesday | 72, 12 | 832
@@ -804,12 +804,12 @@ How many hours a year is a 7 on 7 off schedule?
 About 2,190 scheduled hours a year: about 183 shifts of 12 hours. Overtime, leave and shift swaps change your own total; the pay calculator works it out at your hourly rate.
 How long is the 7 on 7 off schedule cycle?
 14 days. After that the same days repeat, so the calendar for any year follows from one start date.
-How do I add my shifts to Google Calendar or my iPhone?
-Pick your pattern and a day you start a block, press "Add to calendar" and open the file. Google Calendar, Apple Calendar and Outlook import it as all-day events, so daylight saving time does not move them.
+How do I add my 7 on 7 off schedule shifts to Google Calendar or my iPhone?
+Pick a day you start a block, press "Add to calendar" and open the file. It adds your 7 on 7 off schedule shifts, about 183 a year, as all-day events that Google Calendar, Apple Calendar and Outlook import, so daylight saving time does not move them.
 Can my family see my schedule?
-Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your pattern and start date, so it opens the same calendar on any phone. Nobody needs an account.
+Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your 7 on 7 off schedule crew and start date, so it opens the same calendar on any phone. Nobody needs an account.
 Can I download it to Excel?
-Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column per crew, ready to print or post for the whole team.
+Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column for each of the 2 crews (A, B), ready to print or post for the whole team.
 
 ---
 
@@ -833,7 +833,7 @@ Standard (3 days)
 Crew A: 24h, Off, Off
 Crew B: Off, Off, 24h
 Crew C: Off, 24h, Off
-Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
+Employers often shift the start or swap the order of blocks. If your 24/48 schedule rota differs, change the start date until the calendar matches a week you already know: the 3-day cycle then lines up for the whole year.
 Printable 24/48 schedule template
 One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 24/48 schedule
@@ -883,14 +883,14 @@ How many hours a year is a 24/48 schedule?
 About 2,920 scheduled hours a year: about 122 shifts of 24 hours. Overtime, leave, Kelly days and shift swaps change your own total; the pay calculator works it out at your hourly rate.
 How long is the 24/48 schedule cycle?
 3 days. After that the same days repeat, so the calendar for any year follows from one start date.
-How do I add my shifts to Google Calendar or my iPhone?
-Pick your pattern and a day you start a block, press "Add to calendar" and open the file. Google Calendar, Apple Calendar and Outlook import it as all-day events, so daylight saving time does not move them.
+How do I add my 24/48 schedule shifts to Google Calendar or my iPhone?
+Pick a day you start a block, press "Add to calendar" and open the file. It adds your 24/48 schedule shifts, about 122 a year, as all-day events that Google Calendar, Apple Calendar and Outlook import, so daylight saving time does not move them.
 Can my family see my schedule?
-Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your pattern and start date, so it opens the same calendar on any phone. Nobody needs an account.
+Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your 24/48 schedule crew and start date, so it opens the same calendar on any phone. Nobody needs an account.
 Can I add Kelly days to a 24/48 schedule?
 Yes. Under "Kelly days" choose how often you get one, for example every 7th shift. On a 24/48 schedule that is every 21 days, and it cuts the average week from 56 to 48 hours. The Kelly days show on the calendar, in the calendar file and in the hours and pay.
 Can I download it to Excel?
-Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column per crew, ready to print or post for the whole team.
+Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column for each of the 3 crews (A, B, C), ready to print or post for the whole team.
 
 ---
 
@@ -914,7 +914,7 @@ Standard (6 days)
 Crew A: 24h, 24h, Off, Off, Off, Off
 Crew B: Off, Off, Off, Off, 24h, 24h
 Crew C: Off, Off, 24h, 24h, Off, Off
-Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
+Employers often shift the start or swap the order of blocks. If your 48/96 schedule rota differs, change the start date until the calendar matches a week you already know: the 6-day cycle then lines up for the whole year.
 Printable 48/96 schedule template
 One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 48/96 schedule
@@ -964,14 +964,14 @@ How many hours a year is a 48/96 schedule?
 About 2,920 scheduled hours a year: about 122 shifts of 24 hours. Overtime, leave, Kelly days and shift swaps change your own total; the pay calculator works it out at your hourly rate.
 How long is the 48/96 schedule cycle?
 6 days. After that the same days repeat, so the calendar for any year follows from one start date.
-How do I add my shifts to Google Calendar or my iPhone?
-Pick your pattern and a day you start a block, press "Add to calendar" and open the file. Google Calendar, Apple Calendar and Outlook import it as all-day events, so daylight saving time does not move them.
+How do I add my 48/96 schedule shifts to Google Calendar or my iPhone?
+Pick a day you start a block, press "Add to calendar" and open the file. It adds your 48/96 schedule shifts, about 122 a year, as all-day events that Google Calendar, Apple Calendar and Outlook import, so daylight saving time does not move them.
 Can my family see my schedule?
-Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your pattern and start date, so it opens the same calendar on any phone. Nobody needs an account.
+Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your 48/96 schedule crew and start date, so it opens the same calendar on any phone. Nobody needs an account.
 Can I add Kelly days to a 48/96 schedule?
 Yes. Under "Kelly days" choose how often you get one, for example every 7th shift. On a 48/96 schedule that is every 21 days, and it cuts the average week from 56 to 48 hours. The Kelly days show on the calendar, in the calendar file and in the hours and pay.
 Can I download it to Excel?
-Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column per crew, ready to print or post for the whole team.
+Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column for each of the 3 crews (A, B, C), ready to print or post for the whole team.
 
 ---
 
@@ -995,7 +995,7 @@ Standard (9 days)
 Crew A: 24h, Off, 24h, Off, 24h, Off, Off, Off, Off
 Crew B: Off, 24h, Off, Off, Off, Off, 24h, Off, 24h
 Crew C: Off, Off, Off, 24h, Off, 24h, Off, 24h, Off
-Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
+Employers often shift the start or swap the order of blocks. If your Kelly schedule rota differs, change the start date until the calendar matches a week you already know: the 9-day cycle then lines up for the whole year.
 Printable Kelly schedule template
 One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a Kelly schedule
@@ -1042,14 +1042,14 @@ How many hours a year is a Kelly schedule?
 About 2,920 scheduled hours a year: about 122 shifts of 24 hours. Overtime, leave, Kelly days and shift swaps change your own total; the pay calculator works it out at your hourly rate.
 How long is the Kelly schedule cycle?
 9 days. After that the same days repeat, so the calendar for any year follows from one start date.
-How do I add my shifts to Google Calendar or my iPhone?
-Pick your pattern and a day you start a block, press "Add to calendar" and open the file. Google Calendar, Apple Calendar and Outlook import it as all-day events, so daylight saving time does not move them.
+How do I add my Kelly schedule shifts to Google Calendar or my iPhone?
+Pick a day you start a block, press "Add to calendar" and open the file. It adds your Kelly schedule shifts, about 122 a year, as all-day events that Google Calendar, Apple Calendar and Outlook import, so daylight saving time does not move them.
 Can my family see my schedule?
-Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your pattern and start date, so it opens the same calendar on any phone. Nobody needs an account.
+Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your Kelly schedule crew and start date, so it opens the same calendar on any phone. Nobody needs an account.
 Can I add Kelly days to a Kelly schedule?
 Yes. Under "Kelly days" choose how often you get one, for example every 7th shift. On a Kelly schedule that is every 21 days, and it cuts the average week from 56 to 48 hours. The Kelly days show on the calendar, in the calendar file and in the hours and pay.
 Can I download it to Excel?
-Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column per crew, ready to print or post for the whole team.
+Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column for each of the 3 crews (A, B, C), ready to print or post for the whole team.
 
 ---
 
@@ -1074,7 +1074,7 @@ Crew A: 24h, Off, Off, Off
 Crew B: Off, Off, Off, 24h
 Crew C: Off, Off, 24h, Off
 Crew D: Off, 24h, Off, Off
-Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
+Employers often shift the start or swap the order of blocks. If your 24/72 schedule rota differs, change the start date until the calendar matches a week you already know: the 4-day cycle then lines up for the whole year.
 Printable 24/72 schedule template
 One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a 24/72 schedule
@@ -1124,14 +1124,14 @@ How many hours a year is a 24/72 schedule?
 About 2,190 scheduled hours a year: about 91 shifts of 24 hours. Overtime, leave, Kelly days and shift swaps change your own total; the pay calculator works it out at your hourly rate.
 How long is the 24/72 schedule cycle?
 4 days. After that the same days repeat, so the calendar for any year follows from one start date.
-How do I add my shifts to Google Calendar or my iPhone?
-Pick your pattern and a day you start a block, press "Add to calendar" and open the file. Google Calendar, Apple Calendar and Outlook import it as all-day events, so daylight saving time does not move them.
+How do I add my 24/72 schedule shifts to Google Calendar or my iPhone?
+Pick a day you start a block, press "Add to calendar" and open the file. It adds your 24/72 schedule shifts, about 91 a year, as all-day events that Google Calendar, Apple Calendar and Outlook import, so daylight saving time does not move them.
 Can my family see my schedule?
-Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your pattern and start date, so it opens the same calendar on any phone. Nobody needs an account.
+Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your 24/72 schedule crew and start date, so it opens the same calendar on any phone. Nobody needs an account.
 Can I add Kelly days to a 24/72 schedule?
 Yes. Under "Kelly days" choose how often you get one, for example every 7th shift. On a 24/72 schedule that is every 28 days, and it cuts the average week from 42 to 36 hours. The Kelly days show on the calendar, in the calendar file and in the hours and pay.
 Can I download it to Excel?
-Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column per crew, ready to print or post for the whole team.
+Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column for each of the 4 crews (A, B, C, D), ready to print or post for the whole team.
 
 ---
 
@@ -1172,7 +1172,7 @@ Crew D: Off, Off, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day, Day, Day, Da
 28 on 28 off (56 days)
 Crew A: Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off
 Crew B: Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day
-Employers often shift the start or swap the order of blocks. If your rota differs, change the start date until the calendar matches a week you already know.
+Employers often shift the start or swap the order of blocks. If your Hitch Rotation schedule rota differs, change the start date until the calendar matches a week you already know: the 28-day cycle then lines up for the whole year.
 Printable Hitch Rotation schedule template
 One full cycle for every crew. Download the PNG, or pick your start date in the calendar above and press Print for your own year, or Excel to get it as a spreadsheet for Excel, Google Sheets or Numbers.
 Working a Hitch Rotation schedule
@@ -1180,7 +1180,7 @@ On a hitch rotation the crew change date is what matters: count from it and ever
 Travel days are handled differently by each employer: some count them as working days, some as days off and some pay them separately. If your travel day is part of the hitch, include it when you set the start date.
 Even-time rotations (7/7, 14/14, 28/28) need two crews for each position on day shift, and four for day and night. A 14/7 needs three crews and a 21/7 four, because the time on site is longer than the time at home.
 Overtime on a Hitch Rotation schedule: it depends on the workweek
-Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same shifts, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
+Federal overtime is due for hours over 40 in a workweek, a fixed 7-day period that your employer chooses and that does not have to start on Monday (29 CFR 778.105). With the same 14 shifts every 28 days, the day it starts changes how the hours fall into weeks, and so the overtime. Crew A, cycle starting on a Monday:
 | | Workweek starts | Hours in each week | Overtime hours a year
 | Monday | 84, 84, 0, 0 | 1,144
 | Tuesday | 84, 72, 0, 12 | 988
@@ -1231,12 +1231,12 @@ How many hours a year is a Hitch Rotation schedule?
 About 2,190 scheduled hours a year: about 183 shifts of 12 hours. Overtime, leave and shift swaps change your own total; the pay calculator works it out at your hourly rate.
 How long is the Hitch Rotation schedule cycle?
 28 days. After that the same days repeat, so the calendar for any year follows from one start date.
-How do I add my shifts to Google Calendar or my iPhone?
-Pick your pattern and a day you start a block, press "Add to calendar" and open the file. Google Calendar, Apple Calendar and Outlook import it as all-day events, so daylight saving time does not move them.
+How do I add my Hitch Rotation schedule shifts to Google Calendar or my iPhone?
+Pick a day you start a block, press "Add to calendar" and open the file. It adds your Hitch Rotation schedule shifts, about 183 a year, as all-day events that Google Calendar, Apple Calendar and Outlook import, so daylight saving time does not move them.
 Can my family see my schedule?
-Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your pattern and start date, so it opens the same calendar on any phone. Nobody needs an account.
+Yes. Press "Copy link" ("Share" on a phone) and send it. The link holds your Hitch Rotation schedule crew and start date, so it opens the same calendar on any phone. Nobody needs an account.
 Can I download it to Excel?
-Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column per crew, ready to print or post for the whole team.
+Yes. Press "Excel" to download the year as a CSV file that opens in Excel, Google Sheets or Numbers. With "All crews" selected you get one column for each of the 2 crews (A, B), ready to print or post for the whole team.
 
 ---
 
@@ -1616,6 +1616,8 @@ How the calendar is worked out
 Each pattern is a cycle of days, for example 14 days for the Pitman. From the day you start a block, Crewdays counts forward and back through the cycle, so every date of the year gets its shift. Hours are scheduled hours: the shift length times the shifts worked. Holidays are the 11 US federal holidays (5 U.S.C. 6103) on their actual date.
 Check it against your rota
 Employers adapt patterns: they change the order of blocks, the start time or add relief days. Crewdays is a planning tool, not your official schedule. If something does not match, tell us and we will look at it.
+How it is tested
+Before every update, an automated test suite runs against the same code your browser uses. It checks that each 24/7 pattern puts exactly one crew on every shift on every day of the cycle, the US federal holidays and UK bank holidays for 2026 to 2028, the night shift hours at each clock change, the 7(k) overtime thresholds for every work period from 7 to 28 days, the pay and overtime calculations, and that the calendar file follows the iCalendar standard (RFC 5545) so Google, Apple and Outlook import it correctly. If a test fails, the update is not published.
 Where the rules come from
 Every pay or working-time rule on the site is taken from the official text and linked from the page that uses it:
 Federal overtime, regular rate and hours worked: 29 CFR Part 778 and Part 785.
