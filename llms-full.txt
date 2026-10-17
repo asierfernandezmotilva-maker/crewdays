@@ -1860,7 +1860,7 @@ The common 12-hour schedules side by side
 | 3 on 3 off | 6 days | 17 | 3 days | 3 | Fixed crews | 208 h
 | 2 on 2 off | 4 days | 13 | 2 days | 2 | Fixed crews | 208 h
 | 7 on 7 off | 14 days | 26 | 7 days | 7 | Fixed crews | 1,144 h
-*One crew, cycle and workweek both starting Monday, January 4, 2027. Other crews and start days give different counts; each pattern page shows all of them. The 4-3-3-4 crew in this example never works a weekend because the two-crew version does not cover Saturdays and Sundays; half of the DuPont's 26 weekends fall inside its 7-day breaks.
+*One crew, cycle and workweek both starting Monday, January 4, 2027. Other crews and start days give different counts; each pattern page shows all of them. The 4-3-3-4 crew in this example never works a weekend because the two-crew version does not cover Saturdays and Sundays; half of the DuPont's 26 weekends fall inside its 7-day breaks. The overtime column uses the federal weekly rule; California and Alaska also pay daily overtime on 12-hour shifts, and Colorado on hours beyond 12 (see overtime after 8 or 12 hours).
 12-hour shift schedule with every other weekend off
 Pitman and Panama give a full weekend off every other week, because the cycle packs three shifts into Friday to Sunday one week and leaves Friday to Sunday free the next. On the Pitman that means a three-day weekend every two weeks.
 12-hour shift schedule with 7 days off
@@ -2068,10 +2068,12 @@ Night and evening differentials are part of the regular rate, so they raise your
 | Overtime premium | 8 h over 40 × half of $27.25 | $109
 | Total for the week | | $1,417
 Working the premium out on the base rate alone ($12.50 × 8 = $100) would pay $9 too little that week. Enter your night differential above and the calculator does this for every week of the year.
-How the overtime is worked out
-Federal law pays time and a half after 40 hours in the workweek (29 CFR 778.105), on the regular rate, which includes night differentials (29 CFR 778.109). California also pays after 8 hours in a day and double after 12 (Labor Code 510); health care employers can adopt 12-hour alternative workweeks (IWC Wage Order 5). Alaska pays after 8 hours a day (AS 23.10.060) and Colorado after 12 hours in a workday or 12 hours in a row (COMPS Order #40). Fire and police departments often use a 7(k) work period instead: see the 7(k) calculator.
+Overtime after 8 or 12 hours: federal and state rules
+Federal law does not require overtime for long days, only for long weeks: there is no overtime for hours over 8 in a day as such (29 CFR 778.102). It pays time and a half after 40 hours in the workweek (29 CFR 778.105), on the regular rate, which includes night differentials (29 CFR 778.109). California also pays after 8 hours in a day and double after 12 (Labor Code 510); health care employers can adopt 12-hour alternative workweeks (IWC Wage Order 5). Alaska pays after 8 hours a day (AS 23.10.060) and Colorado after 12 hours in a workday or 12 hours in a row (COMPS Order #40). Fire and police departments often use a 7(k) work period instead: see the 7(k) calculator. If you work in another state, check its labor department: a few states have their own rules, and a union contract can also pay daily overtime.
 Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
 Questions
+Which states pay overtime after 8 hours a day?
+California pays time and a half after 8 hours in a workday and double time after 12 (Labor Code 510), and Alaska after 8 hours in a day (AS 23.10.060, with exemptions such as hospital employees who provide medical services). Colorado pays after 12 hours in a workday or 12 hours in a row (COMPS Order #40). Federal law only pays overtime after 40 hours in the workweek (29 CFR 778.102 and 778.105).
 How much does a 12-hour Pitman schedule pay a year?
 A Pitman schedule works about 2,190 hours a year, or 42 hours a week on average. At $25 an hour that is about $54,750 before overtime; with federal overtime on the weeks over 40 hours, a little more.
 How many hours a year is a 48/96 schedule?
