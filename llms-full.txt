@@ -1860,9 +1860,9 @@ The common 12-hour schedules side by side
 12-hour shift schedule with every other weekend off
 Pitman and Panama give a full weekend off every other week, because the cycle packs three shifts into Friday to Sunday one week and leaves Friday to Sunday free the next. On the Pitman that means a three-day weekend every two weeks.
 12-hour shift schedule with 7 days off
-DuPont and 7 on 7 off give a full week off: once every 28 days, after a block of four day shifts. Taking those four shifts as leave turns it into 14 days off in a row. The cost is uneven weeks, from 0 to 72 hours, and a quick change from days to nights in the middle of the cycle.
+DuPont is the common 12-hour schedule that gives a full week off: once every 28 days, after a block of four day shifts. Taking those four shifts as leave turns it into 14 days off in a row. The cost is uneven weeks, from 0 to 72 hours, and a quick change from days to nights in the middle of the cycle. The 7 on 7 off schedule gives a week off every other week instead: seven 12-hour shifts in a row, then seven days off, 84 hours every two weeks.
 12-hour shift schedules for police
-Common choices in police departments include Pitman, Panama, 4 on 4 off, 4-3-3-4 and 7 on 7 off. Departments that want officers to stay on days or nights use the Pitman with fixed crews; those that want everyone to share nights rotate crews every two weeks, which is the Panama. Many police agencies pay overtime under section 7(k), after 171 hours in a 28-day work period (29 CFR 553.230); check yours in the 7(k) calculator.
+Common choices in police departments include Pitman, Panama, 4 on 4 off, 4-3-3-4 and 7 on 7 off. Departments that want officers to stay on days or nights use the Pitman with fixed crews; those that want everyone to share nights rotate crews every two weeks, which is the Panama. Many police agencies pay overtime under section 7(k), after 171 hours in a 28-day work period (29 CFR 553.230); check yours in the 7(k) calculator. More on police shift schedules.
 How many crews does a 12-hour schedule need?
 Four for 24/7 coverage: 168 hours a week divided by 4 crews is 42 hours each. Two crews can cover only day shifts (or only nights). With three crews each person would work 56 hours a week. For 8- and 24-hour options, see 24/7 shift schedule examples.
 12-hour or 8-hour shifts?
