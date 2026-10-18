@@ -32,6 +32,46 @@ All of these cover 24/7 with 12-hour shifts. Pick by what matters to you: full w
 | 2 on 2 off | 13 | 2 days | 2 | Fixed days or nights | 42 | 4
 | 7 on 7 off | 26 | 7 days | 7 | Fixed days or nights | 42 | 4
 *One crew, cycle starting Monday, January 4, 2027. The Pitman, Panama and DuPont give the most full weekends off (every other one on the Pitman and Panama); the DuPont adds a full week off; for no more than two shifts in a row, 2 on 2 off. Patterns with "rotates" switch each crew between days and nights; the others can keep crews on fixed shifts. More detail, overtime and police options: 12-hour shift schedule examples.
+Calculators and guides for shift workers
+Calculators
+Hours calculator
+Time card calculator
+Time calculator
+Paycheck calculator
+Salary calculator
+Tax calculator
+Military time chart
+Sleep calculator
+More shift schedules
+4-5-5 shift pattern
+5-5-4 schedule
+3-4-4-3 schedule
+12-hour schedule with 3 crews
+Southern swing schedule
+8-hour schedule, every other weekend off
+1-3-2-3 schedule
+5-2-5-3 schedule
+24-hour shift schedule template
+Swing shift
+1st, 2nd and 3rd shift hours
+Pay and work rules
+Work hours in a year
+On-call pay
+Clopening
+Days in a row you can work
+Nurse mandatory overtime laws
+PTO on 12-hour shifts
+Baylor shift
+Minimum wage by state
+Dates and time zones
+Daylight saving time
+Weeks in a year
+Date calculator
+UTC time
+EST time
+CST time
+PST to EST
+All guides
 By job
 Nurses
 Firefighters
@@ -140,6 +180,13 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 7 days apart.
 Who uses the Pitman schedule?
 Police departments, manufacturing plants, 911 dispatch and security teams.
 Pitman vs DuPont: which is better?
+Tools for the Pitman schedule
+Hours calculator
+Time card calculator
+PTO on 12-hour shifts
+4-5-5 shift pattern
+12-hour schedule with 3 crews
+Daylight saving time
 Similar patterns
 Panama Schedule28-day cycle, 42 h a week
 DuPont Schedule28-day cycle, 42 h a week
@@ -227,6 +274,13 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 7 days apart.
 | D | 183 | 2,196 | 26
 Who uses the Panama schedule?
 Manufacturing, utilities, healthcare support and law enforcement.
+Tools for the Panama schedule
+Hours calculator
+Time card calculator
+PTO on 12-hour shifts
+4-5-5 shift pattern
+12-hour schedule with 3 crews
+Daylight saving time
 Similar patterns
 Pitman Schedule14-day cycle, 42 h a week
 DuPont Schedule28-day cycle, 42 h a week
@@ -315,6 +369,13 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 7 days apart.
 Who uses the DuPont schedule?
 Chemical plants, refineries, power stations and other continuous operations.
 Pitman vs DuPont: which is better?
+Tools for the DuPont schedule
+Hours calculator
+Time card calculator
+PTO on 12-hour shifts
+4-5-5 shift pattern
+12-hour schedule with 3 crews
+Daylight saving time
 Similar patterns
 Pitman Schedule14-day cycle, 42 h a week
 Panama Schedule28-day cycle, 42 h a week
@@ -406,6 +467,13 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 4 days apart.
 | B | 183 | 2,196 | 18
 Who uses the 4 on 4 off schedule?
 Manufacturing, warehouses, security and some police and ambulance services, especially in the UK and Canada.
+Tools for the 4 on 4 off schedule
+Hours calculator
+Time card calculator
+PTO on 12-hour shifts
+4-5-5 shift pattern
+12-hour schedule with 3 crews
+Daylight saving time
 Similar patterns
 Pitman Schedule14-day cycle, 42 h a week
 Panama Schedule28-day cycle, 42 h a week
@@ -495,6 +563,13 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 7 days apart.
 | B | 182 | 2,184 | 52
 Who uses the 4-3-3-4 schedule?
 Manufacturing and some police forces.
+Tools for the 4-3-3-4 schedule
+Hours calculator
+Time card calculator
+PTO on 12-hour shifts
+4-5-5 shift pattern
+12-hour schedule with 3 crews
+Daylight saving time
 Similar patterns
 Pitman Schedule14-day cycle, 42 h a week
 Panama Schedule28-day cycle, 42 h a week
@@ -586,6 +661,13 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 3 days apart.
 | B | 183 | 2,196 | 18
 Who uses the 3 on 3 off schedule?
 Hospitals, care homes and continuous production.
+Tools for the 3 on 3 off schedule
+Hours calculator
+Time card calculator
+PTO on 12-hour shifts
+4-5-5 shift pattern
+12-hour schedule with 3 crews
+Daylight saving time
 Similar patterns
 Pitman Schedule14-day cycle, 42 h a week
 Panama Schedule28-day cycle, 42 h a week
@@ -677,6 +759,13 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 2 days apart.
 | B | 182 | 2,184 | 13
 Who uses the 2 on 2 off schedule?
 Healthcare, security and smaller plants.
+Tools for the 2 on 2 off schedule
+Hours calculator
+Time card calculator
+PTO on 12-hour shifts
+4-5-5 shift pattern
+12-hour schedule with 3 crews
+Daylight saving time
 Similar patterns
 Pitman Schedule14-day cycle, 42 h a week
 Panama Schedule28-day cycle, 42 h a week
@@ -766,6 +855,13 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 7 days apart.
 | B | 183 | 2,196 | 26
 Who uses the 7 on 7 off schedule?
 Hospitals, security, oil and gas, and some police and ambulance services.
+Tools for the 7 on 7 off schedule
+Hours calculator
+Time card calculator
+PTO on 12-hour shifts
+4-5-5 shift pattern
+12-hour schedule with 3 crews
+Daylight saving time
 Similar patterns
 Pitman Schedule14-day cycle, 42 h a week
 Panama Schedule28-day cycle, 42 h a week
@@ -846,6 +942,12 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 1 days apart.
 Who uses the 24/48 schedule?
 Fire departments and EMS.
 48/96 vs 24/48: which is better?
+Tools for the 24/48 schedule
+24-hour shift schedule template
+1-3-2-3 schedule
+On-call pay
+Time card calculator
+Daylight saving time
 Similar patterns
 48/96 Schedule6-day cycle, 56 h a week
 Kelly Schedule9-day cycle, 56 h a week
@@ -924,6 +1026,12 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 2 days apart.
 Who uses the 48/96 schedule?
 Fire departments, mostly in the western United States.
 48/96 vs 24/48: which is better?
+Tools for the 48/96 schedule
+24-hour shift schedule template
+1-3-2-3 schedule
+On-call pay
+Time card calculator
+Daylight saving time
 Similar patterns
 24/48 Schedule3-day cycle, 56 h a week
 Kelly Schedule9-day cycle, 56 h a week
@@ -999,6 +1107,12 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 3 days apart.
 | C | 121 | 2,904 | 17
 Who uses the Kelly schedule?
 Fire departments in the US and Australia.
+Tools for the Kelly schedule
+24-hour shift schedule template
+1-3-2-3 schedule
+On-call pay
+Time card calculator
+Daylight saving time
 Similar patterns
 24/48 Schedule3-day cycle, 56 h a week
 48/96 Schedule6-day cycle, 56 h a week
@@ -1078,6 +1192,12 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 1 days apart.
 | D | 92 | 2,208 | 26
 Who uses the 24/72 schedule?
 Fire departments that run four platoons (A, B, C and D).
+Tools for the 24/72 schedule
+24-hour shift schedule template
+1-3-2-3 schedule
+On-call pay
+Time card calculator
+Daylight saving time
 Similar patterns
 24/48 Schedule3-day cycle, 56 h a week
 48/96 Schedule6-day cycle, 56 h a week
@@ -1182,6 +1302,13 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 14 days apart.
 | B | 183 | 2,196 | 26
 Who uses the Hitch Rotation schedule?
 Mining, oil and gas, and construction camps in Australia, Canada and offshore.
+Tools for the Hitch Rotation schedule
+Hours calculator
+Time card calculator
+PTO on 12-hour shifts
+4-5-5 shift pattern
+12-hour schedule with 3 crews
+Daylight saving time
 Similar patterns
 Pitman Schedule14-day cycle, 42 h a week
 DuPont Schedule28-day cycle, 42 h a week
@@ -1230,6 +1357,12 @@ The 8/80 overtime rule
 Hospitals and residential care facilities can agree with their staff, before the work is done, to count overtime over a 14-day period instead of a week. Overtime is then due for hours over 8 in a workday and over 80 in the 14 days, at time and a half (29 CFR 778.601, section 7(j) of the FLSA). On 12-hour shifts that means 4 hours of overtime on every shift, so ask payroll whether you are on 8/80 or on the normal 40-hour workweek.
 Weekends and holidays
 Many units ask nurses to work a share of weekends and rotate the major holidays. Choose "All crews" to see which team has each weekend; US federal holidays are marked, so you can count the ones you work and compare them with your unit's holiday rotation.
+Guides for nurses
+Baylor shift
+Nurse mandatory overtime laws
+PTO on 12-hour shifts
+On-call pay
+Time card calculator
 Tips
 If you work three 12s a week on changing days, use "Build your own" and type one or two weeks of your rota.
 Choose "All crews" to see which team covers each day when you plan swaps.
@@ -1271,6 +1404,11 @@ Trading shifts
 Two firefighters can swap shifts voluntarily, with the department's approval. The hours worked as a substitute are left out of the overtime count, and each person is credited as if they had worked their normal schedule (29 CFR 553.31). The swap must be freely chosen: the department can suggest it but cannot penalise anyone who refuses.
 Holidays on a three-platoon schedule
 On a 24/48 each platoon works one day in three, so every holiday is worked by one platoon. Because a normal year has 365 days, the platoon that works a fixed-date holiday such as July 4 changes from one year to the next. Choose "All crews" and change the year to see who works each holiday.
+Guides for firefighters
+24-hour shift schedule template
+1-3-2-3 schedule
+On-call pay
+Paycheck calculator
 Tips
 Choose "All crews" for the classic station calendar with one colour per platoon.
 Kelly days (extra days off to cut weekly hours) differ by department: under "Kelly days" pick how often yours come, for example every 7th shift, and they show on the calendar and in your hours and pay.
@@ -1316,6 +1454,11 @@ Correctional officers
 Security personnel in jails and prisons, meaning staff responsible for controlling and maintaining custody of inmates, are treated as law enforcement under 7(k) and use the same 171-hour standard (29 CFR 553.211(f) and 553.230(b)). Staff in culinary, maintenance, teaching or medical services in the facility are not included and get overtime after 40 hours a week (29 CFR 553.211(g)).
 Trading shifts
 Two officers of the same agency can swap shifts if both agree freely and the agency approves. The hours worked as a substitute are left out of the overtime count, and each officer is credited with their normal schedule (29 CFR 553.31).
+Guides for police officers
+5-2-5-3 schedule
+4-5-5 shift pattern
+Days in a row you can work
+Time card calculator
 Tips
 Choose "All crews" to see which squad is on patrol each day.
 If you work four 10-hour shifts and three days off, use "Build your own" and type DDDDOOO (D for a day shift, N for nights, O for a day off).
@@ -1358,6 +1501,11 @@ Why weekly hours change on a 12-hour rotation
 A 12-hour rotation does not fit the 7-day week, so the number of shifts in a workweek changes: on a Pitman, between two and five (24 to 60 hours). Every hour over 40 in a workweek is overtime under the standard rule; the pay estimate on each calendar counts it week by week for your start date.
 Trading shifts in a public agency
 If your center is run by a public agency, two dispatchers can swap shifts voluntarily with the agency's approval, and the substitute hours are left out of the overtime count (29 CFR 553.31).
+Guides for 911 dispatchers
+On-call pay
+1st, 2nd and 3rd shift hours
+Time card calculator
+Sleep calculator
 Tips
 Choose "All crews" to see which team is on the floor each day.
 Turn on "Your pay" to see weekly overtime under the standard 40-hour rule for your start date.
@@ -1398,6 +1546,11 @@ Which overtime rule applies to EMS
 Paramedics, EMTs and ambulance personnel employed by a municipal, county or state fire department who are trained in fire suppression and have the authority to fight fires fall under the fire protection rules: overtime after 212 hours in 28 days (29 CFR 553.210(a) and 553.230). Ambulance staff who are an integral part of a public agency's law enforcement activities use the law enforcement standard of 171 hours (29 CFR 553.211(b)). The 7(k) exemption is only for public agencies (29 CFR 553.201), so EMTs and paramedics at private ambulance companies are paid overtime after 40 hours in a workweek.
 24-hour shifts and sleep time
 On duty periods of 24 hours or more, employer and employee may agree to exclude meal periods and a regular sleeping period of up to 8 hours from hours worked, if the employer provides adequate sleeping facilities and the employee can usually get an uninterrupted night's sleep. Without such an agreement, the sleeping time counts as hours worked (29 CFR 785.22).
+Guides for paramedics and EMTs
+On-call pay
+24-hour shift schedule template
+1-3-2-3 schedule
+Sleep calculator
 Tips
 Choose "All crews" to see which unit or platoon is on each day.
 The calendar file adds each 24-hour shift as an all-day event, so it does not move at daylight saving time.
