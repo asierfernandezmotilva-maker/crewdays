@@ -22,16 +22,13 @@ Kelly Schedule9-day cycle, 56 h a week
 24/72 Schedule4-day cycle, 42 h a week
 Hitch Rotation Schedule28-day cycle, 42 h a week
 Which 12-hour shift schedule is right for you?
-All of these cover 24/7 with 12-hour shifts. Pick by what matters to you: full weekends off, a long break, short runs of shifts or staying on the same shift.
-| | Pattern | Full weekends off in 2027* | Longest break | Most shifts in a row | Nights | Hours a week | Crews
-| Pitman | 26 | 3 days | 3 | Fixed days or nights | 42 | 4
-| Panama | 26 | 3 days | 3 | Rotates days and nights | 42 | 4
-| DuPont | 26 | 7 days | 4 | Rotates days and nights | 42 | 4
-| 4 on 4 off | 21 | 4 days | 4 | Fixed days or nights | 42 | 4
-| 3 on 3 off | 17 | 3 days | 3 | Fixed days or nights | 42 | 4
-| 2 on 2 off | 13 | 2 days | 2 | Fixed days or nights | 42 | 4
-| 7 on 7 off | 26 | 7 days | 7 | Fixed days or nights | 42 | 4
-*One crew, cycle starting Monday, January 4, 2027. The Pitman, Panama and DuPont give the most full weekends off (every other one on the Pitman and Panama); the DuPont adds a full week off; for no more than two shifts in a row, 2 on 2 off. Patterns with "rotates" switch each crew between days and nights; the others can keep crews on fixed shifts. More detail, overtime and police options: 12-hour shift schedule examples.
+All the common 12-hour schedules cover 24/7 with four crews and average 42 hours a week. Pick by what matters most to you:
+Every other weekend off: the Pitman (2-2-3) or the Panama.
+A full week off every four weeks: the DuPont.
+Never more than two shifts in a row: 2 on 2 off.
+Half the year at home in week-long blocks: 7 on 7 off.
+Staying on days or on nights instead of rotating: the Pitman with fixed crews.
+Weekends off, longest break, runs of shifts and overtime for each one are compared in 12-hour shift schedules compared.
 Calculators and guides for shift workers
 Calculators
 Hours calculator
@@ -63,6 +60,7 @@ Nurse mandatory overtime laws
 PTO on 12-hour shifts
 Baylor shift
 Minimum wage by state
+Night shifts in a row (UK)
 Dates and time zones
 Daylight saving time
 Weeks in a year
@@ -122,7 +120,7 @@ URL: https://crewdays.app/pitman-schedule/
 
 Home / Pitman Schedule
 Pitman Schedule Calendar
-The Pitman schedule is a 12-hour shift pattern that repeats every 14 days: 2 days on, 2 off, 3 on, 2 off, 2 on, 3 off. Pick a day you start work and get your whole year.
+The Pitman schedule is a 12-hour shift pattern that repeats every 14 days: 2 days on, 2 off, 3 on, 2 off, 2 on, 3 off.
 Pitman Schedule at a glance
 Cycle: 14 days
 Shift length: 12 hours
@@ -139,7 +137,6 @@ Crew B: Off, Off, Day, Day, Off, Off, Off, Day, Day, Off, Off, Day, Day, Day
 Night shift (14 days)
 Crew A: Night, Night, Off, Off, Night, Night, Night, Off, Off, Night, Night, Off, Off, Off
 Crew B: Off, Off, Night, Night, Off, Off, Off, Night, Night, Off, Off, Night, Night, Night
-If your rota starts at another point of the cycle, move the start date until one week matches yours.
 Printable Pitman schedule template
 One 14-day cycle. Download the PNG
 Working a Pitman schedule
@@ -161,8 +158,8 @@ How many hours is a Pitman schedule?
 | | Version | Cycle | Crews | Avg hours a week | Hours a year
 | Day shift | 14 days | 2 | 42 | 2,190
 | Night shift | 14 days | 2 | 42 | 2,190
-Hours a year = hours worked in one cycle × 365 ÷ days in the cycle. Day shift: 84 h × 365 ÷ 14 = 2,190 h.
-Pitman pay calculator: hours, overtime and pay a year at your hourly rate.
+Day shift: 84 hours in each 14-day cycle, × 365 ÷ 14 = 2,190 hours a year.
+At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the Pitman pay calculator.
 Pitman Schedule pros and cons
 Pros
 Every other weekend is a full three-day weekend.
@@ -192,9 +189,6 @@ Panama Schedule28-day cycle, 42 h a week
 DuPont Schedule28-day cycle, 42 h a week
 4 on 4 off Schedule8-day cycle, 42 h a week
 3 on 3 off Schedule6-day cycle, 42 h a week
-2 on 2 off Schedule4-day cycle, 42 h a week
-7 on 7 off Schedule14-day cycle, 42 h a week
-4-3-3-4 Schedule14-day cycle, 42 h a week
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a Pitman schedule?
@@ -217,7 +211,7 @@ URL: https://crewdays.app/panama-schedule/
 
 Home / Panama Schedule
 Panama Schedule Calendar
-The Panama schedule uses the same 2-2-3 rhythm as the Pitman, but each crew rotates: 14 days on day shifts, then 14 days on night shifts, for a 28-day cycle. Pick a day you start work and get your whole year.
+The Panama schedule uses the same 2-2-3 rhythm as the Pitman, but each crew rotates: 14 days on day shifts, then 14 days on night shifts, for a 28-day cycle.
 Panama Schedule at a glance
 Cycle: 28 days
 Shift length: 12 hours
@@ -233,7 +227,6 @@ Crew A: Day, Day, Off, Off, Day, Day, Day, Off, Off, Day, Day, Off, Off, Off, Ni
 Crew B: Off, Off, Day, Day, Off, Off, Off, Night, Night, Off, Off, Night, Night, Night, Off, Off, Night, Night, Off, Off, Off, Day, Day, Off, Off, Day, Day, Day
 Crew C: Night, Night, Off, Off, Night, Night, Night, Off, Off, Night, Night, Off, Off, Off, Day, Day, Off, Off, Day, Day, Day, Off, Off, Day, Day, Off, Off, Off
 Crew D: Off, Off, Night, Night, Off, Off, Off, Day, Day, Off, Off, Day, Day, Day, Off, Off, Day, Day, Off, Off, Off, Night, Night, Off, Off, Night, Night, Night
-If your rota starts at another point of the cycle, move the start date until one week matches yours.
 Printable Panama schedule template
 One 28-day cycle. Download the PNG
 Working a Panama schedule
@@ -254,8 +247,8 @@ Federal rule only; California and other daily-overtime states differ (shift pay 
 How many hours is a Panama schedule?
 | | Version | Cycle | Crews | Avg hours a week | Hours a year
 | Rotating days/nights | 28 days | 4 | 42 | 2,190
-Hours a year = hours worked in one cycle × 365 ÷ days in the cycle. Rotating days/nights: 168 h × 365 ÷ 28 = 2,190 h.
-Panama pay calculator: hours, overtime and pay a year at your hourly rate.
+Rotating days/nights: 168 hours in each 28-day cycle, × 365 ÷ 28 = 2,190 hours a year.
+At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the Panama pay calculator.
 Panama Schedule pros and cons
 Pros
 Every other weekend off, as on the Pitman.
@@ -286,9 +279,6 @@ Pitman Schedule14-day cycle, 42 h a week
 DuPont Schedule28-day cycle, 42 h a week
 4 on 4 off Schedule8-day cycle, 42 h a week
 3 on 3 off Schedule6-day cycle, 42 h a week
-2 on 2 off Schedule4-day cycle, 42 h a week
-7 on 7 off Schedule14-day cycle, 42 h a week
-4-3-3-4 Schedule14-day cycle, 42 h a week
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a Panama schedule?
@@ -311,7 +301,7 @@ URL: https://crewdays.app/dupont-schedule/
 
 Home / DuPont Schedule
 DuPont Schedule Calendar
-The DuPont schedule is a 28-day rotating pattern with 12-hour shifts and four crews: 4 nights, 3 off, 3 days, 1 off, 3 nights, 3 off, 4 days, then 7 days off. Pick a day you start work and get your whole year.
+The DuPont schedule is a 28-day rotating pattern with 12-hour shifts and four crews: 4 nights, 3 off, 3 days, 1 off, 3 nights, 3 off, 4 days, then 7 days off.
 DuPont Schedule at a glance
 Cycle: 28 days
 Shift length: 12 hours
@@ -327,7 +317,6 @@ Crew A: Night, Night, Night, Night, Off, Off, Off, Day, Day, Day, Off, Night, Ni
 Crew B: Day, Day, Day, Off, Night, Night, Night, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off, Night, Night, Night, Night, Off, Off, Off
 Crew C: Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off, Night, Night, Night, Night, Off, Off, Off, Day, Day, Day, Off, Night, Night, Night
 Crew D: Off, Off, Off, Off, Off, Off, Off, Night, Night, Night, Night, Off, Off, Off, Day, Day, Day, Off, Night, Night, Night, Off, Off, Off, Day, Day, Day, Day
-If your rota starts at another point of the cycle, move the start date until one week matches yours.
 Printable DuPont schedule template
 One 28-day cycle. Download the PNG
 Working a DuPont schedule
@@ -348,8 +337,8 @@ Federal rule only; California and other daily-overtime states differ (shift pay 
 How many hours is a DuPont schedule?
 | | Version | Cycle | Crews | Avg hours a week | Hours a year
 | Rotating days/nights | 28 days | 4 | 42 | 2,190
-Hours a year = hours worked in one cycle × 365 ÷ days in the cycle. Rotating days/nights: 168 h × 365 ÷ 28 = 2,190 h.
-DuPont pay calculator: hours, overtime and pay a year at your hourly rate.
+Rotating days/nights: 168 hours in each 28-day cycle, × 365 ÷ 28 = 2,190 hours a year.
+At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the DuPont pay calculator.
 DuPont Schedule pros and cons
 Pros
 A full week off every four weeks.
@@ -377,13 +366,10 @@ PTO on 12-hour shifts
 12-hour schedule with 3 crews
 Daylight saving time
 Similar patterns
-Pitman Schedule14-day cycle, 42 h a week
 Panama Schedule28-day cycle, 42 h a week
 4 on 4 off Schedule8-day cycle, 42 h a week
+Pitman Schedule14-day cycle, 42 h a week
 3 on 3 off Schedule6-day cycle, 42 h a week
-2 on 2 off Schedule4-day cycle, 42 h a week
-7 on 7 off Schedule14-day cycle, 42 h a week
-4-3-3-4 Schedule14-day cycle, 42 h a week
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a DuPont schedule?
@@ -406,7 +392,7 @@ URL: https://crewdays.app/4-on-4-off-schedule/
 
 Home / 4 on 4 off Schedule
 4 on 4 off Schedule Calendar
-On a 4 on 4 off schedule you work four 12-hour shifts and then get four days off, an 8-day cycle. Pick a day you start work and get your whole year.
+On a 4 on 4 off schedule you work four 12-hour shifts and then get four days off, an 8-day cycle.
 4 on 4 off Schedule at a glance
 Cycle: 8 days
 Shift length: 12 hours
@@ -425,7 +411,6 @@ Crew A: Day, Day, Day, Day, Off, Off, Off, Off, Night, Night, Night, Night, Off,
 Crew B: Off, Off, Off, Off, Night, Night, Night, Night, Off, Off, Off, Off, Day, Day, Day, Day
 Crew C: Night, Night, Night, Night, Off, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Off
 Crew D: Off, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Off, Night, Night, Night, Night
-If your rota starts at another point of the cycle, move the start date until one week matches yours.
 Printable 4 on 4 off schedule template
 One 8-day cycle. Download the PNG
 Working a 4 on 4 off schedule
@@ -449,8 +434,8 @@ How many hours is a 4 on 4 off schedule?
 | | Version | Cycle | Crews | Avg hours a week | Hours a year
 | Days only | 8 days | 2 | 42 | 2,190
 | Rotating days/nights | 16 days | 4 | 42 | 2,190
-Hours a year = hours worked in one cycle × 365 ÷ days in the cycle. Days only: 48 h × 365 ÷ 8 = 2,190 h.
-4 on 4 off pay calculator: hours, overtime and pay a year at your hourly rate.
+Days only: 48 hours in each 8-day cycle, × 365 ÷ 8 = 2,190 hours a year.
+At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the 4 on 4 off pay calculator.
 4 on 4 off Schedule pros and cons
 Pros
 Four days off every time.
@@ -475,13 +460,10 @@ PTO on 12-hour shifts
 12-hour schedule with 3 crews
 Daylight saving time
 Similar patterns
-Pitman Schedule14-day cycle, 42 h a week
-Panama Schedule28-day cycle, 42 h a week
 DuPont Schedule28-day cycle, 42 h a week
 3 on 3 off Schedule6-day cycle, 42 h a week
+Panama Schedule28-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
-7 on 7 off Schedule14-day cycle, 42 h a week
-4-3-3-4 Schedule14-day cycle, 42 h a week
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a 4 on 4 off schedule?
@@ -504,7 +486,7 @@ URL: https://crewdays.app/4-on-3-off-schedule/
 
 Home / 4-3-3-4 Schedule
 4-3-3-4 Schedule Calendar
-The 4-3-3-4 schedule (4 on, 3 off, 3 on, 4 off) is a 14-day pattern of 12-hour shifts. Pick a day you start work and get your whole year.
+The 4-3-3-4 schedule (4 on, 3 off, 3 on, 4 off) is a 14-day pattern of 12-hour shifts.
 4-3-3-4 Schedule at a glance
 Cycle: 14 days
 Shift length: 12 hours
@@ -523,7 +505,6 @@ Crew A: Day, Day, Day, Day, Off, Off, Off, Day, Day, Day, Off, Off, Off, Off, Ni
 Crew B: Day, Day, Day, Off, Off, Off, Off, Night, Night, Night, Night, Off, Off, Off, Night, Night, Night, Off, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off
 Crew C: Night, Night, Night, Night, Off, Off, Off, Night, Night, Night, Off, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Day, Day, Day, Off, Off, Off, Off
 Crew D: Night, Night, Night, Off, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Day, Day, Day, Off, Off, Off, Off, Night, Night, Night, Night, Off, Off, Off
-If your rota starts at another point of the cycle, move the start date until one week matches yours.
 Printable 4-3-3-4 schedule template
 One 14-day cycle. Download the PNG
 Working a 4-3-3-4 schedule
@@ -545,8 +526,8 @@ How many hours is a 4-3-3-4 schedule?
 | | Version | Cycle | Crews | Avg hours a week | Hours a year
 | Days only | 14 days | 2 | 42 | 2,190
 | Rotating days/nights | 28 days | 4 | 42 | 2,190
-Hours a year = hours worked in one cycle × 365 ÷ days in the cycle. Days only: 84 h × 365 ÷ 14 = 2,190 h.
-4-3-3-4 pay calculator: hours, overtime and pay a year at your hourly rate.
+Days only: 84 hours in each 14-day cycle, × 365 ÷ 14 = 2,190 hours a year.
+At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the 4-3-3-4 pay calculator.
 4-3-3-4 Schedule pros and cons
 Pros
 Same number of shifts every two weeks.
@@ -571,13 +552,10 @@ PTO on 12-hour shifts
 12-hour schedule with 3 crews
 Daylight saving time
 Similar patterns
-Pitman Schedule14-day cycle, 42 h a week
-Panama Schedule28-day cycle, 42 h a week
-DuPont Schedule28-day cycle, 42 h a week
-4 on 4 off Schedule8-day cycle, 42 h a week
-3 on 3 off Schedule6-day cycle, 42 h a week
-2 on 2 off Schedule4-day cycle, 42 h a week
 7 on 7 off Schedule14-day cycle, 42 h a week
+2 on 2 off Schedule4-day cycle, 42 h a week
+3 on 3 off Schedule6-day cycle, 42 h a week
+4 on 4 off Schedule8-day cycle, 42 h a week
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a 4-3-3-4 schedule?
@@ -600,7 +578,7 @@ URL: https://crewdays.app/3-on-3-off-schedule/
 
 Home / 3 on 3 off Schedule
 3 on 3 off Schedule Calendar
-A 3 on 3 off schedule is three 12-hour shifts followed by three days off, a 6-day cycle. Pick a day you start work and get your whole year.
+A 3 on 3 off schedule is three 12-hour shifts followed by three days off, a 6-day cycle.
 3 on 3 off Schedule at a glance
 Cycle: 6 days
 Shift length: 12 hours
@@ -619,7 +597,6 @@ Crew A: Day, Day, Day, Off, Off, Off, Night, Night, Night, Off, Off, Off
 Crew B: Off, Off, Off, Night, Night, Night, Off, Off, Off, Day, Day, Day
 Crew C: Night, Night, Night, Off, Off, Off, Day, Day, Day, Off, Off, Off
 Crew D: Off, Off, Off, Day, Day, Day, Off, Off, Off, Night, Night, Night
-If your rota starts at another point of the cycle, move the start date until one week matches yours.
 Printable 3 on 3 off schedule template
 One 6-day cycle. Download the PNG
 Working a 3 on 3 off schedule
@@ -643,8 +620,8 @@ How many hours is a 3 on 3 off schedule?
 | | Version | Cycle | Crews | Avg hours a week | Hours a year
 | Days only | 6 days | 2 | 42 | 2,190
 | Rotating days/nights | 12 days | 4 | 42 | 2,190
-Hours a year = hours worked in one cycle × 365 ÷ days in the cycle. Days only: 36 h × 365 ÷ 6 = 2,190 h.
-3 on 3 off pay calculator: hours, overtime and pay a year at your hourly rate.
+Days only: 36 hours in each 6-day cycle, × 365 ÷ 6 = 2,190 hours a year.
+At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the 3 on 3 off pay calculator.
 3 on 3 off Schedule pros and cons
 Pros
 Short work blocks.
@@ -669,13 +646,10 @@ PTO on 12-hour shifts
 12-hour schedule with 3 crews
 Daylight saving time
 Similar patterns
-Pitman Schedule14-day cycle, 42 h a week
-Panama Schedule28-day cycle, 42 h a week
-DuPont Schedule28-day cycle, 42 h a week
 4 on 4 off Schedule8-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
+DuPont Schedule28-day cycle, 42 h a week
 7 on 7 off Schedule14-day cycle, 42 h a week
-4-3-3-4 Schedule14-day cycle, 42 h a week
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a 3 on 3 off schedule?
@@ -698,7 +672,7 @@ URL: https://crewdays.app/2-on-2-off-schedule/
 
 Home / 2 on 2 off Schedule
 2 on 2 off Schedule Calendar
-A 2 on 2 off schedule is two 12-hour shifts followed by two days off, a 4-day cycle. Pick a day you start work and get your whole year.
+A 2 on 2 off schedule is two 12-hour shifts followed by two days off, a 4-day cycle.
 2 on 2 off Schedule at a glance
 Cycle: 4 days
 Shift length: 12 hours
@@ -717,7 +691,6 @@ Crew A: Day, Day, Off, Off, Night, Night, Off, Off
 Crew B: Off, Off, Night, Night, Off, Off, Day, Day
 Crew C: Night, Night, Off, Off, Day, Day, Off, Off
 Crew D: Off, Off, Day, Day, Off, Off, Night, Night
-If your rota starts at another point of the cycle, move the start date until one week matches yours.
 Printable 2 on 2 off schedule template
 One 4-day cycle. Download the PNG
 Working a 2 on 2 off schedule
@@ -741,8 +714,8 @@ How many hours is a 2 on 2 off schedule?
 | | Version | Cycle | Crews | Avg hours a week | Hours a year
 | Days only | 4 days | 2 | 42 | 2,190
 | Rotating days/nights | 8 days | 4 | 42 | 2,190
-Hours a year = hours worked in one cycle × 365 ÷ days in the cycle. Days only: 24 h × 365 ÷ 4 = 2,190 h.
-2 on 2 off pay calculator: hours, overtime and pay a year at your hourly rate.
+Days only: 24 hours in each 4-day cycle, × 365 ÷ 4 = 2,190 hours a year.
+At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the 2 on 2 off pay calculator.
 2 on 2 off Schedule pros and cons
 Pros
 Never more than two long shifts in a row.
@@ -767,12 +740,9 @@ PTO on 12-hour shifts
 12-hour schedule with 3 crews
 Daylight saving time
 Similar patterns
-Pitman Schedule14-day cycle, 42 h a week
-Panama Schedule28-day cycle, 42 h a week
-DuPont Schedule28-day cycle, 42 h a week
-4 on 4 off Schedule8-day cycle, 42 h a week
 3 on 3 off Schedule6-day cycle, 42 h a week
 7 on 7 off Schedule14-day cycle, 42 h a week
+4 on 4 off Schedule8-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -796,7 +766,7 @@ URL: https://crewdays.app/7-on-7-off-schedule/
 
 Home / 7 on 7 off Schedule
 7 on 7 off Schedule Calendar
-A 7 on 7 off schedule is seven shifts in a row followed by seven days off, a 14-day cycle. Pick a day you start work and get your whole year.
+A 7 on 7 off schedule is seven shifts in a row followed by seven days off, a 14-day cycle.
 7 on 7 off Schedule at a glance
 Cycle: 14 days
 Shift length: 12 hours
@@ -815,7 +785,6 @@ Crew A: Day, Day, Day, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off, Ni
 Crew B: Off, Off, Off, Off, Off, Off, Off, Night, Night, Night, Night, Night, Night, Night, Off, Off, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day, Day, Day
 Crew C: Night, Night, Night, Night, Night, Night, Night, Off, Off, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off
 Crew D: Off, Off, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off, Night, Night, Night, Night, Night, Night, Night
-If your rota starts at another point of the cycle, move the start date until one week matches yours.
 Printable 7 on 7 off schedule template
 One 14-day cycle. Download the PNG
 Working a 7 on 7 off schedule
@@ -837,8 +806,8 @@ How many hours is a 7 on 7 off schedule?
 | | Version | Cycle | Crews | Avg hours a week | Hours a year
 | Days only | 14 days | 2 | 42 | 2,190
 | Rotating days/nights | 28 days | 4 | 42 | 2,190
-Hours a year = hours worked in one cycle × 365 ÷ days in the cycle. Days only: 84 h × 365 ÷ 14 = 2,190 h.
-7 on 7 off pay calculator: hours, overtime and pay a year at your hourly rate.
+Days only: 84 hours in each 14-day cycle, × 365 ÷ 14 = 2,190 hours a year.
+At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the 7 on 7 off pay calculator.
 7 on 7 off Schedule pros and cons
 Pros
 A full week off every other week.
@@ -863,13 +832,10 @@ PTO on 12-hour shifts
 12-hour schedule with 3 crews
 Daylight saving time
 Similar patterns
-Pitman Schedule14-day cycle, 42 h a week
-Panama Schedule28-day cycle, 42 h a week
-DuPont Schedule28-day cycle, 42 h a week
-4 on 4 off Schedule8-day cycle, 42 h a week
-3 on 3 off Schedule6-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
+3 on 3 off Schedule6-day cycle, 42 h a week
+4 on 4 off Schedule8-day cycle, 42 h a week
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a 7 on 7 off schedule?
@@ -892,7 +858,7 @@ URL: https://crewdays.app/24-48-schedule/
 
 Home / 24/48 Schedule
 24/48 Schedule Calendar
-On a 24/48 schedule you work one 24-hour shift and then have 48 hours off, a 3-day cycle. Pick a day you start work and get your whole year.
+On a 24/48 schedule you work one 24-hour shift and then have 48 hours off, a 3-day cycle.
 24/48 Schedule at a glance
 Cycle: 3 days
 Shift length: 24 hours
@@ -907,7 +873,6 @@ Standard (3 days)
 Crew A: 24h, Off, Off
 Crew B: Off, Off, 24h
 Crew C: Off, 24h, Off
-If your rota starts at another point of the cycle, move the start date until one week matches yours.
 Printable 24/48 schedule template
 One 3-day cycle. Download the PNG
 Working a 24/48 schedule
@@ -922,8 +887,8 @@ Try your own work period in the 7(k) overtime calculator.
 How many hours is a 24/48 schedule?
 | | Version | Cycle | Crews | Avg hours a week | Hours a year
 | Standard | 3 days | 3 | 56 | 2,920
-Hours a year = hours worked in one cycle × 365 ÷ days in the cycle. Standard: 24 h × 365 ÷ 3 = 2,920 h.
-24/48 pay calculator: hours, overtime and pay a year at your hourly rate.
+Standard: 24 hours in each 3-day cycle, × 365 ÷ 3 = 2,920 hours a year.
+At $25 an hour, 2,920 hours come to $73,000 before any overtime premium; try your own rate in the 24/48 pay calculator.
 24/48 Schedule pros and cons
 Pros
 Two full days off after every shift.
@@ -976,7 +941,7 @@ URL: https://crewdays.app/48-96-schedule/
 
 Home / 48/96 Schedule
 48/96 Schedule Calendar
-On a 48/96 schedule you work two 24-hour shifts back to back (48 hours) and then have 96 hours off, a 6-day cycle. Pick a day you start work and get your whole year.
+On a 48/96 schedule you work two 24-hour shifts back to back (48 hours) and then have 96 hours off, a 6-day cycle.
 48/96 Schedule at a glance
 Cycle: 6 days
 Shift length: 24 hours
@@ -991,7 +956,6 @@ Standard (6 days)
 Crew A: 24h, 24h, Off, Off, Off, Off
 Crew B: Off, Off, Off, Off, 24h, 24h
 Crew C: Off, Off, 24h, 24h, Off, Off
-If your rota starts at another point of the cycle, move the start date until one week matches yours.
 Printable 48/96 schedule template
 One 6-day cycle. Download the PNG
 Working a 48/96 schedule
@@ -1006,8 +970,8 @@ Try your own work period in the 7(k) overtime calculator.
 How many hours is a 48/96 schedule?
 | | Version | Cycle | Crews | Avg hours a week | Hours a year
 | Standard | 6 days | 3 | 56 | 2,920
-Hours a year = hours worked in one cycle × 365 ÷ days in the cycle. Standard: 48 h × 365 ÷ 6 = 2,920 h.
-48/96 pay calculator: hours, overtime and pay a year at your hourly rate.
+Standard: 48 hours in each 6-day cycle, × 365 ÷ 6 = 2,920 hours a year.
+At $25 an hour, 2,920 hours come to $73,000 before any overtime premium; try your own rate in the 48/96 pay calculator.
 48/96 Schedule pros and cons
 Pros
 Four full days off in every 6.
@@ -1060,7 +1024,7 @@ URL: https://crewdays.app/kelly-schedule/
 
 Home / Kelly Schedule
 Kelly Schedule Calendar
-The Kelly schedule is a 9-day firefighter pattern: 24 on, 24 off, 24 on, 24 off, 24 on, then 4 days off. Pick a day you start work and get your whole year.
+The Kelly schedule is a 9-day firefighter pattern: 24 on, 24 off, 24 on, 24 off, 24 on, then 4 days off.
 Kelly Schedule at a glance
 Cycle: 9 days
 Shift length: 24 hours
@@ -1075,7 +1039,6 @@ Standard (9 days)
 Crew A: 24h, Off, 24h, Off, 24h, Off, Off, Off, Off
 Crew B: Off, 24h, Off, Off, Off, Off, 24h, Off, 24h
 Crew C: Off, Off, Off, 24h, Off, 24h, Off, 24h, Off
-If your rota starts at another point of the cycle, move the start date until one week matches yours.
 Printable Kelly schedule template
 One 9-day cycle. Download the PNG
 Working a Kelly schedule
@@ -1088,8 +1051,8 @@ Try your own work period in the 7(k) overtime calculator.
 How many hours is a Kelly schedule?
 | | Version | Cycle | Crews | Avg hours a week | Hours a year
 | Standard | 9 days | 3 | 56 | 2,920
-Hours a year = hours worked in one cycle × 365 ÷ days in the cycle. Standard: 72 h × 365 ÷ 9 = 2,920 h.
-Kelly pay calculator: hours, overtime and pay a year at your hourly rate.
+Standard: 72 hours in each 9-day cycle, × 365 ÷ 9 = 2,920 hours a year.
+At $25 an hour, 2,920 hours come to $73,000 before any overtime premium; try your own rate in the Kelly pay calculator.
 Kelly Schedule pros and cons
 Pros
 A 4-day break every 9 days.
@@ -1114,9 +1077,9 @@ On-call pay
 Time card calculator
 Daylight saving time
 Similar patterns
-24/48 Schedule3-day cycle, 56 h a week
 48/96 Schedule6-day cycle, 56 h a week
 24/72 Schedule4-day cycle, 42 h a week
+24/48 Schedule3-day cycle, 56 h a week
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a Kelly schedule?
@@ -1141,7 +1104,7 @@ URL: https://crewdays.app/24-72-schedule/
 
 Home / 24/72 Schedule
 24/72 Schedule Calendar
-On a 24/72 schedule you work one 24-hour shift and then have 72 hours off, a 4-day cycle. Pick a day you start work and get your whole year.
+On a 24/72 schedule you work one 24-hour shift and then have 72 hours off, a 4-day cycle.
 24/72 Schedule at a glance
 Cycle: 4 days
 Shift length: 24 hours
@@ -1157,7 +1120,6 @@ Crew A: 24h, Off, Off, Off
 Crew B: Off, Off, Off, 24h
 Crew C: Off, Off, 24h, Off
 Crew D: Off, 24h, Off, Off
-If your rota starts at another point of the cycle, move the start date until one week matches yours.
 Printable 24/72 schedule template
 One 4-day cycle. Download the PNG
 Working a 24/72 schedule
@@ -1172,8 +1134,8 @@ Try your own work period in the 7(k) overtime calculator.
 How many hours is a 24/72 schedule?
 | | Version | Cycle | Crews | Avg hours a week | Hours a year
 | Standard | 4 days | 4 | 42 | 2,190
-Hours a year = hours worked in one cycle × 365 ÷ days in the cycle. Standard: 24 h × 365 ÷ 4 = 2,190 h.
-24/72 pay calculator: hours, overtime and pay a year at your hourly rate.
+Standard: 24 hours in each 4-day cycle, × 365 ÷ 4 = 2,190 hours a year.
+At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the 24/72 pay calculator.
 24/72 Schedule pros and cons
 Pros
 Three days off after every shift.
@@ -1199,9 +1161,9 @@ On-call pay
 Time card calculator
 Daylight saving time
 Similar patterns
-24/48 Schedule3-day cycle, 56 h a week
-48/96 Schedule6-day cycle, 56 h a week
 Kelly Schedule9-day cycle, 56 h a week
+48/96 Schedule6-day cycle, 56 h a week
+24/48 Schedule3-day cycle, 56 h a week
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a 24/72 schedule?
@@ -1226,7 +1188,7 @@ URL: https://crewdays.app/fifo-schedule/
 
 Home / Hitch Rotation Schedule
 Hitch Rotation Schedule Calendar
-A hitch rotation (FIFO roster in Australia, fly in, fly out) is a block of 12-hour shifts on site followed by a block at home. Pick a day you start work and get your whole year.
+A hitch rotation (FIFO roster in Australia, fly in, fly out) is a block of 12-hour shifts on site followed by a block at home.
 Hitch Rotation Schedule at a glance
 Cycle: 28 days
 Shift length: 12 hours
@@ -1258,7 +1220,6 @@ Crew D: Off, Off, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day, Day, Day, Da
 28 on 28 off (56 days)
 Crew A: Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off
 Crew B: Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day
-If your rota starts at another point of the cycle, move the start date until one week matches yours.
 Printable Hitch Rotation schedule template
 One 28-day cycle. Download the PNG
 Working a Hitch Rotation schedule
@@ -1284,8 +1245,8 @@ How many hours is a Hitch Rotation schedule?
 | 7 on 7 off | 14 days | 2 | 42 | 2,190
 | 21 on 7 off | 28 days | 4 | 63 | 3,285
 | 28 on 28 off | 56 days | 2 | 42 | 2,190
-Hours a year = hours worked in one cycle × 365 ÷ days in the cycle. 14 on 14 off: 168 h × 365 ÷ 28 = 2,190 h.
-Hitch Rotation pay calculator: hours, overtime and pay a year at your hourly rate.
+14 on 14 off: 168 hours in each 28-day cycle, × 365 ÷ 28 = 2,190 hours a year.
+At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the Hitch Rotation pay calculator.
 Hitch Rotation Schedule pros and cons
 Pros
 Long, predictable breaks at home.
@@ -1773,6 +1734,8 @@ Home / About Crewdays
 About Crewdays
 A free calendar and pay tools for people who work rotating shifts, checked against official sources.
 Crewdays turns a shift pattern into a calendar for the whole year. It was made by Asier Fernández because most shift calendars online cover a single pattern or ask you to sign up.
+Who writes the guides
+The calendars, calculators and guides are written and maintained by Asier Fernández. Each guide starts from the questions shift workers actually search for, then the answer is worked out with the same code as the calendar or taken from the official text of the rule it quotes, read on the day the guide was written. Every guide shows its date and links its sources. Asier Fernández is not a lawyer or a tax adviser: the guides explain the rules and show the numbers, and for a decision about your own pay or contract, check your employer's policy, your union or an adviser.
 How the calendar is worked out
 Each pattern is a cycle of days, for example 14 days for the Pitman. From the day you start a block, Crewdays counts forward and back through the cycle, so every date of the year gets its shift. Hours are scheduled hours: the shift length times the shifts worked. Holidays are the 11 US federal holidays (5 U.S.C. 6103) on their actual date.
 Check it against your rota
@@ -2323,12 +2286,12 @@ Three 12-hour shifts a week, the usual hospital contract, is 36 hours: 1,872 a y
 From hourly pay to a yearly salary
 Multiply your hourly rate by your yearly hours. At $25 an hour, 2,080 hours is $52,000; 2,088 hours is $52,200; a 12-hour rotation at 2,184 hours is $54,600 before any overtime premium. If you are paid every two weeks, 2027 can also bring a 27th paycheck: see the 2027 pay period calendar.
 More guides
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
-Military time chart
+On-call pay
+Clopening
+Days in a row you can work
+Nurse mandatory overtime laws
+PTO on 12-hour shifts
+Baylor shift
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2378,12 +2341,12 @@ Federal child labor rules keep 14- and 15-year-olds to the hours between 7 a.m. 
 Rotating between the three shifts
 Some plants rotate crews through all three: a week of days, a week of evenings and a week of nights. The southern swing is the classic version for four crews: 7 day shifts, 2 off, 7 evenings, 2 off, 7 nights and 3 off, a 28-day cycle. In 2027 one crew works 273 shifts (2,184 hours), a third of them on each shift. Choose “Southern swing” in the shift calendar to see your year, or compare other options on 24/7 shift schedules.
 More guides
-Work hours in a year
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
-Military time chart
+4-5-5 shift pattern
+5-5-4 schedule
+3-4-4-3 schedule
+12-hour schedule with 3 crews
+Southern swing schedule
+8-hour schedule, every other weekend off
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2440,12 +2403,12 @@ On a rotating schedule only part of your shifts carry a night differential, so y
 Living with a swing shift
 A few habits make rotating easier. Plan the first day off after nights as a recovery day, not a day for errands. Keep the same sleep window for the whole run of nights, including the days in between if you have only one off. Share the calendar with your family so the swing weeks are no surprise: the shift calendar gives a link that opens on any phone. On the night the clocks change, a 12-hour night shift lasts 13 or 11 hours; see daylight saving time on night shift.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Time calculator
-Hours calculator
-Time card calculator
-Military time chart
+4-5-5 shift pattern
+5-5-4 schedule
+3-4-4-3 schedule
+12-hour schedule with 3 crews
+Southern swing schedule
+8-hour schedule, every other weekend off
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2492,11 +2455,11 @@ Many employers round punches to the nearest 5 minutes, tenth of an hour (6 minut
 More time tools
 To total a whole week of punches with overtime, use the time card calculator. For the hours between a start and end time, the hours calculator; for a 24-hour clock, the military time chart. Shift patterns and their yearly hours are in the shift calendar.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
 Hours calculator
 Time card calculator
+Paycheck calculator
+Salary calculator
+Tax calculator
 Military time chart
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
@@ -2546,11 +2509,11 @@ To pay hours and minutes, turn the minutes into a decimal by dividing by 60: 11 
 Totals for a week or a year
 For several days at once and weekly overtime, use the time card calculator. To count a year of shifts on a rotating schedule, put your pattern in the shift calendar; the work hours in a year guide compares 8, 12 and 24-hour schedules.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
 Time card calculator
+Time calculator
+Paycheck calculator
+Salary calculator
+Tax calculator
 Military time chart
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
@@ -2586,11 +2549,11 @@ Record the actual times you started and stopped work; rounding is accepted only 
 Only take off breaks you spent completely off duty; short rest breaks are paid time.
 Keep your own copy of each week: it is the quickest way to check a paycheck.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
 Hours calculator
+Time calculator
+Paycheck calculator
+Salary calculator
+Tax calculator
 Military time chart
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
@@ -2654,12 +2617,12 @@ Military time on shift schedules
 Hospitals, police, fire departments and plants write shift times on the 24-hour clock because it removes any doubt about a.m. and p.m. A 12-hour rotation usually runs 0700–1900 and 1900–0700; 8-hour shifts often run 0700–1500, 1500–2300 and 2300–0700. See 1st, 2nd and 3rd shift hours. To total hours on a time card that uses the 24-hour clock, use the hours calculator.
 Military and aviation schedules also add a time zone letter. “Z”, or Zulu time, means Coordinated Universal Time (UTC).
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
 Hours calculator
 Time card calculator
+Time calculator
+Paycheck calculator
+Salary calculator
+Tax calculator
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2696,12 +2659,12 @@ Overtime here is paid at time and a half for every hour you enter as overtime. F
 The overtime deduction
 From 2025 to 2028 you can deduct the extra half of qualified overtime pay (the part above your regular rate) when you file: up to $12,500 a year, or $25,000 filing jointly, phased out above $150,000 of modified adjusted gross income ($300,000 jointly). You need a valid Social Security number and married couples must file jointly (IRS). It does not reduce Social Security or Medicare. Choose “Yes” above to see its effect on the yearly tax spread over each paycheck; your employer's withholding may not include it.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
 Hours calculator
 Time card calculator
+Time calculator
+Salary calculator
+Tax calculator
+Military time chart
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2750,12 +2713,12 @@ A night differential adds up quickly: $2 an hour extra on half of the 2,184 hour
 Shift workers: count the overtime
 On a 12-hour rotation the weeks are uneven, so some weeks pass 40 hours and pay overtime even though the average is 42. Depending on the day your employer's workweek starts, a Pitman crew can work anything from about 208 to 520 overtime hours a year. The shift pay calculator adds that overtime for your pattern, and the paycheck calculator shows take-home pay.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
 Hours calculator
 Time card calculator
+Time calculator
+Paycheck calculator
+Tax calculator
+Military time chart
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2797,12 +2760,12 @@ For 2025 to 2028 you can deduct qualified overtime compensation: the pay above y
 Payroll taxes are separate
 Social Security (6.2% up to $184,500 of wages) and Medicare (1.45%) come out of every paycheck on top of income tax. The paycheck calculator shows all of them for one pay period.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
 Hours calculator
 Time card calculator
+Time calculator
+Paycheck calculator
+Salary calculator
+Military time chart
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2843,12 +2806,12 @@ If you work through the change, your shift is one hour longer in the fall and on
 Your body clock
 Losing an hour in March feels like a short night for most people, and harder for anyone already short of sleep. The sleep calculator helps you plan bedtime around a set wake-up time. For calendars that do not move when the clocks change, the shift files from the shift calendar use all-day events.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+Weeks in a year
+Date calculator
+UTC time
+EST time
+CST time
+PST to EST
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2883,12 +2846,12 @@ Sleeping after a night shift
 After nights, the hardest part is sleeping in daylight. Go to bed as soon as you can after you get home, make the room dark and cool, and keep the same sleep window for every night of the run. For people on day schedules, NIOSH recommends a brief nap of under 20 minutes, with an alarm set for 15 to 30 minutes: it raises alertness for a couple of hours with little grogginess. Whatever your shift, waking up before you reach deep sleep, or after a full cycle of about 90 minutes, is what keeps the grogginess short.
 Plan the swap back to days too: the first day off after a run of nights is partly a recovery day. See swing shift schedules for rotations that change between days and nights, and the clock change dates if you work through one.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
 Hours calculator
 Time card calculator
+Time calculator
+Paycheck calculator
+Salary calculator
+Tax calculator
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2929,12 +2892,12 @@ Weeks and paychecks
 Work weeks and hours
 At 40 hours a week, 52 weeks is 2,080 work hours. Taking out two weeks of vacation leaves 50 working weeks and 2,000 hours. For the exact weekday count of each year and the hours of rotating shift schedules, see work hours in a year.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+Daylight saving time
+Date calculator
+UTC time
+EST time
+CST time
+PST to EST
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2971,12 +2934,12 @@ For week numbers, see how many weeks are in a year; for working days and hours, 
 Dates on a shift rotation
 Rotating schedules repeat every few days: 14 for a Pitman, 28 for a DuPont, 3 for a 24/48. To find whether you work on a given date, count the days from a day you know you started a block and divide by the cycle length; the remainder tells you where you are in the cycle. The shift calendar does this for every day of the year at once.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+Daylight saving time
+Weeks in a year
+UTC time
+EST time
+CST time
+PST to EST
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3061,11 +3024,11 @@ Minimum wage for shift workers
 A shift differential is paid on top of your base rate and, under federal rules, it counts in the regular rate used to work out overtime (29 CFR 778.207(b)). A few states add daily overtime that matters on 12-hour shifts: California after 8 hours a day and double time after 12, Alaska after 8 and Colorado after 12. At $16.90 in California, a 12-hour shift pays 8 hours at the regular rate and 4 at time and a half. See the shift pay calculator for a whole year and the salary calculator to turn a rate into a yearly figure.
 More guides
 Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+On-call pay
+Clopening
+Days in a row you can work
+Nurse mandatory overtime laws
+PTO on 12-hour shifts
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3111,11 +3074,11 @@ Is a Baylor shift right for you?
 It suits students, parents who share childcare with a weekday partner and nurses who want weekdays free for a second job. The cost is the weekends: about 104 weekend days a year at work. To plan around it, add your weekend shifts to the shift calendar with “Build your own” and the cycle OOOOODD (start it on a Monday). For other nursing patterns see nurse shift schedules.
 More guides
 Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+On-call pay
+Clopening
+Days in a row you can work
+Nurse mandatory overtime laws
+PTO on 12-hour shifts
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3158,11 +3121,11 @@ Rest between shifts on rotating schedules
 In 24/7 plants and hospitals the pattern itself sets the rest: on a 12-hour rotation you normally get at least 24 hours before a change from nights to days. In the UK, workers are entitled to 11 consecutive hours of rest in each 24-hour period; see UK working time rules.
 More guides
 Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+On-call pay
+Days in a row you can work
+Nurse mandatory overtime laws
+PTO on 12-hour shifts
+Baylor shift
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3205,12 +3168,12 @@ The cycle is 15 days, so your days move through the week. A crew gets 12 to 16, 
 Who uses it and alternatives
 The 5-5-4 appears in plants and contact centers that run three crews. If the hours are too high, the four-crew rotations average 42 hours: compare the DuPont (also with a long break) and the other 12-hour schedules. Choose “5-5-4” in the shift calendar to get your year, with every crew, holidays and a file for your phone.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+4-5-5 shift pattern
+3-4-4-3 schedule
+12-hour schedule with 3 crews
+Southern swing schedule
+8-hour schedule, every other weekend off
+1-3-2-3 schedule
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3254,12 +3217,12 @@ They are the same cycle read from a different day: the 4-3-3-4 starts with the f
 Overtime
 The weeks alternate between 36 and 48 hours. With a Monday workweek, the 48-hour week has 8 hours of federal overtime, about 208 hours a year; moving the workweek start changes it, up to 208 (29 CFR 778.105). Choose “3-4-4-3” in the shift calendar to get your year, with every crew, holidays and a file for your phone.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+4-5-5 shift pattern
+5-5-4 schedule
+12-hour schedule with 3 crews
+Southern swing schedule
+8-hour schedule, every other weekend off
+1-3-2-3 schedule
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3306,12 +3269,12 @@ The fire service solves the same problem with one 24-hour shift and two days off
 When three teams make sense
 For a short period, a seasonal peak or a small site, three teams can work with the overtime budgeted. For the long run, four teams at 42 hours are the norm. Choose “2 days, 2 nights, 2 off (3 crews)” in the shift calendar to get your year, with every crew, holidays and a file for your phone.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+4-5-5 shift pattern
+5-5-4 schedule
+3-4-4-3 schedule
+Southern swing schedule
+8-hour schedule, every other weekend off
+1-3-2-3 schedule
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3352,11 +3315,11 @@ Shift schedules and long runs
 Common rotations keep runs short: the Pitman never goes above 3 shifts in a row and the DuPont 4. Longer runs belong to specific patterns, such as the 7 on 7 off or 14-day hitches on oil rigs (hitch rotations). If you are asked to work many days in a row, count the overtime: the time card calculator shows it week by week.
 More guides
 Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+On-call pay
+Clopening
+Nurse mandatory overtime laws
+PTO on 12-hour shifts
+Baylor shift
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3396,11 +3359,11 @@ Fire, EMS and police on 24-hour shifts
 For employees under section 7(k), the general rules of part 785 apply, with special rules for sleep time (29 CFR 553.221 and 553.222). On shifts of more than 24 hours, up to 8 hours of sleep can be left out of paid hours by agreement, but calls that interrupt it count, and if you cannot sleep at least 5 hours the whole period counts. See the 7(k) overtime calculator and EMS shift schedules.
 More guides
 Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+Clopening
+Days in a row you can work
+Nurse mandatory overtime laws
+PTO on 12-hour shifts
+Baylor shift
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3446,11 +3409,11 @@ Federal law: overtime pay, not limits
 The Fair Labor Standards Act sets no limit on hours but requires overtime pay for hours over 40 in a workweek, or under the 8/80 system for hospitals: over 8 hours in a day and 80 in 14 days (29 CFR 778.601). On 12-hour shifts under 8/80, every shift carries 4 hours of overtime. Use the time card calculator to check your week and nurse shift schedules to compare rotations.
 More guides
 Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+On-call pay
+Clopening
+Days in a row you can work
+PTO on 12-hour shifts
+Baylor shift
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3493,11 +3456,11 @@ Check whether PTO counts as hours worked for overtime: under federal rules, paid
 For the year's hours and pay of your pattern, use the shift pay calculator.
 More guides
 Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+On-call pay
+Clopening
+Days in a row you can work
+Nurse mandatory overtime laws
+Baylor shift
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3540,12 +3503,12 @@ Write the cycle once, one letter per day, then shift it for each platoon: on a 2
 Which one to choose
 The 24/48 is the most common; the 48/96 halves the commutes; the 24/72 needs a fourth platoon but brings the week down to 42 hours. Compare them in 48/96 vs 24/48 and on firefighter shift schedules.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+4-5-5 shift pattern
+5-5-4 schedule
+3-4-4-3 schedule
+12-hour schedule with 3 crews
+Southern swing schedule
+8-hour schedule, every other weekend off
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3582,11 +3545,11 @@ How common rotas compare
 On a continental rota you never work more than 2 nights in a row; on a 4 on 4 off rotating pattern, 4 nights; on a DuPont-type pattern, 4. Check your own rota against the 48-hour average week and the 11-hour daily rest on the UK rota calendar, and plan the bank holidays with bank holidays for shift workers.
 More guides
 Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+On-call pay
+Clopening
+Days in a row you can work
+Nurse mandatory overtime laws
+PTO on 12-hour shifts
 All guides
 Figures are worked out from each cycle; rules checked against official sources on 18 October 2026. How we calculate
 Questions
@@ -3637,12 +3600,12 @@ You work about 273 days a year, against about 182 on 12-hour schedules.
 Alternatives
 Plants moving away from the southern swing often switch to 12-hour schedules with four crews, such as the Pitman or DuPont, which keep the 42-hour average with fewer working days. See 1st, 2nd and 3rd shift hours and swing shift. Choose “Southern swing” in the shift calendar to get your year, with every crew, holidays and a file for your phone.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+4-5-5 shift pattern
+5-5-4 schedule
+3-4-4-3 schedule
+12-hour schedule with 3 crews
+8-hour schedule, every other weekend off
+1-3-2-3 schedule
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3679,12 +3642,12 @@ If 7 shifts in a row is too many, the 12-hour Pitman (2-2-3) also gives every ot
 Make the calendar
 In the shift calendar choose “Build your own”, type OODDDDDDDODDDO with 8-hour shifts and set the start to a Saturday you have off. Share the link with whoever covers the other weeks.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+4-5-5 shift pattern
+5-5-4 schedule
+3-4-4-3 schedule
+12-hour schedule with 3 crews
+Southern swing schedule
+1-3-2-3 schedule
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3732,12 +3695,12 @@ Fire departments usually pay overtime after 212 hours in a 28-day work period (2
 Make the calendar
 Choose “1-3-2-3” in the shift calendar to get your year, with every crew, holidays and a file for your phone. Pick “All crews” for the A, B and C platoon calendar, or see the 24-hour schedule templates.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+4-5-5 shift pattern
+5-5-4 schedule
+3-4-4-3 schedule
+12-hour schedule with 3 crews
+Southern swing schedule
+8-hour schedule, every other weekend off
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3778,12 +3741,12 @@ Because the cycle is 15 days, the days off move through the week: 9 to 12, depen
 Similar schedules
 For 10- and 12-hour police patterns, see police shift schedules. Other 8-hour options are the southern swing and the 8-hour schedule with every other weekend off. Choose “5-2-5-3” in the shift calendar to get your year, with every crew, holidays and a file for your phone.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+4-5-5 shift pattern
+5-5-4 schedule
+3-4-4-3 schedule
+12-hour schedule with 3 crews
+Southern swing schedule
+8-hour schedule, every other weekend off
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3842,12 +3805,12 @@ All four average 42 hours a week on 12-hour shifts. The 4-5-5 trades the Pitman'
 Make your calendar
 Choose “4-5-5 (4 on 5 off 5 on)” in the shift calendar to get your year, with every crew, holidays and a file for your phone. Pick “Night shift” under Version for the night crews, or “All crews” to see both crews side by side. Other 12-hour patterns are compared in 12-hour shift schedules.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+5-5-4 schedule
+3-4-4-3 schedule
+12-hour schedule with 3 crews
+Southern swing schedule
+8-hour schedule, every other weekend off
+1-3-2-3 schedule
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3920,12 +3883,12 @@ Aviation, the military and many control rooms write UTC on the 24-hour clock wit
 UTC on shift work
 If your rota is shared between sites in different zones, or your shift logs are stamped in UTC, convert once and write both times on the handover. A night shift that runs 7 p.m. to 7 a.m. Eastern is 00:00 to 12:00 UTC in winter and 23:00 to 11:00 UTC in summer. The night the US clocks change, that shift lasts 13 or 11 hours: see daylight saving time dates.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+Daylight saving time
+Weeks in a year
+Date calculator
+EST time
+CST time
+PST to EST
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3994,12 +3957,12 @@ Eastern Time, hour by hour (winter)
 On a night shift
 When standard time returns on November 1, 2026, the hour from 1:00 to 2:00 a.m. Eastern happens twice, so a 12-hour night shift lasts 13 hours; in March it lasts 11. The night shift clock change calculator works out the hours and pay. For pay periods and holidays, see the 2027 pay period calendar.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+Daylight saving time
+Weeks in a year
+Date calculator
+UTC time
+CST time
+PST to EST
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -4068,12 +4031,12 @@ Winter (standard time), for example January 15, 2027.
 Shift handovers across zones
 A plant in Houston and a control room in Atlanta are an hour apart: a 6 a.m. Central start is 7 a.m. Eastern. Write both times on shared rotas, and note that both zones change on the same night, so the gap stays one hour. For your own rotation, the shift calendar shows every shift of the year.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+Daylight saving time
+Weeks in a year
+Date calculator
+UTC time
+EST time
+PST to EST
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -4141,12 +4104,12 @@ Handovers between coasts
 | 11:00 p.m. – 7:00 a.m. | 8:00 p.m. – 4:00 a.m.
 National dispatch centers, help desks and on-call teams that span both coasts often schedule in Eastern Time. If you start at 6:00 a.m. Pacific to join a 9:00 a.m. Eastern huddle, count those hours like any other: the hours calculator works out your day, and Eastern Time has the clock change dates.
 More guides
-Work hours in a year
-1st, 2nd and 3rd shift hours
-Swing shift
-Time calculator
-Hours calculator
-Time card calculator
+Daylight saving time
+Weeks in a year
+Date calculator
+UTC time
+EST time
+CST time
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
