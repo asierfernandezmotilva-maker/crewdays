@@ -1,6 +1,6 @@
 # Crewdays: full text
 
-> Every page of crewdays.app as plain text. Figures are calculated from each shift cycle; rules are cited to official sources. Updated 2026-10-17.
+> Every page of crewdays.app as plain text. Figures are calculated from each shift cycle; rules are cited to official sources. Updated 2026-10-18.
 
 ## Shift Schedule Calendar 2027: Pitman, DuPont, 24/48, Kelly (Free)
 URL: https://crewdays.app/
@@ -50,7 +50,7 @@ Pay period calendar 2027: 26 or 27 paydays?
 9/80 schedule calendar
 24/7 shift schedules compared
 12-hour shift schedule examples
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 Do I need an account?
 No. Everything runs in your browser and nothing you type is sent anywhere.
@@ -148,7 +148,7 @@ DuPont Schedule28-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
 7 on 7 off Schedule14-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a Pitman schedule?
 On average 42 hours a week: 7 shifts of 12 hours every 14 days.
@@ -235,7 +235,7 @@ DuPont Schedule28-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
 7 on 7 off Schedule14-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a Panama schedule?
 On average 42 hours a week: 14 shifts of 12 hours every 28 days.
@@ -323,7 +323,7 @@ Panama Schedule28-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
 7 on 7 off Schedule14-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a DuPont schedule?
 On average 42 hours a week: 14 shifts of 12 hours every 28 days.
@@ -414,7 +414,7 @@ DuPont Schedule28-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
 7 on 7 off Schedule14-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a 4 on 4 off schedule?
 On average 42 hours a week: 4 shifts of 12 hours every 8 days.
@@ -503,7 +503,7 @@ DuPont Schedule28-day cycle, 42 h a week
 3 on 3 off Schedule6-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
 7 on 7 off Schedule14-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a 4-3-3-4 schedule?
 On average 42 hours a week: 7 shifts of 12 hours every 14 days.
@@ -594,7 +594,7 @@ DuPont Schedule28-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
 7 on 7 off Schedule14-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a 3 on 3 off schedule?
 On average 42 hours a week: 3 shifts of 12 hours every 6 days.
@@ -685,7 +685,7 @@ DuPont Schedule28-day cycle, 42 h a week
 3 on 3 off Schedule6-day cycle, 42 h a week
 7 on 7 off Schedule14-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a 2 on 2 off schedule?
 On average 42 hours a week: 2 shifts of 12 hours every 4 days.
@@ -774,7 +774,7 @@ DuPont Schedule28-day cycle, 42 h a week
 3 on 3 off Schedule6-day cycle, 42 h a week
 2 on 2 off Schedule4-day cycle, 42 h a week
 4-3-3-4 Schedule14-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a 7 on 7 off schedule?
 On average 42 hours a week: 7 shifts of 12 hours every 14 days.
@@ -850,7 +850,7 @@ Similar patterns
 48/96 Schedule6-day cycle, 56 h a week
 Kelly Schedule9-day cycle, 56 h a week
 24/72 Schedule4-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a 24/48 schedule?
 On average 56 hours a week: 1 shift of 24 hours every 3 days.
@@ -928,7 +928,7 @@ Similar patterns
 24/48 Schedule3-day cycle, 56 h a week
 Kelly Schedule9-day cycle, 56 h a week
 24/72 Schedule4-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a 48/96 schedule?
 On average 56 hours a week: 2 shifts of 24 hours every 6 days.
@@ -1003,7 +1003,7 @@ Similar patterns
 24/48 Schedule3-day cycle, 56 h a week
 48/96 Schedule6-day cycle, 56 h a week
 24/72 Schedule4-day cycle, 42 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a Kelly schedule?
 On average 56 hours a week: 3 shifts of 24 hours every 9 days.
@@ -1082,7 +1082,7 @@ Similar patterns
 24/48 Schedule3-day cycle, 56 h a week
 48/96 Schedule6-day cycle, 56 h a week
 Kelly Schedule9-day cycle, 56 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a 24/72 schedule?
 On average 42 hours a week: 1 shift of 24 hours every 4 days.
@@ -1186,7 +1186,7 @@ Similar patterns
 Pitman Schedule14-day cycle, 42 h a week
 DuPont Schedule28-day cycle, 42 h a week
 24/48 Schedule3-day cycle, 56 h a week
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many hours a week is a Hitch Rotation schedule?
 On average 42 hours a week: 14 shifts of 12 hours every 28 days.
@@ -1237,7 +1237,7 @@ Share the link with your family so they see your days off without asking.
 In California, choose the California overtime rule in "Your pay": a 12-hour shift has 4 hours of overtime. Hospitals can adopt 12-hour alternative workweeks (IWC Wage Order 5): then pick that rule instead.
 In Alaska, hospital employees who provide medical services are exempt from daily overtime (AS 23.10.060(d)(12)).
 See your yearly hours and pay on the shift pay calculator.
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 Which shift schedules do nurses work?
 Hospital nurses mostly work 12-hour shifts, either three a week on a self-scheduled rota or on a fixed rotation such as 3 on 3 off or 2 on 2 off. Units that need the same nurses on every day of the week often use a Pitman or Panama rotation.
@@ -1278,7 +1278,7 @@ Press "Excel" with "All crews" selected to download the A, B and C shift year fo
 Press "Embed" to put "who is on duty today" and the next 14 days on your department or union website. It is free and updates itself every day.
 The calendar file adds each 24-hour shift as an all-day event, so it does not move at daylight saving time.
 Work out 7(k) overtime for your work period.
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 Which shift schedules do firefighters work?
 Most US fire departments run 24-hour shifts with three platoons, usually called A, B and C shift, on a 24/48, 48/96 or Kelly rotation. Departments moving to four platoons use the 24/72.
@@ -1322,7 +1322,7 @@ If you work four 10-hour shifts and three days off, use "Build your own" and typ
 Copy the link to share your schedule with your family; it opens on any phone without an account.
 See your yearly hours and pay on the shift pay calculator.
 Work out 7(k) overtime for your work period.
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 Which shift schedules do police officers work?
 Police departments that patrol around the clock work 8-, 10- or 12-hour shifts. With 12-hour shifts, four squads can cover every day on a Pitman (2-2-3), Panama or 4 on 4 off rotation; the DuPont adds a full week off every four weeks.
@@ -1362,7 +1362,7 @@ Tips
 Choose "All crews" to see which team is on the floor each day.
 Turn on "Your pay" to see weekly overtime under the standard 40-hour rule for your start date.
 Copy the link to share your schedule with your family.
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 Which shift schedules do 911 dispatchers work?
 Emergency communication centers answer calls 24 hours a day, so 911 dispatchers and telecommunicators usually work 12-hour rotations such as the Pitman (2-2-3), Panama, 4 on 4 off or 2 on 2 off, or 8- and 10-hour shifts on fixed days.
@@ -1403,7 +1403,7 @@ Choose "All crews" to see which unit or platoon is on each day.
 The calendar file adds each 24-hour shift as an all-day event, so it does not move at daylight saving time.
 Press "Excel" to download the year for your station.
 Work out 7(k) overtime for your work period.
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 Which shift schedules do paramedics and EMTs work?
 EMS crews work either 24-hour shifts, often on a 24/48 or 24/72 rotation when the service is part of a fire department, or 12-hour shifts on rotations such as 4 on 4 off or the Pitman (2-2-3), common in hospital-based and private ambulance services.
@@ -1440,7 +1440,7 @@ Bank holidays 2027
 England and Wales 8, Scotland 9, Northern Ireland 10. All dates and what they mean for shift workers.
 Working time rules
 48 hours a week on average, 11 hours between shifts, 5.6 weeks of holiday. The rules for shift workers and a holiday calculator.
-Figures are worked out from each cycle; rules checked against official sources on 17 October 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on 18 October 2026. How we calculate
 Questions
 Does it show UK bank holidays?
 Yes: England and Wales, Scotland or Northern Ireland. Choose under "Holidays shown". Substitute days are included when a bank holiday falls on a weekend.
@@ -1563,7 +1563,7 @@ Northern Ireland
 Working on a bank holiday
 There is no legal right to have bank holidays off or to be paid more for working them. Employers can count them towards the 5.6 weeks of paid holiday (Working Time Regulations, regs. 13 and 13A). Many contracts pay time and a half or double time, or give a day off in lieu: check yours.
 Dates are worked out from the rules for each holiday and the substitute-day rule. The government can add a one-off bank holiday by proclamation, so check gov.uk before you plan around a date.
-Figures are worked out from each cycle; rules checked against official sources on 17 October 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on 18 October 2026. How we calculate
 Questions
 What happens when a bank holiday falls on a weekend?
 A substitute day is given, usually the next Monday. When Christmas Day and Boxing Day both fall on a weekend, the substitute days are the following Monday and Tuesday.
@@ -1604,7 +1604,7 @@ Workers under 18
 Young workers above school leaving age get a 30-minute break when they work more than 4.5 hours, 12 hours of daily rest and 48 hours of weekly rest (GOV.UK). Their working time is limited to 8 hours a day and 40 hours a week (reg. 5A), so most 12-hour rotas are not open to them.
 Check your own rota
 The UK rota calendar checks seven common rotas against the 48-hour average, the 11-hour rest and the weekly rest, and shows every bank holiday you work. The bank holiday list covers England and Wales, Scotland and Northern Ireland for 2026 to 2028.
-Figures are worked out from each cycle; rules checked against official sources on 17 October 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on 18 October 2026. How we calculate
 Questions
 Is it legal to work more than 48 hours a week on shifts?
 Only if you have signed an opt-out. Without it, your hours must average 48 a week or less over the reference period, usually 17 weeks.
@@ -1633,7 +1633,7 @@ Firefighters and police (section 7(k)), sleep time and 911 dispatchers: 29 CFR P
 State daily overtime: California Labor Code 510 and 511, Alaska Statutes 23.10.060 and the Colorado Overtime and Minimum Pay Standards Order (COMPS Order #40, 7 CCR 1103-1).
 US federal holidays: 5 U.S.C. 6103. Clock changes: 15 U.S.C. 260a.
 United Kingdom: the Working Time Regulations 1998, GOV.UK guidance and the official bank holiday list.
-Rules were last checked on October 17, 2026. Union contracts, state laws and employer policies often give more than these minimums, so the site always says which rule it applied.
+Rules were last checked on October 18, 2026. Union contracts, state laws and employer policies often give more than these minimums, so the site always says which rule it applied.
 Corrections
 If a date, a number or a rule is wrong, email us with the page and what you expected. Confirmed mistakes are fixed and the page date is updated.
 Independence and funding
@@ -1677,7 +1677,7 @@ Choose the Pitman for short blocks and regular weekends: never more than three s
 Choose the DuPont if a full week off every four weeks matters more: with 4 shifts of leave it becomes 14 days off in a row. Expect blocks of four shifts, a quick change from days to nights in the middle of the cycle and more weekly overtime, because some weeks have 72 hours and others none.
 How to choose
 Put both patterns side by side in the calendar with your own start date: weekends off, holidays worked and pay depend on where your crew sits in the cycle, not only on the pattern. Then compare yearly pay at your hourly rate in the shift pay calculator, which applies federal and state overtime.
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 Is the Pitman or the DuPont schedule better?
 Both average 42 hours a week on 12-hour shifts with four crews. The Pitman spreads the time off evenly (never more than 3 days on or off), while the DuPont saves it up into a 7-day break every four weeks, paid for with blocks of 4 shifts and quick swaps between nights and days.
@@ -1720,7 +1720,7 @@ The 48/96 halves the trips to the station: about 61 commutes a year instead of a
 The 24/48 keeps each stretch at 24 hours, so a bad night is followed by two days off rather than another 24 hours on duty. Swaps are easier too, because a colleague covers one shift, not two.
 How to choose
 Put both patterns side by side in the calendar with your own start date: weekends off, holidays worked and pay depend on where your crew sits in the cycle, not only on the pattern. Then compare yearly pay at your hourly rate in the shift pay calculator, which applies federal and state overtime.
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 Is the 48/96 or the 24/48 schedule better?
 Same hours (about 56 a week, 2,920 a year) and the same three platoons. The 48/96 joins two shifts into a 48-hour stretch and gives four days off in a row, so there are half as many commutes. The 24/48 keeps each stretch at 24 hours, which many find easier to recover from.
@@ -1796,7 +1796,7 @@ Payday comes a few days after each period ends and depends on your payroll provi
 What a 27th paycheck means
 If you are paid by the hour, a 27th payday is simply one more paycheck for two more weeks of work. If you are on a yearly salary, check how your employer divides it: some divide the salary by 27 that year, so each paycheck is a little smaller; others keep 26 equal paychecks and pay the extra one on top. Deductions taken per paycheck, such as health premiums or retirement contributions, may also come out 27 times.
 Shift workers paid every two weeks can see their paydays next to their shifts: enter “A payday” under “Your pay” in the shift calendar. The shift pay calculator works out yearly pay by pattern.
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many pay periods are in 2027?
 26 for most biweekly payrolls and 52 for weekly ones. You get 27 biweekly paydays only if the first is Friday, January 1, 2027, and 53 weekly paydays if you are paid on Fridays.
@@ -1843,7 +1843,7 @@ Holidays on a 9/80
 A holiday on a 9-hour day is a 9-hour day off, but many employers pay 8 hours of holiday pay, so you use one hour of leave or make it up. When a holiday falls on your Friday off, some employers give another day off and some do not. The calculator lists the federal holidays (on their actual date) that fall on your Fridays off; check your own policy.
 Similar schedules
 The 4/10 (four 10-hour days a week) and the 5/4/9 (a 9/80 by another name) are also compressed workweeks. For rotating shifts that cover nights and weekends, see the shift calendar.
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many Fridays off do you get on a 9/80 in 2027?
 26 or 27. 2027 has 53 Fridays, so if your first Friday off is January 1 you get 27, otherwise 26.
@@ -1881,7 +1881,7 @@ How many crews does a 12-hour schedule need?
 Four for 24/7 coverage: 168 hours a week divided by 4 crews is 42 hours each. Two crews can cover only day shifts (or only nights). With three crews each person would work 56 hours a week. For 8- and 24-hour options, see 24/7 shift schedule examples.
 12-hour or 8-hour shifts?
 12-hour shifts mean about 182 working days a year instead of about 260 with five 8-hour days, so fewer commutes and more days off, and only two handovers a day. The price is long days: fatigue in the last hours, little time for anything else on work days and, on rotating schedules, frequent changes between days and nights. Overtime also depends on the state: in California hours over 8 in a day are overtime unless an alternative workweek has been adopted (California Labor Code 510 and 511).
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 What is the best 12-hour shift schedule?
 It depends on what you value. The Pitman and Panama give every other weekend off and never more than three shifts in a row; the DuPont gives a full week off every four weeks; 2 on 2 off keeps runs to two shifts. All average 42 hours a week with four crews.
@@ -1929,7 +1929,7 @@ Then decide on nights. Fixed crews (a Pitman with day and night crews) let peopl
 Finally look at the weeks, not just the average. A DuPont and a Pitman both average 42 hours, but the DuPont has weeks of 72 hours and weeks of none, which costs more in weekly overtime unless the workweek is set carefully. Put the candidates in the shift calendar with “All crews” to see coverage day by day, and compare pay in the shift pay calculator.
 Headcount
 Four crews cover one position, but leave and sickness still have to be covered. Each person on a 42-hour rota is entitled to the leave in their contract (in the UK at least 5.6 weeks a year under the Working Time Regulations), so plan relief or overtime for those weeks. In the UK, check each rota against the 48-hour average week and the 11-hour daily rest on the UK rota page, read the working time rules for shift workers and plan cover for the bank holidays.
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 How many employees do I need for 24/7 coverage?
 8,760 hours a year per position. With four crews each person works about 2,190 scheduled hours (42 a week), so you need four people per position before leave and sickness. With three crews on 24-hour shifts each works 2,920 hours.
@@ -1968,7 +1968,7 @@ Firefighters and police on 24-hour shifts
 Under section 7(k) the extra hour in the fall counts towards the hours of the work period, so on a 28-day period it brings firefighters one hour closer to the 212-hour overtime threshold (29 CFR 553.230). Check it in the 7(k) overtime calculator. Police have the same rule with a 171-hour threshold.
 Getting through the night
 In the fall the last hour of a night shift is the hardest: you are an hour further from your last sleep. Plan breaks for the end of the shift and arrange a lift home if you can. In the spring you lose an hour of sleep before a day shift on Sunday, so go to bed earlier on Saturday. Phones and computers change time on their own, but the clocks of time-clock terminals and older equipment may not.
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 When do the clocks change?
 Second Sunday of March and first Sunday of November at 2:00 a.m. local time: November 1, 2026, March 14, 2027 and November 7, 2027.
@@ -2004,7 +2004,7 @@ Is sleep time paid on a 24-hour shift?
 Calls that interrupt sleep are always paid. If they leave you less than 5 hours of sleep, the whole sleep period counts as hours worked (553.222(c) and 785.22(b)).
 911 dispatchers and civilian staff
 The 7(k) work period is for firefighters and sworn law enforcement. Civilian employees of a police department, such as dispatchers and radio operators, are not covered by it (29 CFR 553.211(g)), so they get overtime after 40 hours in the workweek like other workers. Use the shift pay calculator with the federal rule.
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 What is the 7(k) exemption?
 Section 7(k) of the FLSA lets public employers pay fire and police employees overtime over a work period of 7 to 28 days, with a higher hour threshold, instead of after 40 hours every week.
@@ -2080,7 +2080,7 @@ Night and evening differentials are part of the regular rate, so they raise your
 Working the premium out on the base rate alone ($12.50 × 8 = $100) would pay $9 too little that week. Enter your night differential above and the calculator does this for every week of the year.
 Overtime after 8 or 12 hours: federal and state rules
 Federal law does not require overtime for long days, only for long weeks: there is no overtime for hours over 8 in a day as such (29 CFR 778.102). It pays time and a half after 40 hours in the workweek (29 CFR 778.105), on the regular rate, which includes night differentials (29 CFR 778.109). California also pays after 8 hours in a day and double after 12 (Labor Code 510); health care employers can adopt 12-hour alternative workweeks (IWC Wage Order 5). Alaska pays after 8 hours a day (AS 23.10.060) and Colorado after 12 hours in a workday or 12 hours in a row (COMPS Order #40). Fire and police departments often use a 7(k) work period instead: see the 7(k) calculator. If you work in another state, check its labor department: a few states have their own rules, and a union contract can also pay daily overtime.
-Figures are worked out from each cycle; rules checked against official sources on October 17, 2026. How we calculate
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
 Which states pay overtime after 8 hours a day?
 California pays time and a half after 8 hours in a workday and double time after 12 (Labor Code 510), and Alaska after 8 hours in a day (AS 23.10.060, with exemptions such as hospital employees who provide medical services). Colorado pays after 12 hours in a workday or 12 hours in a row (COMPS Order #40). Federal law only pays overtime after 40 hours in the workweek (29 CFR 778.102 and 778.105).
@@ -2090,3 +2090,209 @@ How many hours a year is a 48/96 schedule?
 About 2,920 hours: 48 hours on and 96 off is an average of 56 hours a week.
 Is overtime paid on a 24/48 schedule?
 Firefighters at public departments are usually paid under the FLSA 7(k) exemption, with overtime after 212 hours in 28 days. Private employers pay overtime after 40 hours a week.
+
+---
+
+## How Many Work Hours in a Year? 2027 Has 2,088
+URL: https://crewdays.app/work-hours-in-a-year/
+
+Home / Guides / Work hours in a year
+How many work hours are in a year?
+Most people use 2,080: 40 hours a week times 52 weeks. 2027 actually has 261 weekdays, so a Monday-to-Friday job is 2,088 scheduled hours. A 12-hour rotation comes to about 2,184 hours, and a firefighter on a 24/48 works about 2,928.
+By Asier Fernández · October 18, 2026
+Photo: @erothermel on Unsplash
+Work hours by year
+A year is 52 weeks and one day, or 52 weeks and two days in a leap year. Those extra days decide whether a year has 260, 261 or 262 weekdays. At 8 hours a day:
+| | Year | Weekdays | Work hours | Without federal holidays (observed days off)
+| 2026 | 261 | 2,088 | 250 days, 2,000 hours
+| 2027 | 261 | 2,088 | 249 days, 1,992 hours
+| 2028 | 260 | 2,080 | 250 days, 2,000 hours
+The last column takes away the weekdays that federal employees have off for the 11 federal holidays. A holiday on a Saturday is observed on the Friday before, so New Year's Day 2028 (a Saturday) is a day off on Friday, December 31, 2027: 2027 ends up with 12 holiday weekdays and 2028 with 10. Your own employer's holiday list may be longer or shorter.
+Why 2,080 hours?
+2,080 is 40 hours × 52 weeks. It is a handy round number for turning an hourly wage into a salary, and most payroll and HR tools use it. A real calendar year has one or two days more than 52 weeks, so in most years a full-time weekday job has 2,088 scheduled hours, and 2,096 in a leap year that starts on a Monday, Tuesday, Wednesday or Thursday. Years that start on a Saturday, such as 2028, have 260 weekdays, exactly 2,080 hours.
+The federal government splits the difference. To turn an annual salary into an hourly rate it divides by 2,087, the average number of weekday hours over a long run of years (5 U.S.C. 5504(b)).
+Work hours in each month of 2027
+| | Month | Weekdays | Hours at 8 a day
+| January | 21 | 168
+| February | 20 | 160
+| March | 23 | 184
+| April | 22 | 176
+| May | 21 | 168
+| June | 22 | 176
+| July | 22 | 176
+| August | 22 | 176
+| September | 22 | 176
+| October | 21 | 168
+| November | 22 | 176
+| December | 23 | 184
+On average a month has 173.3 work hours (2,080 ÷ 12). March and December 2027 have the most, with 23 and 23 weekdays; February has the fewest, 20.
+Federal holidays in 2027
+All 11 federal holidays of 2027 fall on or are observed on a weekday. Two of them move: Juneteenth (Saturday, June 19) is observed on Friday, June 18, and Christmas (Saturday, December 25) on Friday, December 24. New Year's Day 2028 is also a Saturday, so federal employees get Friday, December 31, 2027 off. That gives them 12 weekday holidays inside calendar year 2027 and 249 working days (1,992 hours). Holidays move to Friday or Monday under 5 U.S.C. 6103(b) and Executive Order 11582.
+Work hours in a year on shift schedules
+Rotating shifts do not follow the 5-day week, so their yearly hours come from the cycle: hours in one cycle × 365 ÷ days in the cycle. For one crew in 2027:
+| | Schedule | Hours in 2027 | How
+| Monday to Friday, 8 hours | 2,088 | 261 weekdays in 2027
+| 4/10 (four 10-hour days) | 2,080 | 208 shifts of 10 hours
+| Pitman, Panama, DuPont (12 hours) | 2,184 | 182 shifts of 12 hours
+| 2 on 2 off (12 hours) | 2,196 | 183 shifts of 12 hours
+| Southern swing (8 hours, rotating) | 2,184 | 273 shifts of 8 hours
+| 24/72 (24 hours, four platoons) | 2,184 | 91 shifts of 24 hours
+| 24/48 (24 hours, three platoons) | 2,928 | 122 shifts of 24 hours
+| 48/96 (24 hours) | 2,928 | 122 shifts of 24 hours
+| Kelly (24 hours) | 2,904 | 121 shifts of 24 hours
+One crew, cycle starting Monday, January 4, 2027, before overtime, leave, Kelly days and swaps. Another crew or start date can move the total by one shift.
+Four-crew 12-hour schedules average 42 hours a week, which is 2,184 a year: about 100 hours more than a weekday job, usually paid as overtime in the weeks with four shifts. Three-platoon fire schedules average 56 hours a week. Put your own pattern and start date in the shift calendar to count your year, or see the pay in the shift pay calculator.
+Part-time and other weekly hours
+| | Hours a week | Hours a year (× 52)
+| 20 | 1,040
+| 24 | 1,248
+| 30 | 1,560
+| 32 | 1,664
+| 36 | 1,872
+| 37.5 | 1,950
+| 40 | 2,080
+| 42 | 2,184
+| 48 | 2,496
+Three 12-hour shifts a week, the usual hospital contract, is 36 hours: 1,872 a year. For what counts as full time, see 12-hour shift schedules and the nurse schedules.
+From hourly pay to a yearly salary
+Multiply your hourly rate by your yearly hours. At $25 an hour, 2,080 hours is $52,000; 2,088 hours is $52,200; a 12-hour rotation at 2,184 hours is $54,600 before any overtime premium. If you are paid every two weeks, 2027 can also bring a 27th paycheck: see the 2027 pay period calendar.
+More guides
+1st, 2nd and 3rd shift hours
+Swing shift
+All guides
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
+Questions
+Is there 2,080 working hours in a year?
+2,080 is the standard figure: 40 hours × 52 weeks. A calendar year has 52 weeks and one or two days, so most years have 2,088 weekday hours (261 weekdays × 8). 2027 has 2,088 and 2028 has 2,080.
+How many working days are there in 2027?
+261 weekdays. Without the 11 federal holidays, 253. Federal employees also get Friday, December 31, 2027 off for New Year's Day 2028, which leaves 249 working days.
+How many hours are there in the year 2027?
+8,760 hours: 365 days × 24 hours. 2028 is a leap year, with 8,784.
+How many work hours are in a month?
+173.3 on average (2,080 ÷ 12). A month with 23 weekdays has 184 hours at 8 a day, and February 2027, with 20 weekdays, has 160.
+How many hours a year is a 12-hour shift schedule?
+About 2,184 on four-crew schedules such as the Pitman, Panama and DuPont: 182 shifts of 12 hours, or 42 hours a week on average.
+Why does the federal government divide by 2,087?
+Because 2,087 is the long-run average of weekday hours in a year. 5 U.S.C. 5504(b) uses it to turn an annual salary into an hourly rate.
+
+---
+
+## 1st, 2nd and 3rd Shift Hours: What Time Each Shift Starts
+URL: https://crewdays.app/first-second-third-shift-hours/
+
+Home / Guides / 1st, 2nd and 3rd shift hours
+1st, 2nd and 3rd shift hours
+On 8-hour shifts, first shift usually runs from 7 a.m. to 3 p.m., second shift from 3 p.m. to 11 p.m. and third shift, the graveyard shift, from 11 p.m. to 7 a.m. Many workplaces start an hour earlier or later. With 12-hour shifts there are only two: days and nights.
+By Asier Fernández · October 18, 2026
+Photo: @sulyok_imaging on Unsplash
+Common shift times
+| | Shift | Also called | Common 8-hour times | Other common starts
+| 1st shift | Day shift | 7 a.m. – 3 p.m. | 6 a.m. – 2 p.m., 8 a.m. – 4 p.m.
+| 2nd shift | Evening, afternoon or swing shift | 3 p.m. – 11 p.m. | 2 p.m. – 10 p.m., 4 p.m. – midnight
+| 3rd shift | Night, overnight or graveyard shift | 11 p.m. – 7 a.m. | 10 p.m. – 6 a.m., midnight – 8 a.m.
+No federal law defines the shifts or their hours: the employer sets them. The three shifts always join up, so whatever time first shift starts, third shift ends there and the plant or ward is covered around the clock with three 8-hour crews. A fourth shift, where it exists, is usually a weekend crew or a relief crew that covers the others' days off.
+10-hour and 12-hour shifts
+With 10-hour shifts the day does not divide evenly, so the shifts overlap. A common police pattern is 6 a.m. – 4 p.m., 2 p.m. – midnight and 9 p.m. – 7 a.m., with the extra officers on the busiest hours of the evening.
+With 12-hour shifts the day splits in two: 7 a.m. – 7 p.m. and 7 p.m. – 7 a.m. are the most common, or 6 to 6. Hospitals, police and most 24/7 plants on 12-hour rotations call them day shift and night shift rather than first and second. Each crew works about half the days of the year on a Pitman, DuPont or similar rotation.
+Graveyard shift hours
+Graveyard shift is another name for the third shift, the one that covers the small hours. On 8-hour shifts that is usually 11 p.m. to 7 a.m. or midnight to 8 a.m.; on 12-hour shifts the night shift, 7 p.m. to 7 a.m., covers it. A shift that ends at 3 a.m. is a late second shift in most workplaces, not a graveyard shift.
+How federal pay rules define evening and night work
+Private employers set their own shift definitions, but the federal government's pay rules give a useful benchmark. Federal wage-grade (blue-collar) employees get a night differential of 7.5% when most of their scheduled hours fall between 3 p.m. and midnight, and 10% when most fall between 11 p.m. and 8 a.m. (5 U.S.C. 5343(f)). For General Schedule employees, night work is regularly scheduled work between 6 p.m. and 6 a.m., paid at 10% extra (5 U.S.C. 5545(a)).
+Do you get paid more for 2nd or 3rd shift?
+Only if your employer or union contract says so. The Fair Labor Standards Act “does not require extra pay for night work” (U.S. Department of Labor). Many employers still pay a shift differential, either a fixed amount per hour or a percentage. When they do, it becomes part of your regular rate, so your overtime rate goes up with it (29 CFR 778.207(b)). Turn on “Your pay” in the shift calendar to add a night differential to your year.
+Night shifts that cross midnight
+A third shift starts on one date and ends on the next. For pay, each hour belongs to the workweek in which it is worked, so a shift that runs from Saturday night into Sunday can be split between two workweeks if your workweek starts at midnight on Sunday. In the Crewdays calendar each shift is shown on the day it starts.
+Meal breaks count the same way at night as in the day: a bona fide meal period, ordinarily 30 minutes or more with no duties at all, is not work time (29 CFR 785.19). An 11 p.m. to 7 a.m. shift with an unpaid half hour is 7.5 paid hours. On the night the clocks change, an 8-hour night shift lasts 9 hours in November and 7 in March; see night shift and daylight saving time.
+Which shift can teenagers work?
+Federal child labor rules keep 14- and 15-year-olds to the hours between 7 a.m. and 7 p.m., or 9 p.m. from June 1 to Labor Day, and outside school hours (29 CFR 570.35). That rules out most second shifts and every third shift. The federal hour limits stop at 16, though many states set their own for 16- and 17-year-olds.
+Rotating between the three shifts
+Some plants rotate crews through all three: a week of days, a week of evenings and a week of nights. The southern swing is the classic version for four crews: 7 day shifts, 2 off, 7 evenings, 2 off, 7 nights and 3 off, a 28-day cycle. In 2027 one crew works 273 shifts (2,184 hours), a third of them on each shift. Choose “Southern swing” in the shift calendar to see your year, or compare other options on 24/7 shift schedules.
+More guides
+Work hours in a year
+Swing shift
+All guides
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
+Questions
+What time is 1st, 2nd and 3rd shift?
+Usually 7 a.m. to 3 p.m., 3 p.m. to 11 p.m. and 11 p.m. to 7 a.m. on 8-hour shifts. Many employers start an hour earlier (6, 2 and 10) or later (8, 4 and midnight).
+What is 2nd shift?
+The evening shift, between day shift and night shift. On 8-hour shifts it usually runs from 3 p.m. to 11 p.m. It is also called the afternoon or swing shift.
+What hours is a graveyard shift?
+The overnight shift, usually 11 p.m. to 7 a.m. or midnight to 8 a.m. on 8-hour shifts, and 7 p.m. to 7 a.m. on 12-hour shifts.
+Is 7 p.m. to 7 a.m. a graveyard shift?
+It is the night shift on a 12-hour schedule and covers the graveyard hours. Workplaces on 12-hour shifts usually just call it nights.
+What is 4th shift?
+There is no standard meaning. It is usually a weekend crew (for example Friday to Sunday on 12-hour shifts) or a relief crew that covers the other shifts' days off.
+Do you get paid more for working 3rd shift?
+Not by federal law: the FLSA does not require extra pay for night work. Many employers and union contracts pay a night differential, and it then counts in your overtime rate.
+
+---
+
+## Swing Shift: Hours, Meaning and Swing Shift Schedules
+URL: https://crewdays.app/swing-shift/
+
+Home / Guides / Swing shift
+Swing shift: hours and schedules
+Swing shift has two meanings. In most job ads it is the evening shift between day and night shift, usually 3 p.m. to 11 p.m. In plants, police and hospitals a swing shift schedule is one where your crew swings between day shifts and night shifts.
+By Asier Fernández · October 18, 2026
+Photo: @ivorycirrus on Unsplash
+Swing shift hours
+As the evening shift, swing shift sits between day shift and the overnight shift. The common hours are:
+| | Shift length | Common swing shift hours
+| 8 hours | 3 p.m. – 11 p.m., 2 p.m. – 10 p.m. or 4 p.m. – midnight
+| 10 hours | 2 p.m. – midnight or 4 p.m. – 2 a.m., overlapping the day and night shifts
+| 12 hours | There is no evening shift: days and nights only (7 to 7 or 6 to 6)
+The employer sets the hours; no federal rule defines them. For the other two shifts, see 1st, 2nd and 3rd shift hours.
+What a swing shift schedule is
+The second meaning is a rotation. On a swing shift schedule your crew works some weeks on days and some on nights, instead of staying on one shift. Job ads say “rotating shifts” or “12-hour swing shifts” for the same thing. It shares the night shifts fairly between crews, and everyone takes turns on the less popular hours.
+The price is the change itself. Every swing from days to nights means moving your sleep by about 12 hours, and the first days off after a run of nights go partly to recovery. Schedules differ mostly in how often you swing and how many days off you get around the change.
+12-hour swing shift schedules compared
+These rotations all use four crews on 12-hour shifts, average 42 hours a week and give one crew on days and one on nights every day. For one crew in 2027:
+| | Schedule | Cycle | Most shifts of one kind in a row | Day shifts | Night shifts | Full weekends off
+| Panama (rotating 2-2-3) | 28 days | 3 | 91 | 91 | 26
+| DuPont | 28 days | 4 | 91 | 91 | 26
+| 4 on 4 off, rotating | 16 days | 4 | 92 | 90 | 21
+| 3 on 3 off, rotating | 12 days | 3 | 92 | 90 | 17
+| 2 on 2 off, rotating | 8 days | 2 | 92 | 91 | 13
+| 7 on 7 off, rotating | 28 days | 7 | 91 | 91 | 26
+| Continental (2 days, 2 nights, 4 off) | 8 days | 2 | 92 | 90 | 21
+One crew, cycle starting Monday, January 4, 2027. A full weekend is Saturday and Sunday both off.
+The Panama and 7 on 7 off swing every two weeks, so you have long runs on one shift. The 2 on 2 off and continental swing every few days, so your body never fully settles on nights, but each run of nights is short. The DuPont mixes blocks of three and four. Choose any of them in the shift calendar and pick “All crews” to see who is on days and who is on nights each day.
+The southern swing: 8-hour shifts through all three
+The southern swing rotates four crews through days, evenings and nights on 8-hour shifts: 7 days, 2 off, 7 evenings, 2 off, 7 nights and 3 off, a 28-day cycle. In 2027 one crew works 273 shifts: 91 days, 91 evenings and 91 nights, 2,184 hours in all. Full weekends off are rare, 13 in the year, because the only breaks are two or three days. Compare it with other 8-hour options on 24/7 shift schedules.
+Swing shift pay
+Federal law does not require a premium for evening or night work; the Fair Labor Standards Act leaves it to the employer and the employee or union (U.S. Department of Labor). Where a swing or night differential is paid, it counts toward the regular rate used for overtime (29 CFR 778.207(b)). As a benchmark, federal wage-grade employees get 7.5% extra for shifts that fall mostly between 3 p.m. and midnight and 10% for shifts mostly between 11 p.m. and 8 a.m. (5 U.S.C. 5343(f)).
+On a rotating schedule only part of your shifts carry a night differential, so yearly pay depends on how many nights the rotation gives you. The table above counts them; the pay estimate in the shift calendar adds the differential for your own dates.
+Living with a swing shift
+A few habits make rotating easier. Plan the first day off after nights as a recovery day, not a day for errands. Keep the same sleep window for the whole run of nights, including the days in between if you have only one off. Share the calendar with your family so the swing weeks are no surprise: the shift calendar gives a link that opens on any phone. On the night the clocks change, a 12-hour night shift lasts 13 or 11 hours; see daylight saving time on night shift.
+More guides
+Work hours in a year
+1st, 2nd and 3rd shift hours
+All guides
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
+Questions
+What hours are usually swing shift?
+As the evening shift, usually 3 p.m. to 11 p.m. on 8-hour shifts, or 2 p.m. to 10 p.m. or 4 p.m. to midnight. The employer sets the exact times.
+What does swing shift mean?
+Either the evening shift, between day and night shift, or a schedule where your crew rotates between day and night shifts.
+What is a 2-2-3 swing shift schedule?
+A Pitman-type 12-hour rotation (2 on, 2 off, 3 on, 2 off, 2 on, 3 off) where crews swing between days and nights, usually every two weeks. With that swing it is called the Panama schedule.
+What is a 12-hour swing shift schedule?
+A 12-hour rotation in which each crew works both day and night shifts, such as the Panama, DuPont, rotating 4 on 4 off or 2 on 2 off. Four crews cover 24/7 at 42 hours a week on average.
+Why is it called swing shift?
+The name refers to a shift that swings between the others: the evening shift falls between day and night shift, and a rotating crew swings between days and nights.
+Is swing shift paid more?
+Only if the employer or union contract pays a differential; federal law does not require one. When it is paid, it raises the overtime rate too.
+
+---
+
+## Guides for Shift Workers: Hours, Pay and Schedules | Crewdays
+URL: https://crewdays.app/guides/
+
+Home / Guides
+Guides for shift workers
+Hours, pay and schedules explained with real numbers. Each guide is written by Asier Fernández and checked against the official rules it quotes.
+How many work hours are in a year?2,080 is the usual answer, but 2027 has 261 weekdays: 2,088 work hours. Every year and month, plus the real yearly hours of 12- and 24-hour shifts.
+1st, 2nd and 3rd shift hours1st shift usually runs 7 a.m. to 3 p.m., 2nd 3 p.m. to 11 p.m. and 3rd (graveyard) 11 p.m. to 7 a.m. Common 8, 10 and 12-hour times and how night pay works.
+Swing shift: hours and schedulesSwing shift is the evening shift (often 3 p.m. to 11 p.m.) or a schedule that swings between days and nights. Hours, pay and rotating swing schedules.
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
