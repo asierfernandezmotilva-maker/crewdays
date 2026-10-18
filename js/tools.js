@@ -12,6 +12,7 @@
   var iso = function (t) { return new Date(t).toISOString().slice(0, 10); };
   var WD = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
   var MON = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+  var T12 = function (t) { var m = hm(t); return isNaN(m) ? t : clock12(m); };
   var long = function (d) { var x = new Date(ms(d)); return WD[x.getUTCDay()] + ", " + MON[x.getUTCMonth()] + " " + x.getUTCDate() + ", " + x.getUTCFullYear(); };
 
   // Horas entre dos horas del día (turnos que cruzan la medianoche) menos el descanso sin pagar
@@ -65,6 +66,20 @@
     var w = hm(wake); if (isNaN(w)) return null;
     return [6, 5, 4].map(function (c) { var t = mode === "after" ? w + 15 + c * 90 : w - 15 - c * 90; return { cycles: c, hours: c * 1.5, at: clock12(t) }; });
   }
+  // Zonas horarias con Intl: desfase de una zona en un instante (minutos) y conversión de una hora local a otra zona
+  var FMT = {};
+  function offset(zone, t) {
+    var f = FMT[zone] || (FMT[zone] = new Intl.DateTimeFormat("en-US", { timeZone: zone, hourCycle: "h23", year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit" }));
+    var p = {}; f.formatToParts(new Date(t)).forEach(function (x) { p[x.type] = x.value; });
+    return Math.round((Date.UTC(+p.year, +p.month - 1, +p.day, +p.hour % 24, +p.minute) - Math.floor(t / 6e4) * 6e4) / 6e4);
+  }
+  function tz(date, time, from, to) {
+    var w = hm(time); if (isNaN(w) || !date) return null;
+    var guess = ms(date) + w * 6e4, t = guess - offset(from, guess) * 6e4; t = guess - offset(from, t) * 6e4;
+    var local = t + offset(to, t) * 6e4, d = new Date(local);
+    return { time: clock12(d.getUTCHours() * 60 + d.getUTCMinutes()), date: iso(local), dayShift: Math.round((ms(iso(local)) - ms(date)) / 864e5) };
+  }
+  var ZN = { "UTC": "UTC", "America/New_York": "Eastern Time", "America/Chicago": "Central Time", "America/Denver": "Mountain Time", "America/Phoenix": "Arizona", "America/Los_Angeles": "Pacific Time", "America/Anchorage": "Alaska", "Pacific/Honolulu": "Hawaii", "Europe/London": "London" };
   // Salario mínimo por estado: tabla del Departamento de Trabajo (actualizada el 1 de julio de 2026)
   var MINWAGE = { Alabama: 0, Alaska: 14, Arizona: 15.15, Arkansas: 11, California: 16.9, Colorado: 15.16, Connecticut: 16.94, Delaware: 15, "District of Columbia": 18.4, Florida: 14,
     Georgia: 0, Hawaii: 16, Idaho: 7.25, Illinois: 15, Indiana: 7.25, Iowa: 7.25, Kansas: 7.25, Kentucky: 7.25, Louisiana: 0, Maine: 15.1, Maryland: 15, Massachusetts: 15, Michigan: 13.73,
@@ -87,6 +102,7 @@
     adddays: function (v) { var d = addDays(v.a, (v.op === "-" ? -1 : 1) * (+v.n || 0)); return d ? "<b>" + long(d) + "</b>." : "Pick a date."; },
     week: function (v) { if (!v.d) return "Pick a date."; var w = isoWeek(v.d); return long(v.d) + " is in <b>week " + w.week + "</b> of " + w.year + " (ISO 8601). " + w.year + " has " + isoWeeks(w.year) + " ISO weeks."; },
     sleep: function (v) { var r = sleep(v.t, v.m); if (!r) return "Enter a time."; return (v.m === "after" ? "Set an alarm for " : "Go to bed at ") + r.map(function (x) { return "<b>" + x.at + "</b> (" + x.hours + " h)"; }).join(", ") + "."; },
+    tz: function (v) { var r = tz(v.d, v.t, v.f, v.to); if (!r) return "Enter a date and a time."; return "On " + long(v.d).replace(/, \d{4}$/, "") + ", " + T12(v.t) + " " + (ZN[v.f] || v.f) + " is <b>" + r.time + " " + (ZN[v.to] || v.to) + "</b>" + (r.dayShift ? (r.dayShift > 0 ? " (the next day)" : " (the day before)") : "") + "."; },
     minwage: function (v) { var r = wage(v.s), h = +v.h || 40; return v.s + ": <b>" + money(r) + "</b> an hour" + (MINWAGE[v.s] > 7.25 ? "" : " (the federal minimum)") + ". At " + h + " hours a week: " + money(r * h) + " a week, <b>" + money(r * h * 52) + "</b> a year before tax."; }
   };
 
@@ -98,6 +114,11 @@
     var vals = function (f) { var o = {}; Array.prototype.forEach.call(f.elements, function (e) { if (e.name) o[e.name] = e.type === "checkbox" ? (e.checked ? "1" : "") : e.value; }); return o; };
     var run = function (f) { var o = f.querySelector("[data-out]"), h = OUT[f.getAttribute("data-tool")](vals(f)); if (o.innerHTML !== h) o.innerHTML = h; };
     Array.prototype.forEach.call(document.querySelectorAll("form[data-tool]"), function (f) { f.addEventListener("input", function () { run(f); }); f.addEventListener("submit", function (e) { e.preventDefault(); run(f); }); if (f.hasAttribute("data-now")) { var d = f.querySelector("[type=date]"); if (d && !d.dataset.set) d.value = iso(Date.now() - new Date().getTimezoneOffset() * 6e4); run(f); } });
+    var clocks = document.querySelectorAll("[data-clock]");
+    if (clocks.length) setTimeout(function () {
+      var fm = {}, tick = function () { var now = Date.now(); Array.prototype.forEach.call(clocks, function (el) { var z = el.getAttribute("data-clock"), f = fm[z] || (fm[z] = new Intl.DateTimeFormat("en-US", { timeZone: z, weekday: "short", hour: "numeric", minute: "2-digit", second: "2-digit", timeZoneName: "short" })); el.textContent = f.format(now); }); };
+      tick(); setInterval(tick, 1000);
+    }, 0);
   }
-  return { hours: hours, addDur: addDur, clockPlus: clockPlus, timecard: timecard, to24: to24, from24: from24, daysBetween: daysBetween, addDays: addDays, isoWeek: isoWeek, isoWeeks: isoWeeks, leap: leap, dst: dst, tax: tax, TAX: TAX, paycheck: paycheck, salary: salary, sleep: sleep, MINWAGE: MINWAGE, wage: wage, OUT: OUT, clock12: clock12, dur: dur, money: money, num: num, long: long };
+  return { hours: hours, addDur: addDur, clockPlus: clockPlus, timecard: timecard, to24: to24, from24: from24, daysBetween: daysBetween, addDays: addDays, isoWeek: isoWeek, isoWeeks: isoWeeks, leap: leap, dst: dst, tax: tax, TAX: TAX, paycheck: paycheck, salary: salary, sleep: sleep, MINWAGE: MINWAGE, offset: offset, tz: tz, ZN: ZN, wage: wage, OUT: OUT, clock12: clock12, dur: dur, money: money, num: num, long: long };
 });

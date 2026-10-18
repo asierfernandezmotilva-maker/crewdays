@@ -2044,6 +2044,8 @@ Every pattern at the same rate
 | Continental (2-2-4) | 2,208 | $2,600 | $59,000
 | 7 on 7 off — Days only | 2,196 | $6,500 | $62,600
 | 7 on 7 off — Rotating days/nights | 2,196 | $6,500 | $62,600
+| 4-5-5 (4 on 5 off 5 on) — Day shift | 2,196 | $6,500 | $62,300
+| 4-5-5 (4 on 5 off 5 on) — Night shift | 2,196 | $6,500 | $62,300
 | 3-4-4-3 | 2,196 | $2,500 | $58,300
 | 2 days, 2 nights, 2 off (3 crews) | 2,928 | $10,300 | $84,550
 | 5-5-4 | 2,652 | $9,000 | $76,650
@@ -2072,6 +2074,7 @@ How many hours a year does each shift pattern work?
 | 4/10 Schedule | 40 | 2,085.7 | 208.6
 | Continental Shift Pattern | 42 | 2,190 | 182.5
 | 7 on 7 off Schedule | 42 | 2,190 | 182.5
+| 4-5-5 Shift Pattern | 42 | 2,190 | 182.5
 | 3-4-4-3 Schedule | 42 | 2,190 | 182.5
 | 2 Days, 2 Nights, 2 Off (3 Crews) | 56 | 2,920 | 243.3
 | 5-5-4 Schedule | 50.4 | 2,628 | 219
@@ -3617,6 +3620,365 @@ It appears in police departments and other services that run three squads on 8-h
 
 ---
 
+## 4-5-5 Shift Pattern (4 On 5 Off 5 On): Calendar, Hours
+URL: https://crewdays.app/4-5-5-shift-pattern/
+
+Home / Guides / 4-5-5 shift pattern
+4-5-5 shift pattern (4/5/5/4/5/5)
+The 4-5-5 shift pattern, also written 4/5/5/4/5/5, is 4 shifts on, 5 days off, 5 on, 4 off, 5 on and 5 off: a 28-day cycle of 12-hour shifts. Each crew works 14 shifts every 28 days, 42 hours a week on average, and two crews 14 days apart cover every day exactly once.
+By Asier Fernández · October 18, 2026
+Photo: @plataformacolsan on Unsplash
+4-5-5 at a glance
+Cycle: 28 days
+Shift length: 12 hours
+Hours a week: 42
+Hours a year: 2,190
+Most shifts in a row: 5
+Longest break: 5 days
+Crew A: Day, Day, Day, Day, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day, Off, Off, Off, Off, Day, Day, Day, Day, Day, Off, Off, Off, Off, Off
+Crew B: Off, Off, Off, Off, Day, Day, Day, Day, Day, Off, Off, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day
+Why two crews fit exactly
+The second half of the cycle is the mirror of the first: crew B, starting 14 days after crew A, works on exactly the days crew A is off. So two crews give one crew on duty every day, with no gaps and no doubled days, and four crews (two on days, two on nights) cover 24/7. We checked this day by day with the calendar engine for all 28 days of the cycle. Pitman and 7 on 7 off schedules share the same property; the 4-5-5 gets there with longer breaks.
+Days off and leave
+The breaks are 5, 4 and 5 days, so you are never off for less than four days at a time and never work more than 5 shifts in a row. The 4-shift block sits between the two 5-day breaks: book those 4 shifts as leave and you get 14 days off in a row for 48 hours of leave. Full weekends off in 2027: 13 to 26, depending on the weekday your cycle starts.
+Hours and overtime
+The weeks are uneven. Under the federal rule overtime is paid for hours over 40 in each workweek, and the employer chooses the day it starts (29 CFR 778.105). For one crew:
+| | Workweek starts | Hours in each of the 4 weeks | Overtime hours a year
+| Monday | 48, 60, 36, 24 | 364
+| Tuesday | 36, 60, 48, 24 | 364
+| Wednesday | 24, 60, 60, 24 | 520
+| Thursday | 24, 48, 60, 36 | 364
+| Friday | 24, 36, 60, 48 | 364
+| Saturday | 36, 36, 48, 48 | 208
+| Sunday | 48, 36, 36, 48 | 208
+So the same schedule can mean anywhere from 208 to 520 overtime hours a year. One Canadian union agreement that adopted the 4/5/5/4/5/5 rotation in 2022 starts shifts at 6:00 a.m. and 6:00 p.m. and pays overtime after 12 hours in a day instead (UFCW Local 401 letter of understanding): check your own contract.
+4-5-5 compared
+| | Pattern | Cycle | Most shifts in a row | Longest break | Full weekends off in 2027
+| 4-5-5 | 28 days | 5 | 5 days | 13 to 26, depending on the weekday your cycle starts
+| Pitman (2-2-3) | 14 days | 3 | 3 days | 0 to 26, depending on the weekday your cycle starts
+| DuPont | 28 days | 4 | 7 days | 0 to 26, depending on the weekday your cycle starts
+| 4 on 4 off | 8 days | 4 | 4 days | 18 to 21, depending on the weekday your cycle starts
+All four average 42 hours a week on 12-hour shifts. The 4-5-5 trades the Pitman's short blocks for longer breaks, and the DuPont's 7-day break for a pattern that never drops below four days off. In the UK, 42 hours is within the 48-hour average week, and 12-hour shifts leave the 11 hours of daily rest the Working Time Regulations require; see UK working time rules.
+Make your calendar
+Choose “4-5-5 (4 on 5 off 5 on)” in the shift calendar to get your year, with every crew, holidays and a file for your phone. Pick “Night shift” under Version for the night crews, or “All crews” to see both crews side by side. Other 12-hour patterns are compared in 12-hour shift schedules.
+More guides
+Work hours in a year
+1st, 2nd and 3rd shift hours
+Swing shift
+Time calculator
+Hours calculator
+Time card calculator
+All guides
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
+Questions
+What is a 4-5-5 shift pattern?
+4 shifts on, 5 days off, 5 on, 4 off, 5 on, 5 off: a 28-day cycle, usually with 12-hour shifts. It is also written 4/5/5/4/5/5.
+How many hours a week is a 4-5-5 shift pattern?
+42 hours on average with 12-hour shifts: 14 shifts (168 hours) every 28 days, about 2,190 hours a year.
+How many crews does a 4-5-5 need?
+Two crews 14 days apart cover one shift every day exactly once; four crews cover days and nights 24/7.
+What is the longest break on a 4-5-5?
+5 days, twice per cycle, with a 4-day break in between. Taking the 4-shift block as leave gives 14 days off in a row.
+Is the 4-5-5 shift pattern any good?
+It suits people who want breaks of at least four days and no more than five shifts in a row. The cost is uneven weeks, from 24 to 60 hours, which affects weekly overtime.
+
+---
+
+## UTC Time Now: What UTC Is and How to Convert It
+URL: https://crewdays.app/utc-time/
+
+Home / Guides / UTC time
+UTC time now
+UTC, Coordinated Universal Time, is the time standard that the world's clocks are set from. US time zones are defined by law as a number of hours behind it: Eastern Standard Time is UTC−5, Central UTC−6, Mountain UTC−7 and Pacific UTC−8. During daylight saving time each of them moves one hour closer to UTC; UTC itself never changes.
+By Asier Fernández · October 18, 2026
+Right now in UTC: turn on JavaScript to see the live time
+US time zones and UTC
+| | Zone | Standard time | Daylight saving time | Examples
+| Atlantic | UTC−4 | No change | Puerto Rico, US Virgin Islands
+| Eastern | UTC−5 (EST) | UTC−4 (EDT) | New York, Washington, Atlanta, Miami
+| Central | UTC−6 (CST) | UTC−5 (CDT) | Chicago, Dallas, Houston, Minneapolis
+| Mountain | UTC−7 (MST) | UTC−6 (MDT) | Denver, Salt Lake City; Phoenix stays on MST
+| Pacific | UTC−8 (PST) | UTC−7 (PDT) | Los Angeles, Seattle, Las Vegas
+| Alaska | UTC−9 (AKST) | UTC−8 (AKDT) | Anchorage
+| Hawaii-Aleutian | UTC−10 (HST) | No change in Hawaii | Honolulu
+| Samoa | UTC−11 | No change | American Samoa
+| Chamorro | UTC+10 | No change | Guam, Northern Mariana Islands
+Federal law divides the United States into nine zones and defines each one by its distance from Coordinated Universal Time (15 U.S.C. 261). Daylight saving time runs from 2 a.m. on the second Sunday of March to 2 a.m. on the first Sunday of November (15 U.S.C. 260a); Hawaii and most of Arizona stay on standard time all year.
+Convert UTC to your time
+Photo: @davcohpho on Unsplash
+UTC to US time, hour by hour (winter)
+| | UTC | Eastern Time | Central Time | Mountain Time | Pacific Time
+| 12:00 a.m. | 7:00 p.m. (−1 day) | 6:00 p.m. (−1 day) | 5:00 p.m. (−1 day) | 4:00 p.m. (−1 day)
+| 1:00 a.m. | 8:00 p.m. (−1 day) | 7:00 p.m. (−1 day) | 6:00 p.m. (−1 day) | 5:00 p.m. (−1 day)
+| 2:00 a.m. | 9:00 p.m. (−1 day) | 8:00 p.m. (−1 day) | 7:00 p.m. (−1 day) | 6:00 p.m. (−1 day)
+| 3:00 a.m. | 10:00 p.m. (−1 day) | 9:00 p.m. (−1 day) | 8:00 p.m. (−1 day) | 7:00 p.m. (−1 day)
+| 4:00 a.m. | 11:00 p.m. (−1 day) | 10:00 p.m. (−1 day) | 9:00 p.m. (−1 day) | 8:00 p.m. (−1 day)
+| 5:00 a.m. | 12:00 a.m. | 11:00 p.m. (−1 day) | 10:00 p.m. (−1 day) | 9:00 p.m. (−1 day)
+| 6:00 a.m. | 1:00 a.m. | 12:00 a.m. | 11:00 p.m. (−1 day) | 10:00 p.m. (−1 day)
+| 7:00 a.m. | 2:00 a.m. | 1:00 a.m. | 12:00 a.m. | 11:00 p.m. (−1 day)
+| 8:00 a.m. | 3:00 a.m. | 2:00 a.m. | 1:00 a.m. | 12:00 a.m.
+| 9:00 a.m. | 4:00 a.m. | 3:00 a.m. | 2:00 a.m. | 1:00 a.m.
+| 10:00 a.m. | 5:00 a.m. | 4:00 a.m. | 3:00 a.m. | 2:00 a.m.
+| 11:00 a.m. | 6:00 a.m. | 5:00 a.m. | 4:00 a.m. | 3:00 a.m.
+| 12:00 p.m. | 7:00 a.m. | 6:00 a.m. | 5:00 a.m. | 4:00 a.m.
+| 1:00 p.m. | 8:00 a.m. | 7:00 a.m. | 6:00 a.m. | 5:00 a.m.
+| 2:00 p.m. | 9:00 a.m. | 8:00 a.m. | 7:00 a.m. | 6:00 a.m.
+| 3:00 p.m. | 10:00 a.m. | 9:00 a.m. | 8:00 a.m. | 7:00 a.m.
+| 4:00 p.m. | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. | 8:00 a.m.
+| 5:00 p.m. | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. | 9:00 a.m.
+| 6:00 p.m. | 1:00 p.m. | 12:00 p.m. | 11:00 a.m. | 10:00 a.m.
+| 7:00 p.m. | 2:00 p.m. | 1:00 p.m. | 12:00 p.m. | 11:00 a.m.
+| 8:00 p.m. | 3:00 p.m. | 2:00 p.m. | 1:00 p.m. | 12:00 p.m.
+| 9:00 p.m. | 4:00 p.m. | 3:00 p.m. | 2:00 p.m. | 1:00 p.m.
+| 10:00 p.m. | 5:00 p.m. | 4:00 p.m. | 3:00 p.m. | 2:00 p.m.
+| 11:00 p.m. | 6:00 p.m. | 5:00 p.m. | 4:00 p.m. | 3:00 p.m.
+Standard time, for example January 15, 2027. From March to early November, add one hour to each US column: 14:00 UTC is 10:00 a.m. Eastern instead of 9:00 a.m.
+UTC and GMT
+Greenwich Mean Time (GMT) is the UK's civil time in winter and shows the same clock time as UTC. The difference is that the UK changes its clocks: British Summer Time (BST), UTC+1, runs from 1 a.m. GMT on the last Sunday in March to 1 a.m. GMT on the last Sunday in October (Summer Time Order 2002). UTC stays the same all year, which is why logs, flight plans and servers use it.
+Zulu time and the 24-hour clock
+Aviation, the military and many control rooms write UTC on the 24-hour clock with a “Z”, for “Zulu”: 1400Z is 14:00 UTC. To read 24-hour times, see the military time chart.
+UTC on shift work
+If your rota is shared between sites in different zones, or your shift logs are stamped in UTC, convert once and write both times on the handover. A night shift that runs 7 p.m. to 7 a.m. Eastern is 00:00 to 12:00 UTC in winter and 23:00 to 11:00 UTC in summer. The night the US clocks change, that shift lasts 13 or 11 hours: see daylight saving time dates.
+More guides
+Work hours in a year
+1st, 2nd and 3rd shift hours
+Swing shift
+Time calculator
+Hours calculator
+Time card calculator
+All guides
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
+Questions
+What is the UTC time zone?
+UTC is not a local time zone but the world time standard that time zones are defined from. Its offset is zero, and it does not change for daylight saving time.
+Is UTC 4 or 5 hours ahead of EST?
+5 hours ahead of Eastern Standard Time (winter) and 4 hours ahead of Eastern Daylight Time, used from the second Sunday in March to the first Sunday in November.
+How do I convert UTC to local time?
+Subtract your zone's offset: 5 hours for EST, 6 for CST, 7 for MST and 8 for PST, one hour less during daylight saving time. 14:00 UTC is 9:00 a.m. EST.
+Is UTC time the same as EST?
+No. EST is UTC minus 5 hours (15 U.S.C. 261).
+Is UTC the same as GMT?
+They show the same time in winter. GMT is the UK's winter time; in summer the UK uses BST, one hour ahead of UTC.
+
+---
+
+## EST Time Now: Eastern Time, EST vs EDT (2026)
+URL: https://crewdays.app/est-time/
+
+Home / Guides / EST time
+Eastern Time: EST and EDT
+Eastern Standard Time (EST) is UTC−5. From 2 a.m. on the second Sunday in March to 2 a.m. on the first Sunday in November, the Eastern zone uses Eastern Daylight Time (EDT), UTC−4. In 2026 the zone returns to EST on Sunday, November 1. New York, Washington, Atlanta, Miami and Detroit are on Eastern Time.
+By Asier Fernández · October 18, 2026
+Right now in New York: turn on JavaScript to see the live time
+EST or EDT? The change dates
+| | Year | Daylight time starts (2 a.m.) | Standard time returns (2 a.m.)
+| 2026 | Sunday, March 8 | Sunday, November 1
+| 2027 | Sunday, March 14 | Sunday, November 7
+| 2028 | Sunday, March 12 | Sunday, November 5
+The dates come from federal law (15 U.S.C. 260a). People often say “EST” all year; strictly, summer time is EDT. “ET” covers both.
+Convert Eastern Time
+Photo: @impatrickt on Unsplash
+Eastern Time compared with other zones
+| | When it is noon Eastern | Central | Mountain | Pacific | UTC | London
+| Winter (EST) | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. | 17:00 | 5:00 p.m.
+| Summer (EDT) | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. | 16:00 | 5:00 p.m.
+London is usually 5 hours ahead. Because the UK and US change their clocks on different Sundays, the gap is 4 hours for about three weeks in March and one week around the end of October.
+Where Eastern Time applies
+The Eastern zone covers the eastern United States west of 67°30′ W and includes all of Maine (49 CFR 71.4). Its western edge is the line between the Eastern and Central zones, which crosses Michigan, Indiana, Kentucky, Tennessee and Florida, so parts of those states use Central Time (49 CFR 71.5).
+Eastern Time, hour by hour (winter)
+| | Eastern Time | Central Time | Pacific Time | UTC
+| 12:00 a.m. | 11:00 p.m. (−1 day) | 9:00 p.m. (−1 day) | 5:00 a.m.
+| 1:00 a.m. | 12:00 a.m. | 10:00 p.m. (−1 day) | 6:00 a.m.
+| 2:00 a.m. | 1:00 a.m. | 11:00 p.m. (−1 day) | 7:00 a.m.
+| 3:00 a.m. | 2:00 a.m. | 12:00 a.m. | 8:00 a.m.
+| 4:00 a.m. | 3:00 a.m. | 1:00 a.m. | 9:00 a.m.
+| 5:00 a.m. | 4:00 a.m. | 2:00 a.m. | 10:00 a.m.
+| 6:00 a.m. | 5:00 a.m. | 3:00 a.m. | 11:00 a.m.
+| 7:00 a.m. | 6:00 a.m. | 4:00 a.m. | 12:00 p.m.
+| 8:00 a.m. | 7:00 a.m. | 5:00 a.m. | 1:00 p.m.
+| 9:00 a.m. | 8:00 a.m. | 6:00 a.m. | 2:00 p.m.
+| 10:00 a.m. | 9:00 a.m. | 7:00 a.m. | 3:00 p.m.
+| 11:00 a.m. | 10:00 a.m. | 8:00 a.m. | 4:00 p.m.
+| 12:00 p.m. | 11:00 a.m. | 9:00 a.m. | 5:00 p.m.
+| 1:00 p.m. | 12:00 p.m. | 10:00 a.m. | 6:00 p.m.
+| 2:00 p.m. | 1:00 p.m. | 11:00 a.m. | 7:00 p.m.
+| 3:00 p.m. | 2:00 p.m. | 12:00 p.m. | 8:00 p.m.
+| 4:00 p.m. | 3:00 p.m. | 1:00 p.m. | 9:00 p.m.
+| 5:00 p.m. | 4:00 p.m. | 2:00 p.m. | 10:00 p.m.
+| 6:00 p.m. | 5:00 p.m. | 3:00 p.m. | 11:00 p.m.
+| 7:00 p.m. | 6:00 p.m. | 4:00 p.m. | 12:00 a.m. (+1 day)
+| 8:00 p.m. | 7:00 p.m. | 5:00 p.m. | 1:00 a.m. (+1 day)
+| 9:00 p.m. | 8:00 p.m. | 6:00 p.m. | 2:00 a.m. (+1 day)
+| 10:00 p.m. | 9:00 p.m. | 7:00 p.m. | 3:00 a.m. (+1 day)
+| 11:00 p.m. | 10:00 p.m. | 8:00 p.m. | 4:00 a.m. (+1 day)
+On a night shift
+When standard time returns on November 1, 2026, the hour from 1:00 to 2:00 a.m. Eastern happens twice, so a 12-hour night shift lasts 13 hours; in March it lasts 11. The night shift clock change calculator works out the hours and pay. For pay periods and holidays, see the 2027 pay period calendar.
+More guides
+Work hours in a year
+1st, 2nd and 3rd shift hours
+Swing shift
+Time calculator
+Hours calculator
+Time card calculator
+All guides
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
+Questions
+What time zone is EST in the USA?
+Eastern Standard Time, UTC−5, used in the eastern United States in winter. In summer the same zone uses EDT, UTC−4.
+Is New York on EST or EDT right now?
+New York uses EDT from the second Sunday in March to the first Sunday in November and EST the rest of the year. In 2026 it switches to EST on Sunday, November 1.
+What is the difference between EST and ET?
+EST is the winter standard time (UTC−5). ET, Eastern Time, means whichever is in use: EST in winter, EDT in summer.
+How many hours ahead is EST from PST?
+3 hours. Noon Eastern is 9:00 a.m. Pacific, all year.
+How far ahead of EST is London?
+Usually 5 hours. For about three weeks in March and one week at the end of October it is 4, because the UK and US change clocks on different dates.
+
+---
+
+## CST Time Now: Central Time, CST vs CDT (2026)
+URL: https://crewdays.app/cst-time/
+
+Home / Guides / CST time
+Central Time: CST and CDT
+Central Standard Time (CST) is UTC−6, one hour behind Eastern Time. During daylight saving time, from the second Sunday in March to the first Sunday in November, the zone uses Central Daylight Time (CDT), UTC−5. Chicago, Dallas, Houston, Minneapolis, New Orleans and nearly all of Texas are on Central Time.
+By Asier Fernández · October 18, 2026
+Right now in Chicago: turn on JavaScript to see the live time
+CST or CDT? The change dates
+| | Year | Daylight time starts (2 a.m.) | Standard time returns (2 a.m.)
+| 2026 | Sunday, March 8 | Sunday, November 1
+| 2027 | Sunday, March 14 | Sunday, November 7
+| 2028 | Sunday, March 12 | Sunday, November 5
+Set by federal law (15 U.S.C. 260a). In 2026 the Central zone returns to CST on Sunday, November 1 at 2:00 a.m.
+Convert Central Time
+Photo: @jbrown1276 on Unsplash
+Is Texas on Central Time?
+Yes, except the far west. The boundary between the Central and Mountain zones runs down the western edge of Texas and then along the east line of Hudspeth County to the Mexican border (49 CFR 71.7, paragraph (e)), so Hudspeth and El Paso counties are on Mountain Time and the rest of Texas on Central.
+Where Central Time applies
+The Central zone lies between the Eastern–Central line (49 CFR 71.5) and the Central–Mountain line (49 CFR 71.7). Both lines cross states: the eastern one splits Michigan, Indiana, Kentucky, Tennessee and Florida; the western one splits North Dakota, South Dakota, Nebraska, Kansas and Texas. Illinois, Wisconsin, Minnesota, Iowa, Missouri, Arkansas, Louisiana, Mississippi, Alabama and Oklahoma are on Central Time.
+Central Time compared with other zones
+| | When it is noon Central | Eastern | Mountain | Pacific | UTC (winter / summer)
+| All year | 1:00 p.m. | 11:00 a.m. | 10:00 a.m. | 18:00 / 17:00
+| | Central Time | Eastern Time | Pacific Time | UTC
+| 12:00 a.m. | 1:00 a.m. | 10:00 p.m. (−1 day) | 6:00 a.m.
+| 1:00 a.m. | 2:00 a.m. | 11:00 p.m. (−1 day) | 7:00 a.m.
+| 2:00 a.m. | 3:00 a.m. | 12:00 a.m. | 8:00 a.m.
+| 3:00 a.m. | 4:00 a.m. | 1:00 a.m. | 9:00 a.m.
+| 4:00 a.m. | 5:00 a.m. | 2:00 a.m. | 10:00 a.m.
+| 5:00 a.m. | 6:00 a.m. | 3:00 a.m. | 11:00 a.m.
+| 6:00 a.m. | 7:00 a.m. | 4:00 a.m. | 12:00 p.m.
+| 7:00 a.m. | 8:00 a.m. | 5:00 a.m. | 1:00 p.m.
+| 8:00 a.m. | 9:00 a.m. | 6:00 a.m. | 2:00 p.m.
+| 9:00 a.m. | 10:00 a.m. | 7:00 a.m. | 3:00 p.m.
+| 10:00 a.m. | 11:00 a.m. | 8:00 a.m. | 4:00 p.m.
+| 11:00 a.m. | 12:00 p.m. | 9:00 a.m. | 5:00 p.m.
+| 12:00 p.m. | 1:00 p.m. | 10:00 a.m. | 6:00 p.m.
+| 1:00 p.m. | 2:00 p.m. | 11:00 a.m. | 7:00 p.m.
+| 2:00 p.m. | 3:00 p.m. | 12:00 p.m. | 8:00 p.m.
+| 3:00 p.m. | 4:00 p.m. | 1:00 p.m. | 9:00 p.m.
+| 4:00 p.m. | 5:00 p.m. | 2:00 p.m. | 10:00 p.m.
+| 5:00 p.m. | 6:00 p.m. | 3:00 p.m. | 11:00 p.m.
+| 6:00 p.m. | 7:00 p.m. | 4:00 p.m. | 12:00 a.m. (+1 day)
+| 7:00 p.m. | 8:00 p.m. | 5:00 p.m. | 1:00 a.m. (+1 day)
+| 8:00 p.m. | 9:00 p.m. | 6:00 p.m. | 2:00 a.m. (+1 day)
+| 9:00 p.m. | 10:00 p.m. | 7:00 p.m. | 3:00 a.m. (+1 day)
+| 10:00 p.m. | 11:00 p.m. | 8:00 p.m. | 4:00 a.m. (+1 day)
+| 11:00 p.m. | 12:00 a.m. (+1 day) | 9:00 p.m. | 5:00 a.m. (+1 day)
+Winter (standard time), for example January 15, 2027.
+Shift handovers across zones
+A plant in Houston and a control room in Atlanta are an hour apart: a 6 a.m. Central start is 7 a.m. Eastern. Write both times on shared rotas, and note that both zones change on the same night, so the gap stays one hour. For your own rotation, the shift calendar shows every shift of the year.
+More guides
+Work hours in a year
+1st, 2nd and 3rd shift hours
+Swing shift
+Time calculator
+Hours calculator
+Time card calculator
+All guides
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
+Questions
+Is Texas in CST?
+Most of Texas is on Central Time (CST in winter, CDT in summer). Hudspeth and El Paso counties in the far west are on Mountain Time (49 CFR 71.7).
+What is the CST time zone?
+Central Standard Time, UTC−6, used in the central United States in winter. In summer the zone uses CDT, UTC−5.
+Is CST 1 hour or 2 hours behind EST?
+1 hour. Noon Eastern is 11:00 a.m. Central, all year.
+What is CST and EST?
+Central and Eastern Standard Time, the winter times of the two zones: UTC−6 and UTC−5.
+Is Chicago on CST?
+Chicago is on Central Time: CST in winter and CDT from the second Sunday in March to the first Sunday in November.
+
+---
+
+## PST to EST: Pacific to Eastern Time Converter
+URL: https://crewdays.app/pst-to-est/
+
+Home / Guides / PST to EST
+PST to EST
+Add 3 hours to Pacific Time to get Eastern Time: 9:00 a.m. PST is 12:00 p.m. EST, and 11:00 a.m. PST is 2:00 p.m. EST. The difference stays at 3 hours all year, because both zones change their clocks for daylight saving time on the same night.
+By Asier Fernández · October 18, 2026
+Photo: @ventiviews on Unsplash
+PST to EST conversion table
+| | Pacific Time | Eastern Time
+| 12:00 a.m. | 3:00 a.m.
+| 1:00 a.m. | 4:00 a.m.
+| 2:00 a.m. | 5:00 a.m.
+| 3:00 a.m. | 6:00 a.m.
+| 4:00 a.m. | 7:00 a.m.
+| 5:00 a.m. | 8:00 a.m.
+| 6:00 a.m. | 9:00 a.m.
+| 7:00 a.m. | 10:00 a.m.
+| 8:00 a.m. | 11:00 a.m.
+| 9:00 a.m. | 12:00 p.m.
+| 10:00 a.m. | 1:00 p.m.
+| 11:00 a.m. | 2:00 p.m.
+| 12:00 p.m. | 3:00 p.m.
+| 1:00 p.m. | 4:00 p.m.
+| 2:00 p.m. | 5:00 p.m.
+| 3:00 p.m. | 6:00 p.m.
+| 4:00 p.m. | 7:00 p.m.
+| 5:00 p.m. | 8:00 p.m.
+| 6:00 p.m. | 9:00 p.m.
+| 7:00 p.m. | 10:00 p.m.
+| 8:00 p.m. | 11:00 p.m.
+| 9:00 p.m. | 12:00 a.m. (+1 day)
+| 10:00 p.m. | 1:00 a.m. (+1 day)
+| 11:00 p.m. | 2:00 a.m. (+1 day)
+The same in summer (PDT to EDT): the gap does not change.
+EST to PST
+Go the other way by subtracting 3 hours: 9:00 a.m. Eastern is 6:00 a.m. Pacific, and 5:00 p.m. Eastern is 2:00 p.m. Pacific. After 9:00 p.m. Pacific it is already the next day in the East.
+PST, PDT, EST and EDT
+Pacific Standard Time is UTC−8 and Eastern Standard Time UTC−5 (15 U.S.C. 261). From 2 a.m. on the second Sunday in March to 2 a.m. on the first Sunday in November both use daylight time, PDT (UTC−7) and EDT (UTC−4) (15 U.S.C. 260a). Most people write “PST” and “EST” all year; the 3-hour gap is the same either way. Most of Arizona stays on standard time, so in summer it matches Pacific Time and in winter Mountain Time.
+Handovers between coasts
+| | Eastern shift | Same shift in Pacific Time
+| 7:00 a.m. – 7:00 p.m. | 4:00 a.m. – 4:00 p.m.
+| 7:00 p.m. – 7:00 a.m. | 4:00 p.m. – 4:00 a.m.
+| 8:00 a.m. – 4:30 p.m. | 5:00 a.m. – 1:30 p.m.
+| 11:00 p.m. – 7:00 a.m. | 8:00 p.m. – 4:00 a.m.
+National dispatch centers, help desks and on-call teams that span both coasts often schedule in Eastern Time. If you start at 6:00 a.m. Pacific to join a 9:00 a.m. Eastern huddle, count those hours like any other: the hours calculator works out your day, and Eastern Time has the clock change dates.
+More guides
+Work hours in a year
+1st, 2nd and 3rd shift hours
+Swing shift
+Time calculator
+Hours calculator
+Time card calculator
+All guides
+Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
+Questions
+Is PST 3 hours behind EST?
+Yes. Pacific Time is 3 hours behind Eastern Time all year, including during daylight saving time.
+What time is 11 a.m. PST in EST?
+2:00 p.m. EST.
+How do I convert PST to EST?
+Add 3 hours. If the result passes midnight, it is the next day in the East: 10:00 p.m. PST is 1:00 a.m. EST.
+Is 1 p.m. EST the same as 10 a.m. PST?
+Yes. 1:00 p.m. Eastern is 10:00 a.m. Pacific.
+What is 9 a.m. PST in EST?
+12:00 p.m. (noon) EST.
+
+---
+
 ## Guides for Shift Workers: Hours, Pay and Schedules | Crewdays
 URL: https://crewdays.app/guides/
 
@@ -3653,4 +4015,9 @@ Southern swing scheduleThe southern swing rotates four crews through days, eveni
 8-hour shift schedule with every other weekend offHow to build an 8-hour, 40-hour-a-week schedule with every other weekend off: the two-week pattern, how two people cover all seven days and the overtime to watch.
 1-3-2-3 firefighter scheduleOne 24-hour shift, 3 days off, two 24s, 3 off: the 1-3-2-3 firefighter schedule. 56 hours a week with three platoons. Calendar and 7(k) overtime.
 5-2-5-3 work scheduleThe 5-2-5-3 schedule is 5 days on, 2 off, 5 on, 3 off: a 15-day cycle of 8-hour shifts with three squads. Hours a week, weekends off and how it covers the week.
+4-5-5 shift pattern (4/5/5/4/5/5)The 4-5-5 shift pattern is 4 on, 5 off, 5 on, 4 off, 5 on, 5 off: a 28-day cycle of 12-hour shifts. Two crews cover every day; 42 hours a week.
+UTC time nowCurrent UTC time, what Coordinated Universal Time is and how far each US time zone is behind it: EST is UTC−5, PST UTC−8, one hour less in summer.
+Eastern Time: EST and EDTEastern Time is EST (UTC−5) in winter and EDT (UTC−4) from March to November. Current time, the 2026–2028 change dates, conversions and where it applies.
+Central Time: CST and CDTCentral Time is CST (UTC−6) in winter and CDT (UTC−5) in summer, one hour behind Eastern. Current time, where it applies, Texas and conversions.
+PST to ESTPacific Time is 3 hours behind Eastern Time all year: 9 a.m. PST is 12 p.m. EST. Hour-by-hour table, a converter and shift handover examples.
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
