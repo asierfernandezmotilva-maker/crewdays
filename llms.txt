@@ -41,7 +41,7 @@ Facts on each pattern page are computed from the cycle: hours a year = hours in 
 - [12-hour shift schedule examples](https://crewdays.app/12-hour-shift-schedules/): Pitman and Panama give every other weekend off, DuPont gives 7 days off every 28 days; all need four crews and average 42 hours a week.
 
 ## Guides and calculators
-- [How many work hours are in a year?](https://crewdays.app/work-hours-in-a-year/): Most people use 2,080: 40 hours a week times 52 weeks. 2027 actually has 261 weekdays, so a Monday-to-Friday job is 2,088 scheduled hours.
+- [How many work hours are in a year?](https://crewdays.app/work-hours-in-a-year/): Most people use 2,080: 40 hours a week times 52 weeks. 2027 has 261 weekdays, so a Monday-to-Friday job is 2,088 scheduled hours.
 - [1st, 2nd and 3rd shift hours](https://crewdays.app/first-second-third-shift-hours/): On 8-hour shifts, first shift usually runs from 7 a.m. to 3 p.m., second shift from 3 p.m. to 11 p.m. and third shift, the graveyard shift, from 11 p.m. to 7 a.m.
 - [Swing shift: hours and schedules](https://crewdays.app/swing-shift/): Swing shift has two meanings.
 - [Time calculator](https://crewdays.app/time-calculator/): Add or subtract hours and minutes, or add a length of time to a clock time to see when a shift ends, even past midnight.
@@ -59,7 +59,7 @@ Facts on each pattern page are computed from the cycle: hours a year = hours in 
 - [Baylor shift: the weekend nursing schedule](https://crewdays.app/baylor-shift/): A Baylor shift, or Baylor plan, is a weekend-only schedule: usually two 12-hour shifts, Saturday and Sunday, often days or nights.
 - [Clopening: closing and opening the next day](https://crewdays.app/clopening/): A clopening is a closing shift followed by an opening shift the next morning, often with 8 hours or less in between.
 - [5-5-4 schedule](https://crewdays.app/5-5-4-schedule/): The 5-5-4 schedule is a 15-day rotation of 12-hour shifts: 5 day shifts, 5 days off, 4 night shifts and 1 day off, then it repeats.
-- [3-4-4-3 schedule](https://crewdays.app/3-4-4-3-schedule/): The 3-4-4-3 schedule is 3 days on, 4 days off, 4 days on and 3 days off, a 14-day cycle of 12-hour shifts.
+- [3-4-4-3 schedule](https://crewdays.app/3-4-4-3-schedule/): The 3-4-4-3 schedule is 3 days on, 4 off, 4 on and 3 off: a 14-day cycle of 12-hour shifts, 84 hours every two weeks (42 a week on average).
 - [12-hour rotating shift schedule with 3 teams](https://crewdays.app/12-hour-shift-schedule-3-crews/): Three teams can cover every hour of the year with 12-hour shifts, but each person then works 56 hours a week on average.
 - [How many days in a row can you legally work?](https://crewdays.app/how-many-days-in-a-row-can-you-work/): For adults, federal law sets no limit on how many days in a row or how many hours a day you can work: it only requires overtime pay after 40 hours in a workweek.
 - [On-call pay: when on-call time is work](https://crewdays.app/on-call-pay/): Under federal rules, on-call time is paid work if you must stay on the employer's premises, or so close that you cannot use the time for yourself.
