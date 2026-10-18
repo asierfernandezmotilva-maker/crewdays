@@ -1710,7 +1710,7 @@ Night workers must not work more than 8 hours in each 24 on average, usually ove
 Your employer must offer a free health assessment before you start night work and at regular intervals after that. You do not have to accept it (reg. 7).
 If a health professional confirms that night work is affecting your health, your employer must offer you suitable day work where possible.
 There is no higher legal rate for nights: the National Minimum Wage is the same. Night pay comes from your contract.
-Source: GOV.UK, night working hours.
+Source: GOV.UK, night working hours. The law sets no maximum number of nights in a row; see night shifts in a row.
 When the limits do not apply
 The night work limit and the daily and weekly rest rules do not apply in jobs that need round-the-clock staffing, such as hospitals, in security and surveillance, in industries with busy peak periods, in emergencies, or where a collective or workforce agreement changes them (regs. 21 and 23). The armed forces and emergency services usually fall outside the night limits too.
 In those cases you must get compensatory rest: the same length of rest that you missed, taken later. GOV.UK puts the total at a minimum of 90 hours of rest a week on average, on top of breaks at work (compensatory rest). This is why many 12-hour rotas in the NHS or in plants can break the 11-hour rule on a changeover day and still be legal.
@@ -2403,12 +2403,12 @@ On a rotating schedule only part of your shifts carry a night differential, so y
 Living with a swing shift
 A few habits make rotating easier. Plan the first day off after nights as a recovery day, not a day for errands. Keep the same sleep window for the whole run of nights, including the days in between if you have only one off. Share the calendar with your family so the swing weeks are no surprise: the shift calendar gives a link that opens on any phone. On the night the clocks change, a 12-hour night shift lasts 13 or 11 hours; see daylight saving time on night shift.
 More guides
+1st, 2nd and 3rd shift hours
 4-5-5 shift pattern
 5-5-4 schedule
 3-4-4-3 schedule
 12-hour schedule with 3 crews
 Southern swing schedule
-8-hour schedule, every other weekend off
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2455,12 +2455,12 @@ Many employers round punches to the nearest 5 minutes, tenth of an hour (6 minut
 More time tools
 To total a whole week of punches with overtime, use the time card calculator. For the hours between a start and end time, the hours calculator; for a 24-hour clock, the military time chart. Shift patterns and their yearly hours are in the shift calendar.
 More guides
-Hours calculator
-Time card calculator
 Paycheck calculator
 Salary calculator
 Tax calculator
 Military time chart
+Sleep calculator
+Hours calculator
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2549,12 +2549,12 @@ Record the actual times you started and stopped work; rounding is accepted only 
 Only take off breaks you spent completely off duty; short rest breaks are paid time.
 Keep your own copy of each week: it is the quickest way to check a paycheck.
 More guides
-Hours calculator
 Time calculator
 Paycheck calculator
 Salary calculator
 Tax calculator
 Military time chart
+Sleep calculator
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2617,12 +2617,12 @@ Military time on shift schedules
 Hospitals, police, fire departments and plants write shift times on the 24-hour clock because it removes any doubt about a.m. and p.m. A 12-hour rotation usually runs 0700–1900 and 1900–0700; 8-hour shifts often run 0700–1500, 1500–2300 and 2300–0700. See 1st, 2nd and 3rd shift hours. To total hours on a time card that uses the 24-hour clock, use the hours calculator.
 Military and aviation schedules also add a time zone letter. “Z”, or Zulu time, means Coordinated Universal Time (UTC).
 More guides
+Sleep calculator
 Hours calculator
 Time card calculator
 Time calculator
 Paycheck calculator
 Salary calculator
-Tax calculator
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2659,12 +2659,12 @@ Overtime here is paid at time and a half for every hour you enter as overtime. F
 The overtime deduction
 From 2025 to 2028 you can deduct the extra half of qualified overtime pay (the part above your regular rate) when you file. The limit is $12,500 a year, or $25,000 filing jointly, phased out above $150,000 of modified adjusted gross income ($300,000 jointly). You need a valid Social Security number and married couples must file jointly (IRS). It does not reduce Social Security or Medicare. Choose “Yes” above to see its effect on the yearly tax spread over each paycheck; your employer's withholding may not include it.
 More guides
-Hours calculator
-Time card calculator
-Time calculator
 Salary calculator
 Tax calculator
 Military time chart
+Sleep calculator
+Hours calculator
+Time card calculator
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2702,7 +2702,7 @@ Hourly to salary table
 | $40 | $83,200 | $74,880 | $87,360 | $6,933.33
 | $45 | $93,600 | $84,240 | $98,280 | $7,800.00
 | $50 | $104,000 | $93,600 | $109,200 | $8,666.67
-Before tax and without overtime premium. 2,184 hours is the average of a four-crew 12-hour schedule such as the Pitman or DuPont; the extra hours are often paid as overtime, so the real figure is higher.
+Before tax and without overtime premium. 2,184 hours is the average of a four-crew 12-hour schedule such as the Pitman or DuPont; the extra hours are often paid as overtime, so the real figure is higher. At the federal minimum of $7.25, a 40-hour week is $15,080 a year; most states pay more (see the minimum wage by state).
 Salary to hourly
 Divide the yearly salary by the hours you work in a year: by 2,080 for a 40-hour week. $60,000 a year is $28.85 an hour; $75,000 is $36.06. Federal agencies divide by 2,087 instead, the long-run average of weekday hours (5 U.S.C. 5504(b)). See work hours in a year for why 2027 has 2,088.
 Weekly, biweekly or twice a month?
@@ -2713,12 +2713,12 @@ A night differential adds up quickly: $2 an hour extra on half of the 2,184 hour
 Shift workers: count the overtime
 On a 12-hour rotation the weeks are uneven, so some weeks pass 40 hours and pay overtime even though the average is 42. Depending on the day your employer's workweek starts, a Pitman crew can work anything from about 208 to 520 overtime hours a year. The shift pay calculator adds that overtime for your pattern, and the paycheck calculator shows take-home pay.
 More guides
+Tax calculator
+Military time chart
+Sleep calculator
 Hours calculator
 Time card calculator
 Time calculator
-Paycheck calculator
-Tax calculator
-Military time chart
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2760,12 +2760,12 @@ For 2025 to 2028 you can deduct qualified overtime compensation: the pay above y
 Payroll taxes are separate
 Social Security (6.2% up to $184,500 of wages) and Medicare (1.45%) come out of every paycheck on top of income tax. The paycheck calculator shows all of them for one pay period.
 More guides
+Military time chart
+Sleep calculator
 Hours calculator
 Time card calculator
 Time calculator
 Paycheck calculator
-Salary calculator
-Military time chart
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2892,12 +2892,12 @@ Weeks and paychecks
 Work weeks and hours
 At 40 hours a week, 52 weeks is 2,080 work hours. Taking out two weeks of vacation leaves 50 working weeks and 2,000 hours. For the exact weekday count of each year and the hours of rotating shift schedules, see work hours in a year.
 More guides
-Daylight saving time
 Date calculator
 UTC time
 EST time
 CST time
 PST to EST
+Daylight saving time
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -2934,12 +2934,12 @@ For week numbers, see how many weeks are in a year; for working days and hours, 
 Dates on a shift rotation
 Rotating schedules repeat every few days: 14 for a Pitman, 28 for a DuPont, 3 for a 24/48. To find whether you work on a given date, count the days from a day you know you started a block and divide by the cycle length; the remainder tells you where you are in the cycle. The shift calendar does this for every day of the year at once.
 More guides
-Daylight saving time
-Weeks in a year
 UTC time
 EST time
 CST time
 PST to EST
+Daylight saving time
+Weeks in a year
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3023,12 +3023,12 @@ The Fair Labor Standards Act sets the federal minimum at $7.25 an hour (29 U.S.C
 Minimum wage for shift workers
 A shift differential is paid on top of your base rate and, under federal rules, it counts in the regular rate used to work out overtime (29 CFR 778.207(b)). A few states add daily overtime that matters on 12-hour shifts: California after 8 hours a day and double time after 12, Alaska after 8 and Colorado after 12. At $16.90 in California, a 12-hour shift pays 8 hours at the regular rate and 4 at time and a half. See the shift pay calculator for a whole year and the salary calculator to turn a rate into a yearly figure.
 More guides
+Night shifts in a row (UK)
 Work hours in a year
 On-call pay
 Clopening
 Days in a row you can work
 Nurse mandatory overtime laws
-PTO on 12-hour shifts
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3073,12 +3073,12 @@ Federal overtime is due for hours over 40 in a workweek (29 CFR 778.107), so 24 
 Is a Baylor shift right for you?
 It suits students, parents who share childcare with a weekday partner and nurses who want weekdays free for a second job. The cost is the weekends: about 104 weekend days a year at work. To plan around it, add your weekend shifts to the shift calendar with “Build your own” and the cycle OOOOODD (start it on a Monday). For other nursing patterns see nurse shift schedules.
 More guides
+Minimum wage by state
+Night shifts in a row (UK)
 Work hours in a year
 On-call pay
 Clopening
 Days in a row you can work
-Nurse mandatory overtime laws
-PTO on 12-hour shifts
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3118,14 +3118,14 @@ Ask whether your employer or state has a rest rule and whether a clopening needs
 Keep your own record of closing and opening times: the hours calculator works out the gap across midnight.
 If you are on a rotating schedule, compare the rest between your shifts in the shift calendar.
 Rest between shifts on rotating schedules
-In 24/7 plants and hospitals the pattern itself sets the rest: on a 12-hour rotation you normally get at least 24 hours before a change from nights to days. In the UK, workers are entitled to 11 consecutive hours of rest in each 24-hour period; see UK working time rules.
+In 24/7 plants and hospitals the pattern itself sets the rest: on a 12-hour rotation you normally get at least 24 hours before a change from nights to days. In the UK, workers are entitled to 11 consecutive hours of rest in each 24-hour period; see UK working time rules and how many night shifts in a row you can work in the UK.
 More guides
-Work hours in a year
-On-call pay
 Days in a row you can work
 Nurse mandatory overtime laws
 PTO on 12-hour shifts
 Baylor shift
+Minimum wage by state
+Night shifts in a row (UK)
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3168,12 +3168,12 @@ The cycle is 15 days, so your days move through the week. A crew gets 12 to 16, 
 Who uses it and alternatives
 The 5-5-4 appears in plants and contact centers that run three crews. If the hours are too high, the four-crew rotations average 42 hours: compare the DuPont (also with a long break) and the other 12-hour schedules. Choose “5-5-4” in the shift calendar to get your year, with every crew, holidays and a file for your phone.
 More guides
-4-5-5 shift pattern
 3-4-4-3 schedule
 12-hour schedule with 3 crews
 Southern swing schedule
 8-hour schedule, every other weekend off
 1-3-2-3 schedule
+5-2-5-3 schedule
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3217,12 +3217,12 @@ They are the same cycle read from a different day: the 4-3-3-4 starts with the f
 Overtime
 The weeks alternate between 36 and 48 hours. With a Monday workweek, the 48-hour week has 8 hours of federal overtime, about 208 hours a year; moving the workweek start changes it, up to 208 (29 CFR 778.105). Choose “3-4-4-3” in the shift calendar to get your year, with every crew, holidays and a file for your phone.
 More guides
-4-5-5 shift pattern
-5-5-4 schedule
 12-hour schedule with 3 crews
 Southern swing schedule
 8-hour schedule, every other weekend off
 1-3-2-3 schedule
+5-2-5-3 schedule
+24-hour shift schedule template
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3269,12 +3269,12 @@ The fire service solves the same problem with one 24-hour shift and two days off
 When three teams make sense
 For a short period, a seasonal peak or a small site, three teams can work with the overtime budgeted. For the long run, four teams at 42 hours are the norm. Choose “2 days, 2 nights, 2 off (3 crews)” in the shift calendar to get your year, with every crew, holidays and a file for your phone.
 More guides
-4-5-5 shift pattern
-5-5-4 schedule
-3-4-4-3 schedule
 Southern swing schedule
 8-hour schedule, every other weekend off
 1-3-2-3 schedule
+5-2-5-3 schedule
+24-hour shift schedule template
+Swing shift
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3314,12 +3314,12 @@ California also pays overtime on the seventh consecutive day in a workweek: time
 Shift schedules and long runs
 Common rotations keep runs short: the Pitman never goes above 3 shifts in a row and the DuPont 4. Longer runs belong to specific patterns, such as the 7 on 7 off or 14-day hitches on oil rigs (hitch rotations). If you are asked to work many days in a row, count the overtime: the time card calculator shows it week by week.
 More guides
-Work hours in a year
-On-call pay
-Clopening
 Nurse mandatory overtime laws
 PTO on 12-hour shifts
 Baylor shift
+Minimum wage by state
+Night shifts in a row (UK)
+Work hours in a year
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3358,12 +3358,12 @@ Many employers and union contracts pay a flat on-call rate per hour or shift, a 
 Fire, EMS and police on 24-hour shifts
 For employees under section 7(k), the general rules of part 785 apply, with special rules for sleep time (29 CFR 553.221 and 553.222). On shifts of more than 24 hours, up to 8 hours of sleep can be left out of paid hours by agreement. Calls that interrupt it count, and if you cannot sleep at least 5 hours, the whole period counts. See the 7(k) overtime calculator and EMS shift schedules.
 More guides
-Work hours in a year
 Clopening
 Days in a row you can work
 Nurse mandatory overtime laws
 PTO on 12-hour shifts
 Baylor shift
+Minimum wage by state
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3408,12 +3408,12 @@ Three 12-hour shifts in a week are 36 hours, so under the 40-hour rule there is 
 Federal law: overtime pay, not limits
 The Fair Labor Standards Act sets no limit on hours. It requires overtime pay for hours over 40 in a workweek or, under the 8/80 system for hospitals, over 8 hours in a day and 80 in 14 days (29 CFR 778.601). On 12-hour shifts under 8/80, every shift carries 4 hours of overtime. Use the time card calculator to check your week and nurse shift schedules to compare rotations.
 More guides
-Work hours in a year
-On-call pay
-Clopening
-Days in a row you can work
 PTO on 12-hour shifts
 Baylor shift
+Minimum wage by state
+Night shifts in a row (UK)
+Work hours in a year
+On-call pay
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3455,12 +3455,12 @@ Ask whether a holiday you work is paid extra or adds PTO; see the 2027 federal h
 Check whether PTO counts as hours worked for overtime: under federal rules, paid leave hours do not count toward the 40.
 For the year's hours and pay of your pattern, use the shift pay calculator.
 More guides
+Baylor shift
+Minimum wage by state
+Night shifts in a row (UK)
 Work hours in a year
 On-call pay
 Clopening
-Days in a row you can work
-Nurse mandatory overtime laws
-Baylor shift
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3503,12 +3503,12 @@ Write the cycle once, one letter per day, then shift it for each platoon: on a 2
 Which one to choose
 The 24/48 is the most common; the 48/96 halves the commutes; the 24/72 needs a fourth platoon but brings the week down to 42 hours. Compare them in 48/96 vs 24/48 and on firefighter shift schedules.
 More guides
+Swing shift
+1st, 2nd and 3rd shift hours
 4-5-5 shift pattern
 5-5-4 schedule
 3-4-4-3 schedule
 12-hour schedule with 3 crews
-Southern swing schedule
-8-hour schedule, every other weekend off
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3600,12 +3600,12 @@ You work about 273 days a year, against about 182 on 12-hour schedules.
 Alternatives
 Plants moving away from the southern swing often switch to 12-hour schedules with four crews, such as the Pitman or DuPont, which keep the 42-hour average with fewer working days. See 1st, 2nd and 3rd shift hours and swing shift. Choose “Southern swing” in the shift calendar to get your year, with every crew, holidays and a file for your phone.
 More guides
-4-5-5 shift pattern
-5-5-4 schedule
-3-4-4-3 schedule
-12-hour schedule with 3 crews
 8-hour schedule, every other weekend off
 1-3-2-3 schedule
+5-2-5-3 schedule
+24-hour shift schedule template
+Swing shift
+1st, 2nd and 3rd shift hours
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3642,12 +3642,12 @@ If 7 shifts in a row is too many, the 12-hour Pitman (2-2-3) also gives every ot
 Make the calendar
 In the shift calendar choose “Build your own”, type OODDDDDDDODDDO with 8-hour shifts and set the start to a Saturday you have off. Share the link with whoever covers the other weeks.
 More guides
-4-5-5 shift pattern
-5-5-4 schedule
-3-4-4-3 schedule
-12-hour schedule with 3 crews
-Southern swing schedule
 1-3-2-3 schedule
+5-2-5-3 schedule
+24-hour shift schedule template
+Swing shift
+1st, 2nd and 3rd shift hours
+4-5-5 shift pattern
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3695,12 +3695,12 @@ Fire departments usually pay overtime after 212 hours in a 28-day work period (2
 Make the calendar
 Choose “1-3-2-3” in the shift calendar to get your year, with every crew, holidays and a file for your phone. Pick “All crews” for the A, B and C platoon calendar, or see the 24-hour schedule templates.
 More guides
+5-2-5-3 schedule
+24-hour shift schedule template
+Swing shift
+1st, 2nd and 3rd shift hours
 4-5-5 shift pattern
 5-5-4 schedule
-3-4-4-3 schedule
-12-hour schedule with 3 crews
-Southern swing schedule
-8-hour schedule, every other weekend off
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3741,12 +3741,12 @@ Because the cycle is 15 days, the days off move through the week: 9 to 12, depen
 Similar schedules
 For 10- and 12-hour police patterns, see police shift schedules. Other 8-hour options are the southern swing and the 8-hour schedule with every other weekend off. Choose “5-2-5-3” in the shift calendar to get your year, with every crew, holidays and a file for your phone.
 More guides
+24-hour shift schedule template
+Swing shift
+1st, 2nd and 3rd shift hours
 4-5-5 shift pattern
 5-5-4 schedule
 3-4-4-3 schedule
-12-hour schedule with 3 crews
-Southern swing schedule
-8-hour schedule, every other weekend off
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3883,12 +3883,12 @@ Aviation, the military and many control rooms write UTC on the 24-hour clock wit
 UTC on shift work
 If your rota is shared between sites in different zones, or your shift logs are stamped in UTC, convert once and write both times on the handover. A night shift that runs 7 p.m. to 7 a.m. Eastern is 00:00 to 12:00 UTC in winter and 23:00 to 11:00 UTC in summer. The night the US clocks change, that shift lasts 13 or 11 hours: see daylight saving time dates.
 More guides
-Daylight saving time
-Weeks in a year
-Date calculator
 EST time
 CST time
 PST to EST
+Daylight saving time
+Weeks in a year
+Date calculator
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -3957,12 +3957,12 @@ Eastern Time, hour by hour (winter)
 On a night shift
 When standard time returns on November 1, 2026, the hour from 1:00 to 2:00 a.m. Eastern happens twice, so a 12-hour night shift lasts 13 hours; in March it lasts 11. The night shift clock change calculator works out the hours and pay. For pay periods and holidays, see the 2027 pay period calendar.
 More guides
+CST time
+PST to EST
 Daylight saving time
 Weeks in a year
 Date calculator
 UTC time
-CST time
-PST to EST
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions
@@ -4031,12 +4031,12 @@ Winter (standard time), for example January 15, 2027.
 Shift handovers across zones
 A plant in Houston and a control room in Atlanta are an hour apart: a 6 a.m. Central start is 7 a.m. Eastern. Write both times on shared rotas, and note that both zones change on the same night, so the gap stays one hour. For your own rotation, the shift calendar shows every shift of the year.
 More guides
+PST to EST
 Daylight saving time
 Weeks in a year
 Date calculator
 UTC time
 EST time
-PST to EST
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
 Questions

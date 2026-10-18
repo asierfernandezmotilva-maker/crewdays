@@ -107,13 +107,13 @@ footer ul{list-style:none;padding:0;columns:3 12em;margin:0 0 16px}footer li a{d
 @media print{
   @page{size:landscape;margin:8mm}
   body{background:#fff;font-size:9pt}
-  .top,footer,form.gen,.bar,.msg,.crumbs,main>section:not(.hero),.hero>div:first-child{display:none!important}
+  .top,footer,form.gen,.bar,.msg,.crumbs,main>section:not(.hero),main>p,.hero>div:first-child{display:none!important}
   .board{box-shadow:none}.bhead{background:none;color:#000;padding:0 0 4px}.bhead h2{color:#000}.sw{border-color:#999}
   .hero{display:block;padding:0}.board{border:0;padding:0}
-  .months{grid-template-columns:repeat(6,1fr);gap:6px}
+  .months,.months.team{grid-template-columns:repeat(6,1fr)!important;gap:6px}
   .months{padding:0}.grid span{font-size:7pt;background:#fff;border:.5pt solid #ccc;-webkit-print-color-adjust:exact;print-color-adjust:exact}
   .sw,.s-D,.s-N,.s-S,.s-X{-webkit-print-color-adjust:exact;print-color-adjust:exact}
-  .stats{display:none}
+  .stats{display:none}.tm{min-height:0!important}.tm u,.tm em{line-height:1.15!important}.bhead .sub{color:#555}
 }
 @media(max-width:520px){.months{grid-template-columns:1fr 1fr;gap:14px 12px;padding:12px}.grid span{font-size:.72rem}.grid .wd{font-size:.62rem}.month h3{font-size:1.05rem}}
 /* Vista de todos los equipos y festivos */
