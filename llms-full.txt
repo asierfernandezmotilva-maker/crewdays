@@ -2535,6 +2535,12 @@ Hours for common shifts
 A shift that ends earlier on the clock than it started has crossed midnight: the calculator adds 24 hours to the end time before subtracting.
 Which breaks count as hours worked?
 Under federal rules, short rest breaks of about 5 to 20 minutes are work time and must be paid (29 CFR 785.18). A meal period is unpaid only when you are completely relieved of duty, ordinarily for 30 minutes or more; if you eat at your station or answer calls, it counts as work (29 CFR 785.19). So only enter breaks that you take off duty. Several states also require meal or rest breaks; your state labor department has the details.
+How to calculate hours worked by hand
+Write both times on the 24-hour clock: 10:45 p.m. is 22:45 and 7:15 a.m. is 07:15.
+Subtract the start from the end. If the result is negative, the shift crossed midnight: add 24 hours. 07:15 − 22:45 is −15:30, plus 24:00 is 8:30.
+Take off any unpaid meal break: 8:30 − 0:30 is 8 hours.
+For payroll, turn the minutes into a decimal: 30 minutes is 0.5, so 8:30 is 8.5 hours.
+For a week, add the days and compare with 40. Three 12-hour shifts and one 8-hour day make 44 hours: 40 regular and 4 overtime at time and a half under federal law. The military time chart helps with step 1.
 Decimal hours for payroll
 To pay hours and minutes, turn the minutes into a decimal by dividing by 60: 11 hours 30 minutes is 11.5 hours. At $25 an hour that is $287.50. Every quarter hour is 0.25.
 Totals for a week or a year
@@ -2639,6 +2645,11 @@ Military time chart
 How to read military time
 The first two digits are the hour and the last two the minutes. From 0100 to 1259 the hours match the morning clock (0930 is 9:30 a.m.). From 1300 to 2359, subtract 12 from the hour (1745 is 5:45 p.m.). Midnight is 0000, the start of the day; some schedules write 2400 for midnight at the end of a day, so a night shift may show as 1900 to 0700 or 1900 to 2400 and 0000 to 0700.
 People usually say it as two pairs: 0700 is “oh seven hundred” or “zero seven hundred”, 1930 is “nineteen thirty”, and the hours are often followed by “hours”.
+Common mistakes
+Noon and midnight. 1200 is noon and 0000 is midnight. 12:30 a.m., half an hour after midnight, is 0030, not 1230.
+Adding hours. Military time is still in hours and minutes: 1745 plus 30 minutes is 1815, not 1775.
+Decimal hours. Payroll often uses decimals: a shift from 0645 to 1915 is 12 hours 30 minutes, 12.5 hours. The hours calculator does it for you.
+Time zones. The same clock reading means a different moment in another zone; aviation and IT logs use UTC, written with a Z. See UTC time.
 Military time on shift schedules
 Hospitals, police, fire departments and plants write shift times on the 24-hour clock because it removes any doubt about a.m. and p.m. A 12-hour rotation usually runs 0700–1900 and 1900–0700; 8-hour shifts often run 0700–1500, 1500–2300 and 2300–0700. See 1st, 2nd and 3rd shift hours. To total hours on a time card that uses the 24-hour clock, use the hours calculator.
 Military and aviation schedules also add a time zone letter. “Z”, or Zulu time, means Coordinated Universal Time (UTC).
@@ -2731,6 +2742,11 @@ Hourly to salary table
 Before tax and without overtime premium. 2,184 hours is the average of a four-crew 12-hour schedule such as the Pitman or DuPont; the extra hours are often paid as overtime, so the real figure is higher.
 Salary to hourly
 Divide the yearly salary by the hours you work in a year: by 2,080 for a 40-hour week. $60,000 a year is $28.85 an hour; $75,000 is $36.06. Federal agencies divide by 2,087 instead, the long-run average of weekday hours (5 U.S.C. 5504(b)). See work hours in a year for why 2027 has 2,088.
+Weekly, biweekly or twice a month?
+The same salary gives different paychecks depending on how often you are paid. A $52,000 salary is $1,000 a week, $2,000 every two weeks (26 paychecks), $2,166.67 twice a month (24 paychecks) or $4,333.33 a month. Biweekly and twice-a-month sound alike but differ by two paychecks a year. In a year with 27 biweekly paydays, as some payrolls have in 2027, hourly workers simply get one more check; salaried workers should ask whether the employer divides the salary by 26 or by 27. See the 2027 pay period calendar.
+From gross salary to take-home pay
+At $25 an hour and 40 hours a week, $52,000 a year, a single filer in 2026 pays about $3,978 in Social Security and Medicare (7.65%) and about $4,060 in federal income tax after the $16,100 standard deduction, which leaves about $43,962 before any state tax. The tax calculator shows the brackets and the paycheck calculator splits it per paycheck.
+A night differential adds up quickly: $2 an hour extra on half of the 2,184 hours of a 12-hour rotation is $2,184 a year, and it also raises the overtime rate.
 Shift workers: count the overtime
 On a 12-hour rotation the weeks are uneven, so some weeks pass 40 hours and pay overtime even though the average is 42. Depending on the day your employer's workweek starts, a Pitman crew can work anything from about 208 to 520 overtime hours a year. The shift pay calculator adds that overtime for your pattern, and the paycheck calculator shows take-home pay.
 More guides
@@ -2949,6 +2965,9 @@ Counting days: include the end date or not?
 The calculator counts the days from the start date up to the end date, without counting the end date itself: from Monday to Friday of the same week is 4 days. If you need both days included, as when you count days of leave, add one. A period “of 30 days” starting on October 19 ends on November 17 if day 1 is October 19, and on November 18 if counting starts the next day; legal deadlines usually say which.
 Weekdays and business days
 Weekdays here are Monday to Friday. Business days also leave out holidays, which depend on your employer; the 11 US federal holidays are listed in work hours in a year. For shift workers, “days” in a contract or a rota usually means calendar days, since you work on weekends too.
+Leap years and long periods
+A leap year has 366 days, with February 29. The rule of the calendar we use is: years divisible by 4 are leap years, except years divisible by 100, which are leap years only if they are also divisible by 400. So 2028 is a leap year, 2100 will not be, and 2000 was. A period that includes February 29 is one day longer than the same dates in a normal year; from January 1 to December 31, 2027 is 364 days (365 counting both ends).
+For week numbers, see how many weeks are in a year; for working days and hours, work hours in a year.
 Dates on a shift rotation
 Rotating schedules repeat every few days: 14 for a Pitman, 28 for a DuPont, 3 for a 24/48. To find whether you work on a given date, count the days from a day you know you started a block and divide by the cycle length; the remainder tells you where you are in the cycle. The shift calendar does this for every day of the year at once.
 More guides
@@ -3415,6 +3434,14 @@ States with nurse overtime laws (texts we read)
 Other states, including Oregon, New York, New Jersey, Pennsylvania, Illinois, Connecticut and Massachusetts, also restrict mandatory overtime for nurses. Their official texts were not available to us when this page was written, so they are not described here; check your state's board of nursing or labor department.
 What the laws usually allow
 Almost every law makes exceptions for emergencies (a disaster, a declared emergency, an unforeseen staffing crisis), for prescheduled on-call time and for finishing a procedure already under way. Several also say on-call time cannot be used as a substitute for scheduling enough staff.
+What to check in your hospital's policy
+Whether the hospital is covered by your state's law: some laws cover only hospitals, others other health care facilities, and some exclude nursing facilities.
+What counts as an emergency or an unforeseen situation that allows mandatory overtime.
+How prescheduled on-call time works, and whether it can be used to cover regular staffing.
+Whether a collective bargaining agreement replaces the statute, as the West Virginia law allows.
+Which overtime pay system applies: the 40-hour workweek or 8/80.
+Overtime pay on 12-hour shifts: 40-hour week or 8/80
+Three 12-hour shifts in a week are 36 hours, so under the 40-hour rule there is no overtime. Under the 8/80 system the same week has 12 hours of overtime, 4 for each shift, and six shifts in 14 days (72 hours) carry 24. Ask payroll which one your hospital uses before you compare job offers.
 Federal law: overtime pay, not limits
 The Fair Labor Standards Act sets no limit on hours but requires overtime pay for hours over 40 in a workweek, or under the 8/80 system for hospitals: over 8 hours in a day and 80 in 14 days (29 CFR 778.601). On 12-hour shifts under 8/80, every shift carries 4 hours of overtime. Use the time card calculator to check your week and nurse shift schedules to compare rotations.
 More guides
@@ -3844,7 +3871,7 @@ Home / Guides / UTC time
 UTC time now
 UTC, Coordinated Universal Time, is the time standard that the world's clocks are set from. US time zones are defined by law as a number of hours behind it: Eastern Standard Time is UTC−5, Central UTC−6, Mountain UTC−7 and Pacific UTC−8. During daylight saving time each of them moves one hour closer to UTC; UTC itself never changes.
 By Asier Fernández · October 18, 2026
-Right now in UTC: turn on JavaScript to see the live time
+Right now in UTC: --:--:--
 US time zones and UTC
 | | Zone | Standard time | Daylight saving time | Examples
 | Atlantic | UTC−4 | No change | Puerto Rico, US Virgin Islands
@@ -3922,7 +3949,7 @@ Home / Guides / EST time
 Eastern Time: EST and EDT
 Eastern Standard Time (EST) is UTC−5. From 2 a.m. on the second Sunday in March to 2 a.m. on the first Sunday in November, the Eastern zone uses Eastern Daylight Time (EDT), UTC−4. In 2026 the zone returns to EST on Sunday, November 1. New York, Washington, Atlanta, Miami and Detroit are on Eastern Time.
 By Asier Fernández · October 18, 2026
-Right now in New York: turn on JavaScript to see the live time
+Right now in New York: --:--:--
 EST or EDT? The change dates
 | | Year | Daylight time starts (2 a.m.) | Standard time returns (2 a.m.)
 | 2026 | Sunday, March 8 | Sunday, November 1
@@ -3996,7 +4023,7 @@ Home / Guides / CST time
 Central Time: CST and CDT
 Central Standard Time (CST) is UTC−6, one hour behind Eastern Time. During daylight saving time, from the second Sunday in March to the first Sunday in November, the zone uses Central Daylight Time (CDT), UTC−5. Chicago, Dallas, Houston, Minneapolis, New Orleans and nearly all of Texas are on Central Time.
 By Asier Fernández · October 18, 2026
-Right now in Chicago: turn on JavaScript to see the live time
+Right now in Chicago: --:--:--
 CST or CDT? The change dates
 | | Year | Daylight time starts (2 a.m.) | Standard time returns (2 a.m.)
 | 2026 | Sunday, March 8 | Sunday, November 1
@@ -4102,6 +4129,10 @@ EST to PST
 Go the other way by subtracting 3 hours: 9:00 a.m. Eastern is 6:00 a.m. Pacific, and 5:00 p.m. Eastern is 2:00 p.m. Pacific. After 9:00 p.m. Pacific it is already the next day in the East.
 PST, PDT, EST and EDT
 Pacific Standard Time is UTC−8 and Eastern Standard Time UTC−5 (15 U.S.C. 261). From 2 a.m. on the second Sunday in March to 2 a.m. on the first Sunday in November both use daylight time, PDT (UTC−7) and EDT (UTC−4) (15 U.S.C. 260a). Most people write “PST” and “EST” all year; the 3-hour gap is the same either way. Most of Arizona stays on standard time, so in summer it matches Pacific Time and in winter Mountain Time.
+Arizona and Hawaii
+Most of Arizona and all of Hawaii stay on standard time all year, as federal law allows. So in summer, noon in Los Angeles is noon in Phoenix and 9:00 a.m. in Honolulu; in winter, noon in Los Angeles is 1:00 p.m. in Phoenix and 10:00 a.m. in Honolulu. Denver, on Mountain Time with daylight saving, is always one hour ahead of Los Angeles.
+Working hours that overlap
+A 9-to-5 day on each coast overlaps for 5 hours: from 9:00 a.m. to 2:00 p.m. Pacific, which is 12:00 to 5:00 p.m. Eastern. Calls that must include both coasts fit best between 12:00 and 2:00 p.m. Eastern (9:00 to 11:00 a.m. Pacific), clear of the East Coast's late afternoon and the West Coast's early morning.
 Handovers between coasts
 | | Eastern shift | Same shift in Pacific Time
 | 7:00 a.m. – 7:00 p.m. | 4:00 a.m. – 4:00 p.m.

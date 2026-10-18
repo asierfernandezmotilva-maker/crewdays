@@ -40,6 +40,43 @@ Facts on each pattern page are computed from the cycle: hours a year = hours in 
 - [24/7 shift schedules compared](https://crewdays.app/24-7-shift-schedule/): crews needed (168 hours ÷ crews), hours per person, rotation, longest break and federal overtime for 13 round-the-clock schedules.
 - [12-hour shift schedule examples](https://crewdays.app/12-hour-shift-schedules/): Pitman and Panama give every other weekend off, DuPont gives 7 days off every 28 days; all need four crews and average 42 hours a week.
 
+## Guides and calculators
+- [How many work hours are in a year?](https://crewdays.app/work-hours-in-a-year/): Most people use 2,080: 40 hours a week times 52 weeks. 2027 actually has 261 weekdays, so a Monday-to-Friday job is 2,088 scheduled hours.
+- [1st, 2nd and 3rd shift hours](https://crewdays.app/first-second-third-shift-hours/): On 8-hour shifts, first shift usually runs from 7 a.m. to 3 p.m., second shift from 3 p.m. to 11 p.m. and third shift, the graveyard shift, from 11 p.m. to 7 a.m.
+- [Swing shift: hours and schedules](https://crewdays.app/swing-shift/): Swing shift has two meanings.
+- [Time calculator](https://crewdays.app/time-calculator/): Add or subtract hours and minutes, or add a length of time to a clock time to see when a shift ends, even past midnight.
+- [Hours calculator](https://crewdays.app/hours-calculator/): Enter when you started and finished and any unpaid break.
+- [Time card calculator](https://crewdays.app/time-card-calculator/): Fill in your clock-in and clock-out times and unpaid breaks for each day.
+- [Military time chart](https://crewdays.app/military-time-chart/): Military time counts the hours from 00 to 23, so there is no a.m. or p.m.: 0700 is 7 a.m. and 1900 is 7 p.m.
+- [Hourly paycheck calculator](https://crewdays.app/paycheck-calculator/): Enter your hourly rate, hours and overtime for one pay period.
+- [Salary calculator: hourly to yearly](https://crewdays.app/salary-calculator/): Multiply your hourly rate by the hours you work in a week and by 52.
+- [Federal income tax calculator 2026](https://crewdays.app/tax-calculator/): Enter your yearly income and filing status.
+- [Daylight saving time: when the clocks change](https://crewdays.app/daylight-saving-time/): In the US, daylight saving time ends on Sunday, November 1, 2026 at 2:00 a.m., when clocks go back one hour.
+- [Sleep calculator](https://crewdays.app/sleep-calculator/): Sleep runs in cycles of about 90 minutes, and you wake up less groggy at the end of one.
+- [How many weeks are in a year?](https://crewdays.app/how-many-weeks-in-a-year/): A year has 52 weeks and 1 day: 365 days divided by 7.
+- [Date calculator](https://crewdays.app/date-calculator/): Count the days between two dates, with how many of them are weekdays, or add or subtract days from a date to find a deadline.
+- [Minimum wage by state (2026)](https://crewdays.app/minimum-wage-by-state/): The federal minimum wage is $7.25 an hour, and it applies in 20 states that have no higher rate.
+- [Baylor shift: the weekend nursing schedule](https://crewdays.app/baylor-shift/): A Baylor shift, or Baylor plan, is a weekend-only schedule: usually two 12-hour shifts, Saturday and Sunday, often days or nights.
+- [Clopening: closing and opening the next day](https://crewdays.app/clopening/): A clopening is a closing shift followed by an opening shift the next morning, often with 8 hours or less in between.
+- [5-5-4 schedule](https://crewdays.app/5-5-4-schedule/): The 5-5-4 schedule is a 15-day rotation of 12-hour shifts: 5 day shifts, 5 days off, 4 night shifts and 1 day off, then it repeats.
+- [3-4-4-3 schedule](https://crewdays.app/3-4-4-3-schedule/): The 3-4-4-3 schedule is 3 days on, 4 days off, 4 days on and 3 days off, a 14-day cycle of 12-hour shifts.
+- [12-hour rotating shift schedule with 3 teams](https://crewdays.app/12-hour-shift-schedule-3-crews/): Three teams can cover every hour of the year with 12-hour shifts, but each person then works 56 hours a week on average.
+- [How many days in a row can you legally work?](https://crewdays.app/how-many-days-in-a-row-can-you-work/): For adults, federal law sets no limit on how many days in a row or how many hours a day you can work: it only requires overtime pay after 40 hours in a workweek.
+- [On-call pay: when on-call time is work](https://crewdays.app/on-call-pay/): Under federal rules, on-call time is paid work if you must stay on the employer's premises, or so close that you cannot use the time for yourself.
+- [Mandatory overtime laws for nurses](https://crewdays.app/nurse-mandatory-overtime-laws/): No federal law stops hospitals from requiring nurses to work overtime.
+- [PTO on 12-hour shifts](https://crewdays.app/pto-12-hour-shifts/): Paid time off is usually counted in hours, so each 12-hour shift you take off uses 12 hours. 80 hours of PTO, two weeks for a weekday worker, is only 6.7 twelve-hour shifts.
+- [24-hour shift schedule template](https://crewdays.app/24-hour-shift-schedule-template/): Every 24-hour schedule is a short cycle repeated all year.
+- [How many night shifts in a row can you work in the UK?](https://crewdays.app/uk/night-shifts-in-a-row/): There is no legal maximum on the number of consecutive night shifts in the UK. The Working Time Regulations 1998 limit a night worker's normal hours to an average of 8 in each 24, and give every worker 11 hours' rest a day and a weekly rest period.
+- [Southern swing schedule](https://crewdays.app/southern-swing-schedule/): The southern swing is a 28-day rotation of 8-hour shifts for four crews: 7 day shifts, 2 off, 7 evenings, 2 off, 7 nights and 3 off.
+- [8-hour shift schedule with every other weekend off](https://crewdays.app/8-hour-shift-schedule-every-other-weekend-off/): With 8-hour shifts and 40 hours a week, you can have every other weekend off by working 10 shifts in each two-week period: one week Monday to Friday, the next week Saturday and Sunday plus three weekdays.
+- [1-3-2-3 firefighter schedule](https://crewdays.app/1-3-2-3-schedule/): The 1-3-2-3 schedule is one 24-hour shift, three days off, two 24-hour shifts back to back and three days off, then it repeats.
+- [5-2-5-3 work schedule](https://crewdays.app/5-2-5-3-schedule/): The 5-2-5-3 schedule is 5 days on, 2 off, 5 on and 3 off, a 15-day cycle usually worked with 8-hour shifts.
+- [4-5-5 shift pattern (4/5/5/4/5/5)](https://crewdays.app/4-5-5-shift-pattern/): The 4-5-5 shift pattern, also written 4/5/5/4/5/5, is 4 shifts on, 5 days off, 5 on, 4 off, 5 on and 5 off: a 28-day cycle of 12-hour shifts.
+- [UTC time now](https://crewdays.app/utc-time/): UTC, Coordinated Universal Time, is the time standard that the world's clocks are set from.
+- [Eastern Time: EST and EDT](https://crewdays.app/est-time/): Eastern Standard Time (EST) is UTC−5.
+- [Central Time: CST and CDT](https://crewdays.app/cst-time/): Central Standard Time (CST) is UTC−6, one hour behind Eastern Time.
+- [PST to EST](https://crewdays.app/pst-to-est/): Add 3 hours to Pacific Time to get Eastern Time: 9:00 a.m.
+
 ## United Kingdom
 - [UK shift rota calendar](https://crewdays.app/uk/): 4 on 4 off Rota, Continental Shift Pattern, 2-2-3 Rota (Pitman), 3 on 3 off Rota, 2 on 2 off Rota, DuPont Rota, Earlies, Lates and Nights Rota, with UK bank holidays and a Working Time Regulations 1998 check for each rota (48 h average, 11 h rest, 5.6 weeks holiday).
 - [UK bank holidays for shift workers](https://crewdays.app/uk/bank-holidays-shift-workers/): England and Wales, Scotland and Northern Ireland, 2026–2028, with substitute days.
