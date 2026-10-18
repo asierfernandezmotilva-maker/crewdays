@@ -130,7 +130,7 @@ Hours a year: 2,190
 Days off per cycle: 7
 What is a Pitman schedule?
 The Pitman schedule is a 12-hour shift pattern that repeats every 14 days: 2 days on, 2 off, 3 on, 2 off, 2 on, 3 off. It is often called the 2-2-3 schedule. Two crews cover the day shift and two cover nights, so four crews give 24/7 coverage.
-One cycle, crew by crew
+What a Pitman schedule looks like, crew by crew
 Day shift (14 days)
 Crew A: Day, Day, Off, Off, Day, Day, Day, Off, Off, Day, Day, Off, Off, Off
 Crew B: Off, Off, Day, Day, Off, Off, Off, Day, Day, Off, Off, Day, Day, Day
@@ -222,7 +222,7 @@ Hours a year: 2,190
 Days off per cycle: 14
 What is a Panama schedule?
 The Panama schedule uses the same 2-2-3 rhythm as the Pitman, but each crew rotates: 14 days on day shifts, then 14 days on night shifts, for a 28-day cycle. Four crews cover 24/7 with 12-hour shifts.
-One cycle, crew by crew
+What a Panama schedule looks like, crew by crew
 Rotating days/nights (28 days)
 Crew A: Day, Day, Off, Off, Day, Day, Day, Off, Off, Day, Day, Off, Off, Off, Night, Night, Off, Off, Night, Night, Night, Off, Off, Night, Night, Off, Off, Off
 Crew B: Off, Off, Day, Day, Off, Off, Off, Night, Night, Off, Off, Night, Night, Night, Off, Off, Night, Night, Off, Off, Off, Day, Day, Off, Off, Day, Day, Day
@@ -313,7 +313,7 @@ Hours a year: 2,190
 Days off per cycle: 14
 What is a DuPont schedule?
 The DuPont schedule is a 28-day rotating pattern with 12-hour shifts and four crews: 4 nights, 3 off, 3 days, 1 off, 3 nights, 3 off, 4 days, then 7 days off. The 7-day break is what most people choose it for.
-One cycle, crew by crew
+What a DuPont schedule looks like, crew by crew
 Rotating days/nights (28 days)
 Crew A: Night, Night, Night, Night, Off, Off, Off, Day, Day, Day, Off, Night, Night, Night, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off
 Crew B: Day, Day, Day, Off, Night, Night, Night, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off, Night, Night, Night, Night, Off, Off, Off
@@ -405,7 +405,7 @@ Hours a year: 2,190
 Days off per cycle: 4
 What is a 4 on 4 off schedule?
 On a 4 on 4 off schedule you work four 12-hour shifts and then get four days off, an 8-day cycle. With days only, two crews cover the day shift; the rotating version adds 4 nights after the 4 days off, a 16-day cycle for four crews.
-One cycle, crew by crew
+What a 4 on 4 off schedule looks like, crew by crew
 Days only (8 days)
 Crew A: Day, Day, Day, Day, Off, Off, Off, Off
 Crew B: Off, Off, Off, Off, Day, Day, Day, Day
@@ -500,7 +500,7 @@ Hours a year: 2,190
 Days off per cycle: 7
 What is a 4-3-3-4 schedule?
 The 4-3-3-4 schedule (4 on, 3 off, 3 on, 4 off) is a 14-day pattern of 12-hour shifts. Each crew works 7 shifts every two weeks. Coverage depends on how your employer lines the crews up, so it does not give one crew per shift every day on its own.
-One cycle, crew by crew
+What a 4-3-3-4 schedule looks like, crew by crew
 Days only (14 days)
 Crew A: Day, Day, Day, Day, Off, Off, Off, Day, Day, Day, Off, Off, Off, Off
 Crew B: Day, Day, Day, Off, Off, Off, Off, Day, Day, Day, Day, Off, Off, Off
@@ -593,7 +593,7 @@ Hours a year: 2,190
 Days off per cycle: 3
 What is a 3 on 3 off schedule?
 A 3 on 3 off schedule is three 12-hour shifts followed by three days off, a 6-day cycle. The rotating version alternates 3 days and 3 nights with 3 days off in between, a 12-day cycle for four crews.
-One cycle, crew by crew
+What a 3 on 3 off schedule looks like, crew by crew
 Days only (6 days)
 Crew A: Day, Day, Day, Off, Off, Off
 Crew B: Off, Off, Off, Day, Day, Day
@@ -688,7 +688,7 @@ Hours a year: 2,190
 Days off per cycle: 2
 What is a 2 on 2 off schedule?
 A 2 on 2 off schedule is two 12-hour shifts followed by two days off, a 4-day cycle. The rotating version is 2 days, 2 off, 2 nights, 2 off, an 8-day cycle for four crews.
-One cycle, crew by crew
+What a 2 on 2 off schedule looks like, crew by crew
 Days only (4 days)
 Crew A: Day, Day, Off, Off
 Crew B: Off, Off, Day, Day
@@ -783,7 +783,7 @@ Hours a year: 2,190
 Days off per cycle: 7
 What is a 7 on 7 off schedule?
 A 7 on 7 off schedule is seven shifts in a row followed by seven days off, a 14-day cycle. Shifts are usually 12 hours, so you work 84 hours every two weeks, an average of 42 a week. Two crews cover the day shift; the rotating version is a week of days, a week off, a week of nights and a week off, a 28-day cycle for four crews.
-One cycle, crew by crew
+What a 7 on 7 off schedule looks like, crew by crew
 Days only (14 days)
 Crew A: Day, Day, Day, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off
 Crew B: Off, Off, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day, Day, Day
@@ -876,7 +876,7 @@ Hours a year: 2,920
 Days off per cycle: 2
 What is a 24/48 schedule?
 On a 24/48 schedule you work one 24-hour shift and then have 48 hours off, a 3-day cycle. Three platoons, usually called A, B and C shift, cover every day of the year.
-One cycle, crew by crew
+What a 24/48 schedule looks like, crew by crew
 Standard (3 days)
 Crew A: 24h, Off, Off
 Crew B: Off, Off, 24h
@@ -960,7 +960,7 @@ Hours a year: 2,920
 Days off per cycle: 4
 What is a 48/96 schedule?
 On a 48/96 schedule you work two 24-hour shifts back to back (48 hours) and then have 96 hours off, a 6-day cycle. Three platoons cover 24/7. Several US fire departments moved to it in 2025 and 2026.
-One cycle, crew by crew
+What a 48/96 schedule looks like, crew by crew
 Standard (6 days)
 Crew A: 24h, 24h, Off, Off, Off, Off
 Crew B: Off, Off, Off, Off, 24h, 24h
@@ -1044,7 +1044,7 @@ Hours a year: 2,920
 Days off per cycle: 6
 What is a Kelly schedule?
 The Kelly schedule is a 9-day firefighter pattern: 24 on, 24 off, 24 on, 24 off, 24 on, then 4 days off. Three platoons cover 24/7. The name is also used for a "Kelly day", an extra shift off that departments give to cut weekly hours.
-One cycle, crew by crew
+What a Kelly schedule looks like, crew by crew
 Standard (9 days)
 Crew A: 24h, Off, 24h, Off, 24h, Off, Off, Off, Off
 Crew B: Off, 24h, Off, Off, Off, Off, 24h, Off, 24h
@@ -1125,7 +1125,7 @@ Hours a year: 2,190
 Days off per cycle: 3
 What is a 24/72 schedule?
 On a 24/72 schedule you work one 24-hour shift and then have 72 hours off, a 4-day cycle. It needs four platoons (A, B, C, D) and brings the average down to 42 hours a week.
-One cycle, crew by crew
+What a 24/72 schedule looks like, crew by crew
 Standard (4 days)
 Crew A: 24h, Off, Off, Off
 Crew B: Off, Off, Off, 24h
@@ -1210,7 +1210,7 @@ Hours a year: 2,190
 Days off per cycle: 14
 What is a Hitch Rotation schedule?
 A hitch rotation (FIFO roster in Australia, fly in, fly out) is a block of 12-hour shifts on site followed by a block at home. The most common are 14 days on and 14 off (even time), 7 on and 7 off, 14 on and 7 off (often called 2 and 1), 21 on and 7 off, 28 on and 28 off and 8 on and 6 off. Offshore platforms, oilfields, mines and remote camps use them, and 7 on 7 off is also common in hospitals.
-One cycle, crew by crew
+What a Hitch Rotation schedule looks like, crew by crew
 14 on 7 off (21 days)
 Crew A: Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off
 Crew B: Day, Day, Day, Day, Day, Day, Day, Off, Off, Off, Off, Off, Off, Off, Day, Day, Day, Day, Day, Day, Day
@@ -1325,6 +1325,8 @@ Nurses schedules compared
 | Panama | 12 h | 42 | 3 | 3 days | 0–26
 Of these, the 4 on 4 off gives the longest break (4 days off in a row), and the 2 on 2 off has the shortest run of shifts (2 in a row).
 Worked out from one crew's cycle. A full weekend is Saturday and Sunday both off; where there is a range, it depends on the weekday the cycle starts.
+How many hours do nurses work a week?
+On all of these schedules nurses work 42 hours a week on average, about 183 shifts a year. Nurses hired for three 12s work 36 hours a week, or 156 shifts a year. A fixed 3 on 3 off or 2 on 2 off adds about 6 hours a week, and weeks over 40 hours pay overtime unless the hospital uses the 8/80 period.
 Three 12s or a rotation?
 Many hospital nurses are hired for 36 hours a week: three 12-hour shifts, often on days they choose through self-scheduling. Others work a fixed rotation such as 3 on 3 off or 2 on 2 off, which averages 42 hours a week. Before you compare two jobs, check which one each post means: 3 on 3 off adds about 26 shifts a year.
 The 8/80 overtime rule
@@ -1372,6 +1374,8 @@ Firefighters schedules compared
 | 24/72 | 24 h | 42 | 1 | 3 days | 26
 Of these, the 48/96 and Kelly give the longest break (4 days off in a row), and the 24/48, Kelly and 24/72 have the shortest run of shifts (1 in a row).
 Worked out from one crew's cycle. A full weekend is Saturday and Sunday both off; where there is a range, it depends on the weekday the cycle starts.
+How many hours do firefighters work?
+On the 24/48, 48/96 and Kelly, firefighters work 56 hours a week on average, about 122 shifts a year. On the 24/72 it is 42 hours a week and about 91 shifts. On a three-platoon schedule each firefighter is at the station about one day in three: fewer shifts than most workers, but more hours a week. Moving to a 24/72 with four platoons cuts both.
 Who is covered by 7(k)
 The 7(k) overtime rules cover fire department employees who are trained in fire suppression, have the legal authority and responsibility to fight fires, and respond to fires and emergencies. That includes paramedics, EMTs and rescue workers employed by the fire department who meet those conditions (29 CFR 553.210). Civilian dispatchers, mechanics and clerks are not covered and get overtime after 40 hours a week.
 Trading shifts
@@ -1420,6 +1424,8 @@ Police officers schedules compared
 | 4-3-3-4 | 12 h | 42 | 4 | 4 days | 0–52
 Of these, the DuPont gives the longest break (7 days off in a row), and the Pitman and Panama have the shortest run of shifts (3 in a row).
 Worked out from one crew's cycle. A full weekend is Saturday and Sunday both off; where there is a range, it depends on the weekday the cycle starts.
+How many hours do police officers work a week?
+On all of these schedules police officers work 42 hours a week on average, about 183 shifts a year. Departments on 8-hour shifts schedule 40 hours a week. On a 12-hour rotation the average is 42, but single weeks swing: a Pitman squad works between two and five shifts in a workweek, 24 to 60 hours.
 Overtime for police under 7(k)
 A public agency can pay law enforcement officers overtime on a work period of 7 to 28 days instead of the 40-hour week: overtime is due after 171 hours in 28 days, 86 in 14 days or 43 in 7 days (29 CFR 553.230). The rule covers officers empowered by law to enforce laws and keep the peace, with the power to arrest and the training that goes with it, whatever their rank (29 CFR 553.211). Typical examples are city police, sheriffs' deputies, state troopers and highway patrol officers.
 12-hour patrol and the work period
@@ -1469,6 +1475,8 @@ DuPont Schedule28-day cycle, 42 h a week
 | DuPont | 12 h | 42 | 4 | 7 days | 0–26
 Of these, the DuPont gives the longest break (7 days off in a row), and the 2 on 2 off has the shortest run of shifts (2 in a row).
 Worked out from one crew's cycle. A full weekend is Saturday and Sunday both off; where there is a range, it depends on the weekday the cycle starts.
+How many hours do 911 dispatchers work?
+On all of these schedules 911 dispatchers work 42 hours a week on average, about 183 shifts a year. On a 12-hour rotation a dispatcher works about half the days of the year. Weeks with more than 40 hours are paid as overtime under the standard rule, because civilian dispatchers are not under 7(k).
 Do dispatchers get 7(k) overtime?
 Usually not. Civilian dispatchers and radio operators of police and fire departments are expressly left out of the 7(k) rules (29 CFR 553.210(b) and 553.211(g)). They are paid overtime under the standard rule: time and a half for hours over 40 in a workweek.
 Why weekly hours change on a 12-hour rotation
@@ -1516,6 +1524,8 @@ Paramedics and EMTs schedules compared
 | Kelly | 24 h | 56 | 1 | 4 days | 16–18
 Of these, the 48/96, 4 on 4 off and Kelly give the longest break (4 days off in a row), and the 24/48, 24/72 and Kelly have the shortest run of shifts (1 in a row).
 Worked out from one crew's cycle. A full weekend is Saturday and Sunday both off; where there is a range, it depends on the weekday the cycle starts.
+How many hours do paramedics and EMTs work?
+On the 24/48, 48/96 and Kelly, paramedics and EMTs work 56 hours a week on average, about 122 shifts a year. On the 24/72 it is 42 hours a week and about 91 shifts. On the 4 on 4 off and Pitman it is 42 hours a week and about 183 shifts. Fire-based EMS on 24-hour shifts works the most hours in the fewest shifts. Ambulance services on 12-hour rotations work about 60 more shifts a year for 14 fewer hours a week.
 Which overtime rule applies to EMS
 Paramedics, EMTs and ambulance personnel of a municipal, county or state fire department fall under the fire protection rules if they are trained in fire suppression and have the authority to fight fires. Their overtime starts after 212 hours in 28 days (29 CFR 553.210(a) and 553.230). Ambulance staff who are an integral part of a public agency's law enforcement activities use the law enforcement standard of 171 hours (29 CFR 553.211(b)). The 7(k) exemption is only for public agencies (29 CFR 553.201), so EMTs and paramedics at private ambulance companies are paid overtime after 40 hours in a workweek.
 24-hour shifts and sleep time
@@ -2371,8 +2381,8 @@ With 10-hour shifts the day does not divide evenly, so the shifts overlap. A com
 With 12-hour shifts the day splits in two: 7 a.m. – 7 p.m. and 7 p.m. – 7 a.m. are the most common, or 6 to 6. Hospitals, police and most 24/7 plants on 12-hour rotations call them day shift and night shift rather than first and second. Each crew works about half the days of the year on a Pitman, DuPont or similar rotation.
 Graveyard shift hours
 Graveyard shift is another name for the third shift, the one that covers the small hours. On 8-hour shifts that is usually 11 p.m. to 7 a.m. or midnight to 8 a.m.; on 12-hour shifts the night shift, 7 p.m. to 7 a.m., covers it. A shift that ends at 3 a.m. is a late second shift in most workplaces, not a graveyard shift.
-How federal pay rules define evening and night work
-Private employers set their own shift definitions, but the federal government's pay rules give a useful benchmark. Federal wage-grade (blue-collar) employees get a night differential of 7.5% when most of their scheduled hours fall between 3 p.m. and midnight, and 10% when most fall between 11 p.m. and 8 a.m. (5 U.S.C. 5343(f)). For General Schedule employees, night work is regularly scheduled work between 6 p.m. and 6 a.m., paid at 10% extra (5 U.S.C. 5545(a)).
+What time is considered night shift?
+No single legal definition exists: each employer sets its own, and third shift usually runs from about 11 p.m. to 7 a.m. The federal government's pay rules give a useful benchmark. Federal wage-grade (blue-collar) employees get a night differential of 7.5% when most of their scheduled hours fall between 3 p.m. and midnight, and 10% when most fall between 11 p.m. and 8 a.m. (5 U.S.C. 5343(f)). For General Schedule employees, night work is regularly scheduled work between 6 p.m. and 6 a.m., paid at 10% extra (5 U.S.C. 5545(a)).
 Do you get paid more for 2nd or 3rd shift?
 Only if your employer or union contract says so. The Fair Labor Standards Act “does not require extra pay for night work” (U.S. Department of Labor). Many employers still pay a shift differential, either a fixed amount per hour or a percentage. When they do, it becomes part of your regular rate, so your overtime rate goes up with it (29 CFR 778.207(b)). Turn on “Your pay” in the shift calendar to add a night differential to your year.
 Night shifts that cross midnight
@@ -2380,8 +2390,8 @@ A third shift starts on one date and ends on the next. For pay, each hour belong
 Meal breaks count the same way at night as in the day: a bona fide meal period, ordinarily 30 minutes or more with no duties at all, is not work time (29 CFR 785.19). An 11 p.m. to 7 a.m. shift with an unpaid half hour is 7.5 paid hours. On the night the clocks change, an 8-hour night shift lasts 9 hours in November and 7 in March; see night shift and daylight saving time.
 Which shift can teenagers work?
 Federal child labor rules keep 14- and 15-year-olds to the hours between 7 a.m. and 7 p.m., or 9 p.m. from June 1 to Labor Day, and outside school hours (29 CFR 570.35). That rules out most second shifts and every third shift. The federal hour limits stop at 16, though many states set their own for 16- and 17-year-olds.
-Rotating between the three shifts
-Some plants rotate crews through all three: a week of days, a week of evenings and a week of nights. The southern swing is the classic version for four crews: 7 day shifts, 2 off, 7 evenings, 2 off, 7 nights and 3 off, a 28-day cycle. In 2027 one crew works 273 shifts (2,184 hours), a third of them on each shift. Choose “Southern swing” in the shift calendar to see your year, or compare other options on 24/7 shift schedules.
+What is a rotating shift?
+A rotating shift means your crew moves between shift times instead of keeping the same hours. In hospitals it usually means switching between 12-hour days and nights, as on the Panama or the rotating 4 on 4 off. Some plants rotate crews through all three 8-hour shifts: a week of days, a week of evenings and a week of nights. The southern swing is the classic version for four crews: 7 day shifts, 2 off, 7 evenings, 2 off, 7 nights and 3 off, a 28-day cycle. In 2027 one crew works 273 shifts (2,184 hours), a third of them on each shift. Choose “Southern swing” in the shift calendar to see your year, or compare other options on 24/7 shift schedules.
 More guides
 4-5-5 shift pattern
 5-5-4 schedule
