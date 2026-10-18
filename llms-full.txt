@@ -160,7 +160,8 @@ How many hours is a Pitman schedule?
 | Night shift | 14 days | 2 | 42 | 2,190
 Day shift: 84 hours in each 14-day cycle, × 365 ÷ 14 = 2,190 hours a year.
 At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the Pitman pay calculator.
-Pitman Schedule pros and cons
+Is a Pitman schedule good?
+Good if you want a three-day weekend every other week and never more than three shifts in a row. It suits parents who split weekends. It is harder if you need the same weekdays free every week.
 Pros
 Every other weekend is a full three-day weekend.
 Never more than 3 shifts in a row.
@@ -174,7 +175,7 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 7 days apart.
 | | Crew | Shifts in 2027 | Hours | Full weekends off
 | A | 182 | 2,184 | 26
 | B | 183 | 2,196 | 26
-Who uses the Pitman schedule?
+What jobs use a Pitman schedule?
 Police departments, manufacturing plants, 911 dispatch and security teams.
 Pitman vs DuPont: which is better?
 Tools for the Pitman schedule
@@ -249,7 +250,8 @@ How many hours is a Panama schedule?
 | Rotating days/nights | 28 days | 4 | 42 | 2,190
 Rotating days/nights: 168 hours in each 28-day cycle, × 365 ÷ 28 = 2,190 hours a year.
 At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the Panama pay calculator.
-Panama Schedule pros and cons
+Is a Panama schedule good?
+Good if you want every other weekend off and do not mind swapping between days and nights. Crews who would rather stay on one shift usually pick the fixed Pitman instead.
 Pros
 Every other weekend off, as on the Pitman.
 Everyone shares the night shifts fairly.
@@ -265,7 +267,7 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 7 days apart.
 | B | 183 | 2,196 | 26
 | C | 182 | 2,184 | 26
 | D | 183 | 2,196 | 26
-Who uses the Panama schedule?
+What jobs use a Panama schedule?
 Manufacturing, utilities, healthcare support and law enforcement.
 Tools for the Panama schedule
 Hours calculator
@@ -339,7 +341,8 @@ How many hours is a DuPont schedule?
 | Rotating days/nights | 28 days | 4 | 42 | 2,190
 Rotating days/nights: 168 hours in each 28-day cycle, × 365 ÷ 28 = 2,190 hours a year.
 At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the DuPont pay calculator.
-DuPont Schedule pros and cons
+Is a DuPont schedule good?
+Good if a full week off every four weeks matters more to you than an even workload. The 4-shift blocks are heavy, but the Pitman and Panama never give a 7-day break.
 Pros
 A full week off every four weeks.
 Each crew works days and nights in equal measure.
@@ -355,7 +358,7 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 7 days apart.
 | B | 182 | 2,184 | 26
 | C | 183 | 2,196 | 26
 | D | 183 | 2,196 | 26
-Who uses the DuPont schedule?
+What jobs use a DuPont schedule?
 Chemical plants, refineries, power stations and other continuous operations.
 Pitman vs DuPont: which is better?
 Tools for the DuPont schedule
@@ -436,7 +439,8 @@ How many hours is a 4 on 4 off schedule?
 | Rotating days/nights | 16 days | 4 | 42 | 2,190
 Days only: 48 hours in each 8-day cycle, × 365 ÷ 8 = 2,190 hours a year.
 At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the 4 on 4 off pay calculator.
-4 on 4 off Schedule pros and cons
+Is a 4 on 4 off schedule good?
+Good if you like long breaks and simple math: the next four days off are always easy to count. It is harder if you want fixed weekends, which come around only now and then.
 Pros
 Four days off every time.
 Simple to remember.
@@ -450,7 +454,7 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 4 days apart.
 | | Crew | Shifts in 2027 | Hours | Full weekends off
 | A | 182 | 2,184 | 21
 | B | 183 | 2,196 | 18
-Who uses the 4 on 4 off schedule?
+What jobs use a 4 on 4 off schedule?
 Manufacturing, warehouses, security and some police and ambulance services, especially in the UK and Canada.
 Tools for the 4 on 4 off schedule
 Hours calculator
@@ -528,7 +532,8 @@ How many hours is a 4-3-3-4 schedule?
 | Rotating days/nights | 28 days | 4 | 42 | 2,190
 Days only: 84 hours in each 14-day cycle, × 365 ÷ 14 = 2,190 hours a year.
 At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the 4-3-3-4 pay calculator.
-4-3-3-4 Schedule pros and cons
+Is a 4-3-3-4 schedule good?
+Good if you want the same number of shifts every fortnight and a 4-day break every two weeks. It is harder when the 4-shift block lands on days you need free.
 Pros
 Same number of shifts every two weeks.
 A 4-day break every fortnight.
@@ -542,7 +547,7 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 7 days apart.
 | | Crew | Shifts in 2027 | Hours | Full weekends off
 | A | 182 | 2,184 | 52
 | B | 182 | 2,184 | 52
-Who uses the 4-3-3-4 schedule?
+What jobs use a 4-3-3-4 schedule?
 Manufacturing and some police forces.
 Tools for the 4-3-3-4 schedule
 Hours calculator
@@ -622,7 +627,8 @@ How many hours is a 3 on 3 off schedule?
 | Rotating days/nights | 12 days | 4 | 42 | 2,190
 Days only: 36 hours in each 6-day cycle, × 365 ÷ 6 = 2,190 hours a year.
 At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the 3 on 3 off pay calculator.
-3 on 3 off Schedule pros and cons
+Is a 3 on 3 off schedule good?
+Good if you prefer short blocks of work with three days to recover after each. It is less suited to anyone who needs predictable weekends.
 Pros
 Short work blocks.
 Three days off after every block.
@@ -636,7 +642,7 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 3 days apart.
 | | Crew | Shifts in 2027 | Hours | Full weekends off
 | A | 182 | 2,184 | 17
 | B | 183 | 2,196 | 18
-Who uses the 3 on 3 off schedule?
+What jobs use a 3 on 3 off schedule?
 Hospitals, care homes and continuous production.
 Tools for the 3 on 3 off schedule
 Hours calculator
@@ -716,7 +722,8 @@ How many hours is a 2 on 2 off schedule?
 | Rotating days/nights | 8 days | 4 | 42 | 2,190
 Days only: 24 hours in each 4-day cycle, × 365 ÷ 4 = 2,190 hours a year.
 At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the 2 on 2 off pay calculator.
-2 on 2 off Schedule pros and cons
+Is a 2 on 2 off schedule good?
+Good if long runs of 12-hour shifts wear you out: you never work more than two in a row. The trade-off is that every break is only two days.
 Pros
 Never more than two long shifts in a row.
 Frequent days off.
@@ -730,7 +737,7 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 2 days apart.
 | | Crew | Shifts in 2027 | Hours | Full weekends off
 | A | 183 | 2,196 | 13
 | B | 182 | 2,184 | 13
-Who uses the 2 on 2 off schedule?
+What jobs use a 2 on 2 off schedule?
 Healthcare, security and smaller plants.
 Tools for the 2 on 2 off schedule
 Hours calculator
@@ -808,7 +815,8 @@ How many hours is a 7 on 7 off schedule?
 | Rotating days/nights | 28 days | 4 | 42 | 2,190
 Days only: 84 hours in each 14-day cycle, × 365 ÷ 14 = 2,190 hours a year.
 At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the 7 on 7 off pay calculator.
-7 on 7 off Schedule pros and cons
+Is a 7 on 7 off schedule good?
+Good if you can push through one hard week for a full week off, for example if you commute far or travel. It is a poor fit if you need to be home most evenings every week.
 Pros
 A full week off every other week.
 Half the days of the year at home.
@@ -822,7 +830,7 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 7 days apart.
 | | Crew | Shifts in 2027 | Hours | Full weekends off
 | A | 182 | 2,184 | 26
 | B | 183 | 2,196 | 26
-Who uses the 7 on 7 off schedule?
+What jobs use a 7 on 7 off schedule?
 Hospitals, security, oil and gas, and some police and ambulance services.
 Tools for the 7 on 7 off schedule
 Hours calculator
@@ -889,7 +897,8 @@ How many hours is a 24/48 schedule?
 | Standard | 3 days | 3 | 56 | 2,920
 Standard: 24 hours in each 3-day cycle, × 365 ÷ 3 = 2,920 hours a year.
 At $25 an hour, 2,920 hours come to $73,000 before any overtime premium; try your own rate in the 24/48 pay calculator.
-24/48 Schedule pros and cons
+Is a 24/48 schedule good?
+Good if you want only about 122 shifts a year and two clear days after each one. The cost is 24 hours on duty at a time and about 56 scheduled hours a week.
 Pros
 Two full days off after every shift.
 Only about 122 shifts a year.
@@ -904,7 +913,7 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 1 days apart.
 | A | 122 | 2,928 | 18
 | B | 121 | 2,904 | 17
 | C | 122 | 2,928 | 17
-Who uses the 24/48 schedule?
+What jobs use a 24/48 schedule?
 Fire departments and EMS.
 48/96 vs 24/48: which is better?
 Tools for the 24/48 schedule
@@ -972,7 +981,8 @@ How many hours is a 48/96 schedule?
 | Standard | 6 days | 3 | 56 | 2,920
 Standard: 48 hours in each 6-day cycle, × 365 ÷ 6 = 2,920 hours a year.
 At $25 an hour, 2,920 hours come to $73,000 before any overtime premium; try your own rate in the 48/96 pay calculator.
-48/96 Schedule pros and cons
+Is a 48/96 schedule good?
+Good if you live far from the station or want four days off at a time. It is harder if you struggle without proper sleep, because each tour keeps you on duty for 48 hours.
 Pros
 Four full days off in every 6.
 Fewer commutes, which suits people who live far from the station.
@@ -987,7 +997,7 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 2 days apart.
 | A | 122 | 2,928 | 25
 | B | 122 | 2,928 | 26
 | C | 121 | 2,904 | 27
-Who uses the 48/96 schedule?
+What jobs use a 48/96 schedule?
 Fire departments, mostly in the western United States.
 48/96 vs 24/48: which is better?
 Tools for the 48/96 schedule
@@ -1053,7 +1063,8 @@ How many hours is a Kelly schedule?
 | Standard | 9 days | 3 | 56 | 2,920
 Standard: 72 hours in each 9-day cycle, × 365 ÷ 9 = 2,920 hours a year.
 At $25 an hour, 2,920 hours come to $73,000 before any overtime premium; try your own rate in the Kelly pay calculator.
-Kelly Schedule pros and cons
+Is a Kelly schedule good?
+Good if you would rather have a 4-day break every 9 days than the even spacing of a 24/48. It is harder if three 24-hour shifts in five days leave you drained.
 Pros
 A 4-day break every 9 days.
 Three shifts per 9 days, so about 56 hours a week.
@@ -1068,7 +1079,7 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 3 days apart.
 | A | 121 | 2,904 | 18
 | B | 123 | 2,952 | 17
 | C | 121 | 2,904 | 17
-Who uses the Kelly schedule?
+What jobs use a Kelly schedule?
 Fire departments in the US and Australia.
 Tools for the Kelly schedule
 24-hour shift schedule template
@@ -1136,7 +1147,8 @@ How many hours is a 24/72 schedule?
 | Standard | 4 days | 4 | 42 | 2,190
 Standard: 24 hours in each 4-day cycle, × 365 ÷ 4 = 2,190 hours a year.
 At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the 24/72 pay calculator.
-24/72 Schedule pros and cons
+Is a 24/72 schedule good?
+Good for firefighters who want three days off after every shift and about 42 hours a week. The department pays for it with a fourth platoon, and you lose the overtime built into a 56-hour week.
 Pros
 Three days off after every shift.
 About 42 hours a week, close to a normal job.
@@ -1152,7 +1164,7 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 1 days apart.
 | B | 91 | 2,184 | 26
 | C | 91 | 2,184 | 26
 | D | 92 | 2,208 | 26
-Who uses the 24/72 schedule?
+What jobs use a 24/72 schedule?
 Fire departments that run four platoons (A, B, C and D).
 Tools for the 24/72 schedule
 24-hour shift schedule template
@@ -1247,7 +1259,8 @@ How many hours is a Hitch Rotation schedule?
 | 28 on 28 off | 56 days | 2 | 42 | 2,190
 14 on 14 off: 168 hours in each 28-day cycle, × 365 ÷ 28 = 2,190 hours a year.
 At $25 an hour, 2,190 hours come to $54,750 before any overtime premium; try your own rate in the Hitch Rotation pay calculator.
-Hitch Rotation Schedule pros and cons
+Is a Hitch Rotation schedule good?
+Good if long breaks at home are worth long stretches away, and your family can plan around a fixed crew change date. Rotations with more days on than off, such as 14/7 or 21/7, pay for more working days with shorter breaks.
 Pros
 Long, predictable breaks at home.
 Easy to plan holidays and travel around.
@@ -1261,7 +1274,7 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 14 days apart.
 | | Crew | Shifts in 2027 | Hours | Full weekends off
 | A | 182 | 2,184 | 26
 | B | 183 | 2,196 | 26
-Who uses the Hitch Rotation schedule?
+What jobs use a Hitch Rotation schedule?
 Mining, oil and gas, and construction camps in Australia, Canada and offshore.
 Tools for the Hitch Rotation schedule
 Hours calculator
@@ -1683,6 +1696,8 @@ What happens when a bank holiday falls on a weekend?
 A substitute day is given, usually the next Monday. When Christmas Day and Boxing Day both fall on a weekend, the substitute days are the following Monday and Tuesday.
 Does Scotland have different bank holidays?
 Yes: 2 January and St Andrew's Day, the summer bank holiday on the first Monday of August and no Easter Monday.
+Are shift workers entitled to public holidays?
+Not to time off or extra pay as such. Bank holidays are the UK's public holidays, and there is no legal right to have them off or to be paid more for working them. Employers can count them towards the 5.6 weeks of paid holiday (Working Time Regulations, regs. 13 and 13A); many contracts pay time and a half or give a day in lieu.
 
 ---
 
@@ -1724,6 +1739,8 @@ Is it legal to work more than 48 hours a week on shifts?
 Only if you have signed an opt-out. Without it, your hours must average 48 a week or less over the reference period, usually 17 weeks.
 Do I need 11 hours between shifts?
 Yes, as a rule. A rota that moves you from nights straight to days can break it, which is only allowed with compensatory rest.
+Does the Working Time Directive still apply in the UK?
+The EU directive itself no longer does, but the Working Time Regulations 1998 that put it into UK law are still in force. The 48-hour average week, 11 hours' daily rest and the limits for night workers all come from those Regulations.
 
 ---
 
@@ -1967,6 +1984,8 @@ Is a 9/80 schedule legal?
 Yes. Federal law only requires overtime after 40 hours in a workweek, and the 9/80 keeps each workweek at 40 hours by starting it in the middle of the 8-hour Friday (29 CFR 778.105). Some states with daily overtime, such as California, need an approved alternative workweek.
 What is the difference between a 9/80 and a 4/10?
 A 9/80 gives one Friday off every two weeks with 9-hour days; a 4/10 gives a day off every week with 10-hour days.
+Is a 9/80 schedule worth it?
+Yes, if a three-day weekend every other week is worth one extra hour on eight days of every fortnight: you get 26 a year (27 in some years) with no change in pay. It only avoids overtime if the workweek is split on the short Friday, as explained above, and it suits less well if you must be home at a fixed time every evening.
 
 ---
 
@@ -2007,6 +2026,10 @@ Which 12-hour schedule gives 7 days off?
 The DuPont: four nights, three off, three days, one off, three nights, three off, four days and then seven days off, a 28-day cycle.
 How many hours a year is a 12-hour shift schedule?
 About 2,190 scheduled hours on four-crew schedules (182.5 shifts of 12 hours), before overtime, leave and swaps.
+Is a 12-hour shift overtime?
+Not under federal law. Overtime is due only after 40 hours in the workweek (29 CFR 778.102 and 778.105), so three 12-hour shifts pay none and a fourth in the same week pays 8 hours. California pays after 8 hours in a day and double time after 12 (Labor Code 510), Alaska after 8 and Colorado after 12.
+How many 12-hour shifts is 2,000 hours?
+About 167, since 2,000 ÷ 12 = 166.7. A full-time year of 2,080 hours is about 173 twelve-hour shifts, and three 12s a week for 52 weeks is 156.
 
 ---
 
@@ -2090,6 +2113,8 @@ When do the clocks change?
 Second Sunday of March and first Sunday of November at 2:00 a.m. local time: November 1, 2026, March 14, 2027 and November 7, 2027.
 Do I get paid for the extra hour on a night shift?
 If you are paid by the hour, yes: the FLSA counts hours actually worked, so a 13-hour shift is paid as 13 hours.
+How does daylight saving time affect night shift workers?
+Twice a year the night changes length. In November a 7 p.m. to 7 a.m. shift lasts 13 hours, and in March it lasts 11. The longer night is paid as worked and can push your week into overtime; the shorter one usually pays an hour less unless your contract guarantees the full shift.
 
 ---
 
@@ -2108,6 +2133,15 @@ Overtime thresholds by work period
 | 14 days | 106 h | 86 h
 | 7 days | 53 h | 43 h
 Source: 29 CFR 553.230. Departments pick their work period; it must be set in advance and stay the same. On a 24/48 schedule firefighters work about 216 to 240 hours in 28 days, so most work periods include some overtime.
+How much overtime do firefighters get?
+The schedule alone builds some in. On a 24/48 with a 28-day work period, about 156 hours a year fall above the 212-hour threshold before anyone works an extra shift. Covering vacancies, holdovers and recalls come on top, and those depend on your department.
+| | Schedule | Hours in a 28-day period | Overtime hours a year from the schedule
+| 24/48 | 216 to 240 | about 156 (148 to 172)
+| 48/96 | 192 to 240 | about 199 (148 to 252)
+| Kelly | 216 to 240 | about 156 (124 to 172)
+| 24/72 | 168 | 0
+| 24/48 with a Kelly day every 7th shift | 168 to 216 | about 12 (0 to 20)
+Worked out from each cycle over 13 work periods of 28 days, for every possible start day; the range shows how the start date moves the total. A 48/96 averages the same 56 hours a week as a 24/48 but swings between 192 and 240 hours a period, so more of its hours land above the line. Kelly days exist largely to cut this built-in overtime: one every 7th shift brings a 24/48 down to about 12 hours a year.
 How the regular rate is worked out
 Overtime is paid at one and a half times the regular rate. The regular rate is all pay for the period, including night and shift differentials and most bonuses, divided by the hours worked (29 CFR 778.109). The calculator pays straight time for every hour plus a half-time premium for the overtime hours, which gives the same result.
 Union contracts and state laws often pay more, for example overtime after fewer hours. This calculator shows the federal minimum. See also the 24/48 calendar and Kelly schedule.
@@ -2128,6 +2162,8 @@ How many hours before overtime for firefighters?
 212 hours in a 28-day work period, or the same proportion for shorter periods: 106 hours in 14 days, 53 in 7 days.
 Do shift differentials count toward overtime pay?
 Yes. Differentials and most bonuses are part of the regular rate, so they raise the overtime rate.
+Do firefighters get a lot of overtime?
+Some is built into the schedule. With a 28-day work period, a 24/48 puts about 156 hours a year above the 212-hour threshold and a 48/96 about 199; a 24/72 puts none. Extra shifts to cover vacancies come on top and vary by department.
 
 ---
 
@@ -2207,6 +2243,12 @@ Night and evening differentials are part of the regular rate, so they raise your
 | Overtime premium | 8 h over 40 × half of $27.25 | $109
 | Total for the week | | $1,417
 Working the premium out on the base rate alone ($12.50 × 8 = $100) would pay $9 too little that week. Enter your night differential above and the calculator does this for every week of the year.
+What is a shift differential?
+A shift differential is extra pay for working less popular hours: evenings, nights, weekends or holidays. It is usually a fixed amount for each of those hours, such as $2 more an hour on nights, or a percentage of your base rate. Federal law does not require it: the FLSA "does not require extra pay for night work" (US Department of Labor). The amount comes from your employer's policy or your union contract. Federal employees get 10% for regular night work (5 U.S.C. 5545(a)); shift hours and differentials has more benchmarks.
+Does shift differential apply to overtime and PTO?
+To overtime, yes: it is part of the regular rate (29 CFR 778.207(b)), as the worked week above shows. PTO is different. Vacation, holiday and sick pay are not pay for hours worked (29 CFR 778.218), so whether your PTO includes the differential depends on your employer's policy or contract.
+Can a shift differential be taken away?
+Usually, for shifts you have not worked yet. No federal law requires a differential, so an employer can change or end it unless a union contract or written agreement guarantees it.
 Overtime after 8 or 12 hours: federal and state rules
 Federal law does not require overtime for long days, only for long weeks: there is no overtime for hours over 8 in a day as such (29 CFR 778.102). It pays time and a half after 40 hours in the workweek (29 CFR 778.105), on the regular rate, which includes night differentials (29 CFR 778.109). California also pays after 8 hours in a day and double after 12 (Labor Code 510); health care employers can adopt 12-hour alternative workweeks (IWC Wage Order 5). Alaska pays after 8 hours a day (AS 23.10.060) and Colorado after 12 hours in a workday or 12 hours in a row (COMPS Order #40). Fire and police departments often use a 7(k) work period instead: see the 7(k) calculator. If you work in another state, check its labor department: a few states have their own rules, and a union contract can also pay daily overtime.
 Figures are worked out from each cycle; rules checked against official sources on October 18, 2026. How we calculate
