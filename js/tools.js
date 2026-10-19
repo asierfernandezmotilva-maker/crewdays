@@ -79,7 +79,7 @@
     var local = t + offset(to, t) * 6e4, d = new Date(local);
     return { time: clock12(d.getUTCHours() * 60 + d.getUTCMinutes()), date: iso(local), dayShift: Math.round((ms(iso(local)) - ms(date)) / 864e5) };
   }
-  var ZN = { "UTC": "UTC", "America/New_York": "Eastern Time", "America/Chicago": "Central Time", "America/Denver": "Mountain Time", "America/Phoenix": "Arizona", "America/Los_Angeles": "Pacific Time", "America/Anchorage": "Alaska", "Pacific/Honolulu": "Hawaii", "Europe/London": "London" };
+  var ZN = { "UTC": "UTC", "America/New_York": "Eastern Time", "America/Chicago": "Central Time", "America/Denver": "Mountain Time", "America/Phoenix": "Arizona", "America/Los_Angeles": "Pacific Time", "America/Anchorage": "Alaska", "Pacific/Honolulu": "Hawaii", "Europe/London": "London", "Etc/GMT": "GMT" };
   // Salario mínimo por estado: tabla del Departamento de Trabajo (actualizada el 1 de julio de 2026)
   var MINWAGE = { Alabama: 0, Alaska: 14, Arizona: 15.15, Arkansas: 11, California: 16.9, Colorado: 15.16, Connecticut: 16.94, Delaware: 15, "District of Columbia": 18.4, Florida: 14,
     Georgia: 0, Hawaii: 16, Idaho: 7.25, Illinois: 15, Indiana: 7.25, Iowa: 7.25, Kansas: 7.25, Kentucky: 7.25, Louisiana: 0, Maine: 15.1, Maryland: 15, Massachusetts: 15, Michigan: 13.73,
@@ -116,7 +116,7 @@
     Array.prototype.forEach.call(document.querySelectorAll("form[data-tool]"), function (f) { f.addEventListener("input", function () { run(f); }); f.addEventListener("submit", function (e) { e.preventDefault(); run(f); }); if (f.hasAttribute("data-now")) { var d = f.querySelector("[type=date]"); if (d && !d.dataset.set) d.value = iso(Date.now() - new Date().getTimezoneOffset() * 6e4); run(f); } });
     var clocks = document.querySelectorAll("[data-clock]");
     if (clocks.length) setTimeout(function () {
-      var fm = {}, tick = function () { var now = Date.now(); Array.prototype.forEach.call(clocks, function (el) { var z = el.getAttribute("data-clock"), f = fm[z] || (fm[z] = new Intl.DateTimeFormat("en-US", { timeZone: z, weekday: "short", hour: "numeric", minute: "2-digit", second: "2-digit", timeZoneName: "short" })); el.textContent = f.format(now); }); };
+      var fm = {}, tick = function () { var now = Date.now(); Array.prototype.forEach.call(clocks, function (el) { var z = el.getAttribute("data-clock"), f = fm[z] || (fm[z] = new Intl.DateTimeFormat("en-US", { timeZone: z, weekday: "short", hour: "numeric", minute: "2-digit", second: "2-digit", timeZoneName: "short" })); el.textContent = z === "Etc/GMT" ? f.format(now).replace("UTC", "GMT") : f.format(now); }); };
       tick(); setInterval(tick, 1000);
     }, 0);
   }

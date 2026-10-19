@@ -454,6 +454,17 @@ Crew A starts on Monday, January 4, 2027; the other crews follow 4 days apart.
 | | Crew | Shifts in 2027 | Hours | Full weekends off
 | A | 182 | 2,184 | 21
 | B | 183 | 2,196 | 18
+How many weekends do you work on a 4 on 4 off schedule?
+In 2027 you work both days of 18 to 21 weekends, have 18 to 21 weekends completely off, and work one day of the other 13. The split depends on the weekday your first shift falls on. There are 52 weekends in 2027 and an 8-day cycle, so you work about half of all weekend days, never a fixed share of whole weekends.
+| | First shift of the cycle on a | Weekends fully off | Weekends fully worked | Split weekends (one day worked)
+| Monday | 21 | 18 | 13
+| Tuesday | 20 | 19 | 13
+| Wednesday | 19 | 20 | 13
+| Thursday | 18 | 21 | 13
+| Friday | 18 | 21 | 13
+| Saturday | 19 | 20 | 13
+| Sunday | 20 | 19 | 13
+One crew, 2027, cycle starting in the week of January 4. A night shift counts on the day it starts. Other sites quote “half of all weekends” or “one weekend in four”: both miss the split weekends, which come to 13 a year whatever day you start.
 What jobs use a 4 on 4 off schedule?
 Manufacturing, warehouses, security and some police and ambulance services, especially in the UK and Canada.
 Tools for the 4 on 4 off schedule
@@ -482,6 +493,8 @@ How many days in a row do you work on a 4 on 4 off schedule?
 At most 4 shifts in a row, and the longest break is 4 days off.
 How many weekends off do you get on a 4 on 4 off schedule?
 Up to 21 full weekends off in 2027 (Saturday and Sunday both off), but it depends on the weekday your cycle starts: as few as 18.
+Is 4 on 4 off full time?
+Yes. With 12-hour shifts it averages 42 hours a week, about 181 to 184 shifts a year. For the Affordable Care Act employer rules, full time means an average of at least 30 hours of service a week, or 130 hours in a month (26 CFR 54.4980H-1(a)(21)); a 4 on 4 off month has about 15 shifts, 180 hours. Federal wage law (the FLSA) does not define full time.
 
 ---
 
@@ -1024,6 +1037,8 @@ How many days in a row do you work on a 48/96 schedule?
 At most 2 shifts in a row, and the longest break is 4 days off.
 How many weekends off do you get on a 48/96 schedule?
 Up to 27 full weekends off in 2027 (Saturday and Sunday both off), but it depends on the weekday your cycle starts: as few as 25.
+How many days a year do you work on a 48/96 schedule?
+121 or 122 days in 2027, depending on the day your cycle starts: about 61 tours of 48 hours. That is one day in three, the same as a 24/48, but in pairs of days.
 Can I add Kelly days to a 48/96 schedule?
 Yes. Under "Kelly days" choose how often you get one, for example every 7th shift. On a 48/96 schedule that is every 21 days, and it cuts the average week from 56 to 48 hours. The Kelly days show on the calendar, in the calendar file and in the hours and pay.
 
@@ -4214,6 +4229,309 @@ What is 9 a.m. PST in EST?
 
 ---
 
+## PST Time Now: Pacific Time, PST vs PDT (2026)
+URL: https://crewdays.app/pst-time/
+
+Home / Guides / PST time
+Pacific Time: PST and PDT
+Pacific Standard Time (PST) is UTC−8, 3 hours behind Eastern Time. From 2 a.m. on the second Sunday in March to 2 a.m. on the first Sunday in November the zone uses Pacific Daylight Time (PDT), UTC−7. In 2026 it returns to PST on Sunday, November 1. Los Angeles, San Francisco, Seattle, Portland and Las Vegas are on Pacific Time.
+By Asier Fernández · October 19, 2026
+Right now in Los Angeles: --:--:--
+PST or PDT? The change dates
+| | Year | Daylight time starts (2 a.m.) | Standard time returns (2 a.m.)
+| 2026 | Sunday, March 8 | Sunday, November 1
+| 2027 | Sunday, March 14 | Sunday, November 7
+| 2028 | Sunday, March 12 | Sunday, November 5
+The dates are set by federal law (15 U.S.C. 260a). Strictly, PST is the winter time and PDT the summer time; “PT” covers both. Most people say “PST” all year.
+Convert Pacific Time
+Photo: @mvdheuvel on Unsplash
+Which states use Pacific Time?
+California, Washington and Nevada, most of Oregon and the northern part of Idaho. The Pacific zone is everything in the continental US west of the Mountain–Pacific line, except Alaska (49 CFR 71.10). That line follows the Salmon River across Idaho, so Idaho north of the river (Coeur d'Alene, Lewiston) is on Pacific Time and Boise is on Mountain Time. In Oregon, most of Malheur County is on Mountain Time, and in Nevada the city of West Wendover is too (49 CFR 71.9).
+Pacific Time compared with other zones
+| | When it is noon Pacific | Mountain | Arizona | Central | Eastern | UTC
+| Winter (January 15, 2027) | 1:00 p.m. | 1:00 p.m. | 2:00 p.m. | 3:00 p.m. | 8:00 p.m.
+| Summer (July 15, 2027) | 1:00 p.m. | 12:00 p.m. | 2:00 p.m. | 3:00 p.m. | 7:00 p.m.
+Eastern, Central and Mountain Time change their clocks on the same night as Pacific Time, so those gaps never move. Arizona does not change, so it matches Pacific Time in summer and is an hour ahead in winter. For the East Coast in detail, see PST to EST.
+Pacific Time, hour by hour (winter)
+| | Pacific Time | Mountain Time | Central Time | Eastern Time | UTC
+| 12:00 a.m. | 1:00 a.m. | 2:00 a.m. | 3:00 a.m. | 8:00 a.m.
+| 1:00 a.m. | 2:00 a.m. | 3:00 a.m. | 4:00 a.m. | 9:00 a.m.
+| 2:00 a.m. | 3:00 a.m. | 4:00 a.m. | 5:00 a.m. | 10:00 a.m.
+| 3:00 a.m. | 4:00 a.m. | 5:00 a.m. | 6:00 a.m. | 11:00 a.m.
+| 4:00 a.m. | 5:00 a.m. | 6:00 a.m. | 7:00 a.m. | 12:00 p.m.
+| 5:00 a.m. | 6:00 a.m. | 7:00 a.m. | 8:00 a.m. | 1:00 p.m.
+| 6:00 a.m. | 7:00 a.m. | 8:00 a.m. | 9:00 a.m. | 2:00 p.m.
+| 7:00 a.m. | 8:00 a.m. | 9:00 a.m. | 10:00 a.m. | 3:00 p.m.
+| 8:00 a.m. | 9:00 a.m. | 10:00 a.m. | 11:00 a.m. | 4:00 p.m.
+| 9:00 a.m. | 10:00 a.m. | 11:00 a.m. | 12:00 p.m. | 5:00 p.m.
+| 10:00 a.m. | 11:00 a.m. | 12:00 p.m. | 1:00 p.m. | 6:00 p.m.
+| 11:00 a.m. | 12:00 p.m. | 1:00 p.m. | 2:00 p.m. | 7:00 p.m.
+| 12:00 p.m. | 1:00 p.m. | 2:00 p.m. | 3:00 p.m. | 8:00 p.m.
+| 1:00 p.m. | 2:00 p.m. | 3:00 p.m. | 4:00 p.m. | 9:00 p.m.
+| 2:00 p.m. | 3:00 p.m. | 4:00 p.m. | 5:00 p.m. | 10:00 p.m.
+| 3:00 p.m. | 4:00 p.m. | 5:00 p.m. | 6:00 p.m. | 11:00 p.m.
+| 4:00 p.m. | 5:00 p.m. | 6:00 p.m. | 7:00 p.m. | 12:00 a.m. (+1 day)
+| 5:00 p.m. | 6:00 p.m. | 7:00 p.m. | 8:00 p.m. | 1:00 a.m. (+1 day)
+| 6:00 p.m. | 7:00 p.m. | 8:00 p.m. | 9:00 p.m. | 2:00 a.m. (+1 day)
+| 7:00 p.m. | 8:00 p.m. | 9:00 p.m. | 10:00 p.m. | 3:00 a.m. (+1 day)
+| 8:00 p.m. | 9:00 p.m. | 10:00 p.m. | 11:00 p.m. | 4:00 a.m. (+1 day)
+| 9:00 p.m. | 10:00 p.m. | 11:00 p.m. | 12:00 a.m. (+1 day) | 5:00 a.m. (+1 day)
+| 10:00 p.m. | 11:00 p.m. | 12:00 a.m. (+1 day) | 1:00 a.m. (+1 day) | 6:00 a.m. (+1 day)
+| 11:00 p.m. | 12:00 a.m. (+1 day) | 1:00 a.m. (+1 day) | 2:00 a.m. (+1 day) | 7:00 a.m. (+1 day)
+Standard time, for example January 15, 2027. In summer the US columns stay the same and the UTC column moves one hour earlier.
+PST and UTC
+Federal law defines the Pacific zone as Coordinated Universal Time “retarded by 8 hours”, the fifth of nine US zones (15 U.S.C. 261). Daylight time moves it to UTC−7. Servers, aviation and many dispatch logs use UTC: 7:00 p.m. PST is 03:00 UTC the next day. See UTC time.
+Night shifts on the change dates
+On Sunday, November 1, 2026 the hour from 1:00 to 2:00 a.m. happens twice in the Pacific zone, so a 7 p.m. to 7 a.m. night shift lasts 13 hours. On March 14, 2027 the same shift lasts 11. The night shift clock change calculator works out the hours and pay for your shift.
+More guides
+UK time
+GMT time
+Mountain Time
+Work hours in a year
+1st, 2nd and 3rd shift hours
+Swing shift
+All guides
+Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
+Questions
+What is PST time in the USA?
+Pacific Standard Time, UTC−8, used on the West Coast in winter. From the second Sunday in March to the first Sunday in November the same zone uses PDT, UTC−7.
+Is PST 3 hours behind EST?
+Yes. Pacific Time is 3 hours behind Eastern Time all year, because both zones change their clocks on the same night.
+What is the difference between PST and PDT?
+PST is standard time (UTC−8), used in winter. PDT is daylight time (UTC−7), one hour ahead, used from the second Sunday in March to the first Sunday in November.
+Which states have PST time?
+California, Washington and Nevada, most of Oregon and northern Idaho. Most of Malheur County in Oregon and West Wendover in Nevada are on Mountain Time (49 CFR 71.9).
+Is California on PST or PDT right now?
+California uses PDT until 2 a.m. on Sunday, November 1, 2026, then PST until March 14, 2027.
+
+---
+
+## UK Time Now: London Time, GMT and BST (2026)
+URL: https://crewdays.app/uk-time/
+
+Home / Guides / UK time
+UK time: GMT and BST
+The UK uses Greenwich Mean Time (GMT, UTC+0) in winter and British Summer Time (BST, UTC+1) in summer. In 2026 the clocks go back one hour at 2 a.m. on Sunday, October 25, and London returns to GMT. London is usually 5 hours ahead of New York and 8 hours ahead of Los Angeles; for one week, until the US changes its clocks on November 1, the gaps are 4 and 7 hours.
+By Asier Fernández · October 19, 2026
+Right now in London: --:--:--
+When do the UK clocks change?
+| | Year | Clocks go forward (BST starts) | Clocks go back (GMT returns)
+| 2026 | Sunday, March 29 | Sunday, October 25
+| 2027 | Sunday, March 28 | Sunday, October 31
+| 2028 | Sunday, March 26 | Sunday, October 29
+The clocks go forward 1 hour at 1 a.m. on the last Sunday in March and back 1 hour at 2 a.m. on the last Sunday in October (GOV.UK). In law, summer time runs from 1 a.m. GMT on the last Sunday in March to 1 a.m. GMT on the last Sunday in October, and during it the time is “one hour in advance of Greenwich mean time” (Summer Time Act 1972, section 1).
+Convert UK time
+Photo: @marcin on Unsplash
+How many hours ahead is the UK?
+| | Dates | Ahead of Eastern | Ahead of Central | Ahead of Pacific
+| Until Saturday, October 24, 2026 | 5 hours | 6 hours | 8 hours
+| Sunday, October 25, 2026 to Saturday, October 31, 2026 | 4 hours | 5 hours | 7 hours
+| Sunday, November 1, 2026 to Saturday, March 13, 2027 | 5 hours | 6 hours | 8 hours
+| Sunday, March 14, 2027 to Saturday, March 27, 2027 | 4 hours | 5 hours | 7 hours
+| Sunday, March 28, 2027 to Saturday, October 30, 2027 | 5 hours | 6 hours | 8 hours
+| Sunday, October 31, 2027 to Saturday, November 6, 2027 | 4 hours | 5 hours | 7 hours
+| From Sunday, November 7, 2027 | 5 hours | 6 hours | 8 hours
+The UK and the US change their clocks on different Sundays: the UK on the last Sundays of March and October, the US on the second Sunday in March and the first Sunday in November (15 U.S.C. 260a). For a week or two around each change, the usual 5-hour gap to New York becomes 4.
+UK time to US time, hour by hour (winter)
+| | London | Eastern Time | Central Time | Pacific Time
+| 12:00 a.m. | 7:00 p.m. (−1 day) | 6:00 p.m. (−1 day) | 4:00 p.m. (−1 day)
+| 1:00 a.m. | 8:00 p.m. (−1 day) | 7:00 p.m. (−1 day) | 5:00 p.m. (−1 day)
+| 2:00 a.m. | 9:00 p.m. (−1 day) | 8:00 p.m. (−1 day) | 6:00 p.m. (−1 day)
+| 3:00 a.m. | 10:00 p.m. (−1 day) | 9:00 p.m. (−1 day) | 7:00 p.m. (−1 day)
+| 4:00 a.m. | 11:00 p.m. (−1 day) | 10:00 p.m. (−1 day) | 8:00 p.m. (−1 day)
+| 5:00 a.m. | 12:00 a.m. | 11:00 p.m. (−1 day) | 9:00 p.m. (−1 day)
+| 6:00 a.m. | 1:00 a.m. | 12:00 a.m. | 10:00 p.m. (−1 day)
+| 7:00 a.m. | 2:00 a.m. | 1:00 a.m. | 11:00 p.m. (−1 day)
+| 8:00 a.m. | 3:00 a.m. | 2:00 a.m. | 12:00 a.m.
+| 9:00 a.m. | 4:00 a.m. | 3:00 a.m. | 1:00 a.m.
+| 10:00 a.m. | 5:00 a.m. | 4:00 a.m. | 2:00 a.m.
+| 11:00 a.m. | 6:00 a.m. | 5:00 a.m. | 3:00 a.m.
+| 12:00 p.m. | 7:00 a.m. | 6:00 a.m. | 4:00 a.m.
+| 1:00 p.m. | 8:00 a.m. | 7:00 a.m. | 5:00 a.m.
+| 2:00 p.m. | 9:00 a.m. | 8:00 a.m. | 6:00 a.m.
+| 3:00 p.m. | 10:00 a.m. | 9:00 a.m. | 7:00 a.m.
+| 4:00 p.m. | 11:00 a.m. | 10:00 a.m. | 8:00 a.m.
+| 5:00 p.m. | 12:00 p.m. | 11:00 a.m. | 9:00 a.m.
+| 6:00 p.m. | 1:00 p.m. | 12:00 p.m. | 10:00 a.m.
+| 7:00 p.m. | 2:00 p.m. | 1:00 p.m. | 11:00 a.m.
+| 8:00 p.m. | 3:00 p.m. | 2:00 p.m. | 12:00 p.m.
+| 9:00 p.m. | 4:00 p.m. | 3:00 p.m. | 1:00 p.m.
+| 10:00 p.m. | 5:00 p.m. | 4:00 p.m. | 2:00 p.m.
+| 11:00 p.m. | 6:00 p.m. | 5:00 p.m. | 3:00 p.m.
+GMT, for example January 15, 2027. In summer (BST and US daylight time) the gaps are the same.
+Is UK time the same as GMT?
+Only in winter. From late March to late October the UK is on BST, one hour ahead of GMT. An Act of Parliament that mentions a time of day means GMT unless it says otherwise, subject to the summer time rules (Interpretation Act 1978, section 9). GMT itself never changes: see GMT time.
+Night shifts when the clocks change
+On Sunday, October 25, 2026 the hour from 1:00 to 2:00 a.m. happens twice, so a 10 p.m. to 6 a.m. night shift lasts 9 hours and a 7 p.m. to 7 a.m. shift lasts 13. On March 28, 2027 the clocks jump from 1:00 to 2:00 a.m. and the same shifts last 7 and 11 hours. Whether the extra hour is paid depends on your contract. Rest breaks and the 48-hour average week still apply: see UK working time rules for shift workers and how many night shifts in a row.
+More guides
+GMT time
+Mountain Time
+Work hours in a year
+1st, 2nd and 3rd shift hours
+Swing shift
+Time calculator
+All guides
+Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
+Questions
+Is America five hours behind the UK?
+New York and the rest of the Eastern zone are usually 5 hours behind the UK. Chicago is 6 hours behind and Los Angeles 8. For a week or two in March and around the end of October the gap is one hour less.
+Is the UK on GMT or BST now?
+BST until 2 a.m. on Sunday, October 25, 2026, then GMT until 1 a.m. on Sunday, March 28, 2027.
+When do the clocks go back in the UK in 2026?
+Sunday, October 25, 2026 at 2 a.m. BST, which becomes 1 a.m. GMT. They go forward again on Sunday, March 28, 2027.
+Is London time the same as GMT?
+In winter, yes. In summer London is on BST, GMT+1.
+What time is it in England when it is noon in New York?
+5:00 p.m. for most of the year; 4:00 p.m. in the weeks when the US and UK clock changes do not line up.
+
+---
+
+## GMT Time Now: GMT to EST, CST, PST and UK Time
+URL: https://crewdays.app/gmt-time/
+
+Home / Guides / GMT time
+GMT time now
+GMT, Greenwich Mean Time, is UTC+0 and shows the same clock time as Coordinated Universal Time all year. It is 5 hours ahead of Eastern Standard Time, 6 of Central, 7 of Mountain and 8 of Pacific, one hour less while the US is on daylight time. The UK uses GMT only in winter: from the last Sunday in March to the last Sunday in October it is on BST, GMT+1.
+By Asier Fernández · October 19, 2026
+Right now in GMT: --:--:--
+GMT to US time
+| | When it is 12:00 GMT | Eastern | Central | Mountain | Arizona | Pacific
+| Winter (January 15, 2027) | 7:00 a.m. | 6:00 a.m. | 5:00 a.m. | 5:00 a.m. | 4:00 a.m.
+| Summer (July 15, 2027) | 8:00 a.m. | 7:00 a.m. | 6:00 a.m. | 5:00 a.m. | 5:00 a.m.
+US zones are defined by law as a number of hours behind UTC, which GMT matches: Eastern −5, Central −6, Mountain −7, Pacific −8 (15 U.S.C. 261). From the second Sunday in March to the first Sunday in November each moves one hour closer (15 U.S.C. 260a). Arizona stays on standard time all year (A.R.S. 1-242).
+Convert GMT
+Photo: @tzielonka on Unsplash
+Is GMT 4 or 5 hours ahead of EST?
+5 hours ahead of EST, Eastern Standard Time, used from the first Sunday in November to the second Sunday in March. 4 hours ahead of EDT, the summer time used the rest of the year. So 12:00 GMT is 7:00 a.m. in New York in January and 8:00 a.m. in July. The same rule gives 8 or 7 hours for the Pacific zone.
+GMT to Eastern Time, hour by hour
+| | GMT | Eastern (winter, EST) | Eastern (summer, EDT) | Pacific (winter, PST) | Pacific (summer, PDT)
+| 00:00 | 7:00 p.m. (−1 day) | 8:00 p.m. (−1 day) | 4:00 p.m. (−1 day) | 5:00 p.m. (−1 day)
+| 01:00 | 8:00 p.m. (−1 day) | 9:00 p.m. (−1 day) | 5:00 p.m. (−1 day) | 6:00 p.m. (−1 day)
+| 02:00 | 9:00 p.m. (−1 day) | 10:00 p.m. (−1 day) | 6:00 p.m. (−1 day) | 7:00 p.m. (−1 day)
+| 03:00 | 10:00 p.m. (−1 day) | 11:00 p.m. (−1 day) | 7:00 p.m. (−1 day) | 8:00 p.m. (−1 day)
+| 04:00 | 11:00 p.m. (−1 day) | 12:00 a.m. | 8:00 p.m. (−1 day) | 9:00 p.m. (−1 day)
+| 05:00 | 12:00 a.m. | 1:00 a.m. | 9:00 p.m. (−1 day) | 10:00 p.m. (−1 day)
+| 06:00 | 1:00 a.m. | 2:00 a.m. | 10:00 p.m. (−1 day) | 11:00 p.m. (−1 day)
+| 07:00 | 2:00 a.m. | 3:00 a.m. | 11:00 p.m. (−1 day) | 12:00 a.m.
+| 08:00 | 3:00 a.m. | 4:00 a.m. | 12:00 a.m. | 1:00 a.m.
+| 09:00 | 4:00 a.m. | 5:00 a.m. | 1:00 a.m. | 2:00 a.m.
+| 10:00 | 5:00 a.m. | 6:00 a.m. | 2:00 a.m. | 3:00 a.m.
+| 11:00 | 6:00 a.m. | 7:00 a.m. | 3:00 a.m. | 4:00 a.m.
+| 12:00 | 7:00 a.m. | 8:00 a.m. | 4:00 a.m. | 5:00 a.m.
+| 13:00 | 8:00 a.m. | 9:00 a.m. | 5:00 a.m. | 6:00 a.m.
+| 14:00 | 9:00 a.m. | 10:00 a.m. | 6:00 a.m. | 7:00 a.m.
+| 15:00 | 10:00 a.m. | 11:00 a.m. | 7:00 a.m. | 8:00 a.m.
+| 16:00 | 11:00 a.m. | 12:00 p.m. | 8:00 a.m. | 9:00 a.m.
+| 17:00 | 12:00 p.m. | 1:00 p.m. | 9:00 a.m. | 10:00 a.m.
+| 18:00 | 1:00 p.m. | 2:00 p.m. | 10:00 a.m. | 11:00 a.m.
+| 19:00 | 2:00 p.m. | 3:00 p.m. | 11:00 a.m. | 12:00 p.m.
+| 20:00 | 3:00 p.m. | 4:00 p.m. | 12:00 p.m. | 1:00 p.m.
+| 21:00 | 4:00 p.m. | 5:00 p.m. | 1:00 p.m. | 2:00 p.m.
+| 22:00 | 5:00 p.m. | 6:00 p.m. | 2:00 p.m. | 3:00 p.m.
+| 23:00 | 6:00 p.m. | 7:00 p.m. | 3:00 p.m. | 4:00 p.m.
+GMT, UTC and BST
+GMT and UTC show the same time; UTC is the standard that clocks are set from, and GMT is the name the UK uses for its winter time. BST, British Summer Time, is “one hour in advance of Greenwich mean time” (Summer Time Act 1972, section 1). So in summer, 12:00 GMT is 1:00 p.m. in London. Offsets such as “GMT−5” on websites mean the same as UTC−5. For the UK clock change dates, see UK time; for Zulu time on the 24-hour clock, see UTC time.
+GMT on shift work
+Teams that hand over between the UK and the US, offshore crews and aviation staff often keep rotas in GMT or UTC so that nobody's clock change moves a shift. A 7 a.m. to 7 p.m. day shift in New York is 12:00 to 00:00 GMT in winter and 11:00 to 23:00 GMT in summer. Write both times on the handover sheet, and check the weeks in March, October and November when the UK and US are on different rules.
+More guides
+Mountain Time
+Work hours in a year
+1st, 2nd and 3rd shift hours
+Swing shift
+Time calculator
+Hours calculator
+All guides
+Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
+Questions
+What is GMT time in the US?
+There is no US zone on GMT. Eastern Time is 5 hours behind GMT in winter and 4 in summer; Pacific Time is 8 hours behind in winter and 7 in summer.
+What is GMT to EST?
+Subtract 5 hours: 12:00 GMT is 7:00 a.m. EST. During US daylight time subtract 4: 12:00 GMT is 8:00 a.m. EDT.
+Is GMT 4 or 5 hours ahead of EST?
+5 hours ahead of EST (winter) and 4 hours ahead of EDT (from the second Sunday in March to the first Sunday in November).
+Is GMT the same as UK time?
+Only in winter. From the last Sunday in March to the last Sunday in October the UK is on BST, one hour ahead of GMT.
+Is GMT the same as UTC?
+They show the same clock time and neither changes for daylight saving. UTC is the international standard; GMT is the UK's name for its winter time.
+
+---
+
+## Mountain Time Now: MST, MDT and Arizona Time (2026)
+URL: https://crewdays.app/mountain-time/
+
+Home / Guides / Mountain Time
+Mountain Time: MST and MDT
+Mountain Standard Time (MST) is UTC−7, 2 hours behind Eastern Time and 1 hour ahead of Pacific. From the second Sunday in March to the first Sunday in November the zone uses Mountain Daylight Time (MDT), UTC−6, except Arizona, which stays on MST all year. Denver, Salt Lake City, Albuquerque, Boise and Phoenix are on Mountain Time.
+By Asier Fernández · October 19, 2026
+Right now in Denver: --:--:--
+Right now in Phoenix: --:--:--
+MST or MDT? The change dates
+| | Year | Daylight time starts (2 a.m.) | Standard time returns (2 a.m.)
+| 2026 | Sunday, March 8 | Sunday, November 1
+| 2027 | Sunday, March 14 | Sunday, November 7
+| 2028 | Sunday, March 12 | Sunday, November 5
+Set by federal law (15 U.S.C. 260a). In 2026 Denver, Salt Lake City and Boise return to MST on Sunday, November 1. Phoenix does not change.
+Convert Mountain Time
+Photo: @billgrip on Unsplash
+Is Arizona on Mountain Time?
+Yes, on Mountain Standard Time all year. Arizona law sets the state's time as “standard mountain time” and rejects daylight saving time (A.R.S. 1-242); federal law lets a state do this if the whole state stays on standard time (15 U.S.C. 260a). So from March to November, Phoenix shows the same time as Los Angeles and one hour less than Denver. From November to March it matches Denver.
+| | When it is noon in Denver | Phoenix | Los Angeles | Chicago | New York
+| Winter (January 15, 2027) | 12:00 p.m. | 11:00 a.m. | 1:00 p.m. | 2:00 p.m.
+| Summer (July 15, 2027) | 11:00 a.m. | 11:00 a.m. | 1:00 p.m. | 2:00 p.m.
+Which states are in the Mountain Time Zone?
+The Mountain zone lies between the Central–Mountain line (49 CFR 71.7) and the Mountain–Pacific line (49 CFR 71.9), as 49 CFR 71.8 defines it. All of Colorado, Utah, Wyoming, Montana, New Mexico and Arizona are in it. So is southern Idaho: the line follows the Salmon River, and Idaho south of it, including Boise, is on Mountain Time. Most of Malheur County in Oregon and West Wendover in Nevada are too. In the east, the western edges of North Dakota, South Dakota, Nebraska and Kansas, and El Paso and Hudspeth counties in Texas, are on Mountain Time.
+Mountain Time, hour by hour (winter)
+| | Mountain Time | Pacific Time | Central Time | Eastern Time | UTC
+| 12:00 a.m. | 11:00 p.m. (−1 day) | 1:00 a.m. | 2:00 a.m. | 7:00 a.m.
+| 1:00 a.m. | 12:00 a.m. | 2:00 a.m. | 3:00 a.m. | 8:00 a.m.
+| 2:00 a.m. | 1:00 a.m. | 3:00 a.m. | 4:00 a.m. | 9:00 a.m.
+| 3:00 a.m. | 2:00 a.m. | 4:00 a.m. | 5:00 a.m. | 10:00 a.m.
+| 4:00 a.m. | 3:00 a.m. | 5:00 a.m. | 6:00 a.m. | 11:00 a.m.
+| 5:00 a.m. | 4:00 a.m. | 6:00 a.m. | 7:00 a.m. | 12:00 p.m.
+| 6:00 a.m. | 5:00 a.m. | 7:00 a.m. | 8:00 a.m. | 1:00 p.m.
+| 7:00 a.m. | 6:00 a.m. | 8:00 a.m. | 9:00 a.m. | 2:00 p.m.
+| 8:00 a.m. | 7:00 a.m. | 9:00 a.m. | 10:00 a.m. | 3:00 p.m.
+| 9:00 a.m. | 8:00 a.m. | 10:00 a.m. | 11:00 a.m. | 4:00 p.m.
+| 10:00 a.m. | 9:00 a.m. | 11:00 a.m. | 12:00 p.m. | 5:00 p.m.
+| 11:00 a.m. | 10:00 a.m. | 12:00 p.m. | 1:00 p.m. | 6:00 p.m.
+| 12:00 p.m. | 11:00 a.m. | 1:00 p.m. | 2:00 p.m. | 7:00 p.m.
+| 1:00 p.m. | 12:00 p.m. | 2:00 p.m. | 3:00 p.m. | 8:00 p.m.
+| 2:00 p.m. | 1:00 p.m. | 3:00 p.m. | 4:00 p.m. | 9:00 p.m.
+| 3:00 p.m. | 2:00 p.m. | 4:00 p.m. | 5:00 p.m. | 10:00 p.m.
+| 4:00 p.m. | 3:00 p.m. | 5:00 p.m. | 6:00 p.m. | 11:00 p.m.
+| 5:00 p.m. | 4:00 p.m. | 6:00 p.m. | 7:00 p.m. | 12:00 a.m. (+1 day)
+| 6:00 p.m. | 5:00 p.m. | 7:00 p.m. | 8:00 p.m. | 1:00 a.m. (+1 day)
+| 7:00 p.m. | 6:00 p.m. | 8:00 p.m. | 9:00 p.m. | 2:00 a.m. (+1 day)
+| 8:00 p.m. | 7:00 p.m. | 9:00 p.m. | 10:00 p.m. | 3:00 a.m. (+1 day)
+| 9:00 p.m. | 8:00 p.m. | 10:00 p.m. | 11:00 p.m. | 4:00 a.m. (+1 day)
+| 10:00 p.m. | 9:00 p.m. | 11:00 p.m. | 12:00 a.m. (+1 day) | 5:00 a.m. (+1 day)
+| 11:00 p.m. | 10:00 p.m. | 12:00 a.m. (+1 day) | 1:00 a.m. (+1 day) | 6:00 a.m. (+1 day)
+Standard time, for example January 15, 2027. Arizona matches the Denver column in winter and the Los Angeles column in summer.
+Shift handovers across the Mountain zone
+A company with sites in Denver and Phoenix works one hour apart from March to November and on the same clock in winter. Put the zone on every shared rota, and check the first week after each change. A 12-hour night shift in Denver lasts 13 hours on November 1, 2026 and 11 hours on March 14, 2027; in Phoenix it is always 12. The night shift clock change calculator counts the hours, and the shift calendar lays out your whole year.
+More guides
+Work hours in a year
+1st, 2nd and 3rd shift hours
+Swing shift
+Time calculator
+Hours calculator
+Time card calculator
+All guides
+Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
+Questions
+Is Colorado currently MST or MDT?
+MDT until 2 a.m. on Sunday, November 1, 2026, then MST until Sunday, March 14, 2027.
+Is Mountain Time the same as California?
+No. Mountain Time is one hour ahead of California (Pacific Time) all year. Arizona is the exception: in summer it shows the same time as California.
+Is AZ the same as MST right now?
+Yes. Arizona uses Mountain Standard Time all year and does not observe daylight saving time (A.R.S. 1-242).
+Is Mountain Time 2 hours behind EST?
+Yes, Denver is 2 hours behind New York all year. Arizona is 2 hours behind in winter and 3 hours behind in summer.
+Which states are in the Mountain Time Zone?
+Colorado, Utah, Wyoming, Montana, New Mexico and Arizona, plus southern Idaho and parts of Oregon, Nevada, North Dakota, South Dakota, Nebraska, Kansas and Texas (49 CFR 71.7–71.9).
+
+---
+
 ## Guides for Shift Workers: Hours, Pay and Schedules | Crewdays
 URL: https://crewdays.app/guides/
 
@@ -4255,4 +4573,8 @@ UTC time nowCurrent UTC time, what Coordinated Universal Time is and how far eac
 Eastern Time: EST and EDTEastern Time is EST (UTC−5) in winter and EDT (UTC−4) from March to November. Current time, the 2026–2028 change dates, conversions and where it applies.
 Central Time: CST and CDTCentral Time is CST (UTC−6) in winter and CDT (UTC−5) in summer, one hour behind Eastern. Current time, where it applies, Texas and conversions.
 PST to ESTPacific Time is 3 hours behind Eastern Time all year: 9 a.m. PST is 12 p.m. EST. Hour-by-hour table, a converter and shift handover examples.
+Pacific Time: PST and PDTPacific Time is PST (UTC−8) in winter and PDT (UTC−7) in summer, 3 hours behind Eastern. Current time, 2026–2028 change dates and states on PST.
+UK time: GMT and BSTThe UK is on GMT (UTC+0) in winter and BST (UTC+1) in summer. Clocks go back on October 25, 2026. London is usually 5 hours ahead of New York.
+GMT time nowGMT is UTC+0 all year: 5 hours ahead of EST and 8 ahead of PST, one hour less in US summer. Live GMT clock, conversion tables and GMT vs UK time.
+Mountain Time: MST and MDTMountain Time is MST (UTC−7) in winter and MDT (UTC−6) in summer, 2 hours behind Eastern. Arizona stays on MST all year. States, dates and a converter.
 Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate

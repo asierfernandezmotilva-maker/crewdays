@@ -77,6 +77,10 @@ Facts on each pattern page are computed from the cycle: hours a year = hours in 
 - [Eastern Time: EST and EDT](https://crewdays.app/est-time/): Eastern Standard Time (EST) is UTC−5.
 - [Central Time: CST and CDT](https://crewdays.app/cst-time/): Central Standard Time (CST) is UTC−6, one hour behind Eastern Time.
 - [PST to EST](https://crewdays.app/pst-to-est/): Add 3 hours to Pacific Time to get Eastern Time: 9:00 a.m.
+- [Pacific Time: PST and PDT](https://crewdays.app/pst-time/): Pacific Standard Time (PST) is UTC−8, 3 hours behind Eastern Time.
+- [UK time: GMT and BST](https://crewdays.app/uk-time/): The UK uses Greenwich Mean Time (GMT, UTC+0) in winter and British Summer Time (BST, UTC+1) in summer.
+- [GMT time now](https://crewdays.app/gmt-time/): GMT, Greenwich Mean Time, is UTC+0 and shows the same clock time as Coordinated Universal Time all year.
+- [Mountain Time: MST and MDT](https://crewdays.app/mountain-time/): Mountain Standard Time (MST) is UTC−7, 2 hours behind Eastern Time and 1 hour ahead of Pacific.
 
 ## United Kingdom
 - [UK shift rota calendar](https://crewdays.app/uk/): 4 on 4 off Rota, Continental Shift Pattern, 2-2-3 Rota (Pitman), 3 on 3 off Rota, 2 on 2 off Rota, DuPont Rota, Earlies, Lates and Nights Rota, with UK bank holidays and a Working Time Regulations 1998 check for each rota (48 h average, 11 h rest, 5.6 weeks holiday).
