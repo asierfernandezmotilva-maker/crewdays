@@ -217,7 +217,7 @@
   function embed() {
     var q = new URLSearchParams(el.link.value.split("?")[1] || "");
     ["y", "t", "q", "w", "r", "pd", "pf"].forEach(function (k) { q.delete(k); });
-    var code = '<iframe src="' + location.origin + "/embed/?" + q + '" title="Who is on duty today" width="100%" height="170" style="border:0;max-width:640px" loading="lazy"></iframe>\n<p><a href="' + location.origin + "/?" + q + '&amp;t=team">Shift calendar by Crewdays</a></p>';
+    var code = '<iframe src="' + location.origin + "/embed/widget/?" + q + '" title="Who is on duty today" width="100%" height="170" style="border:0;max-width:640px" loading="lazy"></iframe>\n<p><a href="' + location.origin + "/?" + q + '&amp;t=team">Shift calendar by Crewdays</a></p>';
     var done = function () { msg.textContent = "Embed code copied. Paste it into your station, union or team website: it shows who is on duty today and the next 14 days."; };
     if (navigator.clipboard) navigator.clipboard.writeText(code).then(done, function () { msg.textContent = code; }); else msg.textContent = code;
   }

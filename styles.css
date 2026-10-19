@@ -220,3 +220,4 @@ main>.hero~section{content-visibility:auto;contain-intrinsic-size:auto 700px}.mo
 @media print{#paybox{content-visibility:visible}}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .links{display:flex;flex-wrap:wrap;gap:8px 20px}.links a{padding:4px 0}
+.embedlink{margin:0;padding:0 12px 6px;font-size:.9rem;text-align:right}

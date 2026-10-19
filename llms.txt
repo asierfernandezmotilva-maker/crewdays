@@ -38,6 +38,7 @@ Facts on each pattern page are computed from the cycle: hours a year = hours in 
 - [Pay period calendar 2027](https://crewdays.app/pay-period-calendar-2027/): every weekly or biweekly payday of 2026–2028 from one known payday; 2027 has 53 Fridays, so biweekly payrolls starting Friday, January 1, 2027 get 27 paydays.
 - [9/80 schedule calendar](https://crewdays.app/9-80-schedule/): every other Friday off for 2026–2028, federal holidays, and the split Friday that keeps each FLSA workweek at 40 hours (29 CFR 778.105).
 - [24/7 shift schedules compared](https://crewdays.app/24-7-shift-schedule/): crews needed (168 hours ÷ crews), hours per person, rotation, longest break and federal overtime for 13 round-the-clock schedules.
+- [Shift calendar widget](https://crewdays.app/embed/): free iframe for a station, union, hospital unit or forum website that shows which crew is on duty today and the next 14 days, with a "Shift calendar by Crewdays" link.
 - [12-hour shift schedule examples](https://crewdays.app/12-hour-shift-schedules/): Pitman and Panama give every other weekend off, DuPont gives 7 days off every 28 days; all need four crews and average 42 hours a week.
 
 ## Guides and calculators
