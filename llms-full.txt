@@ -2325,7 +2325,7 @@ Yes. Add a Custom HTML block and paste the code. On WordPress.com, iframes need 
 
 ---
 
-## How Many Work Hours in a Year? 2027 Has 2,088
+## How Many Work Hours in a Year? 2,088 in 2026 and 2027
 URL: https://crewdays.app/work-hours-in-a-year/
 
 Home / Guides / Work hours in a year
@@ -4538,7 +4538,7 @@ URL: https://crewdays.app/guides/
 Home / Guides
 Guides for shift workers
 Hours, pay and schedules explained with real numbers. Each guide is written by Asier Fernández and checked against the official rules it quotes.
-How many work hours are in a year?2,080 is the usual answer, but 2027 has 261 weekdays: 2,088 work hours. Every year and month, plus the real yearly hours of 12- and 24-hour shifts.
+How many work hours are in a year?2,080 is the usual answer, but 2026 and 2027 both have 261 weekdays: 2,088 work hours. Every year and month, plus the real hours of 12- and 24-hour shifts.
 1st, 2nd and 3rd shift hours1st shift usually runs 7 a.m. to 3 p.m., 2nd 3 p.m. to 11 p.m. and 3rd (graveyard) 11 p.m. to 7 a.m. Common 8, 10 and 12-hour times and how night pay works.
 Swing shift: hours and schedulesSwing shift is the evening shift (often 3 p.m. to 11 p.m.) or a schedule that swings between days and nights. Hours, pay and rotating swing schedules.
 Time calculatorFree time calculator: add or subtract hours and minutes, find the end time of a shift that crosses midnight and convert minutes to decimal hours.
