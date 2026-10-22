@@ -2977,21 +2977,37 @@ URL: https://crewdays.app/how-many-weeks-in-a-year/
 Home / Guides / Weeks in a year
 How many weeks are in a year?
 A year has 52 weeks and 1 day: 365 days divided by 7. A leap year has 52 weeks and 2 days. Week numbers are different: 2026 has 53 ISO weeks and 2027 has 52, because the count depends on the weekday the year starts.
-By Asier Fernández · October 18, 2026
+By Asier Fernández · October 22, 2026
 Photo: @nate_dumlao on Unsplash
-Weeks in each year
-| | Year | Days | Weeks | Starts on | ISO week numbers
-| 2025 | 365 | 52 weeks + 1 day | Wednesday | 52
-| 2026 | 365 | 52 weeks + 1 day | Thursday | 53
-| 2027 | 365 | 52 weeks + 1 day | Friday | 52
-| 2028 | 366 | 52 weeks + 2 days | Saturday | 52
-| 2029 | 365 | 52 weeks + 1 day | Monday | 52
-| 2030 | 365 | 52 weeks + 1 day | Tuesday | 52
+Weeks in each year, 2024 to 2030
+| | Year | Days | Weeks + days | Starts on | Weekdays (Mon–Fri) | Weekend days | ISO weeks
+| 2024 | 366 | 52 + 2 | Monday | 262 | 104 | 52
+| 2025 | 365 | 52 + 1 | Wednesday | 261 | 104 | 52
+| 2026 | 365 | 52 + 1 | Thursday | 261 | 104 | 53
+| 2027 | 365 | 52 + 1 | Friday | 261 | 104 | 52
+| 2028 | 366 | 52 + 2 | Saturday | 260 | 106 | 52
+| 2029 | 365 | 52 + 1 | Monday | 261 | 104 | 52
+| 2030 | 365 | 52 + 1 | Tuesday | 261 | 104 | 52
+Weekdays do not take out holidays. Worked out day by day for each year. Years with 53 ISO weeks in this range: 2026.
+Paydays in each year
+| | Year | Fridays (weekly paydays) | Every-other-Friday paydays (A / B) | Semimonthly paydays | Hours at 8 a weekday
+| 2024 | 52 | 26 / 26 | 24 | 2,096
+| 2025 | 52 | 26 / 26 | 24 | 2,088
+| 2026 | 52 | 26 / 26 | 24 | 2,088
+| 2027 | 53 | 27 / 26 | 24 | 2,088
+| 2028 | 52 | 26 / 26 | 24 | 2,080
+| 2029 | 52 | 26 / 26 | 24 | 2,088
+| 2030 | 52 | 26 / 26 | 24 | 2,088
+A biweekly payroll falls on one of two sets of alternate Fridays. Set A includes Friday, January 2, 2026 and Friday, January 1, 2027; set B is the other Fridays. Semimonthly pay (the 15th and the last day) is always 24 paydays.
+A year has 53 Fridays when it starts on a Friday, or on a Thursday in a leap year: in this range only 2027. Weekly payrolls paid on Friday then have 53 paydays, and the biweekly payrolls on set A have 27 instead of 26.
 Why some years have 53 week numbers
 The ISO 8601 standard, used by most calendars and payroll systems outside the US and by many plants, numbers weeks from Monday to Sunday. Week 1 is the week that contains the first Thursday of the year, so a year has 53 numbered weeks when it starts on a Thursday, or on a Wednesday in a leap year. 2026 starts on a Thursday, so it has week 53, which runs from December 28, 2026 to January 3, 2027.
 US calendars often count weeks differently, starting on Sunday with January 1 always in week 1. Check which system your employer's schedule or payroll uses before you match week numbers.
 Weeks and paychecks
 52 weeks means 26 biweekly paychecks in most years. The extra day each year adds up, and every 11 years or so a biweekly payroll has 27 paydays in a calendar year. In 2027 there are 53 Fridays, so payrolls paid every other Friday starting on January 1, 2027 get 27 paychecks. The 2027 pay period calendar lists them.
+Example: a shift worker's year
+A nurse works three 12-hour shifts a week, 36 hours, at $40 an hour, paid every other Friday. Each paycheck covers 2 weeks, 72 hours: $2,880 before tax. In a year with 26 paydays that is $74,880; in 2027, on set A, there are 27 paydays and $77,760 is paid in the calendar year. The hourly rate is the same: the extra check pays for 2 weeks worked partly in late December, and it shows on that year's W-2 because pay is counted when it is paid. Salaried staff should ask whether the employer splits the salary into 26 or 27 checks.
+The 52-week shortcut also undercounts rotating shifts. A firefighter on a 24/48 averages 56 hours a week, and 52 × 56 = 2,912 hours, but in 2027 a platoon works 121 or 122 24-hour shifts, 2,904 or 2,928 hours, depending on its start day. Count shifts on the real calendar with the 24/48 calendar or the shift pay calculator.
 Work weeks and hours
 At 40 hours a week, 52 weeks is 2,080 work hours. Taking out two weeks of vacation leaves 50 working weeks and 2,000 hours. For the exact weekday count of each year and the hours of rotating shift schedules, see work hours in a year.
 More guides
@@ -3014,6 +3030,8 @@ What week of the year is it?
 Use the calculator above: it gives the ISO week number of any date. ISO weeks start on Monday and week 1 contains the first Thursday of the year.
 How many work weeks are in a year?
 52, or 50 if you take two weeks of vacation. At 40 hours a week, 52 weeks is 2,080 hours.
+How many weekdays are in 2027?
+261 weekdays, Monday to Friday, and 104 weekend days, before taking out holidays. 2028, a leap year, has 260.
 
 ---
 
@@ -3586,7 +3604,7 @@ URL: https://crewdays.app/24-hour-shift-schedule-template/
 Home / Guides / 24-hour shift schedule template
 24-hour shift schedule template
 Every 24-hour schedule is a short cycle repeated all year. Pick yours below, copy the cycle or open it in the calendar, and you get a template for every platoon that you can print, download for Excel or add to a phone.
-By Asier Fernández · October 18, 2026
+By Asier Fernández · October 22, 2026
 Photo: @matreding on Unsplash
 The templates
 | | Schedule | Cycle (X = 24 h on, O = off) | Length | Platoons | Hours a week | Hours in 28 days | Full weekends off in 2027
@@ -3596,6 +3614,25 @@ The templates
 | 24/72 | XOOO | 4 days | 4 | 42 | 168 h | 26
 | 1-3-2-3 | XOOOXXOOO | 9 days | 3 | 56 | 216–240 h | 23 to 24, depending on the weekday your cycle starts
 One platoon, 2027, cycle starting Monday, January 4. Hours in 28 days is the 7(k) work period used by fire departments: overtime is due after 212 hours (29 CFR 553.230).
+Free template: 24/48 and 24/72 for 2027
+This template covers every day of 2027 for the two most common 24-hour rotations: the 24/48 with platoons A, B and C, and the 24/72 with A, B, C and D. Platoon A works Friday, January 1, 2027, and each platoon comes on the day after the one before it, starting at the same hour every shift.
+Download the 2027 template (CSV for Excel or Google Sheets)
+One row per day: date, weekday, the 24/48 platoon on duty and the 24/72 platoon on duty. If your department's platoon A is on duty on another date, swap the letters, or build your own year in the shift calendar.
+24/48, January 2027
+| | Mon | Tue | Wed | Thu | Fri | Sat | Sun
+| | | | | 1 A | 2 B | 3 C
+| 4 A | 5 B | 6 C | 7 A | 8 B | 9 C | 10 A
+| 11 B | 12 C | 13 A | 14 B | 15 C | 16 A | 17 B
+| 18 C | 19 A | 20 B | 21 C | 22 A | 23 B | 24 C
+| 25 A | 26 B | 27 C | 28 A | 29 B | 30 C | 31 A
+24/72, January 2027
+| | Mon | Tue | Wed | Thu | Fri | Sat | Sun
+| | | | | 1 A | 2 B | 3 C
+| 4 D | 5 A | 6 B | 7 C | 8 D | 9 A | 10 B
+| 11 C | 12 D | 13 A | 14 B | 15 C | 16 D | 17 A
+| 18 B | 19 C | 20 D | 21 A | 22 B | 23 C | 24 D
+| 25 A | 26 B | 27 C | 28 D | 29 A | 30 B | 31 C
+The letter is the platoon on duty for the 24 hours starting that morning. Print this page for a one-month example.
 How to make the template for your department
 Choose the schedule and the date platoon A starts a shift in the shift calendar.
 Under “Show”, pick “All crews” to see A, B and C (and D on a 24/72) side by side, with your department's colors under “Crew names”.
@@ -3625,6 +3662,12 @@ Can I download a 24-hour schedule template for Excel?
 Yes: open your schedule in the calendar, choose All crews and press Excel to download the year with one column per platoon.
 What is a 24-hour shift template with 4 platoons?
 The 24/72: one 24-hour shift and 72 hours off, platoons A to D one day apart.
+How many days a month do you work on a 24/48?
+About 10: between 9 and 11 shifts a month for platoon A in 2027, because a 3-day cycle does not fit the months evenly.
+How many shifts a year is a 24/72?
+91 or 92 24-hour shifts in 2027, depending on the platoon: 2,184 to 2,208 hours.
+Do you get paid for sleeping on a 24-hour shift?
+Firefighters and police under section 7(k): yes on a 24-hour shift, because sleep time can only be excluded from tours of more than 24 hours (29 CFR 553.222). Other employees on duty for 24 hours or more may agree to exclude a regular sleep period of up to 8 hours if there are adequate sleeping facilities; calls that interrupt sleep are paid, and if you cannot get at least 5 hours of sleep the whole period is paid (29 CFR 785.22).
 
 ---
 
