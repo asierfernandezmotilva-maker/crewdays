@@ -3973,14 +3973,14 @@ It suits people who want breaks of at least four days and no more than five shif
 
 ---
 
-## UTC Time Now: What UTC Is and How to Convert It
+## Current UTC Time Now (Live Clock) and UTC to EST, PST
 URL: https://crewdays.app/utc-time/
 
 Home / Guides / UTC time
-UTC time now
+Current UTC time
+Right now in UTC: --:--:--
 UTC, Coordinated Universal Time, is the time standard that the world's clocks are set from. US time zones are defined by law as a number of hours behind it: Eastern Standard Time is UTC−5, Central UTC−6, Mountain UTC−7 and Pacific UTC−8. During daylight saving time each of them moves one hour closer to UTC; UTC itself never changes.
 By Asier Fernández · October 18, 2026
-Right now in UTC: --:--:--
 US time zones and UTC
 | | Zone | Standard time | Daylight saving time | Examples
 | Atlantic | UTC−4 | No change | Puerto Rico, US Virgin Islands
@@ -4612,7 +4612,7 @@ Southern swing scheduleThe southern swing rotates four crews through days, eveni
 1-3-2-3 firefighter scheduleOne 24-hour shift, 3 days off, two 24s, 3 off: the 1-3-2-3 firefighter schedule. 56 hours a week with three platoons. Calendar and 7(k) overtime.
 5-2-5-3 work scheduleThe 5-2-5-3 schedule is 5 on, 2 off, 5 on, 3 off: a 15-day cycle of 8-hour shifts for three squads. Hours a week, weekends off and daily coverage.
 4-5-5 shift pattern (4/5/5/4/5/5)The 4-5-5 shift pattern is 4 on, 5 off, 5 on, 4 off, 5 on, 5 off: a 28-day cycle of 12-hour shifts. Two crews cover every day; 42 hours a week.
-UTC time nowCurrent UTC time, what Coordinated Universal Time is and how far each US time zone is behind it: EST is UTC−5, PST UTC−8, one hour less in summer.
+Current UTC timeCurrent UTC time, live to the second, and how far each US time zone is behind it: EST is UTC−5, PST UTC−8, one hour less in summer.
 Eastern Time: EST and EDTEastern Time is EST (UTC−5) in winter and EDT (UTC−4) from March to November. Current time, the 2026–2028 change dates, conversions and where it applies.
 Central Time: CST and CDTCentral Time is CST (UTC−6) in winter and CDT (UTC−5) in summer, one hour behind Eastern. Current time, where it applies, Texas and conversions.
 PST to ESTPacific Time is 3 hours behind Eastern Time all year: 9 a.m. PST is 12 p.m. EST. Hour-by-hour table, a converter and shift handover examples.

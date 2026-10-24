@@ -23,7 +23,7 @@ h1{font-size:clamp(2.4rem,6vw,4.2rem);letter-spacing:-.005em}
 h2{font-size:clamp(1.7rem,3.4vw,2.4rem);margin-top:1.6em}
 h3{font-size:1.35rem}
 p,li{max-width:70ch}
-.lead{font-size:1.2rem;color:var(--soft);margin:0 0 1.2em}
+.lead{font-size:1.2rem;color:var(--soft);margin:0 0 1.2em}.page .now{font-size:1.6rem;font-weight:600;margin:.1em 0 .5em}.page .now b{font-variant-numeric:tabular-nums}
 .hero{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:36px;padding:36px 0 24px;align-items:start}
 .hero>div:first-child{position:sticky;top:12px}
 @media(max-width:900px){.hero>div:first-child{position:static}}
