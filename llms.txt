@@ -19,7 +19,7 @@ Questions about a specific shift depend on the person's own pattern, crew and st
 - [24/48 Schedule](https://crewdays.app/24-48-schedule/): 3-day cycle, 56 hours a week, 2,920 hours a year. On a 24/48 schedule you work one 24-hour shift and then have 48 hours off, a 3-day cycle.
 - [48/96 Schedule](https://crewdays.app/48-96-schedule/): 6-day cycle, 56 hours a week, 2,920 hours a year. On a 48/96 schedule you work two 24-hour shifts back to back (48 hours) and then have 96 hours off, a 6-day cycle.
 - [Kelly Schedule](https://crewdays.app/kelly-schedule/): 9-day cycle, 56 hours a week, 2,920 hours a year. The Kelly schedule is a 9-day firefighter pattern: 24 on, 24 off, 24 on, 24 off, 24 on, then 4 days off.
-- [24/72 Schedule](https://crewdays.app/24-72-schedule/): 4-day cycle, 42 hours a week, 2,190 hours a year. On a 24/72 schedule you work one 24-hour shift and then have 72 hours off, a 4-day cycle.
+- [24/72 Schedule](https://crewdays.app/24-72-schedule/): 4-day cycle, 42 hours a week, 2,190 hours a year. A 24/72 schedule gives three full days off after every 24-hour shift.
 - [Hitch Rotation Schedule](https://crewdays.app/fifo-schedule/): 28-day cycle, 42 hours a week, 2,190 hours a year. A hitch rotation (FIFO roster in Australia, fly in, fly out) is a block of 12-hour shifts on site followed by a block at home.
 
 ## Comparisons
@@ -48,13 +48,11 @@ Questions about a specific shift depend on the person's own pattern, crew and st
 - [How many work hours are in a year?](https://crewdays.app/work-hours-in-a-year/): Most people use 2,080: 40 hours a week times 52 weeks. 2027 has 261 weekdays, so a Monday-to-Friday job is 2,088 scheduled hours.
 - [1st, 2nd and 3rd shift hours](https://crewdays.app/first-second-third-shift-hours/): On 8-hour shifts, first shift usually runs from 7 a.m. to 3 p.m., second shift from 3 p.m. to 11 p.m. and third shift, the graveyard shift, from 11 p.m. to 7 a.m.
 - [Swing shift: hours and schedules](https://crewdays.app/swing-shift/): Swing shift has two meanings.
-- [Time calculator](https://crewdays.app/time-calculator/): Add or subtract hours and minutes, or add a length of time to a clock time to see when a shift ends, even past midnight.
+- [Clock and time calculator](https://crewdays.app/time-calculator/): Add or subtract hours and minutes, or add a length of time to a clock time to see when a shift ends, even past midnight.
 - [Hours calculator](https://crewdays.app/hours-calculator/): Enter when you started and finished and any unpaid break.
 - [Time card calculator](https://crewdays.app/time-card-calculator/): Fill in your clock-in and clock-out times and unpaid breaks for each day.
 - [Military time chart](https://crewdays.app/military-time-chart/): Military time counts the hours from 00 to 23, so there is no a.m. or p.m.: 0700 is 7 a.m. and 1900 is 7 p.m.
-- [Hourly paycheck calculator](https://crewdays.app/paycheck-calculator/): Enter your hourly rate, hours and overtime for one pay period.
 - [Salary calculator: hourly to yearly](https://crewdays.app/salary-calculator/): Multiply your hourly rate by the hours you work in a week and by 52.
-- [Federal income tax calculator 2026](https://crewdays.app/tax-calculator/): Enter your yearly income and filing status.
 - [Daylight saving time: when the clocks change](https://crewdays.app/daylight-saving-time/): In the US, daylight saving time ends on Sunday, November 1, 2026 at 2:00 a.m., when clocks go back one hour.
 - [Sleep calculator](https://crewdays.app/sleep-calculator/): Sleep runs in cycles of about 90 minutes, and you wake up less groggy at the end of one.
 - [How many weeks are in a year?](https://crewdays.app/how-many-weeks-in-a-year/): A year has 52 weeks and 1 day: 365 days divided by 7.
@@ -81,8 +79,6 @@ Questions about a specific shift depend on the person's own pattern, crew and st
 - [Central Time: CST and CDT](https://crewdays.app/cst-time/): Central Standard Time (CST) is UTC−6, one hour behind Eastern Time.
 - [PST to EST](https://crewdays.app/pst-to-est/): Add 3 hours to Pacific Time to get Eastern Time: 9:00 a.m.
 - [Pacific Time: PST and PDT](https://crewdays.app/pst-time/): Pacific Standard Time (PST) is UTC−8, 3 hours behind Eastern Time.
-- [UK time: GMT and BST](https://crewdays.app/uk-time/): The UK uses Greenwich Mean Time (GMT, UTC+0) in winter and British Summer Time (BST, UTC+1) in summer.
-- [GMT time now](https://crewdays.app/gmt-time/): GMT, Greenwich Mean Time, is UTC+0 and shows the same clock time as Coordinated Universal Time all year.
 - [Mountain Time: MST and MDT](https://crewdays.app/mountain-time/): Mountain Standard Time (MST) is UTC−7, 2 hours behind Eastern Time and 1 hour ahead of Pacific.
 
 ## United Kingdom
