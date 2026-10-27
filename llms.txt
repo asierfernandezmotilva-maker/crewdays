@@ -80,6 +80,8 @@ Questions about a specific shift depend on the person's own pattern, crew and st
 - [PST to EST](https://crewdays.app/pst-to-est/): Add 3 hours to Pacific Time to get Eastern Time: 9:00 a.m.
 - [Pacific Time: PST and PDT](https://crewdays.app/pst-time/): Pacific Standard Time (PST) is UTC−8, 3 hours behind Eastern Time.
 - [Mountain Time: MST and MDT](https://crewdays.app/mountain-time/): Mountain Standard Time (MST) is UTC−7, 2 hours behind Eastern Time and 1 hour ahead of Pacific.
+- [Holiday pay calculator](https://crewdays.app/holiday-pay-calculator/): Federal law does not make holiday pay time and a half.
+- [Shift differential: what it is and how much it pays](https://crewdays.app/shift-differential/): A shift differential is extra pay for working evenings, nights or weekends: a fixed amount per hour, such as $2, or a percentage of your base rate, such as 10%. No federal law requires private employers to pay it, but once it is paid it counts in your regular rate, so it raises your overtime pay too.
 
 ## United Kingdom
 - [UK shift rota calendar](https://crewdays.app/uk/): 4 on 4 off Rota, Continental Shift Pattern, 2-2-3 Rota (Pitman), 3 on 3 off Rota, 2 on 2 off Rota, DuPont Rota, Earlies, Lates and Nights Rota, with UK bank holidays and a Working Time Regulations 1998 check for each rota (48 h average, 11 h rest, 5.6 weeks holiday).

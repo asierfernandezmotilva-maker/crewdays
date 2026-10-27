@@ -61,6 +61,22 @@
     return { gross: gross, ss: ss, med: med, fed: fed, st: st, net: gross - ss - med - fed - st, year: year };
   }
   function salary(rate, hpw, weeks) { var y = (+rate || 0) * (+hpw || 0) * (+weeks || 52); return { year: y, month: y / 12, biweek: y / 26, week: y / (+weeks || 52) }; }
+  // Plus de turno ($ o % por hora) en una semana: la «regular rate» incluye el plus (29 CFR 778.109 y 778.207(b)) y las horas
+  // de más de 40 cobran media tarifa extra sobre ella. short = lo que falta si la hora extra se calcula solo sobre la base.
+  function shiftDiff(o) {
+    var r = +o.rate || 0, h = Math.max(+o.hours || 0, 0), dh = Math.min(Math.max(+o.diffH || 0, 0), h), per = o.mode === "pct" ? r * (+o.diff || 0) / 100 : +o.diff || 0;
+    var straight = h * r + dh * per, rr = h ? straight / h : 0, ot = Math.max(h - 40, 0), short = ot * (rr - r) / 2, week = straight + ot * rr / 2;
+    return { per: per, dh: dh, rr: rr, ot: ot, week: week, add: dh * per + short, short: short };
+  }
+  // Pago en festivo en una semana (FLSA, 40 h): horas en festivo × tarifa × multiplicador + resto de horas. Una prima de al menos
+  // 1,5× no entra en la «regular rate» y se descuenta de las horas extra (29 CFR 778.203, 778.219(b)); por debajo de 1,5× sí entra.
+  // El festivo pagado sin trabajar no son horas trabajadas ni cuenta para las horas extra (29 CFR 778.218, 778.219(a)).
+  function holiday(o) {
+    var r = +o.rate || 0, hh = Math.max(+o.hh || 0, 0), m = Math.max(+o.m || 1, 1), oh = Math.max(+o.oh || 0, 0), H = hh + oh, ot = Math.max(H - 40, 0);
+    var hol = hh * r * m, other = oh * r, rr = m >= 1.5 || !H ? r : (hol + other) / H, prem = ot * rr / 2, credit = m >= 1.5 ? hh * r * (m - 1) : 0;
+    var extra = Math.max(prem - credit, 0), idle = Math.max(+o.ih || 0, 0) * r;
+    return { hol: hol, other: other, H: H, ot: ot, rr: rr, prem: prem, credit: credit, extra: extra, idle: idle, total: hol + other + extra + idle };
+  }
   // Sueño: ciclos de unos 90 minutos (NIOSH) y 15 minutos para dormirse
   function sleep(wake, mode) {
     var w = hm(wake); if (isNaN(w)) return null;
@@ -103,7 +119,13 @@
     week: function (v) { if (!v.d) return "Pick a date."; var w = isoWeek(v.d); return long(v.d) + " is in <b>week " + w.week + "</b> of " + w.year + " (ISO 8601). " + w.year + " has " + isoWeeks(w.year) + " ISO weeks."; },
     sleep: function (v) { var r = sleep(v.t, v.m); if (!r) return "Enter a time."; return (v.m === "after" ? "Set an alarm for " : "Go to bed at ") + r.map(function (x) { return "<b>" + x.at + "</b> (" + x.hours + " h)"; }).join(", ") + "."; },
     tz: function (v) { var r = tz(v.d, v.t, v.f, v.to); if (!r) return "Enter a date and a time."; return "On " + long(v.d).replace(/, \d{4}$/, "") + ", " + T12(v.t) + " " + (ZN[v.f] || v.f) + " is <b>" + r.time + " " + (ZN[v.to] || v.to) + "</b>" + (r.dayShift ? (r.dayShift > 0 ? " (the next day)" : " (the day before)") : "") + "."; },
-    minwage: function (v) { var r = wage(v.s), h = +v.h || 40; return v.s + ": <b>" + money(r) + "</b> an hour" + (MINWAGE[v.s] > 7.25 ? "" : " (the federal minimum)") + ". At " + h + " hours a week: " + money(r * h) + " a week, <b>" + money(r * h * 52) + "</b> a year before tax."; }
+    holiday: function (v) { if (!(+v.r > 0)) return "Enter your hourly rate."; var h = holiday({ rate: v.r, hh: v.hh, m: v.m, oh: v.oh, ih: v.ih }), m = Math.max(+v.m || 1, 1);
+      return "Holiday hours: <b>" + money(h.hol) + "</b> (" + num(+v.hh || 0) + " hours at " + money(+v.r * m) + "). Other hours: " + money(h.other) + ". " +
+        (!h.ot ? "Week: " + num(h.H) + " hours worked, so no federal overtime. " : h.credit >= h.prem ? "The holiday premium (" + money(h.credit) + ") covers the federal overtime premium for the " + num(h.ot) + " hours over 40 (" + money(h.prem) + "). " :
+          "Federal overtime for the " + num(h.ot) + " hours over 40 adds <b>" + money(h.extra) + "</b>" + (h.credit ? " after crediting the holiday premium (" + money(h.credit) + ")" : ": half of your " + money(h.rr) + " regular rate for each hour") + ". ") +
+        (h.idle ? "Holiday pay for time off: " + money(h.idle) + ". " : "") + "Total before tax: <b>" + money(h.total) + "</b>."; },
+    minwage: function (v) { var r = wage(v.s), h = +v.h || 40; return v.s + ": <b>" + money(r) + "</b> an hour" + (MINWAGE[v.s] > 7.25 ? "" : " (the federal minimum)") + ". At " + h + " hours a week: " + money(r * h) + " a week, <b>" + money(r * h * 52) + "</b> a year before tax."; },
+    diff: function (v) { var d = shiftDiff({ rate: v.r, mode: v.m, diff: v.d, diffH: v.dh, hours: v.h }); if (!(+v.r > 0) || !(+v.h > 0)) return "Enter your hourly rate and the hours you work in the week."; return "Differential: <b>" + money(d.per) + "</b> an hour" + (v.m === "pct" ? " (" + num(+v.d || 0) + "% of " + money(+v.r) + ")" : "") + ". Week: <b>" + money(d.week) + "</b> before tax" + (d.ot ? ", including " + num(d.ot) + " overtime hours paid an extra half of your " + money(d.rr) + " regular rate" : "") + ". The differential adds <b>" + money(d.add) + "</b> a week, " + money(d.add * 52) + " over 52 weeks like this one." + (d.short > 0.004 ? " Overtime worked out on the base rate alone would pay " + money(d.short) + " too little." : ""); }
   };
 
   // «7:30 p.m.» al final de una frase: un solo punto
@@ -120,5 +142,5 @@
       tick(); setInterval(tick, 1000);
     }, 0);
   }
-  return { hours: hours, addDur: addDur, clockPlus: clockPlus, timecard: timecard, to24: to24, from24: from24, daysBetween: daysBetween, addDays: addDays, isoWeek: isoWeek, isoWeeks: isoWeeks, leap: leap, dst: dst, tax: tax, TAX: TAX, paycheck: paycheck, salary: salary, sleep: sleep, MINWAGE: MINWAGE, offset: offset, tz: tz, ZN: ZN, wage: wage, OUT: OUT, clock12: clock12, dur: dur, money: money, num: num, long: long };
+  return { hours: hours, addDur: addDur, clockPlus: clockPlus, timecard: timecard, to24: to24, from24: from24, daysBetween: daysBetween, addDays: addDays, isoWeek: isoWeek, isoWeeks: isoWeeks, leap: leap, dst: dst, tax: tax, TAX: TAX, paycheck: paycheck, salary: salary, shiftDiff: shiftDiff, holiday: holiday, sleep: sleep, MINWAGE: MINWAGE, offset: offset, tz: tz, ZN: ZN, wage: wage, OUT: OUT, clock12: clock12, dur: dur, money: money, num: num, long: long };
 });
