@@ -61,14 +61,9 @@ PTO on 12-hour shifts
 Baylor shift
 Minimum wage by state
 Night shifts in a row (UK)
-Dates and time zones
+Dates and clock changes
 Daylight saving time
 Weeks in a year
-Date calculator
-UTC time
-EST time
-CST time
-PST to EST
 All guides
 By job
 Nurses
@@ -2464,7 +2459,7 @@ Common mistakes
 Noon and midnight. 1200 is noon and 0000 is midnight. 12:30 a.m., half an hour after midnight, is 0030, not 1230.
 Adding hours. Military time is still in hours and minutes: 1745 plus 30 minutes is 1815, not 1775.
 Decimal hours. Payroll often uses decimals: a shift from 0645 to 1915 is 12 hours 30 minutes, 12.5 hours. The hours calculator does it for you.
-Time zones. The same clock reading means a different moment in another zone; aviation and IT logs use UTC, written with a Z. See UTC time.
+Time zones. The same clock reading means a different moment in another zone; aviation and IT logs use UTC, written with a Z.
 Military time on shift schedules
 Hospitals, police, fire departments and plants write shift times on the 24-hour clock because it removes any doubt about a.m. and p.m. A 12-hour rotation usually runs 0700–1900 and 1900–0700; 8-hour shifts often run 0700–1500, 1500–2300 and 2300–0700. See 1st, 2nd and 3rd shift hours. To total hours on a time card that uses the 24-hour clock, use the hours calculator.
 Military and aviation schedules also add a time zone letter. “Z”, or Zulu time, means Coordinated Universal Time (UTC).
@@ -2570,11 +2565,11 @@ Your body clock
 Losing an hour in March feels like a short night for most people, and harder for anyone already short of sleep. The sleep calculator helps you plan bedtime around a set wake-up time. For calendars that do not move when the clocks change, the shift files from the shift calendar use all-day events.
 More guides
 Weeks in a year
-Date calculator
-UTC time
-EST time
-CST time
-PST to EST
+Sleep calculator
+Minimum wage by state
+Baylor shift
+Clopening
+5-5-4 schedule
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
 Questions
@@ -2668,15 +2663,27 @@ Weeks and paychecks
 Example: a shift worker's year
 A nurse works three 12-hour shifts a week, 36 hours, at $40 an hour, paid every other Friday. Each paycheck covers 2 weeks, 72 hours: $2,880 before tax. In a year with 26 paydays that is $74,880; in 2027, on set A, there are 27 paydays and $77,760 is paid in the calendar year. The hourly rate is the same: the extra check pays for 2 weeks worked partly in late December, and it shows on that year's W-2 because pay is counted when it is paid. Salaried staff should ask whether the employer splits the salary into 26 or 27 checks.
 The 52-week shortcut also undercounts rotating shifts. A firefighter on a 24/48 averages 56 hours a week, and 52 × 56 = 2,912 hours, but in 2027 a platoon works 121 or 122 24-hour shifts, 2,904 or 2,928 hours, depending on its start day. Count shifts on the real calendar with the 24/48 calendar or the shift pay calculator.
+Week 1, extra paydays and shifts a year, 2026 to 2032
+| | Year | ISO week 1 starts (Monday) | 53 weekly or 27 biweekly paydays if the first payday is | 24/48 shifts (24 h) | Pitman 2-2-3 shifts (12 h) | DuPont shifts (12 h) | 4 on 4 off shifts (12 h)
+| 2026 | December 29, 2025 | Thursday, January 1 (New Year's Day) | 121–122 | 182–183 | 182–183 | 181–184
+| 2027 | January 4, 2027 | Friday, January 1 (New Year's Day) | 121–122 | 182–183 | 182–183 | 181–184
+| 2028 | January 3, 2028 | Saturday, January 1 (New Year's Day); Sunday, January 2 (weekend) | 122 | 182–184 | 182–184 | 182–184
+| 2029 | January 1, 2029 | Monday, January 1 (New Year's Day) | 121–122 | 182–183 | 182–183 | 181–184
+| 2030 | December 31, 2029 | Tuesday, January 1 (New Year's Day) | 121–122 | 182–183 | 182–183 | 181–184
+| 2031 | December 30, 2030 | Wednesday, January 1 (New Year's Day) | 121–122 | 182–183 | 182–183 | 181–184
+| 2032 | December 29, 2031 | Thursday, January 1 (New Year's Day); Friday, January 2 | 122 | 182–184 | 182–184 | 182–184
+Shifts are per person, for every crew and start date, before overtime, leave, Kelly days and swaps. Paydays are counted on the calendar; holidays and weekends are marked because payroll may move them.
+In a 365-day year only one weekday comes 53 times, the weekday of January 1, so a 53rd weekly or 27th biweekly payday means a payday on New Year's Day, a federal holiday (5 U.S.C. 6103); if your employer pays it the day before, the extra check moves into the previous year. Leap years add January 2: in 2032, payrolls paid every other Friday from Friday, January 2, 2032 get 27 paydays with no holiday in the way, while 2028 starts on a weekend, so no Monday-to-Friday payroll gets an extra payday.
+A 24/48 platoon works 121 or 122 shifts in a 365-day year (2,904 or 2,928 hours) and 122 in a leap year; the 12-hour schedules work 181 to 184 shifts (2,172 to 2,208 hours), depending on the crew. Your own count is in the shift calendar.
 Work weeks and hours
 At 40 hours a week, 52 weeks is 2,080 work hours. Taking out two weeks of vacation leaves 50 working weeks and 2,000 hours. For the exact weekday count of each year and the hours of rotating shift schedules, see work hours in a year.
 More guides
-Date calculator
-UTC time
-EST time
-CST time
-PST to EST
 Daylight saving time
+Minimum wage by state
+Baylor shift
+Clopening
+5-5-4 schedule
+3-4-4-3 schedule
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
 Questions
@@ -2692,48 +2699,10 @@ How many work weeks are in a year?
 52, or 50 if you take two weeks of vacation. At 40 hours a week, 52 weeks is 2,080 hours.
 How many weekdays are in 2027?
 261 weekdays, Monday to Friday, and 104 weekend days, before taking out holidays. 2028, a leap year, has 260.
-
----
-
-## Date Calculator: Days Between Dates and Add Days
-URL: https://crewdays.app/date-calculator/
-
-Home / Guides / Date calculator
-Date calculator
-Count the days between two dates, with how many of them are weekdays, or add or subtract days from a date to find a deadline. The first calculator starts from today.
-By Asier Fernández · October 18, 2026
-Days between two dates
-Photo: @behy_studio on Unsplash
-Add or subtract days
-Counting days: include the end date or not?
-The calculator counts the days from the start date up to the end date, without counting the end date itself: from Monday to Friday of the same week is 4 days. If you need both days included, as when you count days of leave, add one. A period “of 30 days” starting on October 19 ends on November 17 if day 1 is October 19, and on November 18 if counting starts the next day; legal deadlines usually say which.
-Weekdays and business days
-Weekdays here are Monday to Friday. Business days also leave out holidays, which depend on your employer; the 11 US federal holidays are listed in work hours in a year. For shift workers, “days” in a contract or a rota usually means calendar days, since you work on weekends too.
-Leap years and long periods
-A leap year has 366 days, with February 29. The rule of the calendar we use is: years divisible by 4 are leap years, except years divisible by 100, which are leap years only if they are also divisible by 400. So 2028 is a leap year, 2100 will not be, and 2000 was. A period that includes February 29 is one day longer than the same dates in a normal year; from January 1 to December 31, 2027 is 364 days (365 counting both ends).
-For week numbers, see how many weeks are in a year; for working days and hours, work hours in a year.
-Dates on a shift rotation
-Rotating schedules repeat every few days: 14 for a Pitman, 28 for a DuPont, 3 for a 24/48. To find whether you work on a given date, count the days from a day you know you started a block and divide by the cycle length; the remainder tells you where you are in the cycle. The shift calendar does this for every day of the year at once.
-More guides
-UTC time
-EST time
-CST time
-PST to EST
-Daylight saving time
-Weeks in a year
-All guides
-Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
-Questions
-How many days until Christmas 2026?
-From October 19, 2026 it is 67 days to December 25, 2026, not counting Christmas Day. The calculator above counts from today.
-How do I count the days between two dates?
-Subtract the start date from the end date. The result does not include the end date; add one day if you want to count both.
-What date is 90 days from today?
-Use the second calculator: enter today and 90 days. From October 19, 2026 it is Sunday, January 17, 2027.
-How many weekdays are between two dates?
-The calculator shows them: Monday to Friday, not counting the end date. Holidays are not taken out.
-Does a 14-day notice include weekends?
-Usually yes: notice periods are normally calendar days unless the contract or the law says working days.
+Which years have 53 weeks?
+In ISO week numbers, the years that start on a Thursday, or on a Wednesday in a leap year. From 2020 to 2050: 2020, 2026, 2032, 2037, 2043 and 2048. All other years have 52 ISO weeks. Counted in days, every year is 52 weeks plus 1 or 2 days.
+What years have 27 pay periods?
+It depends on your payday. Paid every other Friday: 2027, 2038 and 2049 for payrolls with a payday on Friday, January 1, 2027, and 2032 and 2044 for those with a payday on Friday, January 2, 2032. So each payroll gets one every 11 or 12 years. When the extra payday is New Year's Day, a federal holiday, the employer may pay it on another day, which can move the 27th check into the year before.
 
 ---
 
@@ -3350,7 +3319,7 @@ Firefighters and police under section 7(k): yes on a 24-hour shift, because slee
 
 ---
 
-## How Many Night Shifts in a Row Is Legal? (UK Law)
+## How Many Night Shifts in a Row Can You Work? (UK, 12-Hour)
 URL: https://crewdays.app/uk/night-shifts-in-a-row/
 
 Home / Guides / Night shifts in a row (UK)
@@ -3649,458 +3618,6 @@ What is the longest break on a 4-5-5?
 5 days, twice per cycle, with a 4-day break in between. Taking the 4-shift block as leave gives 14 days off in a row.
 Is the 4-5-5 shift pattern any good?
 It suits people who want breaks of at least four days and no more than five shifts in a row. The cost is uneven weeks, from 24 to 60 hours, which affects weekly overtime.
-
----
-
-## Current UTC Time Now (Live Clock) and UTC to EST, PST
-URL: https://crewdays.app/utc-time/
-
-Home / Guides / UTC time
-Current UTC time
-Right now in UTC: --:--:--
-UTC, Coordinated Universal Time, is the time standard that the world's clocks are set from. US time zones are defined by law as a number of hours behind it: Eastern Standard Time is UTC−5, Central UTC−6, Mountain UTC−7 and Pacific UTC−8. During daylight saving time each of them moves one hour closer to UTC; UTC itself never changes.
-By Asier Fernández · October 18, 2026
-US time zones and UTC
-| | Zone | Standard time | Daylight saving time | Examples
-| Atlantic | UTC−4 | No change | Puerto Rico, US Virgin Islands
-| Eastern | UTC−5 (EST) | UTC−4 (EDT) | New York, Washington, Atlanta, Miami
-| Central | UTC−6 (CST) | UTC−5 (CDT) | Chicago, Dallas, Houston, Minneapolis
-| Mountain | UTC−7 (MST) | UTC−6 (MDT) | Denver, Salt Lake City; Phoenix stays on MST
-| Pacific | UTC−8 (PST) | UTC−7 (PDT) | Los Angeles, Seattle, Las Vegas
-| Alaska | UTC−9 (AKST) | UTC−8 (AKDT) | Anchorage
-| Hawaii-Aleutian | UTC−10 (HST) | No change in Hawaii | Honolulu
-| Samoa | UTC−11 | No change | American Samoa
-| Chamorro | UTC+10 | No change | Guam, Northern Mariana Islands
-Federal law divides the United States into nine zones and defines each one by its distance from Coordinated Universal Time (15 U.S.C. 261). Daylight saving time runs from 2 a.m. on the second Sunday of March to 2 a.m. on the first Sunday of November (15 U.S.C. 260a); Hawaii and most of Arizona stay on standard time all year.
-Convert UTC to your time
-Photo: @davcohpho on Unsplash
-UTC to US time, hour by hour (winter)
-| | UTC | Eastern Time | Central Time | Mountain Time | Pacific Time
-| 12:00 a.m. | 7:00 p.m. (−1 day) | 6:00 p.m. (−1 day) | 5:00 p.m. (−1 day) | 4:00 p.m. (−1 day)
-| 1:00 a.m. | 8:00 p.m. (−1 day) | 7:00 p.m. (−1 day) | 6:00 p.m. (−1 day) | 5:00 p.m. (−1 day)
-| 2:00 a.m. | 9:00 p.m. (−1 day) | 8:00 p.m. (−1 day) | 7:00 p.m. (−1 day) | 6:00 p.m. (−1 day)
-| 3:00 a.m. | 10:00 p.m. (−1 day) | 9:00 p.m. (−1 day) | 8:00 p.m. (−1 day) | 7:00 p.m. (−1 day)
-| 4:00 a.m. | 11:00 p.m. (−1 day) | 10:00 p.m. (−1 day) | 9:00 p.m. (−1 day) | 8:00 p.m. (−1 day)
-| 5:00 a.m. | 12:00 a.m. | 11:00 p.m. (−1 day) | 10:00 p.m. (−1 day) | 9:00 p.m. (−1 day)
-| 6:00 a.m. | 1:00 a.m. | 12:00 a.m. | 11:00 p.m. (−1 day) | 10:00 p.m. (−1 day)
-| 7:00 a.m. | 2:00 a.m. | 1:00 a.m. | 12:00 a.m. | 11:00 p.m. (−1 day)
-| 8:00 a.m. | 3:00 a.m. | 2:00 a.m. | 1:00 a.m. | 12:00 a.m.
-| 9:00 a.m. | 4:00 a.m. | 3:00 a.m. | 2:00 a.m. | 1:00 a.m.
-| 10:00 a.m. | 5:00 a.m. | 4:00 a.m. | 3:00 a.m. | 2:00 a.m.
-| 11:00 a.m. | 6:00 a.m. | 5:00 a.m. | 4:00 a.m. | 3:00 a.m.
-| 12:00 p.m. | 7:00 a.m. | 6:00 a.m. | 5:00 a.m. | 4:00 a.m.
-| 1:00 p.m. | 8:00 a.m. | 7:00 a.m. | 6:00 a.m. | 5:00 a.m.
-| 2:00 p.m. | 9:00 a.m. | 8:00 a.m. | 7:00 a.m. | 6:00 a.m.
-| 3:00 p.m. | 10:00 a.m. | 9:00 a.m. | 8:00 a.m. | 7:00 a.m.
-| 4:00 p.m. | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. | 8:00 a.m.
-| 5:00 p.m. | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. | 9:00 a.m.
-| 6:00 p.m. | 1:00 p.m. | 12:00 p.m. | 11:00 a.m. | 10:00 a.m.
-| 7:00 p.m. | 2:00 p.m. | 1:00 p.m. | 12:00 p.m. | 11:00 a.m.
-| 8:00 p.m. | 3:00 p.m. | 2:00 p.m. | 1:00 p.m. | 12:00 p.m.
-| 9:00 p.m. | 4:00 p.m. | 3:00 p.m. | 2:00 p.m. | 1:00 p.m.
-| 10:00 p.m. | 5:00 p.m. | 4:00 p.m. | 3:00 p.m. | 2:00 p.m.
-| 11:00 p.m. | 6:00 p.m. | 5:00 p.m. | 4:00 p.m. | 3:00 p.m.
-Standard time, for example January 15, 2027. From March to early November, add one hour to each US column: 14:00 UTC is 10:00 a.m. Eastern instead of 9:00 a.m.
-UTC and GMT
-Greenwich Mean Time (GMT) is the UK's civil time in winter and shows the same clock time as UTC. The difference is that the UK changes its clocks: British Summer Time (BST), UTC+1, runs from 1 a.m. GMT on the last Sunday in March to 1 a.m. GMT on the last Sunday in October (Summer Time Order 2002). UTC stays the same all year, which is why logs, flight plans and servers use it.
-Zulu time and the 24-hour clock
-Aviation, the military and many control rooms write UTC on the 24-hour clock with a “Z”, for “Zulu”: 1400Z is 14:00 UTC. To read 24-hour times, see the military time chart.
-UTC on shift work
-If your rota is shared between sites in different zones, or your shift logs are stamped in UTC, convert once and write both times on the handover. A night shift that runs 7 p.m. to 7 a.m. Eastern is 00:00 to 12:00 UTC in winter and 23:00 to 11:00 UTC in summer. The night the US clocks change, that shift lasts 13 or 11 hours: see daylight saving time dates.
-More guides
-EST time
-CST time
-PST to EST
-Daylight saving time
-Weeks in a year
-Date calculator
-All guides
-Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
-Questions
-What is the UTC time zone?
-UTC is not a local time zone but the world time standard that time zones are defined from. Its offset is zero, and it does not change for daylight saving time.
-Is UTC 4 or 5 hours ahead of EST?
-5 hours ahead of Eastern Standard Time (winter) and 4 hours ahead of Eastern Daylight Time, used from the second Sunday in March to the first Sunday in November.
-How do I convert UTC to local time?
-Subtract your zone's offset: 5 hours for EST, 6 for CST, 7 for MST and 8 for PST, one hour less during daylight saving time. 14:00 UTC is 9:00 a.m. EST.
-Is UTC time the same as EST?
-No. EST is UTC minus 5 hours (15 U.S.C. 261).
-Is UTC the same as GMT?
-They show the same time in winter. GMT is the UK's winter time; in summer the UK uses BST, one hour ahead of UTC.
-
----
-
-## EST Time Now: Eastern Time, EST vs EDT (2026)
-URL: https://crewdays.app/est-time/
-
-Home / Guides / EST time
-Eastern Time: EST and EDT
-Eastern Standard Time (EST) is UTC−5. From 2 a.m. on the second Sunday in March to 2 a.m. on the first Sunday in November, the Eastern zone uses Eastern Daylight Time (EDT), UTC−4. In 2026 the zone returns to EST on Sunday, November 1. New York, Washington, Atlanta, Miami and Detroit are on Eastern Time.
-By Asier Fernández · October 18, 2026
-Right now in New York: --:--:--
-EST or EDT? The change dates
-| | Year | Daylight time starts (2 a.m.) | Standard time returns (2 a.m.)
-| 2026 | Sunday, March 8 | Sunday, November 1
-| 2027 | Sunday, March 14 | Sunday, November 7
-| 2028 | Sunday, March 12 | Sunday, November 5
-The dates come from federal law (15 U.S.C. 260a). People often say “EST” all year; strictly, summer time is EDT. “ET” covers both.
-Convert Eastern Time
-Photo: @impatrickt on Unsplash
-Eastern Time compared with other zones
-| | When it is noon Eastern | Central | Mountain | Pacific | UTC | London
-| Winter (EST) | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. | 17:00 | 5:00 p.m.
-| Summer (EDT) | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. | 16:00 | 5:00 p.m.
-London is usually 5 hours ahead. Because the UK and US change their clocks on different Sundays, the gap is 4 hours for about three weeks in March and one week around the end of October.
-Where Eastern Time applies
-The Eastern zone covers the eastern United States west of 67°30′ W and includes all of Maine (49 CFR 71.4). Its western edge is the line between the Eastern and Central zones, which crosses Michigan, Indiana, Kentucky, Tennessee and Florida, so parts of those states use Central Time (49 CFR 71.5).
-Eastern Time, hour by hour (winter)
-| | Eastern Time | Central Time | Pacific Time | UTC
-| 12:00 a.m. | 11:00 p.m. (−1 day) | 9:00 p.m. (−1 day) | 5:00 a.m.
-| 1:00 a.m. | 12:00 a.m. | 10:00 p.m. (−1 day) | 6:00 a.m.
-| 2:00 a.m. | 1:00 a.m. | 11:00 p.m. (−1 day) | 7:00 a.m.
-| 3:00 a.m. | 2:00 a.m. | 12:00 a.m. | 8:00 a.m.
-| 4:00 a.m. | 3:00 a.m. | 1:00 a.m. | 9:00 a.m.
-| 5:00 a.m. | 4:00 a.m. | 2:00 a.m. | 10:00 a.m.
-| 6:00 a.m. | 5:00 a.m. | 3:00 a.m. | 11:00 a.m.
-| 7:00 a.m. | 6:00 a.m. | 4:00 a.m. | 12:00 p.m.
-| 8:00 a.m. | 7:00 a.m. | 5:00 a.m. | 1:00 p.m.
-| 9:00 a.m. | 8:00 a.m. | 6:00 a.m. | 2:00 p.m.
-| 10:00 a.m. | 9:00 a.m. | 7:00 a.m. | 3:00 p.m.
-| 11:00 a.m. | 10:00 a.m. | 8:00 a.m. | 4:00 p.m.
-| 12:00 p.m. | 11:00 a.m. | 9:00 a.m. | 5:00 p.m.
-| 1:00 p.m. | 12:00 p.m. | 10:00 a.m. | 6:00 p.m.
-| 2:00 p.m. | 1:00 p.m. | 11:00 a.m. | 7:00 p.m.
-| 3:00 p.m. | 2:00 p.m. | 12:00 p.m. | 8:00 p.m.
-| 4:00 p.m. | 3:00 p.m. | 1:00 p.m. | 9:00 p.m.
-| 5:00 p.m. | 4:00 p.m. | 2:00 p.m. | 10:00 p.m.
-| 6:00 p.m. | 5:00 p.m. | 3:00 p.m. | 11:00 p.m.
-| 7:00 p.m. | 6:00 p.m. | 4:00 p.m. | 12:00 a.m. (+1 day)
-| 8:00 p.m. | 7:00 p.m. | 5:00 p.m. | 1:00 a.m. (+1 day)
-| 9:00 p.m. | 8:00 p.m. | 6:00 p.m. | 2:00 a.m. (+1 day)
-| 10:00 p.m. | 9:00 p.m. | 7:00 p.m. | 3:00 a.m. (+1 day)
-| 11:00 p.m. | 10:00 p.m. | 8:00 p.m. | 4:00 a.m. (+1 day)
-On a night shift
-When standard time returns on November 1, 2026, the hour from 1:00 to 2:00 a.m. Eastern happens twice, so a 12-hour night shift lasts 13 hours; in March it lasts 11. The night shift clock change calculator works out the hours and pay. For pay periods and holidays, see the 2027 pay period calendar.
-More guides
-CST time
-PST to EST
-Daylight saving time
-Weeks in a year
-Date calculator
-UTC time
-All guides
-Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
-Questions
-What time zone is EST in the USA?
-Eastern Standard Time, UTC−5, used in the eastern United States in winter. In summer the same zone uses EDT, UTC−4.
-Is New York on EST or EDT right now?
-New York uses EDT from the second Sunday in March to the first Sunday in November and EST the rest of the year. In 2026 it switches to EST on Sunday, November 1.
-What is the difference between EST and ET?
-EST is the winter standard time (UTC−5). ET, Eastern Time, means whichever is in use: EST in winter, EDT in summer.
-How many hours ahead is EST from PST?
-3 hours. Noon Eastern is 9:00 a.m. Pacific, all year.
-How far ahead of EST is London?
-Usually 5 hours. For about three weeks in March and one week at the end of October it is 4, because the UK and US change clocks on different dates.
-
----
-
-## CST Time Now: Central Time, CST vs CDT (2026)
-URL: https://crewdays.app/cst-time/
-
-Home / Guides / CST time
-Central Time: CST and CDT
-Central Standard Time (CST) is UTC−6, one hour behind Eastern Time. During daylight saving time, from the second Sunday in March to the first Sunday in November, the zone uses Central Daylight Time (CDT), UTC−5. Chicago, Dallas, Houston, Minneapolis, New Orleans and nearly all of Texas are on Central Time.
-By Asier Fernández · October 18, 2026
-Right now in Chicago: --:--:--
-CST or CDT? The change dates
-| | Year | Daylight time starts (2 a.m.) | Standard time returns (2 a.m.)
-| 2026 | Sunday, March 8 | Sunday, November 1
-| 2027 | Sunday, March 14 | Sunday, November 7
-| 2028 | Sunday, March 12 | Sunday, November 5
-Set by federal law (15 U.S.C. 260a). In 2026 the Central zone returns to CST on Sunday, November 1 at 2:00 a.m.
-Convert Central Time
-Photo: @jbrown1276 on Unsplash
-Is Texas on Central Time?
-Yes, except the far west. The boundary between the Central and Mountain zones runs down the western edge of Texas, then along the east line of Hudspeth County to the Mexican border (49 CFR 71.7, paragraph (e)). So Hudspeth and El Paso counties are on Mountain Time and the rest of Texas on Central.
-Where Central Time applies
-The Central zone lies between the Eastern–Central line (49 CFR 71.5) and the Central–Mountain line (49 CFR 71.7). Both lines cross states: the eastern one splits Michigan, Indiana, Kentucky, Tennessee and Florida; the western one splits North Dakota, South Dakota, Nebraska, Kansas and Texas. Illinois, Wisconsin, Minnesota, Iowa, Missouri, Arkansas, Louisiana, Mississippi, Alabama and Oklahoma are on Central Time.
-Central Time compared with other zones
-| | When it is noon Central | Eastern | Mountain | Pacific | UTC (winter / summer)
-| All year | 1:00 p.m. | 11:00 a.m. | 10:00 a.m. | 18:00 / 17:00
-| | Central Time | Eastern Time | Pacific Time | UTC
-| 12:00 a.m. | 1:00 a.m. | 10:00 p.m. (−1 day) | 6:00 a.m.
-| 1:00 a.m. | 2:00 a.m. | 11:00 p.m. (−1 day) | 7:00 a.m.
-| 2:00 a.m. | 3:00 a.m. | 12:00 a.m. | 8:00 a.m.
-| 3:00 a.m. | 4:00 a.m. | 1:00 a.m. | 9:00 a.m.
-| 4:00 a.m. | 5:00 a.m. | 2:00 a.m. | 10:00 a.m.
-| 5:00 a.m. | 6:00 a.m. | 3:00 a.m. | 11:00 a.m.
-| 6:00 a.m. | 7:00 a.m. | 4:00 a.m. | 12:00 p.m.
-| 7:00 a.m. | 8:00 a.m. | 5:00 a.m. | 1:00 p.m.
-| 8:00 a.m. | 9:00 a.m. | 6:00 a.m. | 2:00 p.m.
-| 9:00 a.m. | 10:00 a.m. | 7:00 a.m. | 3:00 p.m.
-| 10:00 a.m. | 11:00 a.m. | 8:00 a.m. | 4:00 p.m.
-| 11:00 a.m. | 12:00 p.m. | 9:00 a.m. | 5:00 p.m.
-| 12:00 p.m. | 1:00 p.m. | 10:00 a.m. | 6:00 p.m.
-| 1:00 p.m. | 2:00 p.m. | 11:00 a.m. | 7:00 p.m.
-| 2:00 p.m. | 3:00 p.m. | 12:00 p.m. | 8:00 p.m.
-| 3:00 p.m. | 4:00 p.m. | 1:00 p.m. | 9:00 p.m.
-| 4:00 p.m. | 5:00 p.m. | 2:00 p.m. | 10:00 p.m.
-| 5:00 p.m. | 6:00 p.m. | 3:00 p.m. | 11:00 p.m.
-| 6:00 p.m. | 7:00 p.m. | 4:00 p.m. | 12:00 a.m. (+1 day)
-| 7:00 p.m. | 8:00 p.m. | 5:00 p.m. | 1:00 a.m. (+1 day)
-| 8:00 p.m. | 9:00 p.m. | 6:00 p.m. | 2:00 a.m. (+1 day)
-| 9:00 p.m. | 10:00 p.m. | 7:00 p.m. | 3:00 a.m. (+1 day)
-| 10:00 p.m. | 11:00 p.m. | 8:00 p.m. | 4:00 a.m. (+1 day)
-| 11:00 p.m. | 12:00 a.m. (+1 day) | 9:00 p.m. | 5:00 a.m. (+1 day)
-Winter (standard time), for example January 15, 2027.
-Shift handovers across zones
-A plant in Houston and a control room in Atlanta are an hour apart: a 6 a.m. Central start is 7 a.m. Eastern. Write both times on shared rotas, and note that both zones change on the same night, so the gap stays one hour. For your own rotation, the shift calendar shows every shift of the year.
-More guides
-PST to EST
-Daylight saving time
-Weeks in a year
-Date calculator
-UTC time
-EST time
-All guides
-Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
-Questions
-Is Texas in CST?
-Most of Texas is on Central Time (CST in winter, CDT in summer). Hudspeth and El Paso counties in the far west are on Mountain Time (49 CFR 71.7).
-What is the CST time zone?
-Central Standard Time, UTC−6, used in the central United States in winter. In summer the zone uses CDT, UTC−5.
-Is CST 1 hour or 2 hours behind EST?
-1 hour. Noon Eastern is 11:00 a.m. Central, all year.
-What is CST and EST?
-Central and Eastern Standard Time, the winter times of the two zones: UTC−6 and UTC−5.
-Is Chicago on CST?
-Chicago is on Central Time: CST in winter and CDT from the second Sunday in March to the first Sunday in November.
-
----
-
-## PST to EST: Pacific to Eastern Time Converter
-URL: https://crewdays.app/pst-to-est/
-
-Home / Guides / PST to EST
-PST to EST
-Add 3 hours to Pacific Time to get Eastern Time: 9:00 a.m. PST is 12:00 p.m. EST, and 11:00 a.m. PST is 2:00 p.m. EST. The difference stays at 3 hours all year, because both zones change their clocks for daylight saving time on the same night.
-By Asier Fernández · October 18, 2026
-Photo: @ventiviews on Unsplash
-PST to EST conversion table
-| | Pacific Time | Eastern Time
-| 12:00 a.m. | 3:00 a.m.
-| 1:00 a.m. | 4:00 a.m.
-| 2:00 a.m. | 5:00 a.m.
-| 3:00 a.m. | 6:00 a.m.
-| 4:00 a.m. | 7:00 a.m.
-| 5:00 a.m. | 8:00 a.m.
-| 6:00 a.m. | 9:00 a.m.
-| 7:00 a.m. | 10:00 a.m.
-| 8:00 a.m. | 11:00 a.m.
-| 9:00 a.m. | 12:00 p.m.
-| 10:00 a.m. | 1:00 p.m.
-| 11:00 a.m. | 2:00 p.m.
-| 12:00 p.m. | 3:00 p.m.
-| 1:00 p.m. | 4:00 p.m.
-| 2:00 p.m. | 5:00 p.m.
-| 3:00 p.m. | 6:00 p.m.
-| 4:00 p.m. | 7:00 p.m.
-| 5:00 p.m. | 8:00 p.m.
-| 6:00 p.m. | 9:00 p.m.
-| 7:00 p.m. | 10:00 p.m.
-| 8:00 p.m. | 11:00 p.m.
-| 9:00 p.m. | 12:00 a.m. (+1 day)
-| 10:00 p.m. | 1:00 a.m. (+1 day)
-| 11:00 p.m. | 2:00 a.m. (+1 day)
-The same in summer (PDT to EDT): the gap does not change.
-EST to PST
-Go the other way by subtracting 3 hours: 9:00 a.m. Eastern is 6:00 a.m. Pacific, and 5:00 p.m. Eastern is 2:00 p.m. Pacific. After 9:00 p.m. Pacific it is already the next day in the East.
-PST, PDT, EST and EDT
-Pacific Standard Time is UTC−8 and Eastern Standard Time UTC−5 (15 U.S.C. 261). From 2 a.m. on the second Sunday in March to 2 a.m. on the first Sunday in November both use daylight time, PDT (UTC−7) and EDT (UTC−4) (15 U.S.C. 260a). Most people write “PST” and “EST” all year; the 3-hour gap is the same either way. Most of Arizona stays on standard time, so in summer it matches Pacific Time and in winter Mountain Time.
-Arizona and Hawaii
-Most of Arizona and all of Hawaii stay on standard time all year, as federal law allows. So in summer, noon in Los Angeles is noon in Phoenix and 9:00 a.m. in Honolulu; in winter, noon in Los Angeles is 1:00 p.m. in Phoenix and 10:00 a.m. in Honolulu. Denver, on Mountain Time with daylight saving, is always one hour ahead of Los Angeles.
-Working hours that overlap
-A 9-to-5 day on each coast overlaps for 5 hours: from 9:00 a.m. to 2:00 p.m. Pacific, which is 12:00 to 5:00 p.m. Eastern. Calls that must include both coasts fit best between 12:00 and 2:00 p.m. Eastern (9:00 to 11:00 a.m. Pacific), clear of the East Coast's late afternoon and the West Coast's early morning.
-Handovers between coasts
-| | Eastern shift | Same shift in Pacific Time
-| 7:00 a.m. – 7:00 p.m. | 4:00 a.m. – 4:00 p.m.
-| 7:00 p.m. – 7:00 a.m. | 4:00 p.m. – 4:00 a.m.
-| 8:00 a.m. – 4:30 p.m. | 5:00 a.m. – 1:30 p.m.
-| 11:00 p.m. – 7:00 a.m. | 8:00 p.m. – 4:00 a.m.
-National dispatch centers, help desks and on-call teams that span both coasts often schedule in Eastern Time. If you start at 6:00 a.m. Pacific to join a 9:00 a.m. Eastern huddle, count those hours like any other: the hours calculator works out your day, and Eastern Time has the clock change dates.
-More guides
-Daylight saving time
-Weeks in a year
-Date calculator
-UTC time
-EST time
-CST time
-All guides
-Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
-Questions
-Is PST 3 hours behind EST?
-Yes. Pacific Time is 3 hours behind Eastern Time all year, including during daylight saving time.
-What time is 11 a.m. PST in EST?
-2:00 p.m. EST.
-How do I convert PST to EST?
-Add 3 hours. If the result passes midnight, it is the next day in the East: 10:00 p.m. PST is 1:00 a.m. EST.
-Is 1 p.m. EST the same as 10 a.m. PST?
-Yes. 1:00 p.m. Eastern is 10:00 a.m. Pacific.
-What is 9 a.m. PST in EST?
-12:00 p.m. (noon) EST.
-
----
-
-## PST Time Now: Pacific Time, PST vs PDT (2026)
-URL: https://crewdays.app/pst-time/
-
-Home / Guides / PST time
-Pacific Time: PST and PDT
-Pacific Standard Time (PST) is UTC−8, 3 hours behind Eastern Time. From 2 a.m. on the second Sunday in March to 2 a.m. on the first Sunday in November the zone uses Pacific Daylight Time (PDT), UTC−7. In 2026 it returns to PST on Sunday, November 1. Los Angeles, San Francisco, Seattle, Portland and Las Vegas are on Pacific Time.
-By Asier Fernández · October 19, 2026
-Right now in Los Angeles: --:--:--
-PST or PDT? The change dates
-| | Year | Daylight time starts (2 a.m.) | Standard time returns (2 a.m.)
-| 2026 | Sunday, March 8 | Sunday, November 1
-| 2027 | Sunday, March 14 | Sunday, November 7
-| 2028 | Sunday, March 12 | Sunday, November 5
-The dates are set by federal law (15 U.S.C. 260a). Strictly, PST is the winter time and PDT the summer time; “PT” covers both. Most people say “PST” all year.
-Convert Pacific Time
-Photo: @mvdheuvel on Unsplash
-Which states use Pacific Time?
-California, Washington and Nevada, most of Oregon and the northern part of Idaho. The Pacific zone is everything in the continental US west of the Mountain–Pacific line, except Alaska (49 CFR 71.10). That line follows the Salmon River across Idaho, so Idaho north of the river (Coeur d'Alene, Lewiston) is on Pacific Time and Boise is on Mountain Time. In Oregon, most of Malheur County is on Mountain Time, and in Nevada the city of West Wendover is too (49 CFR 71.9).
-Pacific Time compared with other zones
-| | When it is noon Pacific | Mountain | Arizona | Central | Eastern | UTC
-| Winter (January 15, 2027) | 1:00 p.m. | 1:00 p.m. | 2:00 p.m. | 3:00 p.m. | 8:00 p.m.
-| Summer (July 15, 2027) | 1:00 p.m. | 12:00 p.m. | 2:00 p.m. | 3:00 p.m. | 7:00 p.m.
-Eastern, Central and Mountain Time change their clocks on the same night as Pacific Time, so those gaps never move. Arizona does not change, so it matches Pacific Time in summer and is an hour ahead in winter. For the East Coast in detail, see PST to EST.
-Pacific Time, hour by hour (winter)
-| | Pacific Time | Mountain Time | Central Time | Eastern Time | UTC
-| 12:00 a.m. | 1:00 a.m. | 2:00 a.m. | 3:00 a.m. | 8:00 a.m.
-| 1:00 a.m. | 2:00 a.m. | 3:00 a.m. | 4:00 a.m. | 9:00 a.m.
-| 2:00 a.m. | 3:00 a.m. | 4:00 a.m. | 5:00 a.m. | 10:00 a.m.
-| 3:00 a.m. | 4:00 a.m. | 5:00 a.m. | 6:00 a.m. | 11:00 a.m.
-| 4:00 a.m. | 5:00 a.m. | 6:00 a.m. | 7:00 a.m. | 12:00 p.m.
-| 5:00 a.m. | 6:00 a.m. | 7:00 a.m. | 8:00 a.m. | 1:00 p.m.
-| 6:00 a.m. | 7:00 a.m. | 8:00 a.m. | 9:00 a.m. | 2:00 p.m.
-| 7:00 a.m. | 8:00 a.m. | 9:00 a.m. | 10:00 a.m. | 3:00 p.m.
-| 8:00 a.m. | 9:00 a.m. | 10:00 a.m. | 11:00 a.m. | 4:00 p.m.
-| 9:00 a.m. | 10:00 a.m. | 11:00 a.m. | 12:00 p.m. | 5:00 p.m.
-| 10:00 a.m. | 11:00 a.m. | 12:00 p.m. | 1:00 p.m. | 6:00 p.m.
-| 11:00 a.m. | 12:00 p.m. | 1:00 p.m. | 2:00 p.m. | 7:00 p.m.
-| 12:00 p.m. | 1:00 p.m. | 2:00 p.m. | 3:00 p.m. | 8:00 p.m.
-| 1:00 p.m. | 2:00 p.m. | 3:00 p.m. | 4:00 p.m. | 9:00 p.m.
-| 2:00 p.m. | 3:00 p.m. | 4:00 p.m. | 5:00 p.m. | 10:00 p.m.
-| 3:00 p.m. | 4:00 p.m. | 5:00 p.m. | 6:00 p.m. | 11:00 p.m.
-| 4:00 p.m. | 5:00 p.m. | 6:00 p.m. | 7:00 p.m. | 12:00 a.m. (+1 day)
-| 5:00 p.m. | 6:00 p.m. | 7:00 p.m. | 8:00 p.m. | 1:00 a.m. (+1 day)
-| 6:00 p.m. | 7:00 p.m. | 8:00 p.m. | 9:00 p.m. | 2:00 a.m. (+1 day)
-| 7:00 p.m. | 8:00 p.m. | 9:00 p.m. | 10:00 p.m. | 3:00 a.m. (+1 day)
-| 8:00 p.m. | 9:00 p.m. | 10:00 p.m. | 11:00 p.m. | 4:00 a.m. (+1 day)
-| 9:00 p.m. | 10:00 p.m. | 11:00 p.m. | 12:00 a.m. (+1 day) | 5:00 a.m. (+1 day)
-| 10:00 p.m. | 11:00 p.m. | 12:00 a.m. (+1 day) | 1:00 a.m. (+1 day) | 6:00 a.m. (+1 day)
-| 11:00 p.m. | 12:00 a.m. (+1 day) | 1:00 a.m. (+1 day) | 2:00 a.m. (+1 day) | 7:00 a.m. (+1 day)
-Standard time, for example January 15, 2027. In summer the US columns stay the same and the UTC column moves one hour earlier.
-PST and UTC
-Federal law defines the Pacific zone as Coordinated Universal Time “retarded by 8 hours”, the fifth of nine US zones (15 U.S.C. 261). Daylight time moves it to UTC−7. Servers, aviation and many dispatch logs use UTC: 7:00 p.m. PST is 03:00 UTC the next day. See UTC time.
-Night shifts on the change dates
-On Sunday, November 1, 2026 the hour from 1:00 to 2:00 a.m. happens twice in the Pacific zone, so a 7 p.m. to 7 a.m. night shift lasts 13 hours. On March 14, 2027 the same shift lasts 11. The night shift clock change calculator works out the hours and pay for your shift.
-More guides
-UK time
-GMT time
-Mountain Time
-Holiday pay calculator
-Shift differential
-Time and a half calculator
-All guides
-Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
-Questions
-What is PST time in the USA?
-Pacific Standard Time, UTC−8, used on the West Coast in winter. From the second Sunday in March to the first Sunday in November the same zone uses PDT, UTC−7.
-Is PST 3 hours behind EST?
-Yes. Pacific Time is 3 hours behind Eastern Time all year, because both zones change their clocks on the same night.
-What is the difference between PST and PDT?
-PST is standard time (UTC−8), used in winter. PDT is daylight time (UTC−7), one hour ahead, used from the second Sunday in March to the first Sunday in November.
-Which states have PST time?
-California, Washington and Nevada, most of Oregon and northern Idaho. Most of Malheur County in Oregon and West Wendover in Nevada are on Mountain Time (49 CFR 71.9).
-Is California on PST or PDT right now?
-California uses PDT until 2 a.m. on Sunday, November 1, 2026, then PST until March 14, 2027.
-
----
-
-## Mountain Time Now: MST, MDT and Arizona Time (2026)
-URL: https://crewdays.app/mountain-time/
-
-Home / Guides / Mountain Time
-Mountain Time: MST and MDT
-Mountain Standard Time (MST) is UTC−7, 2 hours behind Eastern Time and 1 hour ahead of Pacific. From the second Sunday in March to the first Sunday in November the zone uses Mountain Daylight Time (MDT), UTC−6, except Arizona, which stays on MST all year. Denver, Salt Lake City, Albuquerque, Boise and Phoenix are on Mountain Time.
-By Asier Fernández · October 19, 2026
-Right now in Denver: --:--:--
-Right now in Phoenix: --:--:--
-MST or MDT? The change dates
-| | Year | Daylight time starts (2 a.m.) | Standard time returns (2 a.m.)
-| 2026 | Sunday, March 8 | Sunday, November 1
-| 2027 | Sunday, March 14 | Sunday, November 7
-| 2028 | Sunday, March 12 | Sunday, November 5
-Set by federal law (15 U.S.C. 260a). In 2026 Denver, Salt Lake City and Boise return to MST on Sunday, November 1. Phoenix does not change.
-Convert Mountain Time
-Photo: @billgrip on Unsplash
-Is Arizona on Mountain Time?
-Yes, on Mountain Standard Time all year. Arizona law sets the state's time as “standard mountain time” and rejects daylight saving time (A.R.S. 1-242); federal law lets a state do this if the whole state stays on standard time (15 U.S.C. 260a). So from March to November, Phoenix shows the same time as Los Angeles and one hour less than Denver. From November to March it matches Denver.
-| | When it is noon in Denver | Phoenix | Los Angeles | Chicago | New York
-| Winter (January 15, 2027) | 12:00 p.m. | 11:00 a.m. | 1:00 p.m. | 2:00 p.m.
-| Summer (July 15, 2027) | 11:00 a.m. | 11:00 a.m. | 1:00 p.m. | 2:00 p.m.
-Which states are in the Mountain Time Zone?
-The Mountain zone lies between the Central–Mountain line (49 CFR 71.7) and the Mountain–Pacific line (49 CFR 71.9), as 49 CFR 71.8 defines it. All of Colorado, Utah, Wyoming, Montana, New Mexico and Arizona are in it. So is southern Idaho: the line follows the Salmon River, and Idaho south of it, including Boise, is on Mountain Time. Most of Malheur County in Oregon and West Wendover in Nevada are too. In the east, the western edges of North Dakota, South Dakota, Nebraska and Kansas, and El Paso and Hudspeth counties in Texas, are on Mountain Time.
-Mountain Time, hour by hour (winter)
-| | Mountain Time | Pacific Time | Central Time | Eastern Time | UTC
-| 12:00 a.m. | 11:00 p.m. (−1 day) | 1:00 a.m. | 2:00 a.m. | 7:00 a.m.
-| 1:00 a.m. | 12:00 a.m. | 2:00 a.m. | 3:00 a.m. | 8:00 a.m.
-| 2:00 a.m. | 1:00 a.m. | 3:00 a.m. | 4:00 a.m. | 9:00 a.m.
-| 3:00 a.m. | 2:00 a.m. | 4:00 a.m. | 5:00 a.m. | 10:00 a.m.
-| 4:00 a.m. | 3:00 a.m. | 5:00 a.m. | 6:00 a.m. | 11:00 a.m.
-| 5:00 a.m. | 4:00 a.m. | 6:00 a.m. | 7:00 a.m. | 12:00 p.m.
-| 6:00 a.m. | 5:00 a.m. | 7:00 a.m. | 8:00 a.m. | 1:00 p.m.
-| 7:00 a.m. | 6:00 a.m. | 8:00 a.m. | 9:00 a.m. | 2:00 p.m.
-| 8:00 a.m. | 7:00 a.m. | 9:00 a.m. | 10:00 a.m. | 3:00 p.m.
-| 9:00 a.m. | 8:00 a.m. | 10:00 a.m. | 11:00 a.m. | 4:00 p.m.
-| 10:00 a.m. | 9:00 a.m. | 11:00 a.m. | 12:00 p.m. | 5:00 p.m.
-| 11:00 a.m. | 10:00 a.m. | 12:00 p.m. | 1:00 p.m. | 6:00 p.m.
-| 12:00 p.m. | 11:00 a.m. | 1:00 p.m. | 2:00 p.m. | 7:00 p.m.
-| 1:00 p.m. | 12:00 p.m. | 2:00 p.m. | 3:00 p.m. | 8:00 p.m.
-| 2:00 p.m. | 1:00 p.m. | 3:00 p.m. | 4:00 p.m. | 9:00 p.m.
-| 3:00 p.m. | 2:00 p.m. | 4:00 p.m. | 5:00 p.m. | 10:00 p.m.
-| 4:00 p.m. | 3:00 p.m. | 5:00 p.m. | 6:00 p.m. | 11:00 p.m.
-| 5:00 p.m. | 4:00 p.m. | 6:00 p.m. | 7:00 p.m. | 12:00 a.m. (+1 day)
-| 6:00 p.m. | 5:00 p.m. | 7:00 p.m. | 8:00 p.m. | 1:00 a.m. (+1 day)
-| 7:00 p.m. | 6:00 p.m. | 8:00 p.m. | 9:00 p.m. | 2:00 a.m. (+1 day)
-| 8:00 p.m. | 7:00 p.m. | 9:00 p.m. | 10:00 p.m. | 3:00 a.m. (+1 day)
-| 9:00 p.m. | 8:00 p.m. | 10:00 p.m. | 11:00 p.m. | 4:00 a.m. (+1 day)
-| 10:00 p.m. | 9:00 p.m. | 11:00 p.m. | 12:00 a.m. (+1 day) | 5:00 a.m. (+1 day)
-| 11:00 p.m. | 10:00 p.m. | 12:00 a.m. (+1 day) | 1:00 a.m. (+1 day) | 6:00 a.m. (+1 day)
-Standard time, for example January 15, 2027. Arizona matches the Denver column in winter and the Los Angeles column in summer.
-Shift handovers across the Mountain zone
-A company with sites in Denver and Phoenix works one hour apart from March to November and on the same clock in winter. Put the zone on every shared rota, and check the first week after each change. A 12-hour night shift in Denver lasts 13 hours on November 1, 2026 and 11 hours on March 14, 2027; in Phoenix it is always 12. The night shift clock change calculator counts the hours, and the shift calendar lays out your whole year.
-More guides
-Holiday pay calculator
-Shift differential
-Time and a half calculator
-How many hours is full time
-Work hours in a year
-1st, 2nd and 3rd shift hours
-All guides
-Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
-Questions
-Is Colorado currently MST or MDT?
-MDT until 2 a.m. on Sunday, November 1, 2026, then MST until Sunday, March 14, 2027.
-Is Mountain Time the same as California?
-No. Mountain Time is one hour ahead of California (Pacific Time) all year. Arizona is the exception: in summer it shows the same time as California.
-Is AZ the same as MST right now?
-Yes. Arizona uses Mountain Standard Time all year and does not observe daylight saving time (A.R.S. 1-242).
-Is Mountain Time 2 hours behind EST?
-Yes, Denver is 2 hours behind New York all year. Arizona is 2 hours behind in winter and 3 hours behind in summer.
-Which states are in the Mountain Time Zone?
-Colorado, Utah, Wyoming, Montana, New Mexico and Arizona, plus southern Idaho and parts of Oregon, Nevada, North Dakota, South Dakota, Nebraska, Kansas and Texas (49 CFR 71.7–71.9).
 
 ---
 
@@ -4459,7 +3976,6 @@ Federal income tax calculator 2026Estimate 2026 federal income tax with the new 
 Daylight saving time: when the clocks changeDaylight saving time ends Sunday, November 1, 2026 at 2 a.m. in the US and October 25 in the UK. Every date to 2030, the law and night shifts.
 Sleep calculatorFind the best time to go to bed or wake up in 90-minute sleep cycles, with a night shift mode for sleeping during the day. Based on CDC and NIOSH guidance.
 How many weeks are in a year?A year has 52 weeks and one day, or two in a leap year. Why 2026 has 53 numbered ISO weeks, the week number of any date and what it means for paychecks.
-Date calculatorCount the days between two dates (with weekdays) or add and subtract days from a date. Useful for notice periods, probation, leave and shift cycles.
 Minimum wage by state (2026)The 2026 minimum wage in every state and DC from the US Department of Labor, the federal $7.25, daily overtime rules and a weekly and yearly pay calculator.
 Baylor shift: the weekend nursing scheduleA Baylor shift is two 12-hour weekend shifts, often paid as 36 or 40 hours. At the $46.90 RN median wage that is $1,688 to $1,876 a week for 24 hours.
 Clopening: closing and opening the next dayNo federal ban, but Oregon, Seattle and Chicago have a 10-hour rest rule, NYC 11 hours with a $100 premium and Philadelphia 9 hours with $40.
@@ -4471,20 +3987,12 @@ On-call pay: when on-call time is workWhen on-call time counts as paid work unde
 Mandatory overtime laws for nursesWhich states limit mandatory overtime for nurses, with each statute: Washington, Minnesota, West Virginia and Maine. Exceptions and federal rules.
 PTO on 12-hour shiftsPTO is counted in hours, so each 12-hour shift off uses 12. How many shifts 80, 120 or 160 hours give, how accrual works and how to stretch your leave.
 24-hour shift schedule templateFree 24-hour shift templates for fire and EMS: 24/48, 48/96, Kelly, 24/72 and 1-3-2-3, with hours and a printable year for every platoon.
-How many night shifts in a row can you work in the UK?How many night shifts in a row is legal in the UK? No legal maximum, but night work is capped at an average of 8 hours in 24, with daily rest.
+How many night shifts in a row can you work in the UK?UK law sets no fixed limit, but 3 rules apply: an 8-hour average, 11 hours' rest and weekly rest. When four or five 12-hour nights in a row are lawful.
 Southern swing scheduleThe southern swing rotates four crews through days, evenings and nights on 8-hour shifts: 7 on, 2 off, 7 on, 2 off, 7 on, 3 off. Hours, weekends, calendar.
 8-hour shift schedule with every other weekend offAn 8-hour, 40-hour-a-week schedule with every other weekend off: the two-week pattern, how two people cover all seven days and the overtime to watch.
 1-3-2-3 firefighter scheduleOne 24-hour shift, 3 days off, two 24s, 3 off: the 1-3-2-3 firefighter schedule. 56 hours a week with three platoons. Calendar and 7(k) overtime.
 5-2-5-3 work scheduleThe 5-2-5-3 schedule is 5 on, 2 off, 5 on, 3 off: a 15-day cycle of 8-hour shifts for three squads. Hours a week, weekends off and daily coverage.
 4-5-5 shift pattern (4/5/5/4/5/5)The 4-5-5 shift pattern is 4 on, 5 off, 5 on, 4 off, 5 on, 5 off: a 28-day cycle of 12-hour shifts. Two crews cover every day; 42 hours a week.
-Current UTC timeCurrent UTC time, live to the second, and how far each US time zone is behind it: EST is UTC−5, PST UTC−8, one hour less in summer.
-Eastern Time: EST and EDTEastern Time is EST (UTC−5) in winter and EDT (UTC−4) from March to November. Current time, the 2026–2028 change dates, conversions and where it applies.
-Central Time: CST and CDTCentral Time is CST (UTC−6) in winter and CDT (UTC−5) in summer, one hour behind Eastern. Current time, where it applies, Texas and conversions.
-PST to ESTPacific Time is 3 hours behind Eastern Time all year: 9 a.m. PST is 12 p.m. EST. Hour-by-hour table, a converter and shift handover examples.
-Pacific Time: PST and PDTPacific Time is PST (UTC−8) in winter and PDT (UTC−7) in summer, 3 hours behind Eastern. Current time, 2026–2028 change dates and states on PST.
-UK time: GMT and BSTThe UK is on GMT (UTC+0) in winter and BST (UTC+1) in summer. Clocks go back on October 25, 2026. London is usually 5 hours ahead of New York.
-GMT time nowGMT is UTC+0 all year: 5 hours ahead of EST and 8 ahead of PST, one hour less in US summer. Live GMT clock, conversion tables and GMT vs UK time.
-Mountain Time: MST and MDTMountain Time is MST (UTC−7) in winter and MDT (UTC−6) in summer, 2 hours behind Eastern. Arizona stays on MST all year. States, dates and a converter.
 Holiday pay calculatorFederal law doesn't require extra pay for holiday work. Work out 1.5x or 2x holiday pay with overtime, and who works Christmas on a 24/48 or Pitman.
 Shift differential: what it is and how much it paysShift differential is extra pay for evening, night or weekend hours, in dollars or a percent. Calculator, yearly totals by schedule and the overtime rule.
 Time and a half calculatorTime and a half is 1.5 times your regular rate: $25 an hour becomes $37.50. Calculator, rate table and yearly overtime on 12-hour shift schedules.
