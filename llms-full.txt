@@ -3707,9 +3707,9 @@ More guides
 Shift differential
 Time and a half calculator
 How many hours is full time
+Overtime calculator
 Work hours in a year
 1st, 2nd and 3rd shift hours
-Swing shift
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
 Questions
@@ -3807,10 +3807,10 @@ With those answers, the calculator above gives the week and the shift pay calcul
 More guides
 Time and a half calculator
 How many hours is full time
+Overtime calculator
 Work hours in a year
 1st, 2nd and 3rd shift hours
 Swing shift
-Time calculator
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
 Questions
@@ -3881,11 +3881,11 @@ Taxes on time and a half
 Overtime is taxed as wages. For 2025 through 2028 there is a federal deduction for the part of overtime pay “that exceeds their regular rate of pay”, up to $12,500 a year, or $25,000 filing jointly (IRS). It covers only the extra half. At $25 an hour, a Pitman crew's 208 to 520 overtime hours make $2,600 to $6,500 of deductible premium.
 More guides
 How many hours is full time
+Overtime calculator
 Work hours in a year
 1st, 2nd and 3rd shift hours
 Swing shift
 Time calculator
-Hours calculator
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
 Questions
@@ -3935,12 +3935,12 @@ Three 12-hour shifts give 36 hours a week and at least 144 hours in every month,
 Full time and overtime are separate
 Being full time does not change when overtime starts. Under federal law, nonexempt employees get time and a half after 40 hours in the workweek, whether they are full time or part time (29 U.S.C. 207(a)(1)). A 36-hour full-time nurse who picks up a fourth 12-hour shift works 48 hours: 8 of them overtime. The time and a half calculator works out that week.
 More guides
+Overtime calculator
 Work hours in a year
 1st, 2nd and 3rd shift hours
 Swing shift
 Time calculator
 Hours calculator
-Time card calculator
 All guides
 Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
 Questions
@@ -3954,6 +3954,65 @@ Is 40 hours a week full time?
 Yes, under every common definition. It is also the line after which federal overtime starts: hours over 40 in a workweek are paid at time and a half.
 Does federal law say how many hours is full time?
 Not for wages. The FLSA does not define full time. The ACA defines it for health coverage (30 hours a week or 130 a month) and the BLS for statistics (35 hours).
+
+---
+
+## Overtime Calculator for 12-Hour Shifts (Federal and CA)
+URL: https://crewdays.app/overtime-calculator/
+
+Home / Guides / Overtime calculator
+Overtime calculator for 12-hour shifts
+Overtime on 12-hour shifts is counted one workweek at a time: under federal law, every hour over 40 in the week is paid at 1.5 times your rate, and two weeks are never averaged. In California, hours 9 to 12 of each shift are also time and a half, and hours past 12 are double time. A Pitman crew at $25 an hour earns $2,350.00 for its 84-hour pay period under the federal rule and $2,450.00 in California.
+By Asier Fernández · November 16, 2026
+Overtime calculator for a two-week pay period
+Photo: @infinara on Unsplash
+Is overtime calculated weekly or biweekly?
+Weekly, even if you are paid every two weeks. The Fair Labor Standards Act “does not permit averaging of hours over 2 or more weeks” (29 CFR 778.104). Your workweek is a fixed 168-hour period that your employer picks once; it can start on any day and at any hour, and then it stays fixed (29 CFR 778.105).
+That matters on 12-hour rotations, because they put uneven weeks back to back. The Pitman crew in the calculator works 84 hours in two weeks: 60 and 24. Week by week, that is 20 overtime hours. Averaged as 42 and 42, it would be 4, and the paycheck would be $200.00 short. If your pay stub shows overtime only after 80 hours in the pay period, check it against your weeks. Police and fire departments are the exception: under a 7(k) work period they can count up to 28 days, with a higher threshold (see the 7(k) overtime calculator).
+California overtime and double time on 12-hour shifts
+California Labor Code 510 adds daily rules on top of the 40-hour week:
+Hours over 8 in one workday: time and a half.
+Hours over 12 in one workday: double time.
+The seventh day of work in one workweek: time and a half for the first 8 hours, double time after 8.
+Hours over 40 in the workweek that were not already paid as daily overtime: time and a half.
+So every 12-hour shift carries 4 hours of daily overtime. A 13-hour shift adds 1 hour of double time. These daily rules do not apply to an alternative workweek schedule adopted under Labor Code 511, one adopted under a union contract (section 514), or one exempt under section 554. Ask HR whether your 12-hour schedule is one of them.
+California overtime by rotation in a year
+| | Schedule | Hours worked | Federal overtime hours | California time and a half hours | California double time hours | California pays more at $25
+| Three 12-hour shifts a week | 1,872 | 0 | 624 | 0 | $7,800.00
+| Four 12-hour shifts a week | 2,496 | 416 | 832 | 0 | $5,200.00
+| Pitman (2-2-3) | 2,184 | 520 | 728 | 0 | $2,600.00
+| DuPont | 2,184 | 624 | 832 | 0 | $2,600.00
+| 4 on 4 off | 2,208 | 224 | 736 | 0 | $6,400.00
+| 2 days, 2 nights, 2 off | 2,928 | 848 | 976 | 0 | $1,600.00
+| 7 on 7 off | 2,184 | 1,144 | 1,040 | 104 | $1,300.00
+One crew, 52 workweeks starting Monday, January 4, 2027, all shifts 12 hours. Each shift counts in the workday it starts. No alternative workweek schedule.
+Three 12-hour shifts a week never reach federal overtime (36 hours a week), but in California they make 624 hours of time and a half a year. Pitman: 520 federal overtime hours against 728 in California. 7 on 7 off with a Monday workweek is the extreme case: 84 hours in every week on, so the seventh 12-hour day pays 4 hours of double time each time, 104 a year. Other states with daily overtime are listed in overtime after 8 or 12 hours.
+How to calculate overtime on a 12-hour shift
+Split your hours into workweeks, starting on your employer's workweek day.
+In each workweek, take the hours over 40. Those are federal overtime hours (29 U.S.C. 207(a)(1)).
+Multiply them by 1.5 times your regular rate, and add straight pay for every hour worked.
+In California, first take the daily overtime (hours 9 to 12) and double time (hours past 12), then any remaining hours over 40 in the week.
+Example: four 12-hour shifts in one week at $25. Federal: 48 hours, 8 of them overtime, $1,300.00. California: 32 regular hours and 16 hours of daily overtime, $1,400.00. The rate for one week only is in the time and a half calculator.
+More guides
+Work hours in a year
+1st, 2nd and 3rd shift hours
+Swing shift
+Time calculator
+Hours calculator
+Time card calculator
+All guides
+Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate
+Questions
+Do you get overtime after 12 hours?
+Not under federal law, which counts only hours over 40 in the workweek. In California, hours over 8 in a day are time and a half and hours over 12 are double time (Labor Code 510).
+Is overtime calculated per pay period?
+No. Under the FLSA each workweek stands alone and two weeks cannot be averaged (29 CFR 778.104). 30 hours one week and 50 the next means 10 overtime hours, even though the pay period totals 80.
+How much overtime is 84 hours in two weeks?
+It depends on how the hours fall in each workweek. Split 42 and 42, it is 4 overtime hours. Split 60 and 24, like a Pitman crew, it is 20.
+What is double time in California?
+Twice the regular rate. It applies to hours over 12 in one workday and to hours over 8 on the seventh day of work in the same workweek.
+How do you calculate overtime on a 12-hour shift?
+Under federal law, add the week's hours and pay the ones over 40 at 1.5 times the regular rate. In California, also pay hours 9 to 12 of each shift at 1.5 times and any hour past 12 at double.
 
 ---
 
@@ -3997,4 +4056,5 @@ Holiday pay calculatorFederal law doesn't require extra pay for holiday work. Wo
 Shift differential: what it is and how much it paysShift differential is extra pay for evening, night or weekend hours, in dollars or a percent. Calculator, yearly totals by schedule and the overtime rule.
 Time and a half calculatorTime and a half is 1.5 times your regular rate: $25 an hour becomes $37.50. Calculator, rate table and yearly overtime on 12-hour shift schedules.
 How many hours is full time?Full time is 30 hours a week for health coverage (ACA), 35 for federal statistics and usually 40 for employers. The FLSA has no rule. Shift schedules checked.
+Overtime calculator for 12-hour shiftsEnter two weeks of 12-hour shifts, day by day. Federal overtime per workweek, California daily overtime and double time, and the cost of averaging.
 Figures are worked out from each cycle; rules checked against official sources on October 19, 2026. How we calculate

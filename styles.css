@@ -221,3 +221,4 @@ main>.hero~section{content-visibility:auto;contain-intrinsic-size:auto 700px}.mo
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .links{display:flex;flex-wrap:wrap;gap:8px 20px}.links a{padding:4px 0}
 .embedlink{margin:0;padding:0 12px 6px;font-size:.9rem;text-align:right}
+.dst .days .pair{gap:10px 12px}.dst .days .pair label{flex:1 1 4.5em;min-width:0}.dst .days legend{display:block}

@@ -75,6 +75,20 @@
     var daily = Math.min(Math.max(+o.daily || 0, 0), h), use = daily + Math.max(h - daily - 40, 0); // las horas extra diarias no cuentan para las 40
     return { rr: rr, ot: use, rate: 1.5 * rr, prem: use * rr / 2, week: h * r + x + use * rr / 2 };
   }
+  // Horas extra de una quincena día a día (d = horas de cada día, semanas de 7 días seguidas). Federal: lo que pase de 40 en
+  // cada semana, sin promediar (29 CFR 778.104). California (Labor Code 510): más de 8 h al día a 1,5×, más de 12 a 2×; el
+  // 7.º día trabajado de la semana, las 8 primeras a 1,5× y el resto a 2×; las horas normales que pasen de 40, a 1,5×.
+  function caot(o) {
+    var d = (o.d || []).map(function (x) { return Math.max(+x || 0, 0); }), r = +o.rate || 0, w = [];
+    for (var k = 0; k < d.length; k += 7) {
+      var wd = d.slice(k, k + 7), all7 = wd.length === 7 && wd.every(function (h) { return h > 0; }), reg = 0, t15 = 0, t2 = 0, tot = 0;
+      wd.forEach(function (h, i) { tot += h; if (all7 && i === 6) { t15 += Math.min(h, 8); t2 += Math.max(h - 8, 0); } else { reg += Math.min(h, 8); t15 += Math.max(Math.min(h, 12) - 8, 0); t2 += Math.max(h - 12, 0); } });
+      if (reg > 40) { t15 += reg - 40; reg = 40; }
+      w.push({ tot: tot, fot: Math.max(tot - 40, 0), reg: reg, t15: t15, t2: t2, seventh: all7 });
+    }
+    var s = function (f) { return w.reduce(function (a, x) { return a + x[f]; }, 0); }, tot = s("tot"), fot = s("fot"), avg = Math.max(tot - 40 * w.length, 0);
+    return { weeks: w, tot: tot, fot: fot, fed: r * (tot + fot / 2), avg: avg, short: r * (fot - avg) / 2, t15: s("t15"), t2: s("t2"), ca: r * (s("reg") + 1.5 * s("t15") + 2 * s("t2")) };
+  }
   // Pago en festivo en una semana (FLSA, 40 h): horas en festivo × tarifa × multiplicador + resto de horas. Una prima de al menos
   // 1,5× no entra en la «regular rate» y se descuenta de las horas extra (29 CFR 778.203, 778.219(b)); por debajo de 1,5× sí entra.
   // El festivo pagado sin trabajar no son horas trabajadas ni cuenta para las horas extra (29 CFR 778.218, 778.219(a)).
@@ -133,6 +147,11 @@
         (h.idle ? "Holiday pay for time off: " + money(h.idle) + ". " : "") + "Total before tax: <b>" + money(h.total) + "</b>."; },
     tah: function (v) { if (!(+v.r > 0) || !(+v.h > 0)) return "Enter your hourly rate and the hours you work in the week."; var t = tah({ rate: v.r, hours: v.h, extra: v.x, daily: v.c === "1" ? Math.max(+v.dh || 0, 0) : 0 });
       return "Time and a half: <b>" + money(t.rate) + "</b> an hour" + (+v.x > 0 ? " (1.5 × your " + money(t.rr) + " regular rate)" : "") + ". " + (t.ot ? num(t.ot) + " overtime hours add <b>" + money(t.prem) + "</b> on top of straight pay. " : "No overtime this week: " + num(+v.h) + " hours is not over 40. ") + "Week: <b>" + money(t.week) + "</b> before tax."; },
+    caot: function (v) { if (!(+v.r > 0)) return "Enter your hourly rate."; var d = [], i; for (i = 0; i < 14; i++) d.push(v["d" + i]); var t = caot({ rate: v.r, d: d }); if (!t.tot) return "Enter the hours you work each day.";
+      var wk = t.weeks.map(function (x, j) { return "week " + (j + 1) + " " + num(x.tot) + " h"; }).join(", ");
+      return "Two weeks: " + num(t.tot) + " hours (" + wk + "). Federal rule: <b>" + num(t.fot) + " overtime hours</b>, pay <b>" + money(t.fed) + "</b> before tax." +
+        (t.short > 0.004 ? " Averaging the two weeks would count only " + num(t.avg) + " overtime hours and pay " + money(t.short) + " too little." : "") +
+        (v.c === "1" ? " California: " + num(t.t15) + " hours at time and a half and " + num(t.t2) + " at double time, pay <b>" + money(t.ca) + "</b>" + (t.weeks.some(function (x) { return x.seventh; }) ? " (includes the seventh-day rule)" : "") + "." : ""); },
     minwage: function (v) { var r = wage(v.s), h = +v.h || 40; return v.s + ": <b>" + money(r) + "</b> an hour" + (MINWAGE[v.s] > 7.25 ? "" : " (the federal minimum)") + ". At " + h + " hours a week: " + money(r * h) + " a week, <b>" + money(r * h * 52) + "</b> a year before tax."; },
     diff: function (v) { var d = shiftDiff({ rate: v.r, mode: v.m, diff: v.d, diffH: v.dh, hours: v.h }); if (!(+v.r > 0) || !(+v.h > 0)) return "Enter your hourly rate and the hours you work in the week."; return "Differential: <b>" + money(d.per) + "</b> an hour" + (v.m === "pct" ? " (" + num(+v.d || 0) + "% of " + money(+v.r) + ")" : "") + ". Week: <b>" + money(d.week) + "</b> before tax" + (d.ot ? ", including " + num(d.ot) + " overtime hours paid an extra half of your " + money(d.rr) + " regular rate" : "") + ". The differential adds <b>" + money(d.add) + "</b> a week, " + money(d.add * 52) + " over 52 weeks like this one." + (d.short > 0.004 ? " Overtime worked out on the base rate alone would pay " + money(d.short) + " too little." : ""); }
   };
@@ -151,5 +170,5 @@
       tick(); setInterval(tick, 1000);
     }, 0);
   }
-  return { hours: hours, addDur: addDur, clockPlus: clockPlus, timecard: timecard, to24: to24, from24: from24, daysBetween: daysBetween, addDays: addDays, isoWeek: isoWeek, isoWeeks: isoWeeks, leap: leap, dst: dst, tax: tax, TAX: TAX, paycheck: paycheck, salary: salary, shiftDiff: shiftDiff, tah: tah, holiday: holiday, sleep: sleep, MINWAGE: MINWAGE, offset: offset, tz: tz, ZN: ZN, wage: wage, OUT: OUT, clock12: clock12, dur: dur, money: money, num: num, long: long };
+  return { hours: hours, addDur: addDur, clockPlus: clockPlus, timecard: timecard, to24: to24, from24: from24, daysBetween: daysBetween, addDays: addDays, isoWeek: isoWeek, isoWeeks: isoWeeks, leap: leap, dst: dst, tax: tax, TAX: TAX, paycheck: paycheck, salary: salary, shiftDiff: shiftDiff, tah: tah, caot: caot, holiday: holiday, sleep: sleep, MINWAGE: MINWAGE, offset: offset, tz: tz, ZN: ZN, wage: wage, OUT: OUT, clock12: clock12, dur: dur, money: money, num: num, long: long };
 });

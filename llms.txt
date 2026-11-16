@@ -77,6 +77,7 @@ Questions about a specific shift depend on the person's own pattern, crew and st
 - [Shift differential: what it is and how much it pays](https://crewdays.app/shift-differential/): A shift differential is extra pay for working evenings, nights or weekends: a fixed amount per hour, such as $2, or a percentage of your base rate, such as 10%. No federal law requires private employers to pay it, but once it is paid it counts in your regular rate, so it raises your overtime pay too.
 - [Time and a half calculator](https://crewdays.app/time-and-a-half-calculator/): Time and a half is 1.5 times your regular hourly rate, so $20 an hour becomes $30 and $25 becomes $37.50.
 - [How many hours is full time?](https://crewdays.app/how-many-hours-is-full-time/): There is no single legal number.
+- [Overtime calculator for 12-hour shifts](https://crewdays.app/overtime-calculator/): Overtime on 12-hour shifts is counted one workweek at a time: under federal law, every hour over 40 in the week is paid at 1.5 times your rate, and two weeks are never averaged.
 
 ## United Kingdom
 - [UK shift rota calendar](https://crewdays.app/uk/): 4 on 4 off Rota, Continental Shift Pattern, 2-2-3 Rota (Pitman), 3 on 3 off Rota, 2 on 2 off Rota, DuPont Rota, Earlies, Lates and Nights Rota, with UK bank holidays and a Working Time Regulations 1998 check for each rota (48 h average, 11 h rest, 5.6 weeks holiday).
